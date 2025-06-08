@@ -16716,45 +16716,22 @@ const allCards = [
   title: "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 ];
 
-// 중복 제거 (link + title 기준)
-const seenLinks = new Set();
-const seenTitles = new Set();
+// ✅ 중복 제거 로직 (선택)
+const normalize = str => str?.toLowerCase().trim().replace(/\s+/g, '');
+const seen = new Set();
 
 allCards = allCards.filter(card => {
-  const linkKey = card.link?.trim();
-  const titleKey = card.title?.trim();
-
-  if (!linkKey || !titleKey) return false;
-  if (seenLinks.has(linkKey)) return false;
-  if (seenTitles.has(titleKey)) return false;
-
-  seenLinks.add(linkKey);
-  seenTitles.add(titleKey);
+  const link = normalize(card.link);
+  const title = normalize(card.title);
+  const key = link + "::" + title;
+  if (!link || !title || seen.has(key)) return false;
+  seen.add(key);
   return true;
 });
+
+// ✅ 전역 등록 (이거 꼭 필요함!)
+window.allCards = allCards;
+
+
