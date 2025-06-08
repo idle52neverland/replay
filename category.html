@@ -117,8 +117,8 @@
 .card-title {
   font-size: 13px;
   line-height: 18px;
-  height: 72px;
-  padding: 0;
+  height: 72px;                /* 줄 4개 × 18px */
+  padding: 6px 6px 0;          /* 썸네일과 제목 사이 여백 확보 */
   margin: 0;
   color: #fff;
   background-color: #222;
@@ -127,7 +127,7 @@
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;
-  box-sizing: content-box;
+  box-sizing: border-box;      /* 패딩 포함해서 총 높이 72px 고정 */
 }
 
     @media (max-width: 768px) {
