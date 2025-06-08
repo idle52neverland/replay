@@ -12,6 +12,7 @@
       color: #fff;
       text-align: center;
     }
+
     .header-bar {
       display: flex;
       justify-content: center;
@@ -19,11 +20,13 @@
       padding: 60px 20px 30px;
       position: relative;
     }
+
     #mainTitle {
       font-size: 28px;
       color: #fff;
       margin: 0 auto;
     }
+
     .category-section {
       display: flex;
       flex-wrap: wrap;
@@ -31,6 +34,7 @@
       gap: 10px;
       padding: 30px 10px 10px;
     }
+
     .category-line {
       display: flex;
       flex-wrap: wrap;
@@ -38,6 +42,7 @@
       gap: 10px;
       margin-bottom: 10px;
     }
+
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
@@ -49,6 +54,7 @@
       border: none;
       text-decoration: none;
     }
+
     .top-bar {
       display: flex;
       justify-content: center;
@@ -56,6 +62,7 @@
       gap: 10px;
       margin: 20px 0;
     }
+
     .top-bar input {
       padding: 12px 16px;
       border-radius: 24px;
@@ -63,6 +70,7 @@
       width: 260px;
       font-size: 16px;
     }
+
     .top-bar button {
       background-color: #fff;
       border: none;
@@ -74,16 +82,19 @@
       justify-content: center;
       align-items: center;
     }
+
     .top-bar button img {
       width: 24px;
       height: 24px;
     }
+
     .card-container {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
     }
+
     .card {
       background-color: transparent;
       border-radius: 0;
@@ -96,6 +107,7 @@
       padding: 0;
       margin: 0;
     }
+
     .card img {
       width: 100%;
       height: auto;
@@ -106,6 +118,7 @@
       aspect-ratio: 16 / 9;
       background-color: #000;
     }
+
     .card-title {
       font-size: 13px;
       padding: 6px;
@@ -113,12 +126,27 @@
       color: #fff;
       background-color: #222;
       display: -webkit-box;
-      -webkit-line-clamp: 3;
+      -webkit-line-clamp: 4; /* 4줄까지 표시 */
       -webkit-box-orient: vertical;
       overflow: hidden;
       text-overflow: ellipsis;
-      min-height: calc(1.2em * 3 + 12px);
+      min-height: calc(1.2em * 4 + 12px); /* 4줄 높이 확보 */
     }
+
+    #loadMoreBtn {
+      display: block;
+      margin: 20px auto;
+      background-color: #fff;
+      color: #111;
+      font-size: 14px;
+      font-weight: bold;
+      border: none;
+      border-radius: 50%; /* 원형 모양 */
+      width: 60px;
+      height: 60px;
+      cursor: pointer;
+    }
+
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(2, 1fr);
