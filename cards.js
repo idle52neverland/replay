@@ -828,7 +828,570 @@ const allCards = [
   thumbnail: "https://i.ytimg.com/vi/azY7skjwg6Y/hqdefault.jpg",
   alt: "소연 - 전소연(JEON SOYEON) - 'Jelly' Official Music Video (2017-11-05)",
   title: "전소연(JEON SOYEON) - 'Jelly' Official Music Video (2017-11-05)"
+},
+    // 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=Rf0ajz4PrEg",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/Rf0ajz4PrEg/hqdefault.jpg",
+  alt: "아이들 - i-dle (아이들) 'Girlfriend' Recording BehindㅣSUB (2025-06-03)",
+  title: "i-dle (아이들) 'Girlfriend' Recording BehindㅣSUB (2025-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KceEp8y5HC4",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/KceEp8y5HC4/hqdefault.jpg",
+  alt: "아이들 - i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)",
+  title: "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ly5SxYH5OhI",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/Ly5SxYH5OhI/hqdefault.jpg",
+  alt: "아이들 - i-dle (아이들) 'Good Thing' Recording BehindㅣSUB (2025-05-27)",
+  title: "i-dle (아이들) 'Good Thing' Recording BehindㅣSUB (2025-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5MrJBrR_sfo",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/5MrJBrR_sfo/hqdefault.jpg",
+  alt: "아이들 - i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)",
+  title: "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eOFfOLZOp0M",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/eOFfOLZOp0M/hqdefault.jpg",
+  alt: "민니 - [MaumC Record] 민니 ((여자)아이들) | 숨 | Recording Behind | 녹음 비하인드 (2025-04-26)",
+  title: "[MaumC Record] 민니 ((여자)아이들) | 숨 | Recording Behind | 녹음 비하인드 (2025-04-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=i2wG04YoEOg",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/i2wG04YoEOg/hqdefault.jpg",
+  alt: "민니 - [언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV Teaser (2025-04-26)",
+  title: "[언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV Teaser (2025-04-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HxROxHdBQ2g",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/HxROxHdBQ2g/hqdefault.jpg",
+  alt: "미연 - 미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
+  title: "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pdUV1R2ZObs",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/pdUV1R2ZObs/hqdefault.jpg",
+  alt: "아이들 - [나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
+  title: "[나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OAISVzre8QQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/OAISVzre8QQ/hqdefault.jpg",
+  alt: "민니 - [MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
+  title: "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yvWNj1E872g",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/yvWNj1E872g/hqdefault.jpg",
+  alt: "민니 - 민니(MINNIE) - 1st Mini Album [HER] 수록곡 Recording BehindㅣSUB (2025-02-17)",
+  title: "민니(MINNIE) - 1st Mini Album [HER] 수록곡 Recording BehindㅣSUB (2025-02-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8V2SpdoRxTk",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/8V2SpdoRxTk/hqdefault.jpg",
+  alt: "미연 - [MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)",
+  title: "[MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HKzKcnEx9Bk",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/HKzKcnEx9Bk/hqdefault.jpg",
+  alt: "민니 - 민니(MINNIE) - 'HER' Recording BehindㅣSUB (2025-02-01)",
+  title: "민니(MINNIE) - 'HER' Recording BehindㅣSUB (2025-02-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qDg3uR7exAU",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/qDg3uR7exAU/hqdefault.jpg",
+  alt: "민니 - 민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)",
+  title: "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3Ccu3CjsPZo",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/3Ccu3CjsPZo/hqdefault.jpg",
+  alt: "미연 - [making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
+  title: "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8u9879OGO14",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/8u9879OGO14/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)",
+  title: "(여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dTAvYoKt6M4",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/dTAvYoKt6M4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Bloom' Recording Behind (ENG/CHN) (2024-08-02)",
+  title: "(여자)아이들((G)I-DLE) - 'Bloom' Recording Behind (ENG/CHN) (2024-08-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ioWv9shT4lU",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/ioWv9shT4lU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Recording Behind (ENG/CHN) (2024-07-17)",
+  title: "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Recording Behind (ENG/CHN) (2024-07-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hLntT4a_O58",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/hLntT4a_O58/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)",
+  title: "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=n2Q4qN7kjGM",
+  category: "RECORDING STUDIO BEHIND",
+  member: "우기,민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/n2Q4qN7kjGM/hqdefault.jpg",
+  alt: "우기,민니 - 우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Recording Behind (ENG/CHN) (2024-05-17)",
+  title: "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Recording Behind (ENG/CHN) (2024-05-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nYUetCEWXVE",
+  category: "RECORDING STUDIO BEHIND",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/nYUetCEWXVE/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - 'FREAK' Recording Behind (ENG/CHN) (2024-05-01)",
+  title: "우기(YUQI) - 'FREAK' Recording Behind (ENG/CHN) (2024-05-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dyFGwGFerAc",
+  category: "RECORDING STUDIO BEHIND",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/dyFGwGFerAc/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
+  title: "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wFikxHi9WO0",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/wFikxHi9WO0/hqdefault.jpg",
+  alt: "미연 - [연애남매] 미연 ((여자)아이들) - You and I (연애남매 OST Part.2) | Making🎙️ | My Sibling's Romance OST | GOGOSING (2024-03-22)",
+  title: "[연애남매] 미연 ((여자)아이들) - You and I (연애남매 OST Part.2) | Making🎙️ | My Sibling's Romance OST | GOGOSING (2024-03-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=u_rl0JqSGVY",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/u_rl0JqSGVY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Super Lady' Recording Behind (ENG/CHN) (2024-02-11)",
+  title: "(여자)아이들((G)I-DLE) - 'Super Lady' Recording Behind (ENG/CHN) (2024-02-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=J3TANTDWmTQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/J3TANTDWmTQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-29)",
+  title: "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=C5VwU4rdeHU",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/C5VwU4rdeHU/hqdefault.jpg",
+  alt: "민니 - [오늘도 사랑스럽개 OST] 민니((여자)아이들) MINNIE((G)I-DLE) '타이밍(Timing)' Special CLIP : 오늘도 사랑스럽개 OST Part. 2 (2023-11-15)",
+  title: "[오늘도 사랑스럽개 OST] 민니((여자)아이들) MINNIE((G)I-DLE) '타이밍(Timing)' Special CLIP : 오늘도 사랑스럽개 OST Part. 2 (2023-11-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CdSWl1tU_pk",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/CdSWl1tU_pk/hqdefault.jpg",
+  alt: "미연 - [MV] MIYEON(미연 ((여자)아이들)) - The Painted On The Moonlight(달빛에 그려지는) (2023-08-21)",
+  title: "[MV] MIYEON(미연 ((여자)아이들)) - The Painted On The Moonlight(달빛에 그려지는) (2023-08-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=O2sNRgiTidc",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/O2sNRgiTidc/hqdefault.jpg",
+  alt: "미연 - [연인] OST, 미연((여자)아이들) '달빛에 그려지는' Full Ver., MBC 230819 방송 (2023-08-21)",
+  title: "[연인] OST, 미연((여자)아이들) '달빛에 그려지는' Full Ver., MBC 230819 방송 (2023-08-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_5EOmPP9qwM",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/_5EOmPP9qwM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Paradise' & '어린 어른' Recording Behind (ENG/CHN) (2023-06-16)",
+  title: "(여자)아이들((G)I-DLE) - 'Paradise' & '어린 어른' Recording Behind (ENG/CHN) (2023-06-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wg7AL7inFTE",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/wg7AL7inFTE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Recording Behind (ENG/CHN) (2023-05-26)",
+  title: "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Recording Behind (ENG/CHN) (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pKCaXYYwGjw",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pKCaXYYwGjw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)",
+  title: "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=17I_MiCA9HQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/17I_MiCA9HQ/hqdefault.jpg",
+  alt: "민니 - [Behind The Scene] 민니 ((여자)아이들) 'Expectations' 녹음 현장 (2023-03-20)",
+  title: "[Behind The Scene] 민니 ((여자)아이들) 'Expectations' 녹음 현장 (2023-03-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YlEahTLcL_Y",
+  category: "RECORDING STUDIO BEHIND",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/YlEahTLcL_Y/hqdefault.jpg",
+  alt: "우기 - (여자)아이들 (G)I-DLE 우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST (2023-02-23)",
+  title: "(여자)아이들 (G)I-DLE 우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST (2023-02-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CqBytxSQhHo",
+  category: "RECORDING STUDIO BEHIND",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/CqBytxSQhHo/hqdefault.jpg",
+  alt: "우기 - 메이킹 MV | 우기 (YUQI (여자)아이들), 하이퍼타임 (HypeerTime) - Not Cinderella | 신데렐라는 내가 아니었다 OST Part 1 (2023-02-23)",
+  title: "메이킹 MV | 우기 (YUQI (여자)아이들), 하이퍼타임 (HypeerTime) - Not Cinderella | 신데렐라는 내가 아니었다 OST Part 1 (2023-02-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FaSYRHyd-2E",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/FaSYRHyd-2E/hqdefault.jpg",
+  alt: "미연 - [에버소울] 재클린 OST 📀 「무덤덤(Numb)」 song by 미연 (2023-02-01)",
+  title: "[에버소울] 재클린 OST 📀 「무덤덤(Numb)」 song by 미연 (2023-02-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pPLX4Y37dD0",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pPLX4Y37dD0/hqdefault.jpg",
+  alt: "민니 - 메이킹 MV | 민니 ((여자)아이들) MINNIE ((G)I-DLE) - In The Novel | 모든 게 착각이었다 OST Part 2 (2023-01-26)",
+  title: "메이킹 MV | 민니 ((여자)아이들) MINNIE ((G)I-DLE) - In The Novel | 모든 게 착각이었다 OST Part 2 (2023-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=NPrqmhdrjjI",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/NPrqmhdrjjI/hqdefault.jpg",
+  alt: "민니 - (여자)아이들 민니(MINNIE) 'In The Novel' Live Clip - 모든 게 착각이었다 OST (2023-01-26)",
+  title: "(여자)아이들 민니(MINNIE) 'In The Novel' Live Clip - 모든 게 착각이었다 OST (2023-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kfadkfcKUrU",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/kfadkfcKUrU/hqdefault.jpg",
+  alt: "민니 - (여자)아이들 민니(MINNIE) 'In The Novel' 녹음현장 인터뷰 - 모든 게 착각이었다 OST (2023-01-26)",
+  title: "(여자)아이들 민니(MINNIE) 'In The Novel' 녹음현장 인터뷰 - 모든 게 착각이었다 OST (2023-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=F8p3RR37naI",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/F8p3RR37naI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Nxde' Recording Behind (ENG/CHN) (2022-12-23)",
+  title: "(여자)아이들((G)I-DLE) - 'Nxde' Recording Behind (ENG/CHN) (2022-12-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=R9UsmrVEWYY",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/R9UsmrVEWYY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)",
+  title: "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xBdy4pG6pK4",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/xBdy4pG6pK4/hqdefault.jpg",
+  alt: "아이들 - 귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)",
+  title: "귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4zKHhA_HtKQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/4zKHhA_HtKQ/hqdefault.jpg",
+  alt: "아이들 - 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)",
+  title: "헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pXVD5lLQyq0",
+  category: "RECORDING STUDIO BEHIND",
+  member: "민니",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/pXVD5lLQyq0/hqdefault.jpg",
+  alt: "민니 - [INTERVIEW & MAKING] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게 OST Part.2 (2022-06-21)",
+  title: "[INTERVIEW & MAKING] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게 OST Part.2 (2022-06-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Si5pQHRRH5w",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Si5pQHRRH5w/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)",
+  title: "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CKSQjJDQTaQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/CKSQjJDQTaQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)",
+  title: "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zGTjopEZnmQ",
+  category: "RECORDING STUDIO BEHIND",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/zGTjopEZnmQ/hqdefault.jpg",
+  alt: "미연 - [Blue Moon] Donghae Recording Log #3 with Miyeon from (G)-IDLE / 동해 녹음 비하인드 #3 with (여자)아이들 미연 (2022-01-29)",
+  title: "[Blue Moon] Donghae Recording Log #3 with Miyeon from (G)-IDLE / 동해 녹음 비하인드 #3 with (여자)아이들 미연 (2022-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mgB4LrADUls",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/mgB4LrADUls/hqdefault.jpg",
+  alt: "소연 - [메이킹]불타오르게 위대하게 난리난 소연의 녹음 현장! (2022-01-17)",
+  title: "[메이킹]불타오르게 위대하게 난리난 소연의 녹음 현장! (2022-01-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=o0MM7TIpilE",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/o0MM7TIpilE/hqdefault.jpg",
+  alt: "소연 - 전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
+  title: "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6YGOq65MZpw",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/6YGOq65MZpw/hqdefault.jpg",
+  alt: "소연 - 전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
+  title: "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=v99wxx_Dkj8",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/v99wxx_Dkj8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'HWAA(火/花) (Chinese Ver.)' 녹음 비하인드 (ENG) (2021-02-06)",
+  title: "(여자)아이들((G)I-DLE) - 'HWAA(火/花) (Chinese Ver.)' 녹음 비하인드 (ENG) (2021-02-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cwKYh2geaik",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/cwKYh2geaik/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)",
+  title: "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)"
+},
+
+// 🔽 새로 불러온 12개 항목
+{
+  link: "https://www.youtube.com/watch?v=ipeRGRNQiC4",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연,미연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/ipeRGRNQiC4/hqdefault.jpg",
+  alt: "소연,미연 - (여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)",
+  title: "(여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=S3DVpMbd9Aw",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/S3DVpMbd9Aw/hqdefault.jpg",
+  alt: "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)",
+  title: "HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KqE4UK5sfHA",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/KqE4UK5sfHA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)",
+  title: "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wLlKktf0ZWE",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/wLlKktf0ZWE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)",
+  title: "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FRYY-OxzRTU",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/FRYY-OxzRTU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)",
+  title: "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SBtF_e6XWnc",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/SBtF_e6XWnc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)",
+  title: "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PzSCnRCpM_c",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/PzSCnRCpM_c/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)",
+  title: "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rhBa2_-qw00",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/rhBa2_-qw00/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)",
+  title: "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FBipo03U00E",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/FBipo03U00E/hqdefault.jpg",
+  alt: "소연 - [STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' 비하인더스테이션 (2018-09-26)",
+  title: "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' 비하인더스테이션 (2018-09-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2SO-qLst3po",
+  category: "RECORDING STUDIO BEHIND",
+  member: "소연",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/2SO-qLst3po/hqdefault.jpg",
+  alt: "소연 - [STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
+  title: "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EGuuBE7xjBk",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/EGuuBE7xjBk/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)",
+  title: "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Fhk4Qzj_QpM",
+  category: "RECORDING STUDIO BEHIND",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Fhk4Qzj_QpM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
+  title: "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)"
 }
+
+
 
   
 ];
