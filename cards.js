@@ -9618,7 +9618,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=FoiDU23wjO4",
   category: "MEDIA CONTENTS",
   member: "아이들",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/FoiDU23wjO4/hqdefault.jpg",
   alt: "아이들 - 걸그룹 데뷔를 앞둔 한 소녀에게 어마무시한 일이 일어났다?! 데뷔 전부터 살벌한(?) 신인 걸그룹 '아이들' ! (2018-04-26)",
   title: "걸그룹 데뷔를 앞둔 한 소녀에게 어마무시한 일이 일어났다?! 데뷔 전부터 살벌한(?) 신인 걸그룹 '아이들' ! (2018-04-26)"
@@ -9627,7 +9627,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=YkrS9kfFO_s",
   category: "MEDIA CONTENTS",
   member: "아이들",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/YkrS9kfFO_s/hqdefault.jpg",
   alt: "아이들 - 2018 아는만큼 보이는 아이돌 댄스! 이거 다 맞추면 춤잘알 인정 (여자)아이들 (G)I-DLE DANCE MEDLEY (2018-04-21)",
   title: "2018 아는만큼 보이는 아이돌 댄스! 이거 다 맞추면 춤잘알 인정 (여자)아이들 (G)I-DLE DANCE MEDLEY (2018-04-21)"
@@ -9636,7 +9636,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=PEW3tg4K2I4",
   category: "MEDIA CONTENTS",
   member: "미연,민니",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/PEW3tg4K2I4/hqdefault.jpg",
   alt: "아이들 - [일소라] 댕댕이 자매의 #첫사랑 (볼빨간사춘기) cover (2018-03-14)",
   title: "[일소라] 댕댕이 자매의 #첫사랑 (볼빨간사춘기) cover (2018-03-14)"
@@ -9645,7 +9645,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=KXB-9PeJbb8",
   category: "MEDIA CONTENTS",
   member: "미연,민니",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/KXB-9PeJbb8/hqdefault.jpg",
   alt: "아이들 - [일소라] 댕댕이 자매의 노력 (박원) cover (2018-03-05)",
   title: "[일소라] 댕댕이 자매의 노력 (박원) cover (2018-03-05)"
@@ -9654,7 +9654,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=MbHVHQstS9w",
   category: "MEDIA CONTENTS",
   member: "우기",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/MbHVHQstS9w/hqdefault.jpg",
   alt: "아이들 - 아이돌 연습생이 노래를 들어 달라고 한다면? 반전 목소리네 꼭 데뷔했으면 좋겠다 | 세상의 온도 | (2018-02-27)",
   title: "아이돌 연습생이 노래를 들어 달라고 한다면? 반전 목소리네 꼭 데뷔했으면 좋겠다 | 세상의 온도 | (2018-02-27)"
@@ -9663,7 +9663,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=y6XK4qYj1Vs",
   category: "MEDIA CONTENTS",
   member: "미연,민니",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/y6XK4qYj1Vs/hqdefault.jpg",
   alt: "아이들 - [일소라] 댕댕이 자매의 사랑을 했다 (iKON - LOVE SCENARIO) cover (2018-02-25)",
   title: "[일소라] 댕댕이 자매의 사랑을 했다 (iKON - LOVE SCENARIO) cover (2018-02-25)"
@@ -9672,7 +9672,7 @@ const allCards = [
   link: "https://www.youtube.com/watch?v=r0rDWEw5wOU",
   category: "MEDIA CONTENTS",
   member: "미연,민니",
-  year: "PRE-DEBUT"
+  year: "PRE-DEBUT",
   thumbnail: "https://i.ytimg.com/vi/r0rDWEw5wOU/hqdefault.jpg",
   alt: "아이들 - [일소라] 댕댕이 자매의 그리워하다 (비투비) (2018-02-16)",
   title: "[일소라] 댕댕이 자매의 그리워하다 (비투비) (2018-02-16)"
@@ -9686,18 +9686,6 @@ const allCards = [
   alt: "아이들 - [일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover (2017-07-04)",
   title: "[일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover (2017-07-04)"
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
