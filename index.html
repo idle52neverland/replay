@@ -127,18 +127,19 @@
       box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
     }
 
-    .card img {
-      width: 100%;
-      height: auto;
-      display: block;             /* 여백 제거 */
-      margin: 0;
-      padding: 0;
-      border: 0;
-      line-height: 0;
-      vertical-align: top;        /* 썸네일과 제목 간 여백 제거 */
-      object-fit: cover;
-      background-color: #000;
-    }
+   .card img {
+  width: 100%;
+  height: auto;
+  display: block;             /* ✅ 인라인 요소 제거 */
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 0;
+  vertical-align: bottom;     /* ✅ 핵심: 이미지 하단 여백 제거 */
+  object-fit: cover;
+  background-color: #000;
+}
+
 
     .card-title {
       font-size: 13px;
