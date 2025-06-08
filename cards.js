@@ -12726,7 +12726,312 @@ const allCards = [
   thumbnail: "https://i.ytimg.com/vi/uFA8Y3tKHjU/hqdefault.jpg",
   alt: "슈화 - (여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
   title: "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)"
+},
+// 🔽 새로 불러온 10개 항목
+{
+  link: "https://www.youtube.com/watch?v=MYGW1hTnp9o",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/MYGW1hTnp9o/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG) (2020-08-18)",
+  title: "[네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG) (2020-08-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FyiWt8Q0Wl0",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/FyiWt8Q0Wl0/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 5회] Part 1 - [Never-ending Neverland Ep.5] Part 1 (ENG) (2020-08-18)",
+  title: "[네버엔딩 네버랜드 5회] Part 1 - [Never-ending Neverland Ep.5] Part 1 (ENG) (2020-08-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=DhZ4HCPDLac",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/DhZ4HCPDLac/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 4회] Part 2 - [Never-ending Neverland Ep.4] Part 2 (ENG) (2020-08-11)",
+  title: "[네버엔딩 네버랜드 4회] Part 2 - [Never-ending Neverland Ep.4] Part 2 (ENG) (2020-08-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pO59kn3sU14",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/pO59kn3sU14/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 4회] Part 1 - [Never-ending Neverland Ep.4] Part 1 (ENG) (2020-08-11)",
+  title: "[네버엔딩 네버랜드 4회] Part 1 - [Never-ending Neverland Ep.4] Part 1 (ENG) (2020-08-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VbK8mHanAhI",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/VbK8mHanAhI/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 3회] Part 2 - [Never-ending Neverland Ep.3] Part 2 (ENG) (2020-08-04)",
+  title: "[네버엔딩 네버랜드 3회] Part 2 - [Never-ending Neverland Ep.3] Part 2 (ENG) (2020-08-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SFq8qllSyq0",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/SFq8qllSyq0/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 3회] Part 1 - [Never-ending Neverland Ep.3] Part 1 (ENG) (2020-08-04)",
+  title: "[네버엔딩 네버랜드 3회] Part 1 - [Never-ending Neverland Ep.3] Part 1 (ENG) (2020-08-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MWi5w4dEkZQ",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/MWi5w4dEkZQ/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 2회] Part 2 - [Never-ending Neverland Ep.2] Part 2 (ENG) (2020-07-28)",
+  title: "[네버엔딩 네버랜드 2회] Part 2 - [Never-ending Neverland Ep.2] Part 2 (ENG) (2020-07-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XZIOS2tgqGo",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/XZIOS2tgqGo/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 2회] Part 1 - [Never-ending Neverland Ep.2] Part 1 (ENG) (2020-07-28)",
+  title: "[네버엔딩 네버랜드 2회] Part 1 - [Never-ending Neverland Ep.2] Part 1 (ENG) (2020-07-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kINZmIZfCKY",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/kINZmIZfCKY/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG) (2020-07-21)",
+  title: "[네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG) (2020-07-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1r6-hAIItqc",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/1r6-hAIItqc/hqdefault.jpg",
+  alt: "아이들 - [네버엔딩 네버랜드 1회] Part 1 - [Never-ending Neverland Ep.1] Part 1 (ENG) (2020-07-21)",
+  title: "[네버엔딩 네버랜드 1회] Part 1 - [Never-ending Neverland Ep.1] Part 1 (ENG) (2020-07-21)"
+},
+// 🔽 새로 불러온 8개 항목
+{
+  link: "https://www.youtube.com/watch?v=08ATpBqlAIk",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/08ATpBqlAIk/hqdefault.jpg",
+  alt: "아이들 - [MV] (G)I-DLE((여자)아이들) _ Blow Your Mind (2019-02-19)",
+  title: "[MV] (G)I-DLE((여자)아이들) _ Blow Your Mind (2019-02-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fokjzgQ8qG8",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/fokjzgQ8qG8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 X 샌프란, 그 마지막 이야기!  | [To NEVERLAND] Ep.6 (G)I-DLE's Last Day in SF (ENG SUB) (2019-02-19)",
+  title: "(여자)아이들 X 샌프란, 그 마지막 이야기!  | [To NEVERLAND] Ep.6 (G)I-DLE's Last Day in SF (ENG SUB) (2019-02-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uKsWDFBm41A",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/uKsWDFBm41A/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들의 샌프란 인싸여행 코스 뿌시기! | [To NEVERLAND] Ep.5 | (G)I-DLE's Colorful Adventure in SF! (2019-02-12)",
+  title: "(여자)아이들의 샌프란 인싸여행 코스 뿌시기! | [To NEVERLAND] Ep.5 | (G)I-DLE's Colorful Adventure in SF! (2019-02-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IWq6mswwLCo",
+  category: "I-VARIETY",
+  member: "우기,슈화",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/IWq6mswwLCo/hqdefault.jpg",
+  alt: "우기,슈화 - (여자)아이들 우기X슈화 감독 데뷔?!❤ | [To NEVERLAND] Ep.4 (G)I-DLE Record Their Own Memories! (ENG SUB) (2019-02-05)",
+  title: "(여자)아이들 우기X슈화 감독 데뷔?!❤ | [To NEVERLAND] Ep.4 (G)I-DLE Record Their Own Memories! (ENG SUB) (2019-02-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dZzp19OuhdY",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/dZzp19OuhdY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들의 프라이빗 파뤼에 초대합니다! | [To NEVERLAND] Ep.3 Welcome to (G)I-DLE's Private Party! (ENG SUB) (2019-01-29)",
+  title: "(여자)아이들의 프라이빗 파뤼에 초대합니다! | [To NEVERLAND] Ep.3 Welcome to (G)I-DLE's Private Party! (ENG SUB) (2019-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q_rF6iUghJY",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Q_rF6iUghJY/hqdefault.jpg",
+  alt: "아이들 - 미쿡 브런치 먹방 가자! (여자)아이들 본격 샌프란 투어 | [To NEVERLAND] Ep.2 (G)I-DLE's Mukbang & Tour in SF(ENG SUB) (2019-01-22)",
+  title: "미쿡 브런치 먹방 가자! (여자)아이들 본격 샌프란 투어 | [To NEVERLAND] Ep.2 (G)I-DLE's Mukbang & Tour in SF(ENG SUB) (2019-01-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_I_UlUSrrUo",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/_I_UlUSrrUo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 첫 리얼리티 in 샌프란시스코! | [To NEVERLAND] Ep.1 (G)I-DLE in San Francisco! (ENG SUB) (2019-01-15)",
+  title: "(여자)아이들 첫 리얼리티 in 샌프란시스코! | [To NEVERLAND] Ep.1 (G)I-DLE in San Francisco! (ENG SUB) (2019-01-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XupFmVjL-Wo",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/XupFmVjL-Wo/hqdefault.jpg",
+  alt: "아이들 - [To NEVERLAND] Teaser | (여자)아이들((G)I-DLE) 첫 리얼리티! (ENG SUB) (2019-01-08)",
+  title: "[To NEVERLAND] Teaser | (여자)아이들((G)I-DLE) 첫 리얼리티! (ENG SUB) (2019-01-08)"
+},
+// 🔽 새로 불러온 13개 항목
+{
+  link: "https://www.youtube.com/watch?v=C1ITPFPt1do",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/C1ITPFPt1do/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] ★특별편성★ | 네가 알던 내가 아냐 (ENG/CHN) | (G)I-DLE INSIDE | (여자)아이들 ((G)I-DLE) (2023-08-23)",
+  title: "[(G)맘대로 아이들] ★특별편성★ | 네가 알던 내가 아냐 (ENG/CHN) | (G)I-DLE INSIDE | (여자)아이들 ((G)I-DLE) (2023-08-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4vY76usk3fk",
+  category: "I-VARIETY",
+  member: "슈화",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/4vY76usk3fk/hqdefault.jpg",
+  alt: "슈화 - [(G)맘대로 아이들] ★특별편성★ | 슈화 없는(?) 슈화쇼 (ENG/CHN) | SHUHUA SHOW | (여자)아이들 ((G)I-DLE) (2023-08-16)",
+  title: "[(G)맘대로 아이들] ★특별편성★ | 슈화 없는(?) 슈화쇼 (ENG/CHN) | SHUHUA SHOW | (여자)아이들 ((G)I-DLE) (2023-08-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-eWlNDLUAkI",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/-eWlNDLUAkI/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] ★특별편성★ | [속보] (여자)아이들, \"항시적으로 네버랜드 생각뿐\" (ENG/CHN) | (G)I-DLE NEWS | (여자)아이들 ((G)I-DLE) (2023-08-09)",
+  title: "[(G)맘대로 아이들] ★특별편성★ | [속보] (여자)아이들, \"항시적으로 네버랜드 생각뿐\" (ENG/CHN) | (G)I-DLE NEWS | (여자)아이들 ((G)I-DLE) (2023-08-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rwtUR5moRgQ",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/rwtUR5moRgQ/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] ★특별편성★ TEASER | 열렬한.성원에.힘입어.돌아왔읍니다...^^ (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-08-02)",
+  title: "[(G)맘대로 아이들] ★특별편성★ TEASER | 열렬한.성원에.힘입어.돌아왔읍니다...^^ (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-08-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uvEYX0MSs1s",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/uvEYX0MSs1s/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.08 긴장해. 케이팝 기강 잡으러 온다. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-14)",
+  title: "[(G)맘대로 아이들] EP.08 긴장해. 케이팝 기강 잡으러 온다. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ar1ZMNKDbKI",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/ar1ZMNKDbKI/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.07 특 시키면 일단 함 | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-12)",
+  title: "[(G)맘대로 아이들] EP.07 특 시키면 일단 함 | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MfTv2OX4Nz4",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/MfTv2OX4Nz4/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.06 흥 없다면서요... | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-07)",
+  title: "[(G)맘대로 아이들] EP.06 흥 없다면서요... | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PwsQ30b-A-k",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/PwsQ30b-A-k/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.05 다음 컴백의 운명은...?! | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-05)",
+  title: "[(G)맘대로 아이들] EP.05 다음 컴백의 운명은...?! | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-04-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QFCP_VVQMgg",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/QFCP_VVQMgg/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.04 포지션 뺏으러 왔습니다. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-31)",
+  title: "[(G)맘대로 아이들] EP.04 포지션 뺏으러 왔습니다. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=r0MrzKxPqxw",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/r0MrzKxPqxw/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.03 대환장 주주총회 | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-29)",
+  title: "[(G)맘대로 아이들] EP.03 대환장 주주총회 | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4bDBfsBCjFg",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/4bDBfsBCjFg/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.02 매니저 그만두겠습니다.. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-24)",
+  title: "[(G)맘대로 아이들] EP.02 매니저 그만두겠습니다.. | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HU6K3TV2AdQ",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/HU6K3TV2AdQ/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] EP.01 이게...맞냐...? | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-22)",
+  title: "[(G)맘대로 아이들] EP.01 이게...맞냐...? | 2023 컴백 세미나 (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pKMhyV1HiqE",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pKMhyV1HiqE/hqdefault.jpg",
+  alt: "아이들 - [(G)맘대로 아이들] TEASER ★2023 컴백 세미나★ (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-17)",
+  title: "[(G)맘대로 아이들] TEASER ★2023 컴백 세미나★ (ENG/CHN) | (여자)아이들 ((G)I-DLE) (2023-03-17)"
+},
+// 🔽 새로 불러온 2개 항목
+{
+  link: "https://youtu.be/qKvNB3YkxZ8?si=xeHWFFLfiOsBpQHI",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/qKvNB3YkxZ8/hqdefault.jpg",
+  alt: "아이들 - 아이들, 프로필부터 다시 시작해 볼까요? [네맘대로 아이들] EP. 1 | i-dle (아이들)ㅣSUB (2025-06-05)",
+  title: "아이들, 프로필부터 다시 시작해 볼까요? [네맘대로 아이들] EP. 1 | i-dle (아이들)ㅣSUB (2025-06-05)"
+},
+{
+  link: "https://youtu.be/McgN9q0zLyE?si=Ej_YxH7cXH_lVwya",
+  category: "I-VARIETY",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/McgN9q0zLyE/hqdefault.jpg",
+  alt: "아이들 - ★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
+  title: "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)"
 }
+
+
+
+
 
 
 
