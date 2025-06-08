@@ -120,6 +120,7 @@
       transition: transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       cursor: pointer;
+      line-height: 0; /* ✅ 여백 제거 핵심 */
     }
 
     .card:hover {
@@ -127,25 +128,25 @@
       box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
     }
 
-   .card img {
-  width: 100%;
-  height: auto;
-  display: block;             /* ✅ 인라인 요소 제거 */
-  margin: 0;
-  padding: 0;
-  border: 0;
-  line-height: 0;
-  vertical-align: bottom;     /* ✅ 핵심: 이미지 하단 여백 제거 */
-  object-fit: cover;
-  background-color: #000;
-}
-
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      vertical-align: bottom;
+      object-fit: cover;
+      background-color: #000;
+    }
 
     .card-title {
       font-size: 13px;
       padding: 6px;
       margin: 0;
+      margin-top: 0;
       color: #fff;
+      line-height: 1.4;
     }
 
     @media (max-width: 768px) {
