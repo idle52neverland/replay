@@ -16886,15 +16886,15 @@ const allCards = [
   alt: "아이들 - [I-LIVE] So Sweet~ Happy Valentine's Day! (2020-02-15)",
   title: "[I-LIVE] So Sweet~ Happy Valentine's Day! (2020-02-15)"
 },
-  {
-  link: "https://drive.google.com/file/d/1vnOewVhXoLKasKrhbrf7SBkk2elQ1Nwz/preview",
-  category: "ETC",
-  member: "아이들",
-  year: "2024",
-  thumbnail: "images/default-thumbnail.jpg",
-  alt: "아이들 - 구글 드라이브 영상 (2024-10-15)",
-  title: "아이들 - 구글 드라이브 영상 (2024-10-15)"
-},
+{
+  "link": "https://drive.google.com/file/d/1Q7OkGjox3MancELPSWyMxYwV8IZS19Al/preview",
+  "category": "LIVE STREAM",
+  "member": "소연",
+  "year": "2021",
+  "thumbnail": "https://github.com/idle52neverland/replay/blob/main/images/%EC%BA%A1%EC%B2%98.JPG?raw=true",
+  "alt": "소연 - #OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개(210705) (2021-07-05)",
+  "title": "#OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개(210705) (2021-07-05)"
+}
 
 
 
