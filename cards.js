@@ -829,10 +829,10 @@ const allCards = [
   alt: "소연 - 전소연(JEON SOYEON) - 'Jelly' Official Music Video (2017-11-05)",
   title: "전소연(JEON SOYEON) - 'Jelly' Official Music Video (2017-11-05)"
 },
-    // 🔽 새로 불러온 50개 항목
+// 🔽 새로 불러온 50개 항목
 {
   link: "https://www.youtube.com/watch?v=Rf0ajz4PrEg",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/Rf0ajz4PrEg/hqdefault.jpg",
@@ -841,7 +841,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=KceEp8y5HC4",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/KceEp8y5HC4/hqdefault.jpg",
@@ -850,7 +850,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=Ly5SxYH5OhI",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/Ly5SxYH5OhI/hqdefault.jpg",
@@ -859,7 +859,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=5MrJBrR_sfo",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/5MrJBrR_sfo/hqdefault.jpg",
@@ -868,7 +868,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=eOFfOLZOp0M",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/eOFfOLZOp0M/hqdefault.jpg",
@@ -877,7 +877,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=i2wG04YoEOg",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/i2wG04YoEOg/hqdefault.jpg",
@@ -886,7 +886,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=HxROxHdBQ2g",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/HxROxHdBQ2g/hqdefault.jpg",
@@ -895,7 +895,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=pdUV1R2ZObs",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/pdUV1R2ZObs/hqdefault.jpg",
@@ -904,7 +904,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=OAISVzre8QQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/OAISVzre8QQ/hqdefault.jpg",
@@ -913,7 +913,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=yvWNj1E872g",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/yvWNj1E872g/hqdefault.jpg",
@@ -922,7 +922,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=8V2SpdoRxTk",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/8V2SpdoRxTk/hqdefault.jpg",
@@ -931,7 +931,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=HKzKcnEx9Bk",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/HKzKcnEx9Bk/hqdefault.jpg",
@@ -940,7 +940,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=qDg3uR7exAU",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/qDg3uR7exAU/hqdefault.jpg",
@@ -949,7 +949,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=3Ccu3CjsPZo",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/3Ccu3CjsPZo/hqdefault.jpg",
@@ -958,7 +958,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=8u9879OGO14",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/8u9879OGO14/hqdefault.jpg",
@@ -967,7 +967,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=dTAvYoKt6M4",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/dTAvYoKt6M4/hqdefault.jpg",
@@ -976,7 +976,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=ioWv9shT4lU",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/ioWv9shT4lU/hqdefault.jpg",
@@ -985,7 +985,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=hLntT4a_O58",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/hLntT4a_O58/hqdefault.jpg",
@@ -994,7 +994,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=n2Q4qN7kjGM",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "우기,민니",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/n2Q4qN7kjGM/hqdefault.jpg",
@@ -1003,7 +1003,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=nYUetCEWXVE",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "우기",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/nYUetCEWXVE/hqdefault.jpg",
@@ -1012,7 +1012,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=dyFGwGFerAc",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "우기",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/dyFGwGFerAc/hqdefault.jpg",
@@ -1021,7 +1021,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=wFikxHi9WO0",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/wFikxHi9WO0/hqdefault.jpg",
@@ -1030,7 +1030,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=u_rl0JqSGVY",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/u_rl0JqSGVY/hqdefault.jpg",
@@ -1039,7 +1039,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=J3TANTDWmTQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2024",
   thumbnail: "https://i.ytimg.com/vi/J3TANTDWmTQ/hqdefault.jpg",
@@ -1048,7 +1048,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=C5VwU4rdeHU",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/C5VwU4rdeHU/hqdefault.jpg",
@@ -1057,7 +1057,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=CdSWl1tU_pk",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/CdSWl1tU_pk/hqdefault.jpg",
@@ -1066,7 +1066,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=O2sNRgiTidc",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/O2sNRgiTidc/hqdefault.jpg",
@@ -1075,7 +1075,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=_5EOmPP9qwM",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/_5EOmPP9qwM/hqdefault.jpg",
@@ -1084,7 +1084,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=wg7AL7inFTE",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/wg7AL7inFTE/hqdefault.jpg",
@@ -1093,7 +1093,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=pKCaXYYwGjw",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/pKCaXYYwGjw/hqdefault.jpg",
@@ -1102,7 +1102,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=17I_MiCA9HQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/17I_MiCA9HQ/hqdefault.jpg",
@@ -1111,7 +1111,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=YlEahTLcL_Y",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "우기",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/YlEahTLcL_Y/hqdefault.jpg",
@@ -1120,7 +1120,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=CqBytxSQhHo",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "우기",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/CqBytxSQhHo/hqdefault.jpg",
@@ -1129,7 +1129,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=FaSYRHyd-2E",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/FaSYRHyd-2E/hqdefault.jpg",
@@ -1138,7 +1138,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=pPLX4Y37dD0",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/pPLX4Y37dD0/hqdefault.jpg",
@@ -1147,7 +1147,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=NPrqmhdrjjI",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/NPrqmhdrjjI/hqdefault.jpg",
@@ -1156,7 +1156,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=kfadkfcKUrU",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2023",
   thumbnail: "https://i.ytimg.com/vi/kfadkfcKUrU/hqdefault.jpg",
@@ -1165,7 +1165,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=F8p3RR37naI",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/F8p3RR37naI/hqdefault.jpg",
@@ -1174,7 +1174,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=R9UsmrVEWYY",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/R9UsmrVEWYY/hqdefault.jpg",
@@ -1183,7 +1183,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=xBdy4pG6pK4",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/xBdy4pG6pK4/hqdefault.jpg",
@@ -1192,7 +1192,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=4zKHhA_HtKQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/4zKHhA_HtKQ/hqdefault.jpg",
@@ -1201,7 +1201,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=pXVD5lLQyq0",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "민니",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/pXVD5lLQyq0/hqdefault.jpg",
@@ -1210,7 +1210,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=Si5pQHRRH5w",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/Si5pQHRRH5w/hqdefault.jpg",
@@ -1219,7 +1219,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=CKSQjJDQTaQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/CKSQjJDQTaQ/hqdefault.jpg",
@@ -1228,7 +1228,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=zGTjopEZnmQ",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "미연",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/zGTjopEZnmQ/hqdefault.jpg",
@@ -1237,7 +1237,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=mgB4LrADUls",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2022",
   thumbnail: "https://i.ytimg.com/vi/mgB4LrADUls/hqdefault.jpg",
@@ -1246,7 +1246,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=o0MM7TIpilE",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2021",
   thumbnail: "https://i.ytimg.com/vi/o0MM7TIpilE/hqdefault.jpg",
@@ -1255,7 +1255,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=6YGOq65MZpw",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2021",
   thumbnail: "https://i.ytimg.com/vi/6YGOq65MZpw/hqdefault.jpg",
@@ -1264,7 +1264,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=v99wxx_Dkj8",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2021",
   thumbnail: "https://i.ytimg.com/vi/v99wxx_Dkj8/hqdefault.jpg",
@@ -1273,7 +1273,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=cwKYh2geaik",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2021",
   thumbnail: "https://i.ytimg.com/vi/cwKYh2geaik/hqdefault.jpg",
@@ -1284,7 +1284,7 @@ const allCards = [
 // 🔽 새로 불러온 12개 항목
 {
   link: "https://www.youtube.com/watch?v=ipeRGRNQiC4",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연,미연",
   year: "2020",
   thumbnail: "https://i.ytimg.com/vi/ipeRGRNQiC4/hqdefault.jpg",
@@ -1293,7 +1293,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=S3DVpMbd9Aw",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2020",
   thumbnail: "https://i.ytimg.com/vi/S3DVpMbd9Aw/hqdefault.jpg",
@@ -1302,7 +1302,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=KqE4UK5sfHA",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2020",
   thumbnail: "https://i.ytimg.com/vi/KqE4UK5sfHA/hqdefault.jpg",
@@ -1311,7 +1311,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=wLlKktf0ZWE",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2020",
   thumbnail: "https://i.ytimg.com/vi/wLlKktf0ZWE/hqdefault.jpg",
@@ -1320,7 +1320,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=FRYY-OxzRTU",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2019",
   thumbnail: "https://i.ytimg.com/vi/FRYY-OxzRTU/hqdefault.jpg",
@@ -1329,7 +1329,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=SBtF_e6XWnc",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2019",
   thumbnail: "https://i.ytimg.com/vi/SBtF_e6XWnc/hqdefault.jpg",
@@ -1338,7 +1338,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=PzSCnRCpM_c",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2019",
   thumbnail: "https://i.ytimg.com/vi/PzSCnRCpM_c/hqdefault.jpg",
@@ -1347,7 +1347,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=rhBa2_-qw00",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2019",
   thumbnail: "https://i.ytimg.com/vi/rhBa2_-qw00/hqdefault.jpg",
@@ -1356,7 +1356,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=FBipo03U00E",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2018",
   thumbnail: "https://i.ytimg.com/vi/FBipo03U00E/hqdefault.jpg",
@@ -1365,7 +1365,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=2SO-qLst3po",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "소연",
   year: "2018",
   thumbnail: "https://i.ytimg.com/vi/2SO-qLst3po/hqdefault.jpg",
@@ -1374,7 +1374,7 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=EGuuBE7xjBk",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2018",
   thumbnail: "https://i.ytimg.com/vi/EGuuBE7xjBk/hqdefault.jpg",
@@ -1383,15 +1383,13 @@ const allCards = [
 },
 {
   link: "https://www.youtube.com/watch?v=Fhk4Qzj_QpM",
-  category: "RECORDING STUDIO BEHIND",
+  category: "RECORDING BEHIND",
   member: "아이들",
   year: "2018",
   thumbnail: "https://i.ytimg.com/vi/Fhk4Qzj_QpM/hqdefault.jpg",
   alt: "아이들 - (여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
   title: "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)"
 }
-
-
 
   
 ];
