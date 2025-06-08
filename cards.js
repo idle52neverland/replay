@@ -9685,7 +9685,3059 @@ const allCards = [
   thumbnail: "https://i.ytimg.com/vi/Vyq3NXX7a8A/hqdefault.jpg",
   alt: "아이들 - [일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover (2017-07-04)",
   title: "[일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover (2017-07-04)"
+},
+  {
+  link: "https://www.youtube.com/watch?v=Kx4gideWRvU",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/Kx4gideWRvU/hqdefault.jpg",
+  alt: "민니 - [HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)",
+  title: "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TezybDObkWo",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/TezybDObkWo/hqdefault.jpg",
+  alt: "민니 - [HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
+  title: "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EWn3u6LLRhM",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/EWn3u6LLRhM/hqdefault.jpg",
+  alt: "민니 - 'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)",
+  title: "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QJskxdBfCjM",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/QJskxdBfCjM/hqdefault.jpg",
+  alt: "민니 - 'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)",
+  title: "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=r9SwEcxVdec",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/r9SwEcxVdec/hqdefault.jpg",
+  alt: "민니 - SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)",
+  title: "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=E2O0DT1al8o",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/E2O0DT1al8o/hqdefault.jpg",
+  alt: "민니 - 'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)",
+  title: "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bF5nZw4fE_k",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/bF5nZw4fE_k/hqdefault.jpg",
+  alt: "민니 - 'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)",
+  title: "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ok4l4FWcvtw",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/ok4l4FWcvtw/hqdefault.jpg",
+  alt: "민니 - 1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)",
+  title: "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9rGA5Zdlx9Y",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/9rGA5Zdlx9Y/hqdefault.jpg",
+  alt: "민니 - 'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)",
+  title: "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)"
+},
+// 🔽 새로 불러온 10개 항목
+{
+  link: "https://www.youtube.com/watch?v=LvhZgCAv7_M",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/LvhZgCAv7_M/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PG79NvF8MoE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/PG79NvF8MoE/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QqcXotwxGtg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/QqcXotwxGtg/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Enu4vXAvMiA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/Enu4vXAvMiA/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=a62yW5R_nDw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/a62yW5R_nDw/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=etGKyx4pSXo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/etGKyx4pSXo/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YDrwz8lZ21g",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/YDrwz8lZ21g/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1RP9N_fZe7w",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/1RP9N_fZe7w/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ycXbEIvOi9E",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/ycXbEIvOi9E/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EG_YFhrMkZ0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/EG_YFhrMkZ0/hqdefault.jpg",
+  alt: "아이들 - 2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
+  title: "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)"
+},
+// 🔽 새로 불러온 7개 항목
+{
+  link: "https://www.youtube.com/watch?v=VL34uz_mj94",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/VL34uz_mj94/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
+  title: "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BAemXVPRVmA",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/BAemXVPRVmA/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
+  title: "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JHm3SEYuYlo",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/JHm3SEYuYlo/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)",
+  title: "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sk1EJFVN1pM",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/sk1EJFVN1pM/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)",
+  title: "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QKqan5ul3YY",
+  category: "I-SERIES",
+  member: "우기,민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/QKqan5ul3YY/hqdefault.jpg",
+  alt: "우기,민니 - 우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)",
+  title: "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Zm4mTxuiTJw",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/Zm4mTxuiTJw/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
+  title: "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9FG9Zf2CmrM",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/9FG9Zf2CmrM/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
+  title: "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)"
+},
+// 🔽 새로 불러온 2개 항목
+{
+  link: "https://www.youtube.com/watch?v=3zD8YRus8HI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/3zD8YRus8HI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
+  title: "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=E31_uxS2Lyw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/E31_uxS2Lyw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
+  title: "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)"
+},
+// 🔽 새로 불러온 9개 항목
+{
+  link: "https://www.youtube.com/watch?v=0cFfTpbr-2A",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/0cFfTpbr-2A/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gI9rtej6Xck",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/gI9rtej6Xck/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IQdDn_ktGww",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/IQdDn_ktGww/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2WZY9gRJfrw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/2WZY9gRJfrw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sxl3aKjF1e4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/sxl3aKjF1e4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RbFdaAUXGIY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/RbFdaAUXGIY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=x7i6iIil-dQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/x7i6iIil-dQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SZoacJ-KSxU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/SZoacJ-KSxU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0K5RvD2p6v8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/0K5RvD2p6v8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
+  title: "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)"
+},
+// 🔽 새로 불러온 7개 항목
+{
+  link: "https://www.youtube.com/watch?v=9f1iFCxhc4U",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/9f1iFCxhc4U/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9NGWQcgQHOI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/9NGWQcgQHOI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3Rcj4NmkRWw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/3Rcj4NmkRWw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=klm3ZO0VxVE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/klm3ZO0VxVE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KN3j4jS-5l0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/KN3j4jS-5l0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7qzwlb73-yM",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/7qzwlb73-yM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eFs6BZOvp7Y",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/eFs6BZOvp7Y/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
+  title: "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)"
+},
+// 🔽 새로 불러온 45개 항목
+{
+  link: "https://www.youtube.com/watch?v=kvLcWr-hQBA",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/kvLcWr-hQBA/hqdefault.jpg",
+  alt: "우기 - 베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)",
+  title: "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TbtHV-Mcn9Q",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/TbtHV-Mcn9Q/hqdefault.jpg",
+  alt: "아이들 - MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)",
+  title: "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=q9-O55X-mCY",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/q9-O55X-mCY/hqdefault.jpg",
+  alt: "우기 - 우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)",
+  title: "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=skCiLytQACY",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/skCiLytQACY/hqdefault.jpg",
+  alt: "우기 - 우기의 What's in my luggage (Feat. 룸투어) [l-LOG] #41 🐶💕 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-07)",
+  title: "우기의 What's in my luggage (Feat. 룸투어) [l-LOG] #41 🐶💕 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3A_qkAf6T84",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/3A_qkAf6T84/hqdefault.jpg",
+  alt: "민니 - 민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)",
+  title: "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=m32aowLzWT0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/m32aowLzWT0/hqdefault.jpg",
+  alt: "아이들 - 면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)",
+  title: "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=X8BhS_yhRJY",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/X8BhS_yhRJY/hqdefault.jpg",
+  alt: "소연 - 소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)",
+  title: "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kr3XVoiGFWg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/kr3XVoiGFWg/hqdefault.jpg",
+  alt: "아이들 - 냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)",
+  title: "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mFXJPYI4iYU",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/mFXJPYI4iYU/hqdefault.jpg",
+  alt: "우기 - 우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)",
+  title: "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ETrwHSfoiTk",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/ETrwHSfoiTk/hqdefault.jpg",
+  alt: "우기 - 우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)",
+  title: "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=j4PaBGG8r5Y",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/j4PaBGG8r5Y/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #34 민니의 'Bloom' 작업 브이로그 💖 | (ENG/CHN) (2024-07-24)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #34 민니의 'Bloom' 작업 브이로그 💖 | (ENG/CHN) (2024-07-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xixoX8iOsPo",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/xixoX8iOsPo/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-LOG #33 미연이의 태국 여행 브이로그 🌴| (ENG/CHN) (2024-04-30)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #33 미연이의 태국 여행 브이로그 🌴| (ENG/CHN) (2024-04-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OEpmaBcQdHI",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/OEpmaBcQdHI/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #32 민니의 태국 활동 브이로그 ✨ | (ENG/CHN) (2024-04-28)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #32 민니의 태국 활동 브이로그 ✨ | (ENG/CHN) (2024-04-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=WGY9G0xXdlY",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/WGY9G0xXdlY/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #31 민니의 '7Days' & 'Vision' 작업 브이로그 💞 | (ENG/CHN) (2024-02-19)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #31 민니의 '7Days' & 'Vision' 작업 브이로그 💞 | (ENG/CHN) (2024-02-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=T6PUaBgHbao",
+  category: "I-SERIES",
+  member: "소연,우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/T6PUaBgHbao/hqdefault.jpg",
+  alt: "소연,우기 - (여자)아이들((G)I-DLE) - I-LOG #30 소연과 우기의 미국 브이로그 💛❤️ | (ENG/CHN) (2024-01-27)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #30 소연과 우기의 미국 브이로그 💛❤️ | (ENG/CHN) (2024-01-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mBah7X9Yj88",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/mBah7X9Yj88/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #29 (여자)아이들의 자유 시간 모음.zip 🎁 | (ENG/CHN) (2024-01-20)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #29 (여자)아이들의 자유 시간 모음.zip 🎁 | (ENG/CHN) (2024-01-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YNviAJJ3qsg",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/YNviAJJ3qsg/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #28 민니 마우스의 신나는 하루 🎢🎀 | (ENG/CHN) (2023-11-17)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #28 민니 마우스의 신나는 하루 🎢🎀 | (ENG/CHN) (2023-11-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UiqTmnzhvpU",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/UiqTmnzhvpU/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #27 민니의 나홀로 영국 여행 브이로그 🎡 | (ENG/CHN) (2023-11-08)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #27 민니의 나홀로 영국 여행 브이로그 🎡 | (ENG/CHN) (2023-11-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uordQfbb4OI",
+  category: "I-SERIES",
+  member: "민니,우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/uordQfbb4OI/hqdefault.jpg",
+  alt: "민니,우기 - (여자)아이들((G)I-DLE) - I-LOG #26 민니와 우기의 댈러스 브이로그 💗💚 | (ENG/CHN) (2023-10-13)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #26 민니와 우기의 댈러스 브이로그 💗💚 | (ENG/CHN) (2023-10-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YePeIJjGQgc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/YePeIJjGQgc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #25 TJ의 밀랍 인형 박물관 나들이 😎🪩 | (ENG/CHN) (2023-09-29)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #25 TJ의 밀랍 인형 박물관 나들이 😎🪩 | (ENG/CHN) (2023-09-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qh2MGXp7HYs",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/qh2MGXp7HYs/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #24 민니의 What's in MY BAG & Luggage 🧳 | (ENG/CHN) (2023-09-15)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #24 민니의 What's in MY BAG & Luggage 🧳 | (ENG/CHN) (2023-09-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=07NbYKFBJRs",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/07NbYKFBJRs/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-LOG #23 마법 같았던 우기의 하루 🏰  | (ENG/CHN) (2023-09-08)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #23 마법 같았던 우기의 하루 🏰  | (ENG/CHN) (2023-09-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zZQBBbTazuY",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/zZQBBbTazuY/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-LOG #22 '셀러브리티' 우기의 하루 😎 | (ENG/CHN) (2023-07-25)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #22 '셀러브리티' 우기의 하루 😎 | (ENG/CHN) (2023-07-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dcn9yDyDZ0o",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/dcn9yDyDZ0o/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #21 민니의 작업실 브이로그 🎧 | (ENG/CHN) (2023-06-14)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #21 민니의 작업실 브이로그 🎧 | (ENG/CHN) (2023-06-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nEtSDq6geSc",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/nEtSDq6geSc/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-LOG #20 소연의 밀라노 브이로그 😎 | (ENG/CHN) (2023-05-03)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #20 소연의 밀라노 브이로그 😎 | (ENG/CHN) (2023-05-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=riLm94E6EfE",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/riLm94E6EfE/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #19 민니의 파리 브이로그 😘 | (ENG/CHN) (2023-04-28)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #19 민니의 파리 브이로그 😘 | (ENG/CHN) (2023-04-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9XiIpdo7xhA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/9XiIpdo7xhA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #18 (여자)아이들의 먹방 브이로그 🥤 | (ENG/CHN) (2023-03-13)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #18 (여자)아이들의 먹방 브이로그 🥤 | (ENG/CHN) (2023-03-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wHqn-UIyLHg",
+  category: "I-SERIES",
+  member: "민니,우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/wHqn-UIyLHg/hqdefault.jpg",
+  alt: "민니,우기 - (여자)아이들((G)I-DLE) - I-LOG #17 민니의 태국 브이로그 🌟 (Feat. 우기와의 데이트 🥰) | (ENG/CHN) (2023-02-08)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #17 민니의 태국 브이로그 🌟 (Feat. 우기와의 데이트 🥰) | (ENG/CHN) (2023-02-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=URlJud2rlMo",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/URlJud2rlMo/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-LOG #16 소연의 슬기로운 격리 생활 ✨ (ENG/CHN) (2023-02-04)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #16 소연의 슬기로운 격리 생활 ✨ (ENG/CHN) (2023-02-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ryNHXwE3uDM",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/ryNHXwE3uDM/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #15 민니의 해피 크리스마스 🎄❤ (ENG/CHN) (2023-01-18)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #15 민니의 해피 크리스마스 🎄❤ (ENG/CHN) (2023-01-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pf_I0r7fUck",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pf_I0r7fUck/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #14 (여자)아이들 in 자카르타 🙌 (ENG/CHN) (2023-01-06)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #14 (여자)아이들 in 자카르타 🙌 (ENG/CHN) (2023-01-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VagJTHGmjAg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/VagJTHGmjAg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA (ENG/CHN) (2022-12-17)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA (ENG/CHN) (2022-12-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bsMO-p89ORg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/bsMO-p89ORg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #12 칠레에 가게 된 (여자)아이들 ✈ (ENG/CHN) (2022-12-01)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #12 칠레에 가게 된 (여자)아이들 ✈ (ENG/CHN) (2022-12-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JHrzlRFbnns",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/JHrzlRFbnns/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰 (ENG/CHN) (2022-09-26)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰 (ENG/CHN) (2022-09-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TTRQ3HtUVas",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/TTRQ3HtUVas/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #10 (여자)아이들이 LA에 왔슈 🌍 | 가이드 슈슈 🚩 (ENG/CHN) (2022-09-12)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #10 (여자)아이들이 LA에 왔슈 🌍 | 가이드 슈슈 🚩 (ENG/CHN) (2022-09-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FUKPxRSNI7w",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/FUKPxRSNI7w/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-LOG #9 소연이의 FIFA 촬영 현장 ⚽ | TMI 대방출 🎁 (ENG/CHN) (2022-08-29)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #9 소연이의 FIFA 촬영 현장 ⚽ | TMI 대방출 🎁 (ENG/CHN) (2022-08-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kK4zZtJU1aA",
+  category: "I-SERIES",
+  member: "미연,우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/kK4zZtJU1aA/hqdefault.jpg",
+  alt: "미연,우기 - (여자)아이들((G)I-DLE) - I-LOG #8 미연이의💕 일상 모음.zip (feat. 우기🐶) (ENG/CHN) (2022-08-15)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #8 미연이의💕 일상 모음.zip (feat. 우기🐶) (ENG/CHN) (2022-08-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=k1AjiiFOQIU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/k1AjiiFOQIU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #7  운전면허 브이로그 EP.2 🚗  | 기능 시험 보는 날 (2022-08-01)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #7  운전면허 브이로그 EP.2 🚗  | 기능 시험 보는 날 (2022-08-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=THbNbuWvkTw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/THbNbuWvkTw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #6 운전면허 브이로그 🚗 (ENG/CHN) (2022-07-18)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #6 운전면허 브이로그 🚗 (ENG/CHN) (2022-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nwvZlzf0Qfk",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/nwvZlzf0Qfk/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-LOG #5  콘서트 합주 | 부모님과 함께하는 민니의 하루 (ENG/CHN) (2022-07-04)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #5  콘서트 합주 | 부모님과 함께하는 민니의 하루 (ENG/CHN) (2022-07-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kye1yH1d2TQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/kye1yH1d2TQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #4 (G)I-DLE in Frankfurt ✈️ (ENG) (2022-06-20)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #4 (G)I-DLE in Frankfurt ✈️ (ENG) (2022-06-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=x12T7F5Ak8E",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/x12T7F5Ak8E/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #3 민우슈의 성수동 나들이 (ENG) (2022-06-06)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #3 민우슈의 성수동 나들이 (ENG) (2022-06-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=z3LjmE-Jf9U",
+  category: "I-SERIES",
+  member: "소연,우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/z3LjmE-Jf9U/hqdefault.jpg",
+  alt: "소연,우기 - (여자)아이들((G)I-DLE) - I-LOG #2 소연&우기의 먹방 브이로그 (ENG) (2022-05-23)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #2 소연&우기의 먹방 브이로그 (ENG) (2022-05-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0GvaKrCGV6s",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/0GvaKrCGV6s/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀ (ENG) (2022-05-09)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀ (ENG) (2022-05-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=L37aZiXpqY0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/L37aZiXpqY0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)",
+  title: "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)"
+},
+// 🔽 새로 불러온 40개 항목
+{
+  link: "https://www.youtube.com/watch?v=XVKRymF-1aw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/XVKRymF-1aw/hqdefault.jpg",
+  alt: "아이들 - 지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
+  title: "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4MThNhG-dIg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/4MThNhG-dIg/hqdefault.jpg",
+  alt: "아이들 - ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)",
+  title: "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4QBVn5qG4pI",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/4QBVn5qG4pI/hqdefault.jpg",
+  alt: "소연 - 오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)",
+  title: "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OCYwFICly34",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/OCYwFICly34/hqdefault.jpg",
+  alt: "우기 - TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)",
+  title: "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SnbfsSJiwF8",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/SnbfsSJiwF8/hqdefault.jpg",
+  alt: "슈화 - 다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)",
+  title: "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qR0uNdipgMk",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/qR0uNdipgMk/hqdefault.jpg",
+  alt: "미연 - 오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)",
+  title: "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GGoFWBbbpUE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/GGoFWBbbpUE/hqdefault.jpg",
+  alt: "아이들 - CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)",
+  title: "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hWMJY89qTsU",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/hWMJY89qTsU/hqdefault.jpg",
+  alt: "미연 - 잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)",
+  title: "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lxZlm_vxw_E",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/lxZlm_vxw_E/hqdefault.jpg",
+  alt: "미연 - 게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)",
+  title: "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gNK9V4pAQuo",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/gNK9V4pAQuo/hqdefault.jpg",
+  alt: "소연 - 소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)",
+  title: "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0eP7SFuL3g8",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/0eP7SFuL3g8/hqdefault.jpg",
+  alt: "미연 - [#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)",
+  title: "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=44XT6cL7qks",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/44XT6cL7qks/hqdefault.jpg",
+  alt: "미연 - [#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)",
+  title: "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Us_i2kNQWdM",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/Us_i2kNQWdM/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)",
+  title: "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fI8ziJMj1D8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/fI8ziJMj1D8/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)",
+  title: "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-RORM6aWoJw",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/-RORM6aWoJw/hqdefault.jpg",
+  alt: "미연 - [#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)",
+  title: "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=v4qn-GFXfQI",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/v4qn-GFXfQI/hqdefault.jpg",
+  alt: "슈화 - [#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)",
+  title: "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6jL7U29W5Mk",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/6jL7U29W5Mk/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)",
+  title: "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Kly9hFFGrb0",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Kly9hFFGrb0/hqdefault.jpg",
+  alt: "우기 - [#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)",
+  title: "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QWQfHKGmSeM",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/QWQfHKGmSeM/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)",
+  title: "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dDZT1faYx0Y",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/dDZT1faYx0Y/hqdefault.jpg",
+  alt: "미연 - [#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)",
+  title: "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zi8zJBT2QyE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/zi8zJBT2QyE/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)",
+  title: "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HYZrwHYR8NQ",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/HYZrwHYR8NQ/hqdefault.jpg",
+  alt: "민니 - [#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)",
+  title: "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CQO4TFM0oZk",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/CQO4TFM0oZk/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)",
+  title: "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zvuAQsBjHVA",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/zvuAQsBjHVA/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)",
+  title: "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eUoBGShDoA8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/eUoBGShDoA8/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)",
+  title: "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yuEmtXzrBS8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/yuEmtXzrBS8/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)",
+  title: "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=imoLXmbxUdQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/imoLXmbxUdQ/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)",
+  title: "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UKcKVqE259E",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/UKcKVqE259E/hqdefault.jpg",
+  alt: "슈화 - [#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)",
+  title: "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ZvHwRuyDl7s",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/ZvHwRuyDl7s/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)",
+  title: "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ln65fG0CnwM",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Ln65fG0CnwM/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)",
+  title: "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=u7cyF9bg4fw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/u7cyF9bg4fw/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)",
+  title: "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=WwvGegsivfw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/WwvGegsivfw/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)",
+  title: "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GEHfqT3hrtA",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/GEHfqT3hrtA/hqdefault.jpg",
+  alt: "미연 - [#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)",
+  title: "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sEAry8EAbpo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/sEAry8EAbpo/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)",
+  title: "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qvnpyX_h_L0",
+  category: "I-SERIES",
+  member: "민니,우기,슈화",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/qvnpyX_h_L0/hqdefault.jpg",
+  alt: "민니,우기,슈화 - [#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)",
+  title: "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lN8N84vSeEI",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/lN8N84vSeEI/hqdefault.jpg",
+  alt: "소연 - [#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)",
+  title: "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PCHCvt1DsKI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/PCHCvt1DsKI/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)",
+  title: "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sw6DrozQ9tc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/sw6DrozQ9tc/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)",
+  title: "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Bf-dtm4u8_E",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Bf-dtm4u8_E/hqdefault.jpg",
+  alt: "아이들 - [#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)",
+  title: "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aukVj8epA74",
+  category: "I-SERIES",
+  member: "우기,슈화",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/aukVj8epA74/hqdefault.jpg",
+  alt: "우기,슈화 - [#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)",
+  title: "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)"
+},
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=_nnhV9iW_dE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/_nnhV9iW_dE/hqdefault.jpg",
+  alt: "아이들 - (G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)",
+  title: "(G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gJmGdiCpjLU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/gJmGdiCpjLU/hqdefault.jpg",
+  alt: "아이들 - 'Good Thing' M/V 촬영 비하인드 PART 2 [i-talk] #198 | i-dle (아이들)ㅣSUB (2025-05-22)",
+  title: "'Good Thing' M/V 촬영 비하인드 PART 2 [i-talk] #198 | i-dle (아이들)ㅣSUB (2025-05-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rnHFWKdFl2c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/rnHFWKdFl2c/hqdefault.jpg",
+  alt: "아이들 - 'Good Thing' M/V 촬영 비하인드 PART 1 [i-talk] #197 | i-dle (아이들)ㅣSUB (2025-05-21)",
+  title: "'Good Thing' M/V 촬영 비하인드 PART 1 [i-talk] #197 | i-dle (아이들)ㅣSUB (2025-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fAzEh21SXzQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/fAzEh21SXzQ/hqdefault.jpg",
+  alt: "아이들 - 'Girlfriend' M/V 촬영 비하인드 [i-talk] #196 | i-dle (아이들)ㅣSUB (2025-05-13)",
+  title: "'Girlfriend' M/V 촬영 비하인드 [i-talk] #196 | i-dle (아이들)ㅣSUB (2025-05-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=j2jM6qMdYFw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/j2jM6qMdYFw/hqdefault.jpg",
+  alt: "아이들 - 'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)",
+  title: "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2fWmaepwVDk",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/2fWmaepwVDk/hqdefault.jpg",
+  alt: "아이들 - 'for (G)' 촬영 비하인드 [i-talk] #194 | i-dle (아이들)ㅣSUB (2025-05-04)",
+  title: "'for (G)' 촬영 비하인드 [i-talk] #194 | i-dle (아이들)ㅣSUB (2025-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_MQaK1X2d0c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/_MQaK1X2d0c/hqdefault.jpg",
+  alt: "아이들 - The Performance 2025 & Love it! 비하인드 [I-TALK] #193 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-28)",
+  title: "The Performance 2025 & Love it! 비하인드 [I-TALK] #193 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8b82nUsmmrU",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/8b82nUsmmrU/hqdefault.jpg",
+  alt: "우기 - 우기의 Fendi FW25 Fashion Show 비하인드 [I-TALK] #192 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-25)",
+  title: "우기의 Fendi FW25 Fashion Show 비하인드 [I-TALK] #192 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ejh3je1MbFo",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/Ejh3je1MbFo/hqdefault.jpg",
+  alt: "민니 - 민니의 Golden Wave in Bangkok 2025 비하인드 [I-TALK] #191 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-11)",
+  title: "민니의 Golden Wave in Bangkok 2025 비하인드 [I-TALK] #191 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XnFO4Kg-w10",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/XnFO4Kg-w10/hqdefault.jpg",
+  alt: "민니 - 민니의 Miu Miu Fall/Winter 2025 Fashion Show 비하인드 [I-TALK] #190 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-03)",
+  title: "민니의 Miu Miu Fall/Winter 2025 Fashion Show 비하인드 [I-TALK] #190 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vd8j7PPF5UQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/vd8j7PPF5UQ/hqdefault.jpg",
+  alt: "아이들 - 32주년 한터뮤직어워즈 2024 비하인드 [I-TALK] #189 | (여자)아이들((G)I-DLE)ㅣSUB (2025-03-08)",
+  title: "32주년 한터뮤직어워즈 2024 비하인드 [I-TALK] #189 | (여자)아이들((G)I-DLE)ㅣSUB (2025-03-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=O0ddGU45ahE",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/O0ddGU45ahE/hqdefault.jpg",
+  alt: "우기 - 우기의 중국 절강위성 TV 연말 무대 비하인드 [I-TALK] #188 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-27)",
+  title: "우기의 중국 절강위성 TV 연말 무대 비하인드 [I-TALK] #188 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lwsn7bBZ4yg",
+  category: "I-SERIES",
+  member: "소연,미연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/lwsn7bBZ4yg/hqdefault.jpg",
+  alt: "소연,미연 - 미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)",
+  title: "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=M4SSAVNYCFQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/M4SSAVNYCFQ/hqdefault.jpg",
+  alt: "아이들 - 2025 시즌 그리팅 비하인드 [I-TALK] #186 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-16)",
+  title: "2025 시즌 그리팅 비하인드 [I-TALK] #186 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QujC4QNhbhw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/QujC4QNhbhw/hqdefault.jpg",
+  alt: "아이들 - 제 39회 골든디스크 어워즈 비하인드 [I-TALK] #185 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-13)",
+  title: "제 39회 골든디스크 어워즈 비하인드 [I-TALK] #185 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=00SlVIVDP4w",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/00SlVIVDP4w/hqdefault.jpg",
+  alt: "아이들 - 2024 시상식 비하인드 PART 2 [I-TALK] #184 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-09)",
+  title: "2024 시상식 비하인드 PART 2 [I-TALK] #184 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KJ4-7DxXqeg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/KJ4-7DxXqeg/hqdefault.jpg",
+  alt: "아이들 - 2024 시상식 비하인드 PART 1 [I-TALK] #183 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-08)",
+  title: "2024 시상식 비하인드 PART 1 [I-TALK] #183 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-A3xiSG1gAA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/-A3xiSG1gAA/hqdefault.jpg",
+  alt: "아이들 - 2024 멜론 뮤직 어워드 비하인드 [I-TALK] #182 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-27)",
+  title: "2024 멜론 뮤직 어워드 비하인드 [I-TALK] #182 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JzxMKt8Ulgo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/JzxMKt8Ulgo/hqdefault.jpg",
+  alt: "아이들 - 2024 MAMA AWARDS 비하인드 [I-TALK] #181 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-17)",
+  title: "2024 MAMA AWARDS 비하인드 [I-TALK] #181 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gL-ZqpdiJXo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/gL-ZqpdiJXo/hqdefault.jpg",
+  alt: "아이들 - 2024 KGMA 비하인드 [I-TALK] #180 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-13)",
+  title: "2024 KGMA 비하인드 [I-TALK] #180 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=NBkyet53xGQ",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/NBkyet53xGQ/hqdefault.jpg",
+  alt: "우기 - 우기의 중국 활동 비하인드 (Special stage & 광고 촬영) [I-TALK] #179 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-02)",
+  title: "우기의 중국 활동 비하인드 (Special stage & 광고 촬영) [I-TALK] #179 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=b0QjjQ8Ag3A",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/b0QjjQ8Ag3A/hqdefault.jpg",
+  alt: "아이들 - 태국 프로모션 비하인드 [I-TALK] #178 | (여자)아이들((G)I-DLE)ㅣSUB (2024-11-14)",
+  title: "태국 프로모션 비하인드 [I-TALK] #178 | (여자)아이들((G)I-DLE)ㅣSUB (2024-11-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vY3EfQyCdZ8",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/vY3EfQyCdZ8/hqdefault.jpg",
+  alt: "우기 - 우기의 'Radio (Dum-Dum)' SPECIAL CLIP 촬영 비하인드 [I-TALK] #177 | (여자)아이들((G)I-DLE)ㅣSUB (2024-10-18)",
+  title: "우기의 'Radio (Dum-Dum)' SPECIAL CLIP 촬영 비하인드 [I-TALK] #177 | (여자)아이들((G)I-DLE)ㅣSUB (2024-10-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=W-XejFa7r0c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/W-XejFa7r0c/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드ㅣSUB (2024-08-13)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드ㅣSUB (2024-08-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=60vocAC15Ag",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/60vocAC15Ag/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #175 : '클락션 (Klaxon)' 음악방송 비하인드 PART 2ㅣSUB (2024-08-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #175 : '클락션 (Klaxon)' 음악방송 비하인드 PART 2ㅣSUB (2024-08-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=STsCCb30WHw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/STsCCb30WHw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #174 : '클락션 (Klaxon)' 음악방송 비하인드 PART 1ㅣSUB (2024-08-07)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #174 : '클락션 (Klaxon)' 음악방송 비하인드 PART 1ㅣSUB (2024-08-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7lEVIPeba_c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/7lEVIPeba_c/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #173 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2024-07-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #173 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2024-07-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dTRMAIME31E",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/dTRMAIME31E/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #172 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-07-27)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #172 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-07-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cQ19LQPTH4k",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/cQ19LQPTH4k/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #171 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-07-25)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #171 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-07-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zAMMcs2ZX70",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/zAMMcs2ZX70/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #170 : '제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)' 촬영 비하인드 (ENG/CHN) (2024-07-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #170 : '제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)' 촬영 비하인드 (ENG/CHN) (2024-07-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=h68eA967Svo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/h68eA967Svo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #169 : 쇼! 음악중심 in JAPAN 비하인드 (ENG/CHN) (2024-07-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #169 : 쇼! 음악중심 in JAPAN 비하인드 (ENG/CHN) (2024-07-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2B8LN0DKb2g",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/2B8LN0DKb2g/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BxFVF8DAGro",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/BxFVF8DAGro/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #167 : 7th Mini Album [I SWAY] 재킷 촬영 비하인드 (ENG/CHN) (2024-07-12)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #167 : 7th Mini Album [I SWAY] 재킷 촬영 비하인드 (ENG/CHN) (2024-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UPLnChh47lU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/UPLnChh47lU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #166 : Rexona 라이브 이벤트 비하인드 💜 (ENG/CHN) (2024-07-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #166 : Rexona 라이브 이벤트 비하인드 💜 (ENG/CHN) (2024-07-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JKYzmuEOAtw",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/JKYzmuEOAtw/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-TALK #165 : 우기의 Strawberry Music Festival 비하인드 🍓 (ENG/CHN) (2024-06-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #165 : 우기의 Strawberry Music Festival 비하인드 🍓 (ENG/CHN) (2024-06-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nfU3GiPMafs",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/nfU3GiPMafs/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #164 : 민니의 스킨유 촬영 비하인드 (ENG/CHN) (2024-06-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #164 : 민니의 스킨유 촬영 비하인드 (ENG/CHN) (2024-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9FG9Zf2CmrM",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/9FG9Zf2CmrM/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
+  title: "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1yeHokGLIQI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/1yeHokGLIQI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #163 : Head in the Clouds New York 2024 비하인드 (ENG/CHN) (2024-05-26)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #163 : Head in the Clouds New York 2024 비하인드 (ENG/CHN) (2024-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Zm4mTxuiTJw",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/Zm4mTxuiTJw/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
+  title: "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=usbqQMR2SpQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/usbqQMR2SpQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #162 : 뮤직뱅크 인 벨기에 비하인드 (ENG/CHN) (2024-05-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #162 : 뮤직뱅크 인 벨기에 비하인드 (ENG/CHN) (2024-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=huJj-s2jyzE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/huJj-s2jyzE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #161 : 골든웨이브 비하인드 (ENG/CHN) (2024-05-12)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #161 : 골든웨이브 비하인드 (ENG/CHN) (2024-05-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BAemXVPRVmA",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/BAemXVPRVmA/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
+  title: "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4NYVk2sgw20",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/4NYVk2sgw20/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #160 : 2nd Full Album [2] 일본 프로모션 비하인드 (ENG/CHN) (2024-04-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #160 : 2nd Full Album [2] 일본 프로모션 비하인드 (ENG/CHN) (2024-04-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VL34uz_mj94",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/VL34uz_mj94/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
+  title: "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qdbEj8aohRk",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/qdbEj8aohRk/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #158 : MLB 월드투어 서울 시리즈 2024 비하인드 ⚾ (ENG/CHN) (2024-03-31)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #158 : MLB 월드투어 서울 시리즈 2024 비하인드 ⚾ (ENG/CHN) (2024-03-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=B9VXlhmOH6Y",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/B9VXlhmOH6Y/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #157 : 민니의 'Miu Miu 24 F/W 컬렉션 쇼' 비하인드 (ENG/CHN) (2024-03-29)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #157 : 민니의 'Miu Miu 24 F/W 컬렉션 쇼' 비하인드 (ENG/CHN) (2024-03-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mqbIEKDM4TI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/mqbIEKDM4TI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #156 : '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP 촬영 비하인드 (ENG/CHN) (2024-03-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #156 : '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP 촬영 비하인드 (ENG/CHN) (2024-03-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8e8SeQAsBYE",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/8e8SeQAsBYE/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-TALK #155 : 우기의 'FENDI 24 F/W 컬렉션 패션쇼' 비하인드 (ENG/CHN) (2024-03-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #155 : 우기의 'FENDI 24 F/W 컬렉션 패션쇼' 비하인드 (ENG/CHN) (2024-03-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=C45qwOFdMS8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/C45qwOFdMS8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #154 : 'Revenge' M/V 촬영 비하인드 (ENG/CHN) (2024-03-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #154 : 'Revenge' M/V 촬영 비하인드 (ENG/CHN) (2024-03-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fUrArxSnJCw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/fUrArxSnJCw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #153 : 'Super Lady' 음악방송 비하인드 (ENG/CHN) (2024-03-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #153 : 'Super Lady' 음악방송 비하인드 (ENG/CHN) (2024-03-01)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=KFMe0WbALtE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/KFMe0WbALtE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #152 : 'Super Lady' Special Performance Video 촬영 비하인드 (ENG/CHN) (2024-02-26)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #152 : 'Super Lady' Special Performance Video 촬영 비하인드 (ENG/CHN) (2024-02-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jL1pj_H4lMw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/jL1pj_H4lMw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=d2nPTeE_tZA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/d2nPTeE_tZA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #150 : 'Super Lady' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-02-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #150 : 'Super Lady' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-02-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lipxvr_VlTA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/lipxvr_VlTA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #149 : 'Super Lady' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-02-14)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #149 : 'Super Lady' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-02-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sbYTcMoKh64",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/sbYTcMoKh64/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #148 : 2nd Full Album [2] 재킷 촬영 비하인드 (ENG/CHN) (2024-02-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #148 : 2nd Full Album [2] 재킷 촬영 비하인드 (ENG/CHN) (2024-02-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kS1Du7zkKG8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/kS1Du7zkKG8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #147 : 'Wife' M/V 촬영 비하인드 (ENG/CHN) (2024-02-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #147 : 'Wife' M/V 촬영 비하인드 (ENG/CHN) (2024-02-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=quZ9zI24mp4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/quZ9zI24mp4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #146 : 'Super Lady' 안무 연습 비하인드 (with 커스틴) (ENG/CHN) (2024-02-07)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #146 : 'Super Lady' 안무 연습 비하인드 (with 커스틴) (ENG/CHN) (2024-02-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2wyRHP5poeE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/2wyRHP5poeE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #145 : 2023 연말 무대 비하인드 PART 2 (ENG/CHN) (2024-01-23)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #145 : 2023 연말 무대 비하인드 PART 2 (ENG/CHN) (2024-01-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8GAIFlkBcM4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/8GAIFlkBcM4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #144 : 2023 연말 무대 비하인드 PART 1 (ENG/CHN) (2024-01-18)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #144 : 2023 연말 무대 비하인드 PART 1 (ENG/CHN) (2024-01-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hgrClZcu-Uc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/hgrClZcu-Uc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #143 : 2024 시즌 그리팅 비하인드 (ENG/CHN) (2024-01-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #143 : 2024 시즌 그리팅 비하인드 (ENG/CHN) (2024-01-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=j9Z3_7P1wsc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/j9Z3_7P1wsc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #142 : 9 Wave Music Festival 비하인드 🎶 (ENG/CHN) (2023-12-17)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #142 : 9 Wave Music Festival 비하인드 🎶 (ENG/CHN) (2023-12-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=K2aDQ1r8-64",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/K2aDQ1r8-64/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #141 : 소연의 'NOBODY' M/V 촬영 비하인드 (ENG/CHN) (2023-12-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #141 : 소연의 'NOBODY' M/V 촬영 비하인드 (ENG/CHN) (2023-12-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OzlQzpstJQY",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/OzlQzpstJQY/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #140 : MC 미연의 마지막 엠카운트다운 비하인드 💚 (ENG/CHN) (2023-12-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #140 : MC 미연의 마지막 엠카운트다운 비하인드 💚 (ENG/CHN) (2023-12-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ay4S4V2vYzs",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Ay4S4V2vYzs/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #139 : 'NOT OK (Feat. 민니 ((여자)아이들))' M/V 촬영 비하인드 (ENG/CHN) (2023-11-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #139 : 'NOT OK (Feat. 민니 ((여자)아이들))' M/V 촬영 비하인드 (ENG/CHN) (2023-11-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ng021moIyt4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Ng021moIyt4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #138 : 'I Want That' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-11-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #138 : 'I Want That' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-11-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PnJBs44SpMo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/PnJBs44SpMo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #137 : 'I Want That' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-10-17)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #137 : 'I Want That' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-10-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=frYByt36Wj4",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/frYByt36Wj4/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #136 : MC미연의 엠카운트다운 비하인드 👑 (ENG/CHN) (2023-10-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #136 : MC미연의 엠카운트다운 비하인드 👑 (ENG/CHN) (2023-10-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nzGA5nKMDRg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/nzGA5nKMDRg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #135 : 2023 쿠팡플레이 시리즈 비하인드 ⚽ (ENG/CHN) (2023-08-14)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #135 : 2023 쿠팡플레이 시리즈 비하인드 ⚽ (ENG/CHN) (2023-08-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ISGec0pg5mk",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/ISGec0pg5mk/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #134 : MC 여니의 엠카운트다운 800회 비하인드 🥳 (ENG/CHN) (2023-07-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #134 : MC 여니의 엠카운트다운 800회 비하인드 🥳 (ENG/CHN) (2023-07-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=m5x85EObU1Q",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/m5x85EObU1Q/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #133 : 6th Mini Album [I feel] 미공개 비하인드 모음 💝 (ENG/CHN) (2023-07-12)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #133 : 6th Mini Album [I feel] 미공개 비하인드 모음 💝 (ENG/CHN) (2023-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2HYls6OJ4I8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/2HYls6OJ4I8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #132 : '퀸카 (Queencard)' 음악방송 비하인드 PART 3 (ENG/CHN) (2023-07-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #132 : '퀸카 (Queencard)' 음악방송 비하인드 PART 3 (ENG/CHN) (2023-07-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bMDNqCMAn6g",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/bMDNqCMAn6g/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #131 : '퀸카 (Queencard)' 음악방송 비하인드 PART 2 (ENG/CHN) (2023-07-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #131 : '퀸카 (Queencard)' 음악방송 비하인드 PART 2 (ENG/CHN) (2023-07-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GzxxFZoHESU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/GzxxFZoHESU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #130 : '퀸카 (Queencard)' 음악방송 비하인드 PART 1 (ENG/CHN) (2023-06-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #130 : '퀸카 (Queencard)' 음악방송 비하인드 PART 1 (ENG/CHN) (2023-06-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ckcVS1YWcr4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/ckcVS1YWcr4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #129 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2023-06-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #129 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2023-06-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8JYjc2nSL48",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/8JYjc2nSL48/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #128 : 민니의 '비긴어게인 오픈마이크' 비하인드 🎤🎶 (ENG/CHN) (2023-06-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #128 : 민니의 '비긴어게인 오픈마이크' 비하인드 🎤🎶 (ENG/CHN) (2023-06-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4Btl-X89kBY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/4Btl-X89kBY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #127 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-06-12)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #127 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-06-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=w0TQ51nnM5c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/w0TQ51nnM5c/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #126 : 2023 신한은행 SOL KBO리그 시구&시타 비하인드 ⚾ (ENG/CHN) (2023-06-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #126 : 2023 신한은행 SOL KBO리그 시구&시타 비하인드 ⚾ (ENG/CHN) (2023-06-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jgtYt_k5tYg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/jgtYt_k5tYg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #125 : ‘퀸카 (Queencard)’ M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-06-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #125 : ‘퀸카 (Queencard)’ M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IquoKcN-vU4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/IquoKcN-vU4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #124 : 6th Mini Album [I feel] 재킷 촬영 비하인드 (ENG/CHN) (2023-05-23)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #124 : 6th Mini Album [I feel] 재킷 촬영 비하인드 (ENG/CHN) (2023-05-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5a7RDNGdXnU",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/5a7RDNGdXnU/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #123 : 소연의 '방과후 설렘 시즌2' 첫 촬영 & 제작 발표회 비하인드 (ENG/CHN) (2023-05-05)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #123 : 소연의 '방과후 설렘 시즌2' 첫 촬영 & 제작 발표회 비하인드 (ENG/CHN) (2023-05-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pdkt_wXOtW0",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pdkt_wXOtW0/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #122 : 미연의 '혜미리예채파' 제작 발표회 비하인드 (ENG/CHN) (2023-04-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #122 : 미연의 '혜미리예채파' 제작 발표회 비하인드 (ENG/CHN) (2023-04-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Rq-sSDdMOxI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Rq-sSDdMOxI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #121 : MC 여니의 스페셜 스테이지 비하인드 🌸 (ENG/CHN) (2023-04-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #121 : MC 여니의 스페셜 스테이지 비하인드 🌸 (ENG/CHN) (2023-04-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Qu71MoWLA3c",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Qu71MoWLA3c/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #120 : 분금치의 엠카운트다운 비하인드 💖💚 (ENG/CHN) (2023-03-28)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #120 : 분금치의 엠카운트다운 비하인드 💖💚 (ENG/CHN) (2023-03-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fngLL-2V5T8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/fngLL-2V5T8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #119 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 2 (ENG/CHN) (2023-03-25)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #119 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 2 (ENG/CHN) (2023-03-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=D4c-8wlkzpc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/D4c-8wlkzpc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #118 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 1 (ENG/CHN) (2023-03-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #118 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 1 (ENG/CHN) (2023-03-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UZbO1ccNb84",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/UZbO1ccNb84/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #117 : '행운의 편지' 팬미팅 VCR 촬영 비하인드 💞 (ENG/CHN) (2023-03-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #117 : '행운의 편지' 팬미팅 VCR 촬영 비하인드 💞 (ENG/CHN) (2023-03-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LEp7sPPCkII",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/LEp7sPPCkII/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #116 : 서울가요대상 비하인드 🌟 (ENG/CHN) (2023-02-28)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #116 : 서울가요대상 비하인드 🌟 (ENG/CHN) (2023-02-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RAKBokE7C-8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/RAKBokE7C-8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #115 : 골든디스크어워즈 비하인드 💗 (ENG/CHN) (2023-01-31)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #115 : 골든디스크어워즈 비하인드 💗 (ENG/CHN) (2023-01-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=J9Xh4_zoWD0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/J9Xh4_zoWD0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #114 : 2022 연말 무대 비하인드 💕 (ENG/CHN) (2023-01-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #114 : 2022 연말 무대 비하인드 💕 (ENG/CHN) (2023-01-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=tZM8ZZhcbiQ",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/tZM8ZZhcbiQ/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #113 : 민니의 'Recuérdame' 촬영 비하인드 (ENG/CHN) (2022-12-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #113 : 민니의 'Recuérdame' 촬영 비하인드 (ENG/CHN) (2022-12-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2lDPw8FP0rI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/2lDPw8FP0rI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #112 : 2023 시즌 그리팅 비하인드 (ENG/CHN) (2022-12-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #112 : 2023 시즌 그리팅 비하인드 (ENG/CHN) (2022-12-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=I_YjPHZE04A",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/I_YjPHZE04A/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드 (ENG/CHN) (2022-11-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드 (ENG/CHN) (2022-11-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xecwwEWwqOY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/xecwwEWwqOY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #110: X-FILE VIDEO 비하인드 (ENG/CHN) (2022-11-13)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #110: X-FILE VIDEO 비하인드 (ENG/CHN) (2022-11-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YQt3gzOWKMo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/YQt3gzOWKMo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #109: 'Nxde' 마지막 주 비하인드 (ENG/CHN) (2022-11-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #109: 'Nxde' 마지막 주 비하인드 (ENG/CHN) (2022-11-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RM_9krmkC2I",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/RM_9krmkC2I/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드 (ENG/CHN) (2022-11-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드 (ENG/CHN) (2022-11-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VYgI3YmlxHk",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/VYgI3YmlxHk/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #107 : X-LOVE SHOW 비하인드 (ENG/CHN) (2022-11-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #107 : X-LOVE SHOW 비하인드 (ENG/CHN) (2022-11-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KnUzX0m2sHo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/KnUzX0m2sHo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2 (ENG/CHN) (2022-10-27)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2 (ENG/CHN) (2022-10-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=b8pFGiXiTjY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/b8pFGiXiTjY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #105 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 1 (ENG/CHN) (2022-10-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #105 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 1 (ENG/CHN) (2022-10-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Tw7ynjk6rVc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Tw7ynjk6rVc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #104 : \"I love\" 재킷 촬영 현장 비하인드 (ENG/CHN) (2022-10-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #104 : \"I love\" 재킷 촬영 현장 비하인드 (ENG/CHN) (2022-10-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dPM9_Y-n-LM",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/dPM9_Y-n-LM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #103 : 'JUST ME ( )I-DLE' 콘서트 VCR 촬영 비하인드 (ENG/CHN) (2022-07-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #103 : 'JUST ME ( )I-DLE' 콘서트 VCR 촬영 비하인드 (ENG/CHN) (2022-07-06)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=YwSWrRCUeI8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/YwSWrRCUeI8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #102 : 'JUST ME ( )I-DLE' 콘서트 포스터 촬영 비하인드 (ENG) (2022-06-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #102 : 'JUST ME ( )I-DLE' 콘서트 포스터 촬영 비하인드 (ENG) (2022-06-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nQBqKynYiWI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/nQBqKynYiWI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #101: 2022 KPOP.FLEX 비하인드 (ENG) (2022-06-05)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #101: 2022 KPOP.FLEX 비하인드 (ENG) (2022-06-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9IdcoGWD6cI",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/9IdcoGWD6cI/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #100: 미연 'Drive' 마지막 주 비하인드 (ENG) (2022-05-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #100: 미연 'Drive' 마지막 주 비하인드 (ENG) (2022-05-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_FCfCpJMvOg",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/_FCfCpJMvOg/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #99: 미연 'Drive' 첫방 비하인드 (ENG) (2022-05-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #99: 미연 'Drive' 첫방 비하인드 (ENG) (2022-05-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ur2x3tdoX5Q",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ur2x3tdoX5Q/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #98: 미연 \"MY\" 뮤비 촬영 현장 비하인드 (ENG) (2022-05-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #98: 미연 \"MY\" 뮤비 촬영 현장 비하인드 (ENG) (2022-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1q_yooSrgJ4",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/1q_yooSrgJ4/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=x8NSEmpC4Jo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/x8NSEmpC4Jo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 (ENG) (2022-04-14)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 (ENG) (2022-04-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hi3l7y6ZwrY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/hi3l7y6ZwrY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드 (ENG) (2022-04-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드 (ENG) (2022-04-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=J0Qkr0Ypqfo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/J0Qkr0Ypqfo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 (ENG) (2022-04-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 (ENG) (2022-04-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=a8TWfH4RqB0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/a8TWfH4RqB0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2022-03-27)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2022-03-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uOT2HadPJh8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/uOT2HadPJh8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2022-03-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2022-03-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-QHYb8fuwIs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/-QHYb8fuwIs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #91: \"I NEVER DIE\" 재킷 촬영 현장 비하인드 (ENG) (2022-03-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #91: \"I NEVER DIE\" 재킷 촬영 현장 비하인드 (ENG) (2022-03-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pHZM7O87zoE",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/pHZM7O87zoE/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #90 미연 2021년 활동 비하인드 (ENG) (2021-12-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #90 미연 2021년 활동 비하인드 (ENG) (2021-12-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-L4QCCMYjgE",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/-L4QCCMYjgE/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #89 전소연 '삠삠 (BEAM BEAM)' 활동 비하인드 (ENG) (2021-08-13)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #89 전소연 '삠삠 (BEAM BEAM)' 활동 비하인드 (ENG) (2021-08-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=X3NAUy7EjHQ",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/X3NAUy7EjHQ/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #88 : 전소연 '삠삠 (BEAM BEAM)' 뮤비 촬영 현장 비하인드 (ENG) (2021-07-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #88 : 전소연 '삠삠 (BEAM BEAM)' 뮤비 촬영 현장 비하인드 (ENG) (2021-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jN4xMjrfIi8",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/jN4xMjrfIi8/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #87 : 전소연 \"Windy\" 재킷 촬영 현장 비하인드 (ENG) (2021-07-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #87 : 전소연 \"Windy\" 재킷 촬영 현장 비하인드 (ENG) (2021-07-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hhiK2nbnrs4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/hhiK2nbnrs4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #86: '화(火花)' 마지막 주 비하인드 (ENG) (2021-03-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #86: '화(火花)' 마지막 주 비하인드 (ENG) (2021-03-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MUEo_-WYX-Q",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/MUEo_-WYX-Q/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #85: '화(火花)' 둘째 주 비하인드 (2021-03-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #85: '화(火花)' 둘째 주 비하인드 (2021-03-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PmYtROm07Ac",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/PmYtROm07Ac/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #84: 미연 웹드라마 '리플레이' 제작 발표회 비하인드 (ENG) (2021-02-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #84: 미연 웹드라마 '리플레이' 제작 발표회 비하인드 (ENG) (2021-02-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HBzPLYWmBEw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/HBzPLYWmBEw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #83: '화(火花)' 첫방 비하인드 (ENG) (2021-02-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #83: '화(火花)' 첫방 비하인드 (ENG) (2021-02-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=NtmzLugaJDQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/NtmzLugaJDQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #81 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2021-01-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #81 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2021-01-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rQAUm0rJWDE",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/rQAUm0rJWDE/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - I-TALK #82 : 미연 웹드라마 '리플레이' 커피차 촬영 비하인드 (ENG) (2021-01-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #82 : 미연 웹드라마 '리플레이' 커피차 촬영 비하인드 (ENG) (2021-01-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ANhubXC-hSg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/ANhubXC-hSg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #80 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2021-01-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #80 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2021-01-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QTaC9QjUlNo",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/QTaC9QjUlNo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드 (ENG) (2021-01-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드 (ENG) (2021-01-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cXdyFwuhScA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/cXdyFwuhScA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #78 : 2021 시즌 그리팅 비하인드 (ENG) (2020-12-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #78 : 2021 시즌 그리팅 비하인드 (ENG) (2020-12-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LTnDy_v77Cg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/LTnDy_v77Cg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #77 : 'GBC in the NEVERLAND' 팬미팅 비하인드 (ENG) (2020-12-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #77 : 'GBC in the NEVERLAND' 팬미팅 비하인드 (ENG) (2020-12-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=e2_BCG7f2J8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/e2_BCG7f2J8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #76 : 'GBC in the NEVERLAND' 팬미팅 VCR 촬영 비하인드 (ENG) (2020-11-26)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #76 : 'GBC in the NEVERLAND' 팬미팅 VCR 촬영 비하인드 (ENG) (2020-11-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KWo9Ug4zrZI",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/KWo9Ug4zrZI/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-TALK #75 : 우기 tvN '나는 살아있다' 제작발표회 비하인드 (ENG) (2020-11-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #75 : 우기 tvN '나는 살아있다' 제작발표회 비하인드 (ENG) (2020-11-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EFkVZYAQO2k",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/EFkVZYAQO2k/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #74 : 2020 슈퍼 온택트 & DMZ 페스티벌 & 한국문화축제 비하인드 (ENG) (2020-11-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #74 : 2020 슈퍼 온택트 & DMZ 페스티벌 & 한국문화축제 비하인드 (ENG) (2020-11-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1MJBKuvt-EI",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/1MJBKuvt-EI/hqdefault.jpg",
+  alt: "슈화 - (여자)아이들((G)I-DLE) - I-TALK #72 : 2020 추석특집 아멍대 슈화&하쿠 비하인드 (ENG) (2020-10-05)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #72 : 2020 추석특집 아멍대 슈화&하쿠 비하인드 (ENG) (2020-10-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LxdkIhUyakE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/LxdkIhUyakE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #73 : 미공개 비하인드 (뮤직뱅크 상반기결산 & 소리바다 어워즈 & '덤디덤디 (DUMDi DUMDi)' 쇼케이스) (ENG) (2020-10-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #73 : 미공개 비하인드 (뮤직뱅크 상반기결산 & 소리바다 어워즈 & '덤디덤디 (DUMDi DUMDi)' 쇼케이스) (ENG) (2020-10-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SHguASL-yDs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/SHguASL-yDs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #71 : '덤디덤디 (DUMDi DUMDi)' 마지막 주 비하인드 (ENG) (2020-09-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #71 : '덤디덤디 (DUMDi DUMDi)' 마지막 주 비하인드 (ENG) (2020-09-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=t767qLX8xys",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/t767qLX8xys/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #70 : '덤디덤디 (DUMDi DUMDi)' 둘째 주 비하인드 (ENG) (2020-09-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #70 : '덤디덤디 (DUMDi DUMDi)' 둘째 주 비하인드 (ENG) (2020-09-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OdL-6LMTyKc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/OdL-6LMTyKc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #69 : '덤디덤디 (DUMDi DUMDi)' 첫방 비하인드 (ENG) (2020-08-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #69 : '덤디덤디 (DUMDi DUMDi)' 첫방 비하인드 (ENG) (2020-08-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Bfpdb1EdI5g",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Bfpdb1EdI5g/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #68 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2020-08-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #68 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2020-08-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Z9faUX6RnTQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Z9faUX6RnTQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #67 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2020-08-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #67 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2020-08-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7La7aO6VihA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/7La7aO6VihA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #66 : '덤디덤디 (DUMDi DUMDi)' 재킷 촬영 현장 비하인드 (ENG) (2020-08-05)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #66 : '덤디덤디 (DUMDi DUMDi)' 재킷 촬영 현장 비하인드 (ENG) (2020-08-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=a1FO6QlLtJY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/a1FO6QlLtJY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #65 : 'I-LAND : WHO AM I' 콘서트 현장 비하인드 (ENG) (2020-07-26)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #65 : 'I-LAND : WHO AM I' 콘서트 현장 비하인드 (ENG) (2020-07-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8-me2RYYxfc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/8-me2RYYxfc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #64 : 'I-LAND : WHO AM I' 콘서트 VCR 촬영 비하인드 (ENG) (2020-07-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #64 : 'I-LAND : WHO AM I' 콘서트 VCR 촬영 비하인드 (ENG) (2020-07-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Oq07gOGw4Ec",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Oq07gOGw4Ec/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #62 : 'i'M THE TREND' 스페셜 클립 촬영 비하인드 (ENG) (2020-07-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #62 : 'i'M THE TREND' 스페셜 클립 촬영 비하인드 (ENG) (2020-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=i8zdCEK67ms",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/i8zdCEK67ms/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #63 : 'I-LAND : WHO AM I' 콘서트 포스터 촬영 비하인드 (ENG) (2020-07-14)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #63 : 'I-LAND : WHO AM I' 콘서트 포스터 촬영 비하인드 (ENG) (2020-07-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PqoufdgLfqQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/PqoufdgLfqQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #61 : 미공개 비하인드 (\"I trust\" 온라인 미디어 쇼케이스 & 'Oh my god' 스페셜 안무영상 촬영) (ENG) (2020-05-23)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #61 : 미공개 비하인드 (\"I trust\" 온라인 미디어 쇼케이스 & 'Oh my god' 스페셜 안무영상 촬영) (ENG) (2020-05-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jV1tyZj4Pjs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/jV1tyZj4Pjs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #60 : '사랑해' 막방 비하인드 (ENG) (2020-05-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #60 : '사랑해' 막방 비하인드 (ENG) (2020-05-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=y5TdZnnFFBs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/y5TdZnnFFBs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #59 : 'Oh my god' 둘째 주 비하인드 (ENG) (2020-05-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #59 : 'Oh my god' 둘째 주 비하인드 (ENG) (2020-05-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-rpeMCEhCEY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/-rpeMCEhCEY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #58 : 'Oh my god' 첫방 비하인드 Part 2 (ENG) (2020-05-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #58 : 'Oh my god' 첫방 비하인드 Part 2 (ENG) (2020-05-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vcTbzTjGs28",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/vcTbzTjGs28/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #57 : 'Oh my god' 첫방 비하인드 Part 1 (ENG) (2020-04-28)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #57 : 'Oh my god' 첫방 비하인드 Part 1 (ENG) (2020-04-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PwV31p7GkmU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/PwV31p7GkmU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #56 : 'Oh my god' 뮤직비디오 비하인드 Part 2 (ENG) (2020-04-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #56 : 'Oh my god' 뮤직비디오 비하인드 Part 2 (ENG) (2020-04-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=YlBcYcgr89I",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/YlBcYcgr89I/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #55 : 'Oh my god' 뮤직비디오 비하인드 Part 1 (ENG) (2020-04-11)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #55 : 'Oh my god' 뮤직비디오 비하인드 Part 1 (ENG) (2020-04-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cIRuLD0-isY",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/cIRuLD0-isY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 현장 비하인드 (ENG) (2020-04-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 현장 비하인드 (ENG) (2020-04-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vbor1FfbApM",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/vbor1FfbApM/hqdefault.jpg",
+  alt: "소연 - (여자)아이들((G)I-DLE) - I-TALK #53 : 소연이의 VLOG in Paris (롤드컵 비하인드) (ENG) (2020-02-04)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #53 : 소연이의 VLOG in Paris (롤드컵 비하인드) (ENG) (2020-02-04)"
+},
+
+// 🔽 새로 불러온 2개 항목
+{
+  link: "https://www.youtube.com/watch?v=WeFiRp0p2JA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/WeFiRp0p2JA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mIh0X4jGLcE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/mIh0X4jGLcE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=7HluoYHuEyU",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/7HluoYHuEyU/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-TALK #52 : 2020 설특집 아이돌스타 선수권대회 우기 승마 비하인드 (ENG) (2020-01-29)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #52 : 2020 설특집 아이돌스타 선수권대회 우기 승마 비하인드 (ENG) (2020-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jrJGmq010R0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/jrJGmq010R0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #51 : 2020 골든디스크어워즈 & 가온차트뮤직어워즈 비하인드 (ENG) (2020-01-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #51 : 2020 골든디스크어워즈 & 가온차트뮤직어워즈 비하인드 (ENG) (2020-01-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GcVV6bY35IU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/GcVV6bY35IU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #50 : 2019 MBC 가요대제전 비하인드 (ENG) (2020-01-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #50 : 2019 MBC 가요대제전 비하인드 (ENG) (2020-01-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QlMi79s1WtM",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/QlMi79s1WtM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #49 : 2019 AAA & V HEARTBEAT in Vietnam 비하인드 (2019-12-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #49 : 2019 AAA & V HEARTBEAT in Vietnam 비하인드 (2019-12-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=B4pd_JgZk40",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/B4pd_JgZk40/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #48 : 2020 시즌 그리팅 비하인드 (2019-11-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #48 : 2020 시즌 그리팅 비하인드 (2019-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=32XCmuFOt44",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/32XCmuFOt44/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #47 : 퀸덤 파이널 경연 비하인드 (2019-11-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #47 : 퀸덤 파이널 경연 비하인드 (2019-11-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8z3xzJurlhg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/8z3xzJurlhg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #46 : 'LION' 뮤직비디오 비하인드 Part 2 (2019-11-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #46 : 'LION' 뮤직비디오 비하인드 Part 2 (2019-11-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3EXJJeFkNmM",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/3EXJJeFkNmM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #45 : 'LION' 뮤직비디오 비하인드 Part 1 (2019-11-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #45 : 'LION' 뮤직비디오 비하인드 Part 1 (2019-11-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1-GWerSkngM",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/1-GWerSkngM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #43 : 'WELCOME TO THE NEVERLAND' 비하인드 (2019-10-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #43 : 'WELCOME TO THE NEVERLAND' 비하인드 (2019-10-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=V3rcK6jIa6c",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/V3rcK6jIa6c/hqdefault.jpg",
+  alt: "민니 - (여자)아이들((G)I-DLE) - I-TALK #44 : MINNIE X WENGIE 'EMPIRE' 비하인드 (2019-10-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #44 : MINNIE X WENGIE 'EMPIRE' 비하인드 (2019-10-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zL94SV9_j34",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/zL94SV9_j34/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #42 : 미공개 비하인드 (싱가포르 한류팝페스트 & 2019 드림콘서트 비하인드) (2019-09-20)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #42 : 미공개 비하인드 (싱가포르 한류팝페스트 & 2019 드림콘서트 비하인드) (2019-09-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=F1ClbxlwSr0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/F1ClbxlwSr0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SGueYGtOwOg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/SGueYGtOwOg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #40 : 'Uh-Oh' 막방 비하인드 (2019-08-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #40 : 'Uh-Oh' 막방 비하인드 (2019-08-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MOL71EcqTh8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/MOL71EcqTh8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #39 : 'Uh-Oh' 첫방 비하인드 (Part 2) (2019-07-22)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #39 : 'Uh-Oh' 첫방 비하인드 (Part 2) (2019-07-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=D6bGBZdVYXc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/D6bGBZdVYXc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IjnxHVIgJ3M",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/IjnxHVIgJ3M/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #37 : 'Uh-Oh' M/V 촬영 비하인드 (Part 2) (2019-07-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #37 : 'Uh-Oh' M/V 촬영 비하인드 (Part 2) (2019-07-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=tJZlZj3s5io",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/tJZlZj3s5io/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #36 : 'Uh-Oh' M/V 촬영 비하인드 (Part 1) (2019-06-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #36 : 'Uh-Oh' M/V 촬영 비하인드 (Part 1) (2019-06-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rKKdpcnyO74",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/rKKdpcnyO74/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #35 : \"Uh-Oh\" 재킷 촬영 비하인드 (2019-06-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #35 : \"Uh-Oh\" 재킷 촬영 비하인드 (2019-06-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=--jnauMUngI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/--jnauMUngI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #34 : 2019 더 팩트 뮤직어워드 비하인드 (2019-05-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #34 : 2019 더 팩트 뮤직어워드 비하인드 (2019-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IOHMP3f-Zsg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/IOHMP3f-Zsg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=e7C91J_JQSQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/e7C91J_JQSQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BUF5N54Wnw0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/BUF5N54Wnw0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IyVT0FcCXlc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/IyVT0FcCXlc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7ku_kVxCQrs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/7ku_kVxCQrs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wukHr2r2wVw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/wukHr2r2wVw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=b5LqwD78OVs",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/b5LqwD78OVs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qBUY8lv5nJ4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/qBUY8lv5nJ4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RgZ7ohHwWZc",
+  category: "I-SERIES",
+  member: "미연,우기",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/RgZ7ohHwWZc/hqdefault.jpg",
+  alt: "미연,우기 - (여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kGXLROgEnyw",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/kGXLROgEnyw/hqdefault.jpg",
+  alt: "슈화 - (여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6-GnSGXxWc8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/6-GnSGXxWc8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=oD9pU98pizA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/oD9pU98pizA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6GeXJH_QIrE",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/6GeXJH_QIrE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3CY33hfnUy4",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/3CY33hfnUy4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ctq1jDzX34o",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Ctq1jDzX34o/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4G9MLumJLJI",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/4G9MLumJLJI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_ttzcNoj1nQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/_ttzcNoj1nQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=p8WDE-tsKv8",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/p8WDE-tsKv8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kLs5rsrbamg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/kLs5rsrbamg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1RRPkd9toZw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/1RRPkd9toZw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yFpYfOrGkdw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/yFpYfOrGkdw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vhkltG7Tb84",
+  category: "I-SERIES",
+  member: "우기,슈화",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/vhkltG7Tb84/hqdefault.jpg",
+  alt: "우기,슈화 - (여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ch91ZeS0zEw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/ch91ZeS0zEw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5t6XK3h-sTI",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/5t6XK3h-sTI/hqdefault.jpg",
+  alt: "우기 - (여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_tghpBwByM0",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/_tghpBwByM0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BPKyBsqE7Lg",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/BPKyBsqE7Lg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9zH2JuvaT8Y",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/9zH2JuvaT8Y/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=W2CqsPE5Gtw",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/W2CqsPE5Gtw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SUFzczU-ahU",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/SUFzczU-ahU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)",
+  title: "(여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=O5pRVUqzAuA",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/O5pRVUqzAuA/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GOcJMC_JR7M",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/GOcJMC_JR7M/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)",
+  title: "(여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)"
+},
+// 🔽 새로 불러온 6개 항목
+{
+  link: "https://www.youtube.com/watch?v=mttovhSQVVs",
+  category: "I-SERIES",
+  member: "민니,우기",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/mttovhSQVVs/hqdefault.jpg",
+  alt: "민니,우기 - (여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
+  title: "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1CPQFG4k97k",
+  category: "I-SERIES",
+  member: "민니,우기",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/1CPQFG4k97k/hqdefault.jpg",
+  alt: "민니,우기 - (여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
+  title: "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6oZ80LMxsuE",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/6oZ80LMxsuE/hqdefault.jpg",
+  alt: "미연 - (여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
+  title: "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lmADefjjV14",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/lmADefjjV14/hqdefault.jpg",
+  alt: "슈화 - (여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
+  title: "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uFA8Y3tKHjU",
+  category: "I-SERIES",
+  member: "슈화",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/uFA8Y3tKHjU/hqdefault.jpg",
+  alt: "슈화 - (여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
+  title: "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)"
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
