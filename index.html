@@ -12,7 +12,6 @@
       color: #fff;
       text-align: center;
     }
-
     .header-bar {
       display: flex;
       justify-content: space-between;
@@ -20,7 +19,6 @@
       padding: 60px 20px 30px;
       position: relative;
     }
-
     #mainTitle {
       font-size: 28px;
       color: #fff;
@@ -29,20 +27,17 @@
       left: 50%;
       transform: translateX(-50%);
     }
-
     .sns-icons {
       display: flex;
       gap: 6px;
       position: absolute;
       right: 40px;
     }
-
     .sns-icons img {
       width: 20px;
       height: 20px;
       filter: grayscale(100%);
     }
-
     .category-section {
       display: flex;
       flex-wrap: wrap;
@@ -50,7 +45,6 @@
       gap: 10px;
       padding: 30px 10px 10px;
     }
-
     .category-line {
       display: flex;
       flex-wrap: wrap;
@@ -58,7 +52,6 @@
       gap: 10px;
       margin-bottom: 10px;
     }
-
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
@@ -70,7 +63,6 @@
       border: none;
       text-decoration: none;
     }
-
     .top-bar {
       display: flex;
       justify-content: center;
@@ -78,7 +70,6 @@
       gap: 10px;
       margin: 20px 0;
     }
-
     .top-bar input {
       padding: 12px 16px;
       border-radius: 24px;
@@ -86,7 +77,6 @@
       width: 260px;
       font-size: 16px;
     }
-
     .top-bar button {
       background-color: #fff;
       border: none;
@@ -98,12 +88,10 @@
       justify-content: center;
       align-items: center;
     }
-
     .top-bar button img {
       width: 24px;
       height: 24px;
     }
-
     .card-container {
       display: flex;
       flex-wrap: wrap;
@@ -111,39 +99,37 @@
       gap: 10px;
       padding: 10px;
     }
-
     .card {
-  background-color: transparent;
-  border-radius: 0;
-  overflow: hidden;
-  text-align: left;
-  transition: transform 0.2s, box-shadow 0.2s;
-  text-decoration: none;
-  cursor: pointer;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-}
-
-.card img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 0;
-  margin: 0;
-  object-fit: cover;
-  aspect-ratio: 16 / 9; /* 이것도 매우 중요 */
-  background-color: #000;
-}
-
-.card-title {
+      background-color: #222;
+      border-radius: 10px;
+      overflow: hidden;
+      text-align: left;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      line-height: 0;
+      object-fit: cover;
+      background-color: #000;
+    }
+    .card-title {
   font-size: 13px;
   padding: 6px;
   margin: 0;
   color: #fff;
-  background-color: #1a1a1a; /* ✅ 어두운 회색 배경 추가 */
+  background-color: #222; /* ✅ 어두운 회색 배경 추가 */
 }
-
     @media (max-width: 768px) {
       .header-bar {
         flex-direction: column;
@@ -184,13 +170,11 @@
         width: 45vw;
       }
     }
-
     @media (min-width: 1025px) {
       .card {
         width: calc(100% / 5 - 12px);
       }
     }
-
     #loadMoreBtn {
       margin: 20px auto;
       padding: 10px 20px;
@@ -243,6 +227,7 @@
   </div>
 
   <div class="card-container" id="allCards"></div>
+
   <button id="loadMoreBtn">더보기</button>
 
   <script src="cards.js"></script>
@@ -293,8 +278,10 @@
       loadMoreBtn.addEventListener("click", () => renderCards(all));
 
       searchInput.addEventListener("input", function () {
-        const keyword = this.value.toLowerCase();
-        const filtered = all.filter(c => c.title.toLowerCase().includes(keyword));
+        const keywords = this.value.toLowerCase().split(/[\s,]+/);
+        const filtered = all.filter(c =>
+          keywords.every(kw => c.title.toLowerCase().includes(kw))
+        );
         currentIndex = 0;
         renderCards(filtered);
       });
