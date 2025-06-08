@@ -255,27 +255,51 @@
     }
 
     function applyAllFilters() {
-      const rawInput = document.getElementById("searchInput").value.toLowerCase();
-      const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
+  const rawInput = document.getElementById("searchInput").value.toLowerCase();
+  const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
 
-      const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
 
-      const filtered = all.filter(card => {
-        const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-        const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-          return match && match[1] === month;
-        });
-        const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-        const matchesKeyword = keywords.every(kw => card.title.toLowerCase().includes(kw));
+  const memberEnglishToKorean = {
+    soyeon: "소연",
+    miyeon: "미연",
+    minnie: "민니",
+    yuqi: "우기",
+    shuhua: "슈화"
+  };
 
-        return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-      });
+  const filtered = all.filter(card => {
+    const titleLower = card.title.toLowerCase();
+    let detectedMember = card.member;
 
-      currentIndex = 0;
-      renderCards(filtered);
+    // 영어이름 감지 시 해당 멤버명 추가
+    for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
+      if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
+        detectedMember += `,${kor}`;
+      }
+    }
+
+    // 검색 키워드에도 영어 이름을 한글로 변환하여 포함되도록 추가
+    const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
+      return title.includes(eng) ? `${title} ${kor}` : title;
+    }, titleLower);
+
+    const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+    const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+      return match && match[1] === month;
+    });
+    const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
+    const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
+
+    return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+  });
+
+  currentIndex = 0;
+  renderCards(filtered);
+
     }
 
     document.addEventListener("DOMContentLoaded", () => {
