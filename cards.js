@@ -16885,7 +16885,17 @@ const allCards = [
   thumbnail: "https://i.ytimg.com/vi/sPz8C3MSdVs/hqdefault.jpg",
   alt: "아이들 - [I-LIVE] So Sweet~ Happy Valentine's Day! (2020-02-15)",
   title: "[I-LIVE] So Sweet~ Happy Valentine's Day! (2020-02-15)"
-}
+},
+  {
+  link: "https://drive.google.com/file/d/1vnOewVhXoLKasKrhbrf7SBkk2elQ1Nwz/preview",
+  category: "ETC",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "images/default-thumbnail.jpg",
+  alt: "아이들 - 구글 드라이브 영상 (2024-10-15)",
+  title: "아이들 - 구글 드라이브 영상 (2024-10-15)"
+},
+
 
 
 
