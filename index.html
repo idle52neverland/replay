@@ -121,19 +121,20 @@
 
   .card-title {
   font-size: 13px;
-  padding: 6px;
+  line-height: 18px;      /* 한 줄 높이 18px 고정 */
+  height: 72px;           /* 18px × 4줄 = 72px 정확히 고정 */
+  padding: 0;             /* 상하 여백 없애서 총 높이 딱 맞춤 */
   margin: 0;
   color: #fff;
   background-color: #222;
-  line-height: 16px;         /* 1줄 높이 */
-  height: 64px;              /* 16px × 4줄 = 64px */
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;
-  box-sizing: content-box;
+  box-sizing: content-box;  /* 패딩 제외한 내용만 기준 */
 }
+
 
     #loadMoreBtn {
       display: block;
