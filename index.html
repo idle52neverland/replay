@@ -126,22 +126,23 @@
       color: #fff;
       background-color: #222;
       display: -webkit-box;
-      -webkit-line-clamp: 4; /* 4줄까지 표시 */
+      -webkit-line-clamp: 4;
       -webkit-box-orient: vertical;
       overflow: hidden;
       text-overflow: ellipsis;
-      min-height: calc(1.2em * 4 + 12px); /* 4줄 높이 확보 */
+      line-height: 1.2em;
+      max-height: calc(1.2em * 4); /* 정확히 4줄만 보이도록 고정 */
     }
 
     #loadMoreBtn {
       display: block;
-      margin: 20px auto;
+      margin: 30px auto;
       background-color: #fff;
       color: #111;
       font-size: 14px;
       font-weight: bold;
       border: none;
-      border-radius: 50%; /* 원형 모양 */
+      border-radius: 50%;
       width: 60px;
       height: 60px;
       cursor: pointer;
