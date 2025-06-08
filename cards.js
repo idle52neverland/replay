@@ -13027,7 +13027,136 @@ const allCards = [
   thumbnail: "https://i.ytimg.com/vi/McgN9q0zLyE/hqdefault.jpg",
   alt: "아이들 - ★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
   title: "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)"
-}
+},
+  // 🔽 새로 불러온 14개 항목
+{
+  link: "https://youtu.be/YP1NyGaa4uU?si=wfeE0rBNsRVZTifB",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/YP1NyGaa4uU/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)",
+  title: "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)"
+},
+{
+  link: "https://youtu.be/ax45oDJiQh0?si=DVG8rKAd-OZRWixL",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ax45oDJiQh0/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)",
+  title: "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)"
+},
+{
+  link: "https://youtu.be/WjCYHBcNS08?si=5yHSXtAR1kh9K2Cf",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/WjCYHBcNS08/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)",
+  title: "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)"
+},
+{
+  link: "https://youtu.be/pQpXPxBRzqE?si=9w5a5UCWIm6C1IJq",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/pQpXPxBRzqE/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)",
+  title: "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)"
+},
+{
+  link: "https://youtu.be/--jLgCIDrC8?si=QYa9Q0-f37JnvJov",
+  category: "I-SERIES",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/--jLgCIDrC8/hqdefault.jpg",
+  alt: "우기 - 우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)",
+  title: "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)"
+},
+{
+  link: "https://youtu.be/x2Mu2Zk_CVk?si=E4q3vxpia_fa-ZpQ",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/x2Mu2Zk_CVk/hqdefault.jpg",
+  alt: "아이들 - i-dle (아이들) 'Good Thing' 응원법ㅣSUB (2025-05-19)",
+  title: "i-dle (아이들) 'Good Thing' 응원법ㅣSUB (2025-05-19)"
+},
+{
+  link: "https://youtu.be/cD47izQfxTs?si=GF8nRZrqzaCcleK1",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/cD47izQfxTs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)",
+  title: "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)"
+},
+{
+  link: "https://youtu.be/wyNWtNSUqs4?si=HDFs8zjkLsf6gdxn",
+  category: "I-SERIES",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/wyNWtNSUqs4/hqdefault.jpg",
+  alt: "소연 - 전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)",
+  title: "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)"
+},
+{
+  link: "https://youtu.be/NV-pwtijKWg?si=BClcjPpRp_kVo664",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/NV-pwtijKWg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)",
+  title: "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)"
+},
+{
+  link: "https://youtu.be/iG6KRfUE_hs?si=7Q_mKzcL4JQY8Fgy",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/iG6KRfUE_hs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)",
+  title: "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)"
+},
+{
+  link: "https://youtu.be/M9MfR2Y6unk?si=-6jocdqAAQeSTyTy",
+  category: "I-SERIES",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/M9MfR2Y6unk/hqdefault.jpg",
+  alt: "민니 - 민니(MINNIE) - 'HER' 응원법ㅣSUB (2025-01-21)",
+  title: "민니(MINNIE) - 'HER' 응원법ㅣSUB (2025-01-21)"
+},
+{
+  link: "https://youtu.be/DgF3tjsujdY?si=aFvZirHgbJkuvAAc",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/DgF3tjsujdY/hqdefault.jpg",
+  alt: "아이들 - 2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
+  title: "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
+},
+{
+  link: "https://youtu.be/DPykR20ZxAo?si=bnd1dZXc21_-Yddf",
+  category: "I-SERIES",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/DPykR20ZxAo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)",
+  title: "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)"
+},
+{
+  link: "https://youtu.be/QZOvAdQqbjk?si=6Jv8iz4fP2qNuzwb",
+  category: "I-SERIES",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/QZOvAdQqbjk/hqdefault.jpg",
+  alt: "미연 - 미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)",
+  title: "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)"
+},
+
+
 
 
 
