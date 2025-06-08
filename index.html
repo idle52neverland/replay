@@ -119,26 +119,25 @@
       background-color: #000;
     }
 
-  .card-title {
-  font-size: 13px;
-  line-height: 18px;      /* 한 줄 높이 18px 고정 */
-  height: 72px;           /* 18px × 4줄 = 72px 정확히 고정 */
-  padding: 0;             /* 상하 여백 없애서 총 높이 딱 맞춤 */
-  margin: 0;
-  color: #fff;
-  background-color: #222;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  text-overflow: ellipsis;
-  box-sizing: content-box;  /* 패딩 제외한 내용만 기준 */
-}
-
+    .card-title {
+      font-size: 13px;
+      line-height: 18px;
+      height: 72px;
+      padding: 0;
+      margin: 0;
+      color: #fff;
+      background-color: #222;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      text-overflow: ellipsis;
+      box-sizing: content-box;
+    }
 
     #loadMoreBtn {
       display: block;
-      margin: 30px auto;
+      margin: 60px auto 30px; /* 여기를 수정: 위 여백 추가 */
       background-color: #fff;
       color: #111;
       font-size: 14px;
@@ -200,7 +199,7 @@
   </div>
 
   <div class="card-container" id="allCards"></div>
-  <button id="loadMoreBtn">더보기</button>
+  <button id="loadMoreBtn" type="button">더보기</button>
 
   <script src="cards.js"></script>
   <script>
@@ -233,6 +232,7 @@
           `;
           card.addEventListener("click", (e) => {
             e.preventDefault();
+            e.stopPropagation(); // 이벤트 전파 방지
             window.open(data.link, "_blank");
           });
           container.appendChild(card);
