@@ -13155,6 +13155,3557 @@ const allCards = [
   alt: "미연 - 미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)",
   title: "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)"
 },
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=GHCfSsJzbjQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/GHCfSsJzbjQ/hqdefault.jpg",
+  alt: "아이들 - 아이들((G)I-DLE) - Super Lady + LATATA + Wife +...아이들 컷 | mynavi presents The Performance 2025 | 250329 (2025-03-29)",
+  title: "아이들((G)I-DLE) - Super Lady + LATATA + Wife +...아이들 컷 | mynavi presents The Performance 2025 | 250329 (2025-03-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cJFIsWwKDME",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/cJFIsWwKDME/hqdefault.jpg",
+  alt: "소연 - [가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) | Gayo Daejejeon 2024 | MBC250129 (2025-01-29)",
+  title: "[가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) | Gayo Daejejeon 2024 | MBC250129 (2025-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=j7N-VOV4gFg",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/j7N-VOV4gFg/hqdefault.jpg",
+  alt: "소연 - [가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) | Gayo Daejejeon 2024 | MBC250129 (2025-01-29)",
+  title: "[가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) | Gayo Daejejeon 2024 | MBC250129 (2025-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7oDFUj0QClM",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/7oDFUj0QClM/hqdefault.jpg",
+  alt: "소연 - [2024 MBC 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER), MBC 250129 방송 (2025-01-29)",
+  title: "[2024 MBC 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER), MBC 250129 방송 (2025-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=J78pcWY_dWQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/J78pcWY_dWQ/hqdefault.jpg",
+  alt: "아이들 - [2024 MBC 가요대제전] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)",
+  title: "[2024 MBC 가요대제전] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HXB9512fq6Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/HXB9512fq6Y/hqdefault.jpg",
+  alt: "아이들 - [4K] [#2024MAMA] MEGA STAGE | (여자)아이들 ((G)I-DLE)-Super Lady (MAMA ver.)+나는 아픈 건 딱 질색이니까 (MAMA ver.) (2025-01-07)",
+  title: "[4K] [#2024MAMA] MEGA STAGE | (여자)아이들 ((G)I-DLE)-Super Lady (MAMA ver.)+나는 아픈 건 딱 질색이니까 (MAMA ver.) (2025-01-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lxchJGvOT48",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/lxchJGvOT48/hqdefault.jpg",
+  alt: "우기 - [제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | JTBC 250107 방송 (2025-01-06)",
+  title: "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | JTBC 250107 방송 (2025-01-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dEBPXEcYQAw",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/dEBPXEcYQAw/hqdefault.jpg",
+  alt: "소연 - (G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #MBCWORLD (2025-01-06)",
+  title: "(G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #MBCWORLD (2025-01-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yOQVKhBEHI4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/yOQVKhBEHI4/hqdefault.jpg",
+  alt: "아이들 - [제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | JTBC 250106 방송 (2025-01-05)",
+  title: "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | JTBC 250106 방송 (2025-01-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VReN0nfs1jM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/VReN0nfs1jM/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞ (2024-12-21)",
+  title: "(여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞ (2024-12-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1ernZvy8wCM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/1ernZvy8wCM/hqdefault.jpg",
+  alt: "아이들 - INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
+  title: "INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fndkyhCZDmI",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/fndkyhCZDmI/hqdefault.jpg",
+  alt: "미연 - 길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
+  title: "길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=E-yNYbu1ZZs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/E-yNYbu1ZZs/hqdefault.jpg",
+  alt: "아이들 - 🏆 (여자)아이들 MMA 대상 수상소감 풀버전 | MMA 베스트레코드상 수상🎉 (2024-11-30)",
+  title: "🏆 (여자)아이들 MMA 대상 수상소감 풀버전 | MMA 베스트레코드상 수상🎉 (2024-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6iIA3p3DjvM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/6iIA3p3DjvM/hqdefault.jpg",
+  alt: "아이들 - [#MMA2024] (여자)아이들 - LATATA + 한 + LION + TOMBOY + 퀸카 + 나는 아픈 건 딱 질색이니까 (MMA ver.) | #여자아이들 #GIDLE (2024-11-30)",
+  title: "[#MMA2024] (여자)아이들 - LATATA + 한 + LION + TOMBOY + 퀸카 + 나는 아픈 건 딱 질색이니까 (MMA ver.) | #여자아이들 #GIDLE (2024-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=H0WnO1Hq2xk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/H0WnO1Hq2xk/hqdefault.jpg",
+  alt: "아이들 - [#2024MAMA] (여자)아이들 ((G)I-DLE)-Super Lady (MAMA ver.)+나는 아픈 건 딱 질색이니까 (MAMA ver.) | Mnet 241123 방송 (2024-11-23)",
+  title: "[#2024MAMA] (여자)아이들 ((G)I-DLE)-Super Lady (MAMA ver.)+나는 아픈 건 딱 질색이니까 (MAMA ver.) | Mnet 241123 방송 (2024-11-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4VBhJGzHcyc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/4VBhJGzHcyc/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
+  title: "(G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ncC4pDKd6j4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/ncC4pDKd6j4/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
+  title: "(G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OjruidYuwIQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/OjruidYuwIQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들의 축하공연 ‘클락션’, ‘나는 아픈 건 딱 질색이니까’ [제3회 청룡시리즈어워즈] | KBS 240719 방송 (2024-07-19)",
+  title: "(여자)아이들의 축하공연 ‘클락션’, ‘나는 아픈 건 딱 질색이니까’ [제3회 청룡시리즈어워즈] | KBS 240719 방송 (2024-07-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=K2BKH9qcSv4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/K2BKH9qcSv4/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.853 | Mnet 240718 방송 (2024-07-18)",
+  title: "(여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.853 | Mnet 240718 방송 (2024-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ja-nt_5WH8A",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/ja-nt_5WH8A/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  title: "[MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pJw06lWf_CU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/pJw06lWf_CU/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) -  Intro + Super Lady | Show! MusicCore | MBC240717방송 (2024-07-18)",
+  title: "(G)I-DLE ((여자)아이들) -  Intro + Super Lady | Show! MusicCore | MBC240717방송 (2024-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bbmoDGNY3eU",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/bbmoDGNY3eU/hqdefault.jpg",
+  alt: "미연 - [MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  title: "[MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=r10t7535z0o",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/r10t7535z0o/hqdefault.jpg",
+  alt: "미연 - [MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  title: "[MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uZRlAMCbA_w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/uZRlAMCbA_w/hqdefault.jpg",
+  alt: "아이들 - [안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│@SBS Inkigayo 240714 (2024-07-14)",
+  title: "[안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│@SBS Inkigayo 240714 (2024-07-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=47j_T2XnhEU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/47j_T2XnhEU/hqdefault.jpg",
+  alt: "아이들 - [K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) @MusicBank 240712 (2024-07-12)",
+  title: "[K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) @MusicBank 240712 (2024-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VaM-57VmAbk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/VaM-57VmAbk/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' (여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)",
+  title: "'최초 공개' (여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=DSud7-5sA04",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/DSud7-5sA04/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  title: "[MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4EsLy_HgVCQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/4EsLy_HgVCQ/hqdefault.jpg",
+  alt: "아이들 - [한성대학교 방송국 HBS] 240530 (여자)아이들 FULL 영상 (2024-06-13)",
+  title: "[한성대학교 방송국 HBS] 240530 (여자)아이들 FULL 영상 (2024-06-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=haV9i4JwkB0",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/haV9i4JwkB0/hqdefault.jpg",
+  alt: "소연 - 소연 빠진 (여자)아이들 (G)I-DLE 240530 한성대학교 축제 35분 full 미니 콘서트 (2024-05-30)",
+  title: "소연 빠진 (여자)아이들 (G)I-DLE 240530 한성대학교 축제 35분 full 미니 콘서트 (2024-05-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fS_-J96XGIs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/fS_-J96XGIs/hqdefault.jpg",
+  alt: "아이들 - [골든 웨이브] (G)I-DLE ((여자)아이들) - '퀸카 (Queencard)' ♪ | JTBC 240504 방송 (2024-05-04)",
+  title: "[골든 웨이브] (G)I-DLE ((여자)아이들) - '퀸카 (Queencard)' ♪ | JTBC 240504 방송 (2024-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=r--p1Vu6rfM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/r--p1Vu6rfM/hqdefault.jpg",
+  alt: "아이들 - [골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | JTBC 240504 방송 (2024-05-04)",
+  title: "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | JTBC 240504 방송 (2024-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zTtV88p9bqw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/zTtV88p9bqw/hqdefault.jpg",
+  alt: "아이들 - [골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | JTBC 240504 방송 (2024-05-04)",
+  title: "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | JTBC 240504 방송 (2024-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RSemP8bshH4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/RSemP8bshH4/hqdefault.jpg",
+  alt: "아이들 - [골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | JTBC 240504 방송 (2024-05-04)",
+  title: "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | JTBC 240504 방송 (2024-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=t4i1n0Dz2yE",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/t4i1n0Dz2yE/hqdefault.jpg",
+  alt: "우기 - 우기 ((여자)아이들) - FREAK #엠카운트다운 EP.841 | Mnet 240502 방송 (2024-05-02)",
+  title: "우기 ((여자)아이들) - FREAK #엠카운트다운 EP.841 | Mnet 240502 방송 (2024-05-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zbzrXX9_bpk",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2024",
+  thumbnail: "https://i.ytimg.com/vi/zbzrXX9_bpk/hqdefault.jpg",
+  alt: "민니 - Stage EP8： MINNIE \"Queencard\" 【CHUANG ASIA】 (2024-03-23)",
+  title: "Stage EP8： MINNIE \"Queencard\" 【CHUANG ASIA】 (2024-03-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XJqQzfniLYE",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/XJqQzfniLYE/hqdefault.jpg",
+  alt: "미연 - [2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), MBC 231231 방송 (2023-12-31)",
+  title: "[2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), MBC 231231 방송 (2023-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pLIlAzpDduA",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/pLIlAzpDduA/hqdefault.jpg",
+  alt: "소연 - [2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), MBC 231231 방송 (2023-12-31)",
+  title: "[2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), MBC 231231 방송 (2023-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TXEwyCmEb_g",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/TXEwyCmEb_g/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들×이국주×신기루의 어디서도 볼 수 없는 축하무대 ＜퀸카♬＞ #SBS연예대상 #SBSenter (2023-12-30)",
+  title: "(여자)아이들×이국주×신기루의 어디서도 볼 수 없는 축하무대 ＜퀸카♬＞ #SBS연예대상 #SBSenter (2023-12-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bdNc_az976Y",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/bdNc_az976Y/hqdefault.jpg",
+  alt: "미연 - [2023 MBC 연기대상] (G)I-DLE 미연((여자)아이들)의 축하공연! ＜달빛에 그려지는♬＞, MBC 231230 방송 (2023-12-30)",
+  title: "[2023 MBC 연기대상] (G)I-DLE 미연((여자)아이들)의 축하공연! ＜달빛에 그려지는♬＞, MBC 231230 방송 (2023-12-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yv8LV7DuPDc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/yv8LV7DuPDc/hqdefault.jpg",
+  alt: "아이들 - [#2023MAMA] (G)I-DLE ((여자)아이들) - 퀸카 (Queencard) (MAMA ver.) | Mnet 231129 방송 (2023-11-29)",
+  title: "[#2023MAMA] (G)I-DLE ((여자)아이들) - 퀸카 (Queencard) (MAMA ver.) | Mnet 231129 방송 (2023-11-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UYXYXnroJH0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/UYXYXnroJH0/hqdefault.jpg",
+  alt: "아이들 - [STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (2023-06-16)",
+  title: "[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (2023-06-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=o7o5hnDPCb4",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/o7o5hnDPCb4/hqdefault.jpg",
+  alt: "미연 - 'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운 EP.800 | Mnet 230608 방송 (2023-06-08)",
+  title: "'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운 EP.800 | Mnet 230608 방송 (2023-06-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eukB2gXl7Mg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/eukB2gXl7Mg/hqdefault.jpg",
+  alt: "아이들 - [앵콜캠4K] (여자)아이들 '퀸카' 인기가요 1위 앵콜 직캠 ((G)I-DLE 'Queencard' Encore Fancam) | @SBS Inkigayo 230604 (2023-06-04)",
+  title: "[앵콜캠4K] (여자)아이들 '퀸카' 인기가요 1위 앵콜 직캠 ((G)I-DLE 'Queencard' Encore Fancam) | @SBS Inkigayo 230604 (2023-06-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JFa8aKqumJ0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/JFa8aKqumJ0/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  title: "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7G0ahokjOzg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/7G0ahokjOzg/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송 (2023-06-03)",
+  title: "[쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송 (2023-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cBmPs8hFMms",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/cBmPs8hFMms/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  title: "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-u3qzFjLe0w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/-u3qzFjLe0w/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  title: "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230603방송 (2023-06-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Oc1dmERJcVs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Oc1dmERJcVs/hqdefault.jpg",
+  alt: "아이들 - 퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230602 방송 (2023-06-02)",
+  title: "퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230602 방송 (2023-06-02)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=UhD8-HYw13A",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/UhD8-HYw13A/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.6.1 (2023-06-01)",
+  title: "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.6.1 (2023-06-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zyi9UeBkdfc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/zyi9UeBkdfc/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.799 | Mnet 230601 방송 (2023-06-01)",
+  title: "(여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.799 | Mnet 230601 방송 (2023-06-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9NhiLpyqPg8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/9NhiLpyqPg8/hqdefault.jpg",
+  alt: "아이들 - [EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.798 (2023-05-29)",
+  title: "[EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.798 (2023-05-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bDGEH-eQdBI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/bDGEH-eQdBI/hqdefault.jpg",
+  alt: "아이들 - [덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언┃EP.476 (2023-05-29)",
+  title: "[덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언┃EP.476 (2023-05-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RfKjjcXR5Go",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/RfKjjcXR5Go/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Queencard @인기가요 inkigayo 20230528 (2023-05-28)",
+  title: "(G)I-DLE((여자)아이들) - Queencard @인기가요 inkigayo 20230528 (2023-05-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=79fqy6rcMx0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/79fqy6rcMx0/hqdefault.jpg",
+  alt: "아이들 - [앵콜캠4K] (여자)아이들 '퀸카' 인기가요 1위 앵콜 직캠 ((G)I-DLE 'Queencard' Encore Fancam) | @SBS Inkigayo 230528 (2023-05-28)",
+  title: "[앵콜캠4K] (여자)아이들 '퀸카' 인기가요 1위 앵콜 직캠 ((G)I-DLE 'Queencard' Encore Fancam) | @SBS Inkigayo 230528 (2023-05-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=x25kWhjvaks",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/x25kWhjvaks/hqdefault.jpg",
+  alt: "아이들 - [안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230528 (2023-05-28)",
+  title: "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230528 (2023-05-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LArjJdrbC10",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/LArjJdrbC10/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (2023-05-27)",
+  title: "[쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (2023-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0L_Lb9gA4hk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/0L_Lb9gA4hk/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  title: "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rksWFuRwXyU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/rksWFuRwXyU/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  title: "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Etb85FjfJRI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Etb85FjfJRI/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  title: "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230527방송 (2023-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HEe1L6yHU1Q",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/HEe1L6yHU1Q/hqdefault.jpg",
+  alt: "아이들 - [인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)",
+  title: "[인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q5zeQneOv1E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Q5zeQneOv1E/hqdefault.jpg",
+  alt: "아이들 - [4K] 230526 (여자)아이들 직캠 Full ver | 2023 고려대학교 입실렌티 (LATATA, MY BAG, Allergy, 퀸카(Queen card), TOMBOY) (2023-05-26)",
+  title: "[4K] 230526 (여자)아이들 직캠 Full ver | 2023 고려대학교 입실렌티 (LATATA, MY BAG, Allergy, 퀸카(Queen card), TOMBOY) (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UqXgiCQurEw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/UqXgiCQurEw/hqdefault.jpg",
+  alt: "아이들 - [4K](여자)아이들 '퀸카 (Queencard)' 뮤직뱅크 1위 앵콜직캠((G)I-DLE Encore Facecam) @뮤직뱅크(Music Bank) 230526 (2023-05-26)",
+  title: "[4K](여자)아이들 '퀸카 (Queencard)' 뮤직뱅크 1위 앵콜직캠((G)I-DLE Encore Facecam) @뮤직뱅크(Music Bank) 230526 (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4ELtDIsTSfM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/4ELtDIsTSfM/hqdefault.jpg",
+  alt: "아이들 - 퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230526 방송 (2023-05-26)",
+  title: "퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230526 방송 (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JCO8clSAZlQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/JCO8clSAZlQ/hqdefault.jpg",
+  alt: "아이들 - Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230526 (2023-05-26)",
+  title: "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230526 (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5Yx_Z8AVWAA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/5Yx_Z8AVWAA/hqdefault.jpg",
+  alt: "아이들 - [K-Choreo 8K] (여자)아이들 직캠 '퀸카 (Queencard)' ((G)I-DLE Choreography) @MusicBank 230526 (2023-05-26)",
+  title: "[K-Choreo 8K] (여자)아이들 직캠 '퀸카 (Queencard)' ((G)I-DLE Choreography) @MusicBank 230526 (2023-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=D-IuceGbnO8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/D-IuceGbnO8/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
+  title: "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2023.5.25 (2023-05-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LnCPhPXoU-M",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/LnCPhPXoU-M/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
+  title: "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.25 (2023-05-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EdpeJVdEzec",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/EdpeJVdEzec/hqdefault.jpg",
+  alt: "아이들 - '1위' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송 (2023-05-25)",
+  title: "'1위' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송 (2023-05-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Jv-PJdAv8bw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Jv-PJdAv8bw/hqdefault.jpg",
+  alt: "아이들 - [단독샷캠4K] (여자)아이들 '퀸카' 단독샷 별도녹화│(G)I-DLE 'Queencard' ONE TAKE STAGE @SBS Inkigayo 230521 (2023-05-25)",
+  title: "[단독샷캠4K] (여자)아이들 '퀸카' 단독샷 별도녹화│(G)I-DLE 'Queencard' ONE TAKE STAGE @SBS Inkigayo 230521 (2023-05-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3pcIVZUKbDY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/3pcIVZUKbDY/hqdefault.jpg",
+  alt: "아이들 - 230524 (G)I-DLE (여자)아이들 4K Full Ver 'LATATA+MY BAG+Allergy+퀸카+TOMBOY+말리지마'｜동국대 축제 (2023-05-24)",
+  title: "230524 (G)I-DLE (여자)아이들 4K Full Ver 'LATATA+MY BAG+Allergy+퀸카+TOMBOY+말리지마'｜동국대 축제 (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8uGe8vnJpSs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/8uGe8vnJpSs/hqdefault.jpg",
+  alt: "아이들 - [쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. l Show Champion l EP.476 (2023-05-24)",
+  title: "[쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. l Show Champion l EP.476 (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=DVknvQ-vklI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/DVknvQ-vklI/hqdefault.jpg",
+  alt: "아이들 - [쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (2023-05-24)",
+  title: "[쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=i0BNsV3mtHc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/i0BNsV3mtHc/hqdefault.jpg",
+  alt: "아이들 - [COMEBACK] (여자)아이들 ((G)I-DLE) - Queencard (퀸카) l Show Champion l EP.476 (2023-05-24)",
+  title: "[COMEBACK] (여자)아이들 ((G)I-DLE) - Queencard (퀸카) l Show Champion l EP.476 (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hFG6wnBrecg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/hFG6wnBrecg/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 230523] (2023-05-24)",
+  title: "(G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 230523] (2023-05-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qX8q9638Psw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/qX8q9638Psw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, ((여자)아이들), THE SHOW CHOICE! [THE SHOW 230523] (2023-05-23)",
+  title: "(G)I-DLE, ((여자)아이들), THE SHOW CHOICE! [THE SHOW 230523] (2023-05-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8gSoQFnmlbs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/8gSoQFnmlbs/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Queencard ((여자)아이들, 퀸카) [THE SHOW 230523] (2023-05-23)",
+  title: "(G)I-DLE, Queencard ((여자)아이들, 퀸카) [THE SHOW 230523] (2023-05-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yVjdZFw7WfE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/yVjdZFw7WfE/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Queencard @인기가요 inkigayo 20230521 (2023-05-21)",
+  title: "(G)I-DLE((여자)아이들) - Queencard @인기가요 inkigayo 20230521 (2023-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mPVjLQROmCU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/mPVjLQROmCU/hqdefault.jpg",
+  alt: "아이들 - [안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230521 (2023-05-21)",
+  title: "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230521 (2023-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eVl-rnILdvY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/eVl-rnILdvY/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230520방송 (2023-05-20)",
+  title: "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230520방송 (2023-05-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-mkuPvg45Ug",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/-mkuPvg45Ug/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230520방송 (2023-05-20)",
+  title: "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230520방송 (2023-05-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kZuFOjiU-4A",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/kZuFOjiU-4A/hqdefault.jpg",
+  alt: "아이들 - (ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS 230519 (2023-05-19)",
+  title: "(ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS 230519 (2023-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-cnGceAdbs4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/-cnGceAdbs4/hqdefault.jpg",
+  alt: "아이들 - [K-Choreo 8K HDR] (여자)아이들 직캠 '퀸카 (Queencard)' ((G)I-DLE Choreography) @MusicBank 230519 (2023-05-19)",
+  title: "[K-Choreo 8K HDR] (여자)아이들 직캠 '퀸카 (Queencard)' ((G)I-DLE Choreography) @MusicBank 230519 (2023-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5UDrtGXpgIo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/5UDrtGXpgIo/hqdefault.jpg",
+  alt: "아이들 - 퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230519 방송 (2023-05-19)",
+  title: "퀸카 (Queencard) - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 230519 방송 (2023-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RWXyNCP2PfA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/RWXyNCP2PfA/hqdefault.jpg",
+  alt: "아이들 - Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230519 (2023-05-19)",
+  title: "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230519 (2023-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=T-E9wr2iI_Q",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/T-E9wr2iI_Q/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
+  title: "'최초 공개' (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=S02z8EzbkpA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/S02z8EzbkpA/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE Performance at Golden Disc Awards 2023✨ (2023-05-18)",
+  title: "(G)I-DLE Performance at Golden Disc Awards 2023✨ (2023-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aXaU6ZFOLlk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/aXaU6ZFOLlk/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
+  title: "'최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=keSrzyAH7j8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/keSrzyAH7j8/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 8K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
+  title: "[MPD직캠] (여자)아이들 직캠 8K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Mb5a7oO_XnQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Mb5a7oO_XnQ/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 8K 'Allergy' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
+  title: "[MPD직캠] (여자)아이들 직캠 8K 'Allergy' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=cXkw8DqJO4c",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/cXkw8DqJO4c/hqdefault.jpg",
+  alt: "민니 - [KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) | Mnet 230406 방송 (2023-04-06)",
+  title: "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) | Mnet 230406 방송 (2023-04-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dEjueKqb_II",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/dEjueKqb_II/hqdefault.jpg",
+  alt: "아이들 - 🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 | KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)",
+  title: "🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 | KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=tXSn9Xbt8ds",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/tXSn9Xbt8ds/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)",
+  title: "[(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ejcj1JrpnDA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Ejcj1JrpnDA/hqdefault.jpg",
+  alt: "아이들 - 大勢女團(G)I-DLE唱跳破億神曲〈Nxde〉、〈MY BAG〉、〈TOMBOY〉，全場沸騰震撼小巨蛋 (2023-01-21)",
+  title: "大勢女團(G)I-DLE唱跳破億神曲〈Nxde〉、〈MY BAG〉、〈TOMBOY〉，全場沸騰震撼小巨蛋 (2023-01-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6OnDlsmEIXw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/6OnDlsmEIXw/hqdefault.jpg",
+  alt: "아이들 - [제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜JTBC 230107 방송 (2023-01-07)",
+  title: "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜JTBC 230107 방송 (2023-01-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Njr105AHYbQ",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/Njr105AHYbQ/hqdefault.jpg",
+  alt: "소연 - [제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜JTBC 230107 방송 (2023-01-07)",
+  title: "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜JTBC 230107 방송 (2023-01-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fRrUCoE-NCM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/fRrUCoE-NCM/hqdefault.jpg",
+  alt: "아이들 - [2022 GMA] (여자)아이들_Intro + Nxde (2023-01-02)",
+  title: "[2022 GMA] (여자)아이들_Intro + Nxde (2023-01-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dI8GzxGKehM",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2023",
+  thumbnail: "https://i.ytimg.com/vi/dI8GzxGKehM/hqdefault.jpg",
+  alt: "우기 - [2022 GMA] Peder EliasX우기_If I Ain't Got You (2023-01-02)",
+  title: "[2022 GMA] Peder EliasX우기_If I Ain't Got You (2023-01-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7HkS3JiCJC4",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/7HkS3JiCJC4/hqdefault.jpg",
+  alt: "미연 - [가요대제전] LEE MUJIN X MIYEON – Dangerously(이무진 X 미연 - 덴져러슬리) FanCam | MBCMusicFestival | MBC221231방송 (2022-12-31)",
+  title: "[가요대제전] LEE MUJIN X MIYEON – Dangerously(이무진 X 미연 - 덴져러슬리) FanCam | MBCMusicFestival | MBC221231방송 (2022-12-31)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=OHS1PYKoGuQ",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/OHS1PYKoGuQ/hqdefault.jpg",
+  alt: "우기 - [2022 MBC 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP), MBC 221231 방송 (2022-12-31)",
+  title: "[2022 MBC 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP), MBC 221231 방송 (2022-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Dk89OHRhcP0",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Dk89OHRhcP0/hqdefault.jpg",
+  alt: "미연 - [2022 MBC 가요대제전] 미연 ((여자)아이들) x 이무진 - 댄저러슬리 (MIYEON x Lee Mu-jin - Dangerously), MBC 221231 방송 (2022-12-31)",
+  title: "[2022 MBC 가요대제전] 미연 ((여자)아이들) x 이무진 - 댄저러슬리 (MIYEON x Lee Mu-jin - Dangerously), MBC 221231 방송 (2022-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dpSAwFXMHSg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/dpSAwFXMHSg/hqdefault.jpg",
+  alt: "아이들 - [#2022MAMA] (G)I-DLE((여자)아이들) MAMA PERFORMANCE COMPILATION (2022 MAMA 수상자 역대 마마 무대 모아보기) (2022-12-26)",
+  title: "[#2022MAMA] (G)I-DLE((여자)아이들) MAMA PERFORMANCE COMPILATION (2022 MAMA 수상자 역대 마마 무대 모아보기) (2022-12-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yrkSpFg6Mek",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/yrkSpFg6Mek/hqdefault.jpg",
+  alt: "아이들 - [2022 가요대전 4K] (여자)아이들 'VILLAIN DIES + TOMBOY' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 221224 (2022-12-24)",
+  title: "[2022 가요대전 4K] (여자)아이들 'VILLAIN DIES + TOMBOY' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 221224 (2022-12-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SMqbGqTyyKs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/SMqbGqTyyKs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들(GIDLE), 강렬한 퍼포먼스 ＜TOMBOY♬＞ #SBS가요대전 #SBSenter (2022-12-24)",
+  title: "(여자)아이들(GIDLE), 강렬한 퍼포먼스 ＜TOMBOY♬＞ #SBS가요대전 #SBSenter (2022-12-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ckta2UBmpDo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ckta2UBmpDo/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들(GIDLE), 각자의 매력이 돋보이는 치명적인 무대 ＜Villain Dies＞ #SBS가요대전 #SBSenter (2022-12-24)",
+  title: "(여자)아이들(GIDLE), 각자의 매력이 돋보이는 치명적인 무대 ＜Villain Dies＞ #SBS가요대전 #SBSenter (2022-12-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=N4lLadNnZWc",
+  category: "STAGE PERFORMANCE",
+  member: "민니,우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/N4lLadNnZWc/hqdefault.jpg",
+  alt: "민니,우기 - 윤하×우기×민니, 음색 최강자들이 만나 부르는 ＜혜성♬＞  #SBS가요대전 #SBSenter (2022-12-24)",
+  title: "윤하×우기×민니, 음색 최강자들이 만나 부르는 ＜혜성♬＞  #SBS가요대전 #SBSenter (2022-12-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0MFZpkoAzwc",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/0MFZpkoAzwc/hqdefault.jpg",
+  alt: "미연 - 미연 (유원미) - Festival (원곡 : 엄정화) [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  title: "미연 (유원미) - Festival (원곡 : 엄정화) [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XkdQ5VeQKDw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/XkdQ5VeQKDw/hqdefault.jpg",
+  alt: "아이들 - Nxde - (G)I-DLE ((여자)아이들 | ジーアイドゥル)  [2022 KBS Song Festival] | KBS WORLD TV 221216 (2022-12-16)",
+  title: "Nxde - (G)I-DLE ((여자)아이들 | ジーアイドゥル)  [2022 KBS Song Festival] | KBS WORLD TV 221216 (2022-12-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=R8ay15Tf0Yw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/R8ay15Tf0Yw/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 ((G)I-DLE) - Nxde [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  title: "(여자)아이들 ((G)I-DLE) - Nxde [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=yz5zd4o_2YI",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/yz5zd4o_2YI/hqdefault.jpg",
+  alt: "우기 - Y2K Girls (우기X윤X리즈) - 헤어진 후에 (원곡: Y2K)  [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  title: "Y2K Girls (우기X윤X리즈) - 헤어진 후에 (원곡: Y2K)  [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RdNf0vugCa0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/RdNf0vugCa0/hqdefault.jpg",
+  alt: "아이들 - [#2022MAMA] (G)I-DLE ((여자)아이들) | All Moments (2022-12-02)",
+  title: "[#2022MAMA] (G)I-DLE ((여자)아이들) | All Moments (2022-12-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Tu9ujQbwxc0",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Tu9ujQbwxc0/hqdefault.jpg",
+  alt: "소연 - [2022 MAMA] ZICO - Freak (Feat. JEON SOYEON) | Mnet 221130 방송 (2022-11-30)",
+  title: "[2022 MAMA] ZICO - Freak (Feat. JEON SOYEON) | Mnet 221130 방송 (2022-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4hjmez-vII0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/4hjmez-vII0/hqdefault.jpg",
+  alt: "아이들 - [2022 MAMA] JAURIM X (G)I-DLE - TOMBOY + Boxing Helena | Mnet 221130 방송 (2022-11-30)",
+  title: "[2022 MAMA] JAURIM X (G)I-DLE - TOMBOY + Boxing Helena | Mnet 221130 방송 (2022-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=DBvpYum2zeg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/DBvpYum2zeg/hqdefault.jpg",
+  alt: "아이들 - [2022 MAMA] (G)I-DLE - MY BAG | Mnet 221130 방송 (2022-11-30)",
+  title: "[2022 MAMA] (G)I-DLE - MY BAG | Mnet 221130 방송 (2022-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=C_ezCY2jXCM",
+  category: "STAGE PERFORMANCE",
+  member: "민니,미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/C_ezCY2jXCM/hqdefault.jpg",
+  alt: "민니,미연 - [2022 MAMA] JAURIM X (G)I-DLE MIYEON, MINNIE - Twenty-five, twenty-one | Mnet 221130 방송 (2022-11-30)",
+  title: "[2022 MAMA] JAURIM X (G)I-DLE MIYEON, MINNIE - Twenty-five, twenty-one | Mnet 221130 방송 (2022-11-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ABZYhlFir1s",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ABZYhlFir1s/hqdefault.jpg",
+  alt: "아이들 - [MMA2022 | 축하공연] (여자)아이들 - Intro + Nxde | #gidle #여자아이들 (2022-11-28)",
+  title: "[MMA2022 | 축하공연] (여자)아이들 - Intro + Nxde | #gidle #여자아이들 (2022-11-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KdryynyDPc8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/KdryynyDPc8/hqdefault.jpg",
+  alt: "아이들 - [MMA2022 | 수상소감] TOP10 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-27)",
+  title: "[MMA2022 | 수상소감] TOP10 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Nk5RTN4XhT8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Nk5RTN4XhT8/hqdefault.jpg",
+  alt: "아이들 - 미친 편곡+cd버전으로 mma 날려버린 여자아이들 tomboy (2022-11-26)",
+  title: "미친 편곡+cd버전으로 mma 날려버린 여자아이들 tomboy (2022-11-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pjtt2pcwHBY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/pjtt2pcwHBY/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 ((G)I-DLE) - TOMBOY l @JTBC K-909 221029 방송 (2022-10-29)",
+  title: "(여자)아이들 ((G)I-DLE) - TOMBOY l @JTBC K-909 221029 방송 (2022-10-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ti2GcCxG-os",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Ti2GcCxG-os/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심 미방분] 10월 5주차 1위 앵콜 무대! (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송 (2022-10-29)",
+  title: "[쇼! 음악중심 미방분] 10월 5주차 1위 앵콜 무대! (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송 (2022-10-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=il-PqSWL91Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/il-PqSWL91Y/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  title: "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221029방송 (2022-10-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BWc5AjaGJDA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/BWc5AjaGJDA/hqdefault.jpg",
+  alt: "아이들 - [예능연구소] (G)I-DLE((여자)아이들) – Nxde(누드) 1위 직캠 FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  title: "[예능연구소] (G)I-DLE((여자)아이들) – Nxde(누드) 1위 직캠 FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aug3VXipyQg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/aug3VXipyQg/hqdefault.jpg",
+  alt: "아이들 - [4K] (여자)아이들 - 'Nxde' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) @MusicBank 221028 (2022-10-28)",
+  title: "[4K] (여자)아이들 - 'Nxde' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) @MusicBank 221028 (2022-10-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=flUBGA1aNSM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/flUBGA1aNSM/hqdefault.jpg",
+  alt: "아이들 - Nxde - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 221028 방송 (2022-10-28)",
+  title: "Nxde - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 221028 방송 (2022-10-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UwK1kJIctf0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/UwK1kJIctf0/hqdefault.jpg",
+  alt: "아이들 - [단독샷캠4K] (여자)아이들 'Nxde' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE @SBS Inkigayo 221023 (2022-10-27)",
+  title: "[단독샷캠4K] (여자)아이들 'Nxde' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE @SBS Inkigayo 221023 (2022-10-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IJ4Tn-HO9Zo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/hqdefault.jpg",
+  alt: "아이들 - [COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
+  title: "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=NqoKT-V0vKE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/NqoKT-V0vKE/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들)THE SHOW CHOICE! [THE SHOW 221025] (2022-10-25)",
+  title: "(G)I-DLE ((여자)아이들)THE SHOW CHOICE! [THE SHOW 221025] (2022-10-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ZW4b7N55s04",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ZW4b7N55s04/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Nxde ((여자)아이들, Nxde)[THE SHOW 221025] (2022-10-25)",
+  title: "(G)I-DLE, Nxde ((여자)아이들, Nxde)[THE SHOW 221025] (2022-10-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UrcD1Wpv-pQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/UrcD1Wpv-pQ/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Nxde @인기가요 inkigayo 20221023 (2022-10-23)",
+  title: "(G)I-DLE((여자)아이들) - Nxde @인기가요 inkigayo 20221023 (2022-10-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6od6kt0hSzA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/6od6kt0hSzA/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221022방송 (2022-10-22)",
+  title: "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221022방송 (2022-10-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Qq_NtmClyuI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Qq_NtmClyuI/hqdefault.jpg",
+  alt: "아이들 - Nxde - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 221021 방송 (2022-10-21)",
+  title: "Nxde - (여자)아이들 [뮤직뱅크/Music Bank] | KBS 221021 방송 (2022-10-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=q7jzIvOI2Pk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/q7jzIvOI2Pk/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' 상상 그 이상★ '(여자)아이들'의 'Nxde' 무대 #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
+  title: "'최초 공개' 상상 그 이상★ '(여자)아이들'의 'Nxde' 무대 #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-goAEVhIV9o",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/-goAEVhIV9o/hqdefault.jpg",
+  alt: "아이들 - 'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
+  title: "'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PsX5B6TTEdw",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/PsX5B6TTEdw/hqdefault.jpg",
+  alt: "민니 - [최초공개] Lauv (라우브) X 민니 ((G)I-DLE) - All 4 Nothing l @JTBC K-909 221015 방송 (2022-10-15)",
+  title: "[최초공개] Lauv (라우브) X 민니 ((G)I-DLE) - All 4 Nothing l @JTBC K-909 221015 방송 (2022-10-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=73N5V3Rdi1Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/73N5V3Rdi1Y/hqdefault.jpg",
+  alt: "아이들 - 2022 더팩트 뮤직 어워즈 (여자)아이들 TOMBOY (2022-10-08)",
+  title: "2022 더팩트 뮤직 어워즈 (여자)아이들 TOMBOY (2022-10-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=muDw_XnnnZQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/muDw_XnnnZQ/hqdefault.jpg",
+  alt: "아이들 - [제49회 한국방송대상 시상식] 축하공연 - (여자)아이들 TOMBOY [제 49회 한국방송대상] | KBS 220905 방송 (2022-09-05)",
+  title: "[제49회 한국방송대상 시상식] 축하공연 - (여자)아이들 TOMBOY [제 49회 한국방송대상] | KBS 220905 방송 (2022-09-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UrLOOr1Fz8o",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/UrLOOr1Fz8o/hqdefault.jpg",
+  alt: "소연 - [JEON SOYEON - BEAM BEAM] Summer Special | #엠카운트다운 EP.766 | Mnet 220818 방송 (2022-08-18)",
+  title: "[JEON SOYEON - BEAM BEAM] Summer Special | #엠카운트다운 EP.766 | Mnet 220818 방송 (2022-08-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9AY9d0JA_xk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/9AY9d0JA_xk/hqdefault.jpg",
+  alt: "아이들 - TOMBOY (Festival Ver.) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220624 방송 (2022-06-24)",
+  title: "TOMBOY (Festival Ver.) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220624 방송 (2022-06-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=X47sO3ZXgVg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/X47sO3ZXgVg/hqdefault.jpg",
+  alt: "아이들 - 220527 (여자)아이들 (G)I-DLE 직캠 Full ver. (고려대 입실렌티) (2022-05-27)",
+  title: "220527 (여자)아이들 (G)I-DLE 직캠 Full ver. (고려대 입실렌티) (2022-05-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RDWVQZrNFM0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/RDWVQZrNFM0/hqdefault.jpg",
+  alt: "아이들 - 220519 (여자)아이들 (G)I-DLE - 단국대학교 천안캠퍼스 축제 직캠 (Fancam) (2022-05-21)",
+  title: "220519 (여자)아이들 (G)I-DLE - 단국대학교 천안캠퍼스 축제 직캠 (Fancam) (2022-05-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CMMdD0rN_qQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/CMMdD0rN_qQ/hqdefault.jpg",
+  alt: "아이들 - [2022 쇼챔 뮤직 페스티벌] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | EP.434 (2022-05-18)",
+  title: "[2022 쇼챔 뮤직 페스티벌] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | EP.434 (2022-05-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q3zxkOqS114",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Q3zxkOqS114/hqdefault.jpg",
+  alt: "아이들 - 220515 (여자)아이들 ((G)I-DLE) - Tomboy | Kpopflex 4K fancam (2022-05-17)",
+  title: "220515 (여자)아이들 ((G)I-DLE) - Tomboy | Kpopflex 4K fancam (2022-05-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ItHzujZ_24U",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ItHzujZ_24U/hqdefault.jpg",
+  alt: "미연 - (140522 KPOP FLEX IN FRA) LOVE YOURSELF : MIYEON FOCUS (SPECIAL STAGE) (2022-05-15)",
+  title: "(140522 KPOP FLEX IN FRA) LOVE YOURSELF : MIYEON FOCUS (SPECIAL STAGE) (2022-05-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ZuaYjANJIMg",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ZuaYjANJIMg/hqdefault.jpg",
+  alt: "우기 - [원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433 (2022-05-11)",
+  title: "[원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433 (2022-05-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pWC_nMWhyKo",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/pWC_nMWhyKo/hqdefault.jpg",
+  alt: "우기 - [입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433 (2022-05-11)",
+  title: "[입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433 (2022-05-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=h0E1lHn8Bw0",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/h0E1lHn8Bw0/hqdefault.jpg",
+  alt: "미연 - [SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모) | Show Champion | EP.432 (2022-05-04)",
+  title: "[SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모) | Show Champion | EP.432 (2022-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=UziVITwbXbE",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/UziVITwbXbE/hqdefault.jpg",
+  alt: "미연 - [MIYEON ((G)I-DLE) - TE AMO] Hot Debut Stage | #엠카운트다운 EP.750 | Mnet 220428 방송 (2022-04-28)",
+  title: "[MIYEON ((G)I-DLE) - TE AMO] Hot Debut Stage | #엠카운트다운 EP.750 | Mnet 220428 방송 (2022-04-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Jnp-4170RbY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Jnp-4170RbY/hqdefault.jpg",
+  alt: "아이들 - [EN/JP] 3월 마지막 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.746 (2022-04-04)",
+  title: "[EN/JP] 3월 마지막 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.746 (2022-04-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dwbr28QGCTk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/dwbr28QGCTk/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220403 (2022-04-03)",
+  title: "(G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220403 (2022-04-03)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=nQe7d2rqJ-Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/nQe7d2rqJ-Y/hqdefault.jpg",
+  alt: "아이들 - [앵콜캠4K] (여자)아이들 'TOMBOY' 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | @SBS Inkigayo_2022.04.03. (2022-04-03)",
+  title: "[앵콜캠4K] (여자)아이들 'TOMBOY' 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | @SBS Inkigayo_2022.04.03. (2022-04-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GCTQolSyvWA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/GCTQolSyvWA/hqdefault.jpg",
+  alt: "아이들 - TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220401 방송 (2022-04-01)",
+  title: "TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220401 방송 (2022-04-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=IdATUzGAKUQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/IdATUzGAKUQ/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.31 (2022-03-31)",
+  title: "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.31 (2022-03-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bzj37ogNCZ4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/bzj37ogNCZ4/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - TOMBOY] #엠카운트다운 EP.746 | Mnet 220331 방송 (2022-03-31)",
+  title: "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.746 | Mnet 220331 방송 (2022-03-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ebYASru2TcA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/ebYASru2TcA/hqdefault.jpg",
+  alt: "아이들 - [EN/JP] 3월 넷째 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.745 (2022-03-28)",
+  title: "[EN/JP] 3월 넷째 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.745 (2022-03-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dZ4NpqfR5qU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/dZ4NpqfR5qU/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220327 (2022-03-27)",
+  title: "(G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220327 (2022-03-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wkjrMk3CE1M",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/wkjrMk3CE1M/hqdefault.jpg",
+  alt: "아이들 - [앵콜캠4K] (여자)아이들 'TOMBOY' 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | @SBS Inkigayo_2022.03.27. (2022-03-27)",
+  title: "[앵콜캠4K] (여자)아이들 'TOMBOY' 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | @SBS Inkigayo_2022.03.27. (2022-03-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Qs3271cvRsk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Qs3271cvRsk/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심 미방분] 3월 4주차 1위 앵콜 무대! (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
+  title: "[쇼! 음악중심 미방분] 3월 4주차 1위 앵콜 무대! (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3St6PG3HH30",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/3St6PG3HH30/hqdefault.jpg",
+  alt: "아이들 - [예능연구소 4K] (여자)아이들 1위 직캠 'TOMBOY' ((G)I-DLE No.1 Encore FanCam) @Show!MusicCore 220326 (2022-03-26)",
+  title: "[예능연구소 4K] (여자)아이들 1위 직캠 'TOMBOY' ((G)I-DLE No.1 Encore FanCam) @Show!MusicCore 220326 (2022-03-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RF83eRDe6s4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/RF83eRDe6s4/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
+  title: "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=y6kacqPOZ7E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/y6kacqPOZ7E/hqdefault.jpg",
+  alt: "아이들 - TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220325 방송 (2022-03-25)",
+  title: "TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220325 방송 (2022-03-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=FUtPNTVC4QE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/FUtPNTVC4QE/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  title: "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.24 (2022-03-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SIc0HAubWlc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/SIc0HAubWlc/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - TOMBOY] #엠카운트다운 EP.745 | Mnet 220324 방송 (2022-03-24)",
+  title: "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.745 | Mnet 220324 방송 (2022-03-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=A1DlH-6Ko5w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/A1DlH-6Ko5w/hqdefault.jpg",
+  alt: "아이들 - [단독샷캠4K] (여자)아이들 'TOMBOY' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE│@SBS Inkigayo_2022.03.20. (2022-03-20)",
+  title: "[단독샷캠4K] (여자)아이들 'TOMBOY' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE│@SBS Inkigayo_2022.03.20. (2022-03-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=On1a9hJ0FkM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/On1a9hJ0FkM/hqdefault.jpg",
+  alt: "아이들 - [쇼챔 1위] 존재 자체가 장르♥ (여자)아이들 앵콜 Full ver. (2022-03-23)",
+  title: "[쇼챔 1위] 존재 자체가 장르♥ (여자)아이들 앵콜 Full ver. (2022-03-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XmKe499TrQE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/XmKe499TrQE/hqdefault.jpg",
+  alt: "아이들 - [COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | Show Champion | EP.427 (2022-03-23)",
+  title: "[COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | Show Champion | EP.427 (2022-03-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Uyfga8Bx25g",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Uyfga8Bx25g/hqdefault.jpg",
+  alt: "아이들 - [MC석 인터뷰] (여자)아이들이 알려주는 TOMBOY가 되는 법♭ | Show Champion | EP.427 (2022-03-23)",
+  title: "[MC석 인터뷰] (여자)아이들이 알려주는 TOMBOY가 되는 법♭ | Show Champion | EP.427 (2022-03-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7WQZuljWEa0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/7WQZuljWEa0/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, THE SHOW CHOICE! [THE SHOW 220322] (2022-03-22)",
+  title: "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 220322] (2022-03-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=bZyjXkwF57w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/bZyjXkwF57w/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, TOMBOY ((여자)아이들, TOMBOY) [THE SHOW 220322] (2022-03-22)",
+  title: "(G)I-DLE, TOMBOY ((여자)아이들, TOMBOY) [THE SHOW 220322] (2022-03-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2GBmUBnqWXw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/2GBmUBnqWXw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220320 (2022-03-20)",
+  title: "(G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220320 (2022-03-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wp69Vy5eTr4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/wp69Vy5eTr4/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220319 방송 (2022-03-19)",
+  title: "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220319 방송 (2022-03-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hWaTFNFnttU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/hWaTFNFnttU/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들 ジー・アイドゥル) - TOMBOY (Music Bank) | KBS WORLD TV 220318 (2022-03-18)",
+  title: "(G)I-DLE ((여자)아이들 ジー・アイドゥル) - TOMBOY (Music Bank) | KBS WORLD TV 220318 (2022-03-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Itq0t6qDlus",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Itq0t6qDlus/hqdefault.jpg",
+  alt: "아이들 - TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220318 방송 (2022-03-18)",
+  title: "TOMBOY - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 220318 방송 (2022-03-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MfSKSo9Oz44",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/MfSKSo9Oz44/hqdefault.jpg",
+  alt: "아이들 - ‘최초 공개’ 치명적 걸크러시 ‘(여자)아이들’의 ‘TOMBOY’ 무대 (2022-03-17)",
+  title: "‘최초 공개’ 치명적 걸크러시 ‘(여자)아이들’의 ‘TOMBOY’ 무대 (2022-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8fvwz16egNg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/8fvwz16egNg/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - TOMBOY] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  title: "[(G)I-DLE - TOMBOY] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-UhV_Ou0jgA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/-UhV_Ou0jgA/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  title: "[(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-TXu4rjxsbs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/-TXu4rjxsbs/hqdefault.jpg",
+  alt: "아이들 - [‘COMEBACK INTERVIEW’ with (G)I-DLE] #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  title: "[‘COMEBACK INTERVIEW’ with (G)I-DLE] #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Tep7e7tgcjU",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Tep7e7tgcjU/hqdefault.jpg",
+  alt: "소연 - 전소연 - 삠삠 (BEAM BEAM) / KBS 20210723 방송 [하루 한곡] (2022-03-16)",
+  title: "전소연 - 삠삠 (BEAM BEAM) / KBS 20210723 방송 [하루 한곡] (2022-03-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eqB57puP5vQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/eqB57puP5vQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
+  title: "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Jh4QFaPmdss",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/Jh4QFaPmdss/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)",
+  title: "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=2eIj4WNpss0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/2eIj4WNpss0/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743 (2022-03-10)",
+  title: "[(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743 (2022-03-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TCkWCKyDczQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/TCkWCKyDczQ/hqdefault.jpg",
+  alt: "아이들 - [제30회 서울가요대상 SMA 직캠] (여자)아이들((G)I-DLE) - Intro+화 '베스트퍼포먼스상 무대' (2022-03-05)",
+  title: "[제30회 서울가요대상 SMA 직캠] (여자)아이들((G)I-DLE) - Intro+화 '베스트퍼포먼스상 무대' (2022-03-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JoL4andzqBE",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/JoL4andzqBE/hqdefault.jpg",
+  alt: "소연 - [JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738 (2022-02-03)",
+  title: "[JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738 (2022-02-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9WcaA4JeziQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2022",
+  thumbnail: "https://i.ytimg.com/vi/9WcaA4JeziQ/hqdefault.jpg",
+  alt: "아이들 - 220117 (여자)아이들((G)I-DLE) - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA / 2020 두바이엑스포 케이팝콘서트 (2022-01-16)",
+  title: "220117 (여자)아이들((G)I-DLE) - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA / 2020 두바이엑스포 케이팝콘서트 (2022-01-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CLk5WobfLpQ",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/CLk5WobfLpQ/hqdefault.jpg",
+  alt: "민니 - [2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FaceCam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
+  title: "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FaceCam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=e-X9VOOPw7s",
+  category: "STAGE PERFORMANCE",
+  member: "미연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/e-X9VOOPw7s/hqdefault.jpg",
+  alt: "미연 - [2021 MBC 가요대제전] 첫사랑즈 (미연 X 김민주 X 예지 X 유진,원영) - 첫 사랑니 (Rum Pum Pum Pum), MBC 211231 방송 (2021-12-31)",
+  title: "[2021 MBC 가요대제전] 첫사랑즈 (미연 X 김민주 X 예지 X 유진,원영) - 첫 사랑니 (Rum Pum Pum Pum), MBC 211231 방송 (2021-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_PvXndBg2Tc",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/_PvXndBg2Tc/hqdefault.jpg",
+  alt: "소연 - [2021 MBC 가요대제전] 아이키 X 전소연 X 방과후 설렘 - Same Same Different, MBC 211231 방송 (2021-12-31)",
+  title: "[2021 MBC 가요대제전] 아이키 X 전소연 X 방과후 설렘 - Same Same Different, MBC 211231 방송 (2021-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jQNEiHzIcX4",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/jQNEiHzIcX4/hqdefault.jpg",
+  alt: "민니 - 민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’ㅣ2021 SBS 가요대전(2021sbsgayo)ㅣSBS ENTER. (2021-12-25)",
+  title: "민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’ㅣ2021 SBS 가요대전(2021sbsgayo)ㅣSBS ENTER. (2021-12-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pnW2Lexomds",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/pnW2Lexomds/hqdefault.jpg",
+  alt: "민니 - MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW (2021-10-02)",
+  title: "MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW (2021-10-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ob8YmFnyf0w",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/ob8YmFnyf0w/hqdefault.jpg",
+  alt: "소연 - [JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송 (2021-08-19)",
+  title: "[JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송 (2021-08-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HwwUTemjpK0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/HwwUTemjpK0/hqdefault.jpg",
+  alt: "아이들 - (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN | KBS 181031 방송 (2021-08-06)",
+  title: "(G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN | KBS 181031 방송 (2021-08-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BOVn3btc3YA",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/BOVn3btc3YA/hqdefault.jpg",
+  alt: "소연 - [ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719 (2021-08-02)",
+  title: "[ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719 (2021-08-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=tDqT9xgMi4k",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/tDqT9xgMi4k/hqdefault.jpg",
+  alt: "소연 - JEON SOYEON (전소연) - BEAM BEAM (삠삠) | 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트) (2021-08-01)",
+  title: "JEON SOYEON (전소연) - BEAM BEAM (삠삠) | 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트) (2021-08-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-ZgQPLsfvqQ",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/-ZgQPLsfvqQ/hqdefault.jpg",
+  alt: "소연 - JEON SOYEON (전소연) - Weather (웨더) | 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트) (2021-08-01)",
+  title: "JEON SOYEON (전소연) - Weather (웨더) | 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트) (2021-08-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XrdRWeadebI",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/XrdRWeadebI/hqdefault.jpg",
+  alt: "소연 - [MPD직캠] 전소연 1위 앵콜 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam No.1 Encore) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
+  title: "[MPD직캠] 전소연 1위 앵콜 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam No.1 Encore) | @MCOUNTDOWN_2021.7.29 (2021-07-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=uU2uTJKz5pQ",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/uU2uTJKz5pQ/hqdefault.jpg",
+  alt: "소연 - [JEON SOYEON - BEAM BEAM] KPOP TV Show |  #엠카운트다운 EP.719 | Mnet 210729 방송 (2021-07-29)",
+  title: "[JEON SOYEON - BEAM BEAM] KPOP TV Show |  #엠카운트다운 EP.719 | Mnet 210729 방송 (2021-07-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=e5pcbYFsGew",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/e5pcbYFsGew/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [쇼챔 서머 프로모션] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.403 (2021-07-28)",
+  title: "[Show Champion] [쇼챔 서머 프로모션] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.403 (2021-07-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=wOIKAA61m7M",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/wOIKAA61m7M/hqdefault.jpg",
+  alt: "소연 - JEON SOYEON(전소연) - BEAM BEAM(삠삠) @인기가요 inkigayo 20210718 (2021-07-18)",
+  title: "JEON SOYEON(전소연) - BEAM BEAM(삠삠) @인기가요 inkigayo 20210718 (2021-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Lm3PFCwrhro",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/Lm3PFCwrhro/hqdefault.jpg",
+  alt: "소연 - [쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210717 방송 (2021-07-17)",
+  title: "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210717 방송 (2021-07-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=d8eyWeJezl0",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/d8eyWeJezl0/hqdefault.jpg",
+  alt: "소연 - 삠삠(BEAM BEAM) - 전소연(JEON SOYEON) [뮤직뱅크/Music Bank] | KBS 210716 방송 (2021-07-16)",
+  title: "삠삠(BEAM BEAM) - 전소연(JEON SOYEON) [뮤직뱅크/Music Bank] | KBS 210716 방송 (2021-07-16)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=e7y8k5mCx8s",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/e7y8k5mCx8s/hqdefault.jpg",
+  alt: "소연 - [Show Champion] [COMEBACK] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM) l EP.401 (2021-07-14)",
+  title: "[Show Champion] [COMEBACK] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM) l EP.401 (2021-07-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dgZGsZLMTg8",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/dgZGsZLMTg8/hqdefault.jpg",
+  alt: "소연 - JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713] (2021-07-13)",
+  title: "JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713] (2021-07-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nFRv5eQ6F2g",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/nFRv5eQ6F2g/hqdefault.jpg",
+  alt: "소연 - JEON SOYEON(전소연) - BEAM BEAM(삠삠) @인기가요 inkigayo 20210711 (2021-07-11)",
+  title: "JEON SOYEON(전소연) - BEAM BEAM(삠삠) @인기가요 inkigayo 20210711 (2021-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4eH0yrYn5Pw",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/4eH0yrYn5Pw/hqdefault.jpg",
+  alt: "소연 - [쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210710 방송 (2021-07-10)",
+  title: "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210710 방송 (2021-07-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xZllqGTpwTo",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/xZllqGTpwTo/hqdefault.jpg",
+  alt: "소연 - 삠삠(BEAM BEAM) - 전소연(JEON SOYEON) [뮤직뱅크/Music Bank] | KBS 210709 방송 (2021-07-09)",
+  title: "삠삠(BEAM BEAM) - 전소연(JEON SOYEON) [뮤직뱅크/Music Bank] | KBS 210709 방송 (2021-07-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kPytvJx8JPQ",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/kPytvJx8JPQ/hqdefault.jpg",
+  alt: "소연 - '최초 공개' 러블리♡힙 '전소연'의 '삠삠 BEAM BEAM' 무대 (2021-07-09)",
+  title: "'최초 공개' 러블리♡힙 '전소연'의 '삠삠 BEAM BEAM' 무대 (2021-07-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=TN0PfhFOnjo",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/TN0PfhFOnjo/hqdefault.jpg",
+  alt: "소연 - [JEON SOYEON - BEAM BEAM] Solo Debut Stage | #엠카운트다운 EP.717 | Mnet 210708 방송 (2021-07-08)",
+  title: "[JEON SOYEON - BEAM BEAM] Solo Debut Stage | #엠카운트다운 EP.717 | Mnet 210708 방송 (2021-07-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XmrEXhLq244",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/XmrEXhLq244/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE X IZ*ONE X Weki Meki - Into The New World] STORAGE M Stage | Mnet 210225 방송 (2021-02-25)",
+  title: "[(G)I-DLE X IZ*ONE X Weki Meki - Into The New World] STORAGE M Stage | Mnet 210225 방송 (2021-02-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5V7svvL8_l0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/5V7svvL8_l0/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [쇼챔 설 특집] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.383 (2021-02-10)",
+  title: "[Show Champion] [쇼챔 설 특집] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.383 (2021-02-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-pWB_vGZgio",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/-pWB_vGZgio/hqdefault.jpg",
+  alt: "아이들 - [Simply K-Pop] (G)I-DLE ((여자)아이들) - HWAA(火花) (화(火花)) _ Ep.453 (2021-02-05)",
+  title: "[Simply K-Pop] (G)I-DLE ((여자)아이들) - HWAA(火花) (화(火花)) _ Ep.453 (2021-02-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Yjm48Y_LOH8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/Yjm48Y_LOH8/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 - 화(火花) ((G)I-DLE - HWAA), MBC 210130 방송 (2021-01-30)",
+  title: "(여자)아이들 - 화(火花) ((G)I-DLE - HWAA), MBC 210130 방송 (2021-01-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rdd10el_KSE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/rdd10el_KSE/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
+  title: "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SwiZ3PmhRhY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/SwiZ3PmhRhY/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들), THE SHOW CHOICE! [THE SHOW 210126] (2021-01-26)",
+  title: "(G)I-DLE((여자)아이들), THE SHOW CHOICE! [THE SHOW 210126] (2021-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3iwgW5imLQM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/3iwgW5imLQM/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126] (2021-01-26)",
+  title: "(G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126] (2021-01-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QPaT9EQFVko",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/QPaT9EQFVko/hqdefault.jpg",
+  alt: "아이들 - [안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.24. (2021-01-24)",
+  title: "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.24. (2021-01-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3ro1RM9-S8w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/3ro1RM9-S8w/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - HWAA(화(火花)) @인기가요 inkigayo 20210124 (2021-01-24)",
+  title: "(G)I-DLE((여자)아이들) - HWAA(화(火花)) @인기가요 inkigayo 20210124 (2021-01-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=p6OLP4reWwY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/p6OLP4reWwY/hqdefault.jpg",
+  alt: "아이들 - [MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
+  title: "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jnKLC58AtM0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/jnKLC58AtM0/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - HWAA] KPOP TV Show | #엠카운트다운 | M COUNTDOWN EP.695 | Mnet 210121 방송 (2021-01-21)",
+  title: "[(G)I-DLE - HWAA] KPOP TV Show | #엠카운트다운 | M COUNTDOWN EP.695 | Mnet 210121 방송 (2021-01-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jJ5ML_CQSFY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/jJ5ML_CQSFY/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381 (2021-01-20)",
+  title: "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381 (2021-01-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xGx2yb-uLf4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/xGx2yb-uLf4/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381 (2021-01-20)",
+  title: "[Show Champion] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381 (2021-01-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=l1KD-ElwSxY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/l1KD-ElwSxY/hqdefault.jpg",
+  alt: "아이들 - [안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  title: "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.17. (2021-01-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RfoYjjUn_d0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/RfoYjjUn_d0/hqdefault.jpg",
+  alt: "아이들 - [예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  title: "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Irta5E2hCDs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/Irta5E2hCDs/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 - 화(火花) ((G)I-DLE - HWAA), MBC 210116 방송 (2021-01-16)",
+  title: "(여자)아이들 - 화(火花) ((G)I-DLE - HWAA), MBC 210116 방송 (2021-01-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=KUnU131wP2Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/KUnU131wP2Y/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - HWAA] Comeback Stage | M COUNTDOWN EP.694 | Mnet 210114 방송 (2021-01-14)",
+  title: "[(G)I-DLE - HWAA] Comeback Stage | M COUNTDOWN EP.694 | Mnet 210114 방송 (2021-01-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0eZpPPVRMHE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/0eZpPPVRMHE/hqdefault.jpg",
+  alt: "아이들 - [제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜JTBC 210110 방송 (2021-01-10)",
+  title: "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜JTBC 210110 방송 (2021-01-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EMxUmV3ls8w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2021",
+  thumbnail: "https://i.ytimg.com/vi/EMxUmV3ls8w/hqdefault.jpg",
+  alt: "아이들 - [제34회 골든디스크] (여자)아이들 - ′Lion′♪ (2021-01-06)",
+  title: "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ (2021-01-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SCu2WNw2joo",
+  category: "STAGE PERFORMANCE",
+  member: "민니",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/SCu2WNw2joo/hqdefault.jpg",
+  alt: "민니 - 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 201231 방송 (2020-12-31)",
+  title: "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 201231 방송 (2020-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mQftiLy7hsI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/mQftiLy7hsI/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 201231 방송 (2020-12-31)",
+  title: "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 201231 방송 (2020-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jPrah1CDOo0",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/jPrah1CDOo0/hqdefault.jpg",
+  alt: "소연 - 수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 201231 방송 (2020-12-31)",
+  title: "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 201231 방송 (2020-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Fpx1xuzWE0M",
+  category: "STAGE PERFORMANCE",
+  member: "우기",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Fpx1xuzWE0M/hqdefault.jpg",
+  alt: "우기 - 영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 201231 방송 (2020-12-31)",
+  title: "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 201231 방송 (2020-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4XdcoZuzAnc",
+  category: "STAGE PERFORMANCE",
+  member: "미연,우기",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/4XdcoZuzAnc/hqdefault.jpg",
+  alt: "미연,우기 - 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
+  title: "미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Mr5ddZQMC4E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Mr5ddZQMC4E/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
+  title: "(여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=t8vJzVgegfc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/t8vJzVgegfc/hqdefault.jpg",
+  alt: "아이들 - 다시봐도 레전드 무대였던 가온차트뮤직어워즈 (여자)아이들  'uh-oh' (2020-12-19)",
+  title: "다시봐도 레전드 무대였던 가온차트뮤직어워즈 (여자)아이들  'uh-oh' (2020-12-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=XGdztIcD65E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/XGdztIcD65E/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 (G)I-DLE - INTRO + Oh my god [2020 KBS 가요대축제] | 2020 KBS Song Festival (2020-12-18)",
+  title: "(여자)아이들 (G)I-DLE - INTRO + Oh my god [2020 KBS 가요대축제] | 2020 KBS Song Festival (2020-12-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kvbzh9Iu4YI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/kvbzh9Iu4YI/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들 | ジーアイドゥル) - INTRO + Oh my god (2020 KBS Song Festival) I KBS WORLD TV 201218 (2020-12-18)",
+  title: "(G)I-DLE((여자)아이들 | ジーアイドゥル) - INTRO + Oh my god (2020 KBS Song Festival) I KBS WORLD TV 201218 (2020-12-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qnREMXKlPLU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/qnREMXKlPLU/hqdefault.jpg",
+  alt: "아이들 - [2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-12-18)",
+  title: "[2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-12-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=mZvwhZYBLBk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/mZvwhZYBLBk/hqdefault.jpg",
+  alt: "아이들 - [2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-12-18)",
+  title: "[2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-12-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PMqRQYjFvF0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/PMqRQYjFvF0/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들 at 2020 MAMA All Moments (2020-12-07)",
+  title: "(G)I-DLE((여자)아이들 at 2020 MAMA All Moments (2020-12-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=T29KPZ7No4Q",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/T29KPZ7No4Q/hqdefault.jpg",
+  alt: "아이들 - [2020 MAMA] OH MY GIRL X (G)I-DLE_Bad Girl Good Girl | Mnet 201206 방송 (2020-12-06)",
+  title: "[2020 MAMA] OH MY GIRL X (G)I-DLE_Bad Girl Good Girl | Mnet 201206 방송 (2020-12-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9qOHLrYYASI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/9qOHLrYYASI/hqdefault.jpg",
+  alt: "아이들 - [2020 MAMA] (G)I-DLE_DUMDi DUMDi | Mnet 201206 방송 (2020-12-06)",
+  title: "[2020 MAMA] (G)I-DLE_DUMDi DUMDi | Mnet 201206 방송 (2020-12-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fhgIbuy_OQQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/fhgIbuy_OQQ/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - Uh-Oh 《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 @201129 (2020-12-04)",
+  title: "(여자)아이들((G)I-DLE) - Uh-Oh 《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 @201129 (2020-12-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eVQ2Kt7g4NY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/eVQ2Kt7g4NY/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 덤디덤디 ((G)I-DLE -DUMDi DUMDi) (음.소.거♪ ver.) l EP.380 (2020-11-25)",
+  title: "[Show Champion] (여자)아이들 - 덤디덤디 ((G)I-DLE -DUMDi DUMDi) (음.소.거♪ ver.) l EP.380 (2020-11-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=P-UOPdWRyEs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/P-UOPdWRyEs/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송 (2020-11-07)",
+  title: "[쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송 (2020-11-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jvvxVEhxPBk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/jvvxVEhxPBk/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [쇼챔 시네마 특집] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.376 (2020-10-28)",
+  title: "[Show Champion] [쇼챔 시네마 특집] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.376 (2020-10-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zFL0xGZ9RWc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/zFL0xGZ9RWc/hqdefault.jpg",
+  alt: "아이들 - [KCON 2019 NY] (G)I-DLE Uh | Oh (2020-09-16)",
+  title: "[KCON 2019 NY] (G)I-DLE Uh | Oh (2020-09-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7ywDxAFq9gw",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/7ywDxAFq9gw/hqdefault.jpg",
+  alt: "소연 - [KCON 2019 THAILAND] SOYEON ((G)I-DLE) |  Dollar (2020-09-16)",
+  title: "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) |  Dollar (2020-09-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=28c_anOPNN4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/28c_anOPNN4/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200823 (2020-08-23)",
+  title: "(G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200823 (2020-08-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sO-vBd4sLso",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/sO-vBd4sLso/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200822 (2020-08-22)",
+  title: "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200822 (2020-08-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xpAOx6sW3pY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/xpAOx6sW3pY/hqdefault.jpg",
+  alt: "아이들 - 덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] 20200821 (2020-08-21)",
+  title: "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] 20200821 (2020-08-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=tkGGF3_b4Ms",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/tkGGF3_b4Ms/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.21] (2020-08-21)",
+  title: "(G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.21] (2020-08-21)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=fHasnIIo9H4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/fHasnIIo9H4/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - DUMDi DUMDi] KPOP TV Show | M COUNTDOWN 200820 EP.679 (2020-08-20)",
+  title: "[(G)I-DLE - DUMDi DUMDi] KPOP TV Show | M COUNTDOWN 200820 EP.679 (2020-08-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gY9c6BiZjpY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/gY9c6BiZjpY/hqdefault.jpg",
+  alt: "아이들 - [ENG] Top in 2nd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! (in Full) M COUNTDOWN 20081 (2020-08-18)",
+  title: "[ENG] Top in 2nd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! (in Full) M COUNTDOWN 20081 (2020-08-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Xq9S3JCfIFg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Xq9S3JCfIFg/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200816 (2020-08-16)",
+  title: "(G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200816 (2020-08-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vPVFMVTNmFo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/vPVFMVTNmFo/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200815 (2020-08-15)",
+  title: "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200815 (2020-08-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Mi6dx4nHdL4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Mi6dx4nHdL4/hqdefault.jpg",
+  alt: "아이들 - 덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] 20200814 (2020-08-14)",
+  title: "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] 20200814 (2020-08-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=M8bEpz_9RVw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/M8bEpz_9RVw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.14] (2020-08-14)",
+  title: "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.14] (2020-08-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fKrGVep8hKE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/fKrGVep8hKE/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - DUMDi DUMDi] KPOP TV Show | M COUNTDOWN 200813 EP.678 (2020-08-13)",
+  title: "[(G)I-DLE - DUMDi DUMDi] KPOP TV Show | M COUNTDOWN 200813 EP.678 (2020-08-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=j3q2AgJk0c0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/j3q2AgJk0c0/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [COMEBACK] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.366 (2020-08-12)",
+  title: "[Show Champion] [COMEBACK] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.366 (2020-08-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=T9Zu7tTz2dM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/T9Zu7tTz2dM/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, DUMDi DUMDi ((여자)아이들, 덤디덤디) [THE SHOW 200811] (2020-08-11)",
+  title: "(G)I-DLE, DUMDi DUMDi ((여자)아이들, 덤디덤디) [THE SHOW 200811] (2020-08-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=75XV3XusNOY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/75XV3XusNOY/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200809 (2020-08-09)",
+  title: "(G)I-DLE((여자)아이들) - DUMDi DUMDi(덤디덤디) @인기가요 inkigayo 20200809 (2020-08-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sjqnXd51vGY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/sjqnXd51vGY/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' 청량 여름리듬♬ '(여자)아이들'의 '덤디덤디' 무대 (2020-08-06)",
+  title: "'최초 공개' 청량 여름리듬♬ '(여자)아이들'의 '덤디덤디' 무대 (2020-08-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=klYIN0Lm1Y4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/klYIN0Lm1Y4/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - DUMDi DUMDi] Comeback Stage | M COUNTDOWN 200806 EP.677 (2020-08-06)",
+  title: "[(G)I-DLE - DUMDi DUMDi] Comeback Stage | M COUNTDOWN 200806 EP.677 (2020-08-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6tQYULZ9DXQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/6tQYULZ9DXQ/hqdefault.jpg",
+  alt: "아이들 - [여자아이들] 멤버들이 부르는 애정결핍 (2020-06-28)",
+  title: "[여자아이들] 멤버들이 부르는 애정결핍 (2020-06-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JMf7Qm9bj8A",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/JMf7Qm9bj8A/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE - Oh my god [Music Bank / 2020.06.26] (2020-06-26)",
+  title: "(G)I-DLE - Oh my god [Music Bank / 2020.06.26] (2020-06-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Nj6E9BI171k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Nj6E9BI171k/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE  - Oh my god) l EP.354 (2020-05-20)",
+  title: "[Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE  - Oh my god) l EP.354 (2020-05-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-rPJLqE-gN8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/-rPJLqE-gN8/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Luv U @인기가요 inkigayo 20200503 (2020-05-03)",
+  title: "(G)I-DLE ((여자)아이들) - Luv U @인기가요 inkigayo 20200503 (2020-05-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-m1IJhT_x4k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/-m1IJhT_x4k/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -사랑해 , ('(G)I-DLE' -Luv U) 20200502 (2020-05-02)",
+  title: "[쇼! 음악중심] (여자)아이들 -사랑해 , ('(G)I-DLE' -Luv U) 20200502 (2020-05-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LgPG0HGoT84",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/LgPG0HGoT84/hqdefault.jpg",
+  alt: "아이들 - 사랑해(Luv U) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] 20200501 (2020-05-01)",
+  title: "사랑해(Luv U) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] 20200501 (2020-05-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OWKU_nU7--8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/OWKU_nU7--8/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / 2020.05.01] (2020-05-01)",
+  title: "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / 2020.05.01] (2020-05-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=trOph_jBrFE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/trOph_jBrFE/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - Luv U] KPOP TV Show | M COUNTDOWN 200430 EP.663 (2020-04-30)",
+  title: "[(G)I-DLE - Luv U] KPOP TV Show | M COUNTDOWN 200430 EP.663 (2020-04-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QMGL8SGczqo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/QMGL8SGczqo/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U) l EP.351 (2020-04-29)",
+  title: "[Show Champion] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U) l EP.351 (2020-04-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=6-po7-sIGxY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/6-po7-sIGxY/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200426 (2020-04-26)",
+  title: "(G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200426 (2020-04-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fW9WCiTkeSA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/fW9WCiTkeSA/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200425 (2020-04-25)",
+  title: "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200425 (2020-04-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ckcroOWvUew",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/ckcroOWvUew/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - Oh my god] KPOP TV Show | M COUNTDOWN 200423 EP.662 (2020-04-23)",
+  title: "[(G)I-DLE - Oh my god] KPOP TV Show | M COUNTDOWN 200423 EP.662 (2020-04-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1lOBrDUR43w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/1lOBrDUR43w/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)",
+  title: "[Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=zWAQD9ZA3k8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/zWAQD9ZA3k8/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Oh my god [THE SHOW 200421] (2020-04-21)",
+  title: "(G)I-DLE, Oh my god [THE SHOW 200421] (2020-04-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4VsItlFntOU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/4VsItlFntOU/hqdefault.jpg",
+  alt: "아이들 - [앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 (Close-up ver.) ((G)I-DLE Encore Fancam) | 좋은 건 크게 봐야죠❤ (2020-04-20)",
+  title: "[앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 (Close-up ver.) ((G)I-DLE Encore Fancam) | 좋은 건 크게 봐야죠❤ (2020-04-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MJLYl7uCvjM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/MJLYl7uCvjM/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200419 (2020-04-19)",
+  title: "(G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200419 (2020-04-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_cPP80dRAcQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/_cPP80dRAcQ/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200418 (2020-04-18)",
+  title: "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200418 (2020-04-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VO9WQbJWfvg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/VO9WQbJWfvg/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 'Oh my god'  뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 200417 (2020-04-17)",
+  title: "(여자)아이들 'Oh my god'  뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 200417 (2020-04-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hStQEbMGs4k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/hStQEbMGs4k/hqdefault.jpg",
+  alt: "아이들 - Oh my god - (여자)아이들(G)I-DLE)  [뮤직뱅크/Music Bank] 20200417 (2020-04-17)",
+  title: "Oh my god - (여자)아이들(G)I-DLE)  [뮤직뱅크/Music Bank] 20200417 (2020-04-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=lKeMvPjbnGI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/lKeMvPjbnGI/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200412 (2020-04-12)",
+  title: "(G)I-DLE ((여자)아이들) - Oh my god @인기가요 inkigayo 20200412 (2020-04-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=GchXYKKrO-w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/GchXYKKrO-w/hqdefault.jpg",
+  alt: "아이들 - [쇼! 음악중심] (여자)아이들 -인트로(블랙ver) + 오 마이 갓 ((G)I-DLE) -Intro(black ver.) + Oh my god) 20200411 (2020-04-11)",
+  title: "[쇼! 음악중심] (여자)아이들 -인트로(블랙ver) + 오 마이 갓 ((G)I-DLE) -Intro(black ver.) + Oh my god) 20200411 (2020-04-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CRo37BcUBX0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/CRo37BcUBX0/hqdefault.jpg",
+  alt: "아이들 - Intro(White Ver) + Oh my god - (여자)아이들(G)I-DLE)  [뮤직뱅크/Music Bank] 20200410 (2020-04-10)",
+  title: "Intro(White Ver) + Oh my god - (여자)아이들(G)I-DLE)  [뮤직뱅크/Music Bank] 20200410 (2020-04-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Fpw2-dsxJUE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/Fpw2-dsxJUE/hqdefault.jpg",
+  alt: "아이들 - '최초 공개' 파격X몽환 '(여자)아이들'의 'Intro+Oh my god' 무대 (2020-04-09)",
+  title: "'최초 공개' 파격X몽환 '(여자)아이들'의 'Intro+Oh my god' 무대 (2020-04-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=HgLFL_5Bt8Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/HgLFL_5Bt8Y/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - Intro(Black Ver.)+Oh my god] Comeback Stage | M COUNTDOWN 200409 EP.660 (2020-04-09)",
+  title: "[(G)I-DLE - Intro(Black Ver.)+Oh my god] Comeback Stage | M COUNTDOWN 200409 EP.660 (2020-04-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PyMfeVWhvT8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/PyMfeVWhvT8/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - HANN(Alone] MCD School Special | M COUNTDOWN 200402 EP.659 (2020-04-02)",
+  title: "[(G)I-DLE - HANN(Alone] MCD School Special | M COUNTDOWN 200402 EP.659 (2020-04-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9lRKMgtyb1g",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/9lRKMgtyb1g/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] [핵심 쏙! 특집] (여자)아이들 - Senorita ((G)I-DLE - Senorita) l EP.345 (2020-03-11)",
+  title: "[Show Champion] [핵심 쏙! 특집] (여자)아이들 - Senorita ((G)I-DLE - Senorita) l EP.345 (2020-03-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ErNnxBGHW_c",
+  category: "STAGE PERFORMANCE",
+  member: "민니,미연",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/ErNnxBGHW_c/hqdefault.jpg",
+  alt: "민니,미연 - [(G)I-DLE MIYEON, MINNIE - Be Natural] Special Stage | M COUNTDOWN 200305 EP.655 (2020-03-05)",
+  title: "[(G)I-DLE MIYEON, MINNIE - Be Natural] Special Stage | M COUNTDOWN 200305 EP.655 (2020-03-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nUrnuqb7N0w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2020",
+  thumbnail: "https://i.ytimg.com/vi/nUrnuqb7N0w/hqdefault.jpg",
+  alt: "아이들 - [2019AAA in Vietnam] 여자아이들((G)I-DLE))  - Intro + Uh-Oh + Senorita (2020-01-15)",
+  title: "[2019AAA in Vietnam] 여자아이들((G)I-DLE))  - Intro + Uh-Oh + Senorita (2020-01-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Th2NdWZDPKE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Th2NdWZDPKE/hqdefault.jpg",
+  alt: "아이들 - [2019 MBC 가요대제전:The Live] (여자)아이들 X ITZY - Diva + dance performance (2019-12-31)",
+  title: "[2019 MBC 가요대제전:The Live] (여자)아이들 X ITZY - Diva + dance performance (2019-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=8O-3rWafjMk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/8O-3rWafjMk/hqdefault.jpg",
+  alt: "아이들 - [2019 MBC 가요대제전:The Live] (여자)아이들 - LION(((G)I-DLE) - LION) (2019-12-31)",
+  title: "[2019 MBC 가요대제전:The Live] (여자)아이들 - LION(((G)I-DLE) - LION) (2019-12-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=c0rmOgi2Cok",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/c0rmOgi2Cok/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - LION] Special Stage | M COUNTDOWN 191226 EP.646 (2019-12-26)",
+  title: "[(G)I-DLE - LION] Special Stage | M COUNTDOWN 191226 EP.646 (2019-12-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=WFkZjTCxVPc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/WFkZjTCxVPc/hqdefault.jpg",
+  alt: "아이들 - GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
+  title: "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=pHooRisLRxY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/pHooRisLRxY/hqdefault.jpg",
+  alt: "아이들 - [ENG sub] [1회] 오프닝 퍼포먼스 (On-Air ver.) - AOA, 마마무, (여자)아이들, 오마이걸, 러블리즈 컴백전쟁 : 퀸덤 1화 (2019-08-29)",
+  title: "[ENG sub] [1회] 오프닝 퍼포먼스 (On-Air ver.) - AOA, 마마무, (여자)아이들, 오마이걸, 러블리즈 컴백전쟁 : 퀸덤 1화 (2019-08-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hHQc9nzKk4E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/hHQc9nzKk4E/hqdefault.jpg",
+  alt: "아이들 - [BE ORIGINAL] (G)I-DLE 'Uh-Oh' in NEW YORK (4K) (2019-07-29)",
+  title: "[BE ORIGINAL] (G)I-DLE 'Uh-Oh' in NEW YORK (4K) (2019-07-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=JY-Ai-MnhMk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/JY-Ai-MnhMk/hqdefault.jpg",
+  alt: "아이들 - [KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN (2019-07-25)",
+  title: "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN (2019-07-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xZC3sfBKpVg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/xZC3sfBKpVg/hqdefault.jpg",
+  alt: "아이들 - 60FPS 1080P | (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh  Show! Music Core 20190720 (2019-07-23)",
+  title: "60FPS 1080P | (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh  Show! Music Core 20190720 (2019-07-23)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xAGUO0iWQ84",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/xAGUO0iWQ84/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190721 (2019-07-21)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190721 (2019-07-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=836gsiQwAVM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/836gsiQwAVM/hqdefault.jpg",
+  alt: "아이들 - [HOT] (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh show Music core 20190720 (2019-07-20)",
+  title: "[HOT] (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh show Music core 20190720 (2019-07-20)"
+},
+
+// 🔽 새로 불러온 50개 항목
+{
+  link: "https://www.youtube.com/watch?v=4JKaVpZY0dc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/4JKaVpZY0dc/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.19] (2019-07-19)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.19] (2019-07-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=4dUUgRCQVqM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/4dUUgRCQVqM/hqdefault.jpg",
+  alt: "아이들 - Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190719 (2019-07-19)",
+  title: "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190719 (2019-07-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q4Cl4zgBwLg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Q4Cl4zgBwLg/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.325 (TWN) (2019-07-17)",
+  title: "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.325 (TWN) (2019-07-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ilpAUJ5Hepk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/ilpAUJ5Hepk/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Uh-Oh [THE SHOW 190716] (2019-07-16)",
+  title: "(G)I-DLE, Uh-Oh [THE SHOW 190716] (2019-07-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=qo1KYYwSxZk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/qo1KYYwSxZk/hqdefault.jpg",
+  alt: "아이들 - 60FPS 1080P | (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh  Show! Music Core 20190713 (2019-07-16)",
+  title: "60FPS 1080P | (G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh  Show! Music Core 20190713 (2019-07-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aRO9rOPDToQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/aRO9rOPDToQ/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / 2019.07.12] (2019-07-12)",
+  title: "(G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / 2019.07.12] (2019-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Htnf7_LL5Ks",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Htnf7_LL5Ks/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190714 (2019-07-14)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190714 (2019-07-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ulfINJoXP-o",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/ulfINJoXP-o/hqdefault.jpg",
+  alt: "아이들 - [HOT](G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh Show Music core 20190713 (2019-07-13)",
+  title: "[HOT](G)I-DLE - Uh-Oh, (여자)아이들 - Uh-Oh Show Music core 20190713 (2019-07-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5mEToFI8tYs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/5mEToFI8tYs/hqdefault.jpg",
+  alt: "아이들 - Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190712 (2019-07-12)",
+  title: "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190712 (2019-07-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=T19ywGGbd-w",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/T19ywGGbd-w/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190709] 60P (2019-07-11)",
+  title: "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190709] 60P (2019-07-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=D42Tj_VnqRU",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/D42Tj_VnqRU/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Uh-Oh [THE SHOW 190709] (2019-07-09)",
+  title: "(G)I-DLE, Uh-Oh [THE SHOW 190709] (2019-07-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=iF2eaXH_sZ8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/iF2eaXH_sZ8/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190707 (2019-07-07)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh @인기가요 Inkigayo 20190707 (2019-07-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hA3ToXVdCrw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/hA3ToXVdCrw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.05] (2019-07-05)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.05] (2019-07-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=1ysLKoJw7qk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/1ysLKoJw7qk/hqdefault.jpg",
+  alt: "아이들 - Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190705 (2019-07-05)",
+  title: "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190705 (2019-07-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q6UJ7eBgnk8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Q6UJ7eBgnk8/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.323 (ENG/TWN) (2019-07-03)",
+  title: "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.323 (ENG/TWN) (2019-07-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Yu-YqJVQrPI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Yu-YqJVQrPI/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, THE SHOW CHOICE! [THE SHOW 190702] (2019-07-02)",
+  title: "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 190702] (2019-07-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=WG2VJgSmKTk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/WG2VJgSmKTk/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Uh-Oh [THE SHOW 190702] (2019-07-02)",
+  title: "(G)I-DLE, Uh-Oh [THE SHOW 190702] (2019-07-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=MzzTvnEGQ7k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/MzzTvnEGQ7k/hqdefault.jpg",
+  alt: "아이들 - [Comeback Stage] (G)I-DLE - Uh-Oh,  (여자)아이들 - Uh-Oh  show Music core 20190629 (2019-06-29)",
+  title: "[Comeback Stage] (G)I-DLE - Uh-Oh,  (여자)아이들 - Uh-Oh  show Music core 20190629 (2019-06-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=rUrXD2PZ2AM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/rUrXD2PZ2AM/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.06.28] (2019-06-28)",
+  title: "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.06.28] (2019-06-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=A5JEXf4hd3U",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/A5JEXf4hd3U/hqdefault.jpg",
+  alt: "아이들 - Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190628 (2019-06-28)",
+  title: "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190628 (2019-06-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aXumrr0B-2A",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/aXumrr0B-2A/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)",
+  title: "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Ya_EvdWtPEw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Ya_EvdWtPEw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE (여자)아이들 - Senorita[Music Bank/2019.03.29] (2019-03-29)",
+  title: "(G)I-DLE (여자)아이들 - Senorita[Music Bank/2019.03.29] (2019-03-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=h8H75jVLV9s",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/h8H75jVLV9s/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190331 (2019-03-31)",
+  title: "(G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190331 (2019-03-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5tt0LXywox0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/5tt0LXywox0/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.308 (2019-03-20)",
+  title: "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.308 (2019-03-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=W-7QZPxie3Y",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/W-7QZPxie3Y/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190317 (2019-03-17)",
+  title: "(G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190317 (2019-03-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=utfjlfWp2A8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/utfjlfWp2A8/hqdefault.jpg",
+  alt: "아이들 - [HOT] (G)I-DLE  -  Senorita ,(여자)아이들 - Senorita  Show Music core 20190316 (2019-03-16)",
+  title: "[HOT] (G)I-DLE  -  Senorita ,(여자)아이들 - Senorita  Show Music core 20190316 (2019-03-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=WuusDRYlR9s",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/WuusDRYlR9s/hqdefault.jpg",
+  alt: "아이들 - Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190315 (2019-03-15)",
+  title: "Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190315 (2019-03-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sYE7J9oLyVk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/sYE7J9oLyVk/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)",
+  title: "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Il8weyn0EfI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/Il8weyn0EfI/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Señorita [THE SHOW 190312] (2019-03-12)",
+  title: "(G)I-DLE, Señorita [THE SHOW 190312] (2019-03-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=xVtMPmSRSMQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/xVtMPmSRSMQ/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE (여자)아이들 - Senorita [Music Bank/2019.03.08] (2019-03-08)",
+  title: "(G)I-DLE (여자)아이들 - Senorita [Music Bank/2019.03.08] (2019-03-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EnLGyQoYx3M",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/EnLGyQoYx3M/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190310 (2019-03-10)",
+  title: "(G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190310 (2019-03-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3la6Sl75910",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/3la6Sl75910/hqdefault.jpg",
+  alt: "아이들 - Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190308 (2019-03-08)",
+  title: "Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] 20190308 (2019-03-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=H3a-zDvgSBE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/H3a-zDvgSBE/hqdefault.jpg",
+  alt: "아이들 - [Weekly Champion vowel] (G)I-DLE - Senorita♬ (2019-03-07)",
+  title: "[Weekly Champion vowel] (G)I-DLE - Senorita♬ (2019-03-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=94BeTnryYZI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/94BeTnryYZI/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)",
+  title: "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=AjGJMXRhjAw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/AjGJMXRhjAw/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, Señorita [THE SHOW 190305] (2019-03-05)",
+  title: "(G)I-DLE, Señorita [THE SHOW 190305] (2019-03-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=fH9CrFTROOY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/fH9CrFTROOY/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE (여자)아이들 - Senorita [Music Bank COME BACK/2019.03.01] (2019-03-01)",
+  title: "(G)I-DLE (여자)아이들 - Senorita [Music Bank COME BACK/2019.03.01] (2019-03-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=RjSd4oTbkNA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/RjSd4oTbkNA/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190303 (2019-03-03)",
+  title: "(G)I-DLE((여자)아이들) - Senorita @인기가요 Inkigayo 20190303 (2019-03-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=c0xYthpftyY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/c0xYthpftyY/hqdefault.jpg",
+  alt: "아이들 - [ComeBack Stage] (G)I-DLE  -  Senorita ,(여자)아이들 - Senorita Show Music core 20190302 (2019-03-02)",
+  title: "[ComeBack Stage] (G)I-DLE  -  Senorita ,(여자)아이들 - Senorita Show Music core 20190302 (2019-03-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=PIhcLSm8WSM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/PIhcLSm8WSM/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - INTRO = Senorita - (G)I-DLE(여자아이들).20190301 (2019-03-01)",
+  title: "뮤직뱅크 Music Bank - INTRO = Senorita - (G)I-DLE(여자아이들).20190301 (2019-03-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=dce9SYhd6rg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2019",
+  thumbnail: "https://i.ytimg.com/vi/dce9SYhd6rg/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)",
+  title: "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=CX9hz18ZPco",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/CX9hz18ZPco/hqdefault.jpg",
+  alt: "아이들 - KBS가요대축제 - 여자 아이들 - Intro, LATATA  20181228 (2018-12-28)",
+  title: "KBS가요대축제 - 여자 아이들 - Intro, LATATA  20181228 (2018-12-28)"
+},
+{
+  link: "https://www.youtube.com/watch?v=iESof_jwfRo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/iESof_jwfRo/hqdefault.jpg",
+  alt: "아이들 - [2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)",
+  title: "[2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gpAr7fnZNUg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/gpAr7fnZNUg/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - LATATA - (여자)아이들 .20181221 (2018-12-21)",
+  title: "뮤직뱅크 Music Bank - LATATA - (여자)아이들 .20181221 (2018-12-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=gj8gSfYBPPc",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/gj8gSfYBPPc/hqdefault.jpg",
+  alt: "소연 - [2018 MAMA PREMIERE in KOREA] SOYEON((G)I-DLE)XSUNWOO(THE BOYZ)_Supermagic / Supreme Team 1812 (2018-12-10)",
+  title: "[2018 MAMA PREMIERE in KOREA] SOYEON((G)I-DLE)XSUNWOO(THE BOYZ)_Supermagic / Supreme Team 1812 (2018-12-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=QGNTS-3uf2k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/QGNTS-3uf2k/hqdefault.jpg",
+  alt: "아이들 - 181201 MMA (여자)아이들 (G-IDLE) - HANN(Alone) (한(一)) + LATATA(라타타) (2018-08-14)",
+  title: "181201 MMA (여자)아이들 (G-IDLE) - HANN(Alone) (한(一)) + LATATA(라타타) (2018-08-14)"
+},
+{
+  link: "https://www.youtube.com/watch?v=OHIobUitIOg",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/OHIobUitIOg/hqdefault.jpg",
+  alt: "아이들 - [KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN 181011 EP.591 (2018-10-11)",
+  title: "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN 181011 EP.591 (2018-10-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VwsHCcpP9j8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/VwsHCcpP9j8/hqdefault.jpg",
+  alt: "아이들 - [KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN 181011 EP.591 (2018-10-11)",
+  title: "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN 181011 EP.591 (2018-10-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EQ3c6jYcMz0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/EQ3c6jYcMz0/hqdefault.jpg",
+  alt: "아이들 - [Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-15)",
+  title: "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=imoV6KCZTJY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/imoV6KCZTJY/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.09.07] (2018-09-07)",
+  title: "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.09.07] (2018-09-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5IGhQ_vqBmY",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/5IGhQ_vqBmY/hqdefault.jpg",
+  alt: "아이들 - 60FPS 1080P | (G)I-DLE - HANN, (여자)아이들 - 한(一) Show Music Core 20180908 (2018-09-10)",
+  title: "60FPS 1080P | (G)I-DLE - HANN, (여자)아이들 - 한(一) Show Music Core 20180908 (2018-09-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=S3BZO6nI_i4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/S3BZO6nI_i4/hqdefault.jpg",
+  alt: "아이들 - 《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180909 (2018-09-09)",
+  title: "《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180909 (2018-09-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Kk4Tpzg19cE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Kk4Tpzg19cE/hqdefault.jpg",
+  alt: "아이들 - [HOT] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一)  Show Music core 20180908 (2018-09-08)",
+  title: "[HOT] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一)  Show Music core 20180908 (2018-09-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3xKzy6c2l88",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/3xKzy6c2l88/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 .20180907 (2018-09-07)",
+  title: "뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 .20180907 (2018-09-07)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ZBteR4VaRqw",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/ZBteR4VaRqw/hqdefault.jpg",
+  alt: "아이들 - 저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)",
+  title: "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=vxiY2OZrA8k",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/vxiY2OZrA8k/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.08.31] (2018-08-31)",
+  title: "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.08.31] (2018-08-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=nzsfh7aG0C0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/nzsfh7aG0C0/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, HANN [THE SHOW 180904] (2018-09-04)",
+  title: "(G)I-DLE, HANN [THE SHOW 180904] (2018-09-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3XF_mMXvwbI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/3XF_mMXvwbI/hqdefault.jpg",
+  alt: "아이들 - 《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180902 (2018-09-02)",
+  title: "《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180902 (2018-09-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=NcHdGxLoLRo",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/NcHdGxLoLRo/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 .20180831 (2018-08-31)",
+  title: "뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 .20180831 (2018-08-31)"
+},
+{
+  link: "https://www.youtube.com/watch?v=_3OEVLyUmbQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/_3OEVLyUmbQ/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / 2018.08.24] (2018-08-24)",
+  title: "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / 2018.08.24] (2018-08-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-NnE956NOUA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/-NnE956NOUA/hqdefault.jpg",
+  alt: "아이들 - 《Comeback Special》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180826 (2018-08-26)",
+  title: "《Comeback Special》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo 20180826 (2018-08-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Pie4ma-sovE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Pie4ma-sovE/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.281 (2018-08-22)",
+  title: "[Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.281 (2018-08-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=N73JUlJGgpE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/N73JUlJGgpE/hqdefault.jpg",
+  alt: "아이들 - 60FPS 1080P | (G)I-DLE - HANN, (여자)아이들 - 한(一) Show Music Core 20180818 (2018-08-22)",
+  title: "60FPS 1080P | (G)I-DLE - HANN, (여자)아이들 - 한(一) Show Music Core 20180818 (2018-08-22)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LaPfiyFHA54",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/LaPfiyFHA54/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, HANN [THE SHOW 180821] (2018-08-21)",
+  title: "(G)I-DLE, HANN [THE SHOW 180821] (2018-08-21)"
+},
+{
+  link: "https://www.youtube.com/watch?v=arQ0kVtfC48",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/arQ0kVtfC48/hqdefault.jpg",
+  alt: "아이들 - [Comeback Stage](G)I-DLE - HANN , (여자)아이들 -  한(一) Show Music core 20180818 (2018-08-18)",
+  title: "[Comeback Stage](G)I-DLE - HANN , (여자)아이들 -  한(一) Show Music core 20180818 (2018-08-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Lh-UiqwFTps",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Lh-UiqwFTps/hqdefault.jpg",
+  alt: "아이들 - 한(HANN) - (여자)아이들 [뮤직뱅크 Music Bank] .20180817 (2018-08-17)",
+  title: "한(HANN) - (여자)아이들 [뮤직뱅크 Music Bank] .20180817 (2018-08-17)"
+},
+{
+  link: "https://www.youtube.com/watch?v=LFRRQk7sdWs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/LFRRQk7sdWs/hqdefault.jpg",
+  alt: "아이들 - [예능연구소 직캠] (여자)아이들 우주소녀 레드벨벳 썸머 송 메들리 @쇼!음악중심_20180811 (G)I-DLE WJSN Red Velvet Special stage in 4K (2018-08-11)",
+  title: "[예능연구소 직캠] (여자)아이들 우주소녀 레드벨벳 썸머 송 메들리 @쇼!음악중심_20180811 (G)I-DLE WJSN Red Velvet Special stage in 4K (2018-08-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=7wMEY_CWkdQ",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/7wMEY_CWkdQ/hqdefault.jpg",
+  alt: "아이들 - [Special Stage](G)I-DLE - U-Go-Girl,(여자)아이들 - U-Go-Girl   Show Music core 20180811 (2018-08-11)",
+  title: "[Special Stage](G)I-DLE - U-Go-Girl,(여자)아이들 - U-Go-Girl   Show Music core 20180811 (2018-08-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0Ckkwip13mc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/0Ckkwip13mc/hqdefault.jpg",
+  alt: "아이들 - Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)",
+  title: "Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)"
+},
+{
+  link: "https://www.youtube.com/watch?v=sf3gCFsjL5M",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/sf3gCFsjL5M/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들 ((G)I-DLE) - LATATA(라타타) 무대교차편집 (2018-07-05)",
+  title: "(여자)아이들 ((G)I-DLE) - LATATA(라타타) 무대교차편집 (2018-07-05)"
+},
+{
+  link: "https://www.youtube.com/watch?v=c3VwmlQ8DRs",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/c3VwmlQ8DRs/hqdefault.jpg",
+  alt: "아이들 - 《DREAMLIKE》 (G)I-DLE((여자)아이들) - LATATA @인기가요 Inkigayo 20180624 (2018-06-24)",
+  title: "《DREAMLIKE》 (G)I-DLE((여자)아이들) - LATATA @인기가요 Inkigayo 20180624 (2018-06-24)"
+},
+{
+  link: "https://www.youtube.com/watch?v=aSfdjfbRC_0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/aSfdjfbRC_0/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, LATATA [THE SHOW 180605] (2018-06-15)",
+  title: "(G)I-DLE, LATATA [THE SHOW 180605] (2018-06-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=SkPQWXX1tqE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/SkPQWXX1tqE/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, LATATA [THE SHOW 180529] (2018-06-15)",
+  title: "(G)I-DLE, LATATA [THE SHOW 180529] (2018-06-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9-CZApa34SA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/9-CZApa34SA/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE, LATATA [THE SHOW 180522] (2018-06-15)",
+  title: "(G)I-DLE, LATATA [THE SHOW 180522] (2018-06-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Qbs5o9eAEBI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Qbs5o9eAEBI/hqdefault.jpg",
+  alt: "아이들 - [HOT] (G)I-DLE - LATATA,  (여자)아이들 - 라타타  Music core 20180609 (2018-06-09)",
+  title: "[HOT] (G)I-DLE - LATATA,  (여자)아이들 - 라타타  Music core 20180609 (2018-06-09)"
+},
+{
+  link: "https://www.youtube.com/watch?v=z8UAOIM-Jz4",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/z8UAOIM-Jz4/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180608 (2018-06-08)",
+  title: "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180608 (2018-06-08)"
+},
+{
+  link: "https://www.youtube.com/watch?v=DcviEDRnXNk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/DcviEDRnXNk/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180601 (2018-06-01)",
+  title: "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180601 (2018-06-01)"
+},
+{
+  link: "https://www.youtube.com/watch?v=jybc5w6X_Pk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/jybc5w6X_Pk/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)",
+  title: "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)"
+},
+{
+  link: "https://www.youtube.com/watch?v=VZLHdmbuN-s",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/VZLHdmbuN-s/hqdefault.jpg",
+  alt: "아이들 - 60FPS 1080P | (G)I-DLE - Latata, (여자)아이들 - 라타타 Show Music Core 20180526 (2018-05-29)",
+  title: "60FPS 1080P | (G)I-DLE - Latata, (여자)아이들 - 라타타 Show Music Core 20180526 (2018-05-29)"
+},
+{
+  link: "https://www.youtube.com/watch?v=hRQk0BJrXYE",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/hRQk0BJrXYE/hqdefault.jpg",
+  alt: "아이들 - [HOT] D(G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180526 (2018-05-26)",
+  title: "[HOT] D(G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180526 (2018-05-26)"
+},
+{
+  link: "https://www.youtube.com/watch?v=3yiMQS8RIwA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/3yiMQS8RIwA/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180525 (2018-05-25)",
+  title: "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180525 (2018-05-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=9QdhEcPuiRc",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/9QdhEcPuiRc/hqdefault.jpg",
+  alt: "아이들 - 《POWERFUL》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180520 (2018-05-20)",
+  title: "《POWERFUL》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180520 (2018-05-20)"
+},
+{
+  link: "https://www.youtube.com/watch?v=AVchZIyOPoM",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/AVchZIyOPoM/hqdefault.jpg",
+  alt: "아이들 - [HOT] (G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180519 (2018-05-19)",
+  title: "[HOT] (G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180519 (2018-05-19)"
+},
+{
+  link: "https://www.youtube.com/watch?v=E9UYVt0I-as",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/E9UYVt0I-as/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
+  title: "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)"
+},
+{
+  link: "https://www.youtube.com/watch?v=oZM-C_IEd8Q",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/oZM-C_IEd8Q/hqdefault.jpg",
+  alt: "아이들 - (여자)아이들((G)I-DLE) - 'Don't text Me' Lyrics [Color Coded Lyrics Han|Rom|Eng] (2018-05-15)",
+  title: "(여자)아이들((G)I-DLE) - 'Don't text Me' Lyrics [Color Coded Lyrics Han|Rom|Eng] (2018-05-15)"
+},
+{
+  link: "https://www.youtube.com/watch?v=-kFNiIGOg6c",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/-kFNiIGOg6c/hqdefault.jpg",
+  alt: "아이들 - 《POWERFUL》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180513 (2018-05-13)",
+  title: "《POWERFUL》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180513 (2018-05-13)"
+},
+{
+  link: "https://www.youtube.com/watch?v=BIr6xidUpZA",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/BIr6xidUpZA/hqdefault.jpg",
+  alt: "아이들 - [HOT Debut]  (G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180512 (2018-05-12)",
+  title: "[HOT Debut]  (G)I-DLE - LATATA,  (여자)아이들 - 라타타 Show Music core 20180512 (2018-05-12)"
+},
+{
+  link: "https://www.youtube.com/watch?v=0ZgD673l1so",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/0ZgD673l1so/hqdefault.jpg",
+  alt: "아이들 - 뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180511 (2018-05-11)",
+  title: "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE).20180511 (2018-05-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=A3UTiA7myF0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/A3UTiA7myF0/hqdefault.jpg",
+  alt: "아이들 - [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)",
+  title: "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)"
+},
+{
+  link: "https://www.youtube.com/watch?v=EwbrhEb3rJk",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/EwbrhEb3rJk/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - LATATA] KPOP TV Show | M COUNTDOWN 180510 EP.570 (2018-05-10)",
+  title: "[(G)I-DLE - LATATA] KPOP TV Show | M COUNTDOWN 180510 EP.570 (2018-05-10)"
+},
+{
+  link: "https://www.youtube.com/watch?v=kqSeOjaApI8",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/kqSeOjaApI8/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / 2018.05.04] (2018-05-04)",
+  title: "(G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / 2018.05.04] (2018-05-04)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Z3iAMy2RPuI",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/Z3iAMy2RPuI/hqdefault.jpg",
+  alt: "아이들 - 《Debut Stage》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180506 (2018-05-06)",
+  title: "《Debut Stage》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo 20180506 (2018-05-06)"
+},
+{
+  link: "https://www.youtube.com/watch?v=eZRmP-l3Nz0",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/eZRmP-l3Nz0/hqdefault.jpg",
+  alt: "아이들 - [(G)I-DLE - LATATA] Debut Stage | M COUNTDOWN 20180503 EP.569 (2018-05-03)",
+  title: "[(G)I-DLE - LATATA] Debut Stage | M COUNTDOWN 20180503 EP.569 (2018-05-03)"
+},
+{
+  link: "https://www.youtube.com/watch?v=5WVsMPZIT9E",
+  category: "STAGE PERFORMANCE",
+  member: "아이들",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/5WVsMPZIT9E/hqdefault.jpg",
+  alt: "아이들 - (G)I-DLE ((여자)아이들) - 'DALLA / DOLLAR (달라) $$$' Lyrics (Color Coded Han-Rom) (2018-05-02)",
+  title: "(G)I-DLE ((여자)아이들) - 'DALLA / DOLLAR (달라) $$$' Lyrics (Color Coded Han-Rom) (2018-05-02)"
+},
+{
+  link: "https://www.youtube.com/watch?v=Q8ERCF_AgIo",
+  category: "STAGE PERFORMANCE",
+  member: "소연",
+  year: "PRE-DEBUT",
+  thumbnail: "https://i.ytimg.com/vi/Q8ERCF_AgIo/hqdefault.jpg",
+  alt: "아이들 - [Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)",
+  title: "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)"
+},
+{
+  link: "https://www.youtube.com/watch?v=ZXHMMNMo4Ww",
+  category: "LIVE-COVER-DANCE",
+  member: "소연",
+  year: "2018",
+  thumbnail: "https://i.ytimg.com/vi/ZXHMMNMo4Ww/hqdefault.jpg",
+  alt: "소연 - ((G)I-DLE JEON SO YEON  (여자)아이들 소연- 아이들 쏭 (2018-05-28)",
+  title: "((G)I-DLE JEON SO YEON  (여자)아이들 소연- 아이들 쏭 (2018-05-28)"
+}
+
 
 
 
