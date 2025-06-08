@@ -1,14 +1,5 @@
 const allCards = [
-  {
-    link: "https://www.youtube.com/watch?v=hAONx6nuEgI",
-    category: "MV-SPECIAL CLIP",
-    member: "아이들",
-    year: "2025",
-    thumbnail: "https://i.ytimg.com/vi/hAONx6nuEgI/hqdefault.jpg",
-    alt: "아이들 - i-dle (아이들) 'Good Thing' Official Music Video",
-    title: "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
-  },
-  {
+    {
     link: "https://www.youtube.com/watch?v=Rf0ajz4PrEg",
     category: "RECORDING BEHIND",
     member: "아이들",
@@ -841,7 +832,6 @@ const allCards = [
 
   
 ];
-
 // 중복 제거
 const seenLinks = new Set();
 allCards = allCards.filter(card => {
