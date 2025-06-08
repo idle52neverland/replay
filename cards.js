@@ -16706,20 +16706,11 @@ const allCards = [
   title: "((G)I-DLE JEON SO YEON  (여자)아이들 소연- 아이들 쏭 (2018-05-28)"
 },
   // 🔽 새로 불러온 1개 항목
-{
-  link: "https://youtu.be/hAONx6nuEgI?si=gsKl1Tut-rxwv7Ph",
-  category: "MV-SPECIAL CLIP",
-  member: "아이들",
-  year: "2025",
-  thumbnail: "https://i.ytimg.com/vi/hAONx6nuEgI/hqdefault.jpg",
-  alt: "아이들 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
-  title: "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
-},
-  {
+ {
   link: "https://www.youtube.com/watch?v=s69fJjmS1S0",
   category: "LIVE STREAM",
   member: "아이들",
-  year: "2025",
+  year: "2019",
   thumbnail: "https://i.ytimg.com/vi/s69fJjmS1S0/hqdefault.jpg",
   alt: "아이들 - 💜아이들 데뷔 1주년 기념 V LIVE🎉💜 190502 (2019-05-02)",
   title: "💜아이들 데뷔 1주년 기념 V LIVE🎉💜1TH 190502 (2019-05-02)"
