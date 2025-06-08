@@ -93,34 +93,31 @@
       height: 24px;
     }
     .card-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
     }
     .card {
-      background-color: #222;
-      border-radius: 10px;
+      background-color: transparent;
+      border-radius: 0;
       overflow: hidden;
       text-align: left;
       transition: transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       cursor: pointer;
-    }
-    .card:hover {
-      transform: scale(1.03);
-      box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+      width: 100%;
+      padding: 0;
+      margin: 0;
     }
     .card img {
       width: 100%;
       height: auto;
       display: block;
+      border-radius: 0;
       margin: 0;
-      padding: 0;
-      border: 0;
-      line-height: 0;
       object-fit: cover;
+      aspect-ratio: 16 / 9;
       background-color: #000;
     }
     .card-title {
@@ -136,59 +133,19 @@
       text-overflow: ellipsis;
     }
     @media (max-width: 768px) {
-      .header-bar {
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 10px;
-        padding: 30px 10px 10px;
-        text-align: center;
-      }
-      #mainTitle {
-        position: static;
-        transform: none;
-        font-size: 24px;
-        margin: 0;
-        text-align: center;
-      }
-      .sns-icons {
-        position: static;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 10px;
-      }
-      .sns-icons img {
-        width: 18px;
-        height: 18px;
+      .card-container {
+        grid-template-columns: repeat(2, 1fr);
       }
       .top-bar input {
-        width: 200px;
+        width: 220px;
       }
-      .category-section,
+      .category-btn {
+        padding: 6px 14px;
+        font-size: 13px;
+      }
       .category-line {
-        flex-direction: column;
-        align-items: center;
+        justify-content: center;
       }
-      .card {
-        width: 45vw;
-      }
-    }
-    @media (min-width: 1025px) {
-      .card {
-        width: calc(100% / 5 - 12px);
-      }
-    }
-    #loadMoreBtn {
-      margin: 20px auto;
-      padding: 10px 20px;
-      background-color: #444;
-      color: #fff;
-      border: none;
-      border-radius: 20px;
-      cursor: pointer;
-      display: block;
     }
   </style>
 </head>
