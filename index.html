@@ -23,7 +23,7 @@
       font-size: 28px;
       color: #fff;
       margin: 0 auto;
-          }
+    }
     .category-section {
       display: flex;
       flex-wrap: wrap;
@@ -117,7 +117,7 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
       text-overflow: ellipsis;
-      min-height: calc(1.2em * 3 + 12px); /* 3줄 높이 확보 */
+      min-height: calc(1.2em * 3 + 12px);
     }
     @media (max-width: 768px) {
       .card-container {
@@ -139,13 +139,6 @@
 <body>
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
-    <div class="sns-icons">
-      <a href="https://youtube.com/@official_i_dle" target="_blank"><img src="images/유튜브.jpg" alt="YouTube"></a>
-      <a href="https://x.com/official_i_dle" target="_blank"><img src="images/엑스.jpg" alt="X"></a>
-      <a href="https://instagram.com/i_dle_official" target="_blank"><img src="images/인스타그램.jpg" alt="Instagram"></a>
-      <a href="https://www.tiktok.com/@official_i_dle" target="_blank"><img src="images/틱톡.jpg" alt="TikTok"></a>
-      <a href="https://weverse.io/i-dle" target="_blank"><img src="images/위버스.jpg" alt="Weverse"></a>
-    </div>
   </div>
 
   <div class="category-section">
@@ -203,20 +196,16 @@
           card.setAttribute("data-category", data.category);
           card.setAttribute("data-member", data.member);
           card.setAttribute("data-year", data.year);
-
           card.innerHTML = `
             <img src="${data.thumbnail}" alt="${data.alt}">
             <div class="card-title">${data.title}</div>
           `;
-
           card.addEventListener("click", (e) => {
             e.preventDefault();
             window.open(data.link, "_blank");
           });
-
           container.appendChild(card);
         });
-
         currentIndex += batchSize;
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
