@@ -119,19 +119,20 @@
       background-color: #000;
     }
 
-   .card-title {
+  .card-title {
   font-size: 13px;
   padding: 6px;
   margin: 0;
   color: #fff;
   background-color: #222;
-  line-height: 17px; /* 1줄 높이 */
-  height: 68px; /* 17px × 4줄 */
+  line-height: 16px;         /* 1줄 높이 */
+  height: 64px;              /* 16px × 4줄 = 64px */
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;
+  box-sizing: content-box;
 }
 
     #loadMoreBtn {
