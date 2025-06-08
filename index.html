@@ -119,20 +119,20 @@
       background-color: #000;
     }
 
-    .card-title {
-      font-size: 13px;
-      padding: 6px;
-      margin: 0;
-      color: #fff;
-      background-color: #222;
-      display: -webkit-box;
-      -webkit-line-clamp: 4;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      line-height: 1.2em;
-      max-height: calc(1.2em * 4); /* 정확히 4줄만 보이도록 고정 */
-    }
+   .card-title {
+  font-size: 13px;
+  padding: 6px;
+  margin: 0;
+  color: #fff;
+  background-color: #222;
+  line-height: 1.4em; /* 줄간격 고정 */
+  height: calc(1.4em * 4); /* 4줄 높이 정확히 고정 */
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
 
     #loadMoreBtn {
       display: block;
