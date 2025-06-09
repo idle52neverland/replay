@@ -2,7 +2,7 @@ const mvSpecialClipCards = [
 
   {
     "link": "https://www.youtube.com/watch?v=hAONx6nuEgI",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/mqdefault.jpg",
@@ -11,7 +11,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=zKfs2EM8LQ4",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/zKfs2EM8LQ4/mqdefault.jpg",
@@ -20,7 +20,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=HxROxHdBQ2g",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/HxROxHdBQ2g/mqdefault.jpg",
@@ -29,7 +29,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=FyuPYjmPjrE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/FyuPYjmPjrE/mqdefault.jpg",
@@ -38,7 +38,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=jRkUik5EJwU",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/jRkUik5EJwU/mqdefault.jpg",
@@ -47,7 +47,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=-pKYsndlSXE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/-pKYsndlSXE/mqdefault.jpg",
@@ -56,7 +56,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=UTHqh7Vpa64",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/UTHqh7Vpa64/mqdefault.jpg",
@@ -65,7 +65,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=8KpvPHcXr1c",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2025",
     "thumbnail": "https://i.ytimg.com/vi/8KpvPHcXr1c/mqdefault.jpg",
@@ -74,7 +74,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=zkR3SAMLGno",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/zkR3SAMLGno/mqdefault.jpg",
@@ -83,7 +83,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=Ubz6C2t_FFM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/Ubz6C2t_FFM/mqdefault.jpg",
@@ -92,7 +92,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=_s4PlNvJnDQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/_s4PlNvJnDQ/mqdefault.jpg",
@@ -101,7 +101,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=Zf3nEwaWLpA",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/Zf3nEwaWLpA/mqdefault.jpg",
@@ -110,7 +110,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=nlkPoTADrdM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/nlkPoTADrdM/mqdefault.jpg",
@@ -119,7 +119,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=rTKqSmX9XhQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/rTKqSmX9XhQ/mqdefault.jpg",
@@ -128,7 +128,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=pS_dBL63oAc",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/pS_dBL63oAc/mqdefault.jpg",
@@ -137,7 +137,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=uSddv1T7Byg",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/uSddv1T7Byg/mqdefault.jpg",
@@ -146,7 +146,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=iBtilCDEU4E",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/iBtilCDEU4E/mqdefault.jpg",
@@ -155,7 +155,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=N9Q0T7OWhuA",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/N9Q0T7OWhuA/mqdefault.jpg",
@@ -164,7 +164,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=EpRflTq7iEg",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/EpRflTq7iEg/mqdefault.jpg",
@@ -173,7 +173,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=XVlVpYDaQMQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/XVlVpYDaQMQ/mqdefault.jpg",
@@ -182,7 +182,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ChiQ0Ukh470",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/ChiQ0Ukh470/mqdefault.jpg",
@@ -191,7 +191,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=J_2r39dcPAM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/J_2r39dcPAM/mqdefault.jpg",
@@ -200,7 +200,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=i_r3Ni7jdNw",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/i_r3Ni7jdNw/mqdefault.jpg",
@@ -209,7 +209,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=6FvfiaskXbQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/6FvfiaskXbQ/mqdefault.jpg",
@@ -218,7 +218,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=mBJfHXE5fKU",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/mBJfHXE5fKU/mqdefault.jpg",
@@ -227,7 +227,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=UqJIBItJeyg",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/UqJIBItJeyg/mqdefault.jpg",
@@ -236,7 +236,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ZqU4oTDy3XE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/ZqU4oTDy3XE/mqdefault.jpg",
@@ -245,7 +245,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ZqU4oTDy3XE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/ZqU4oTDy3XE/mqdefault.jpg",
@@ -254,7 +254,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ATK7gAaZTOM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/ATK7gAaZTOM/mqdefault.jpg",
@@ -263,7 +263,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=KAymeaEyPr8",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/KAymeaEyPr8/mqdefault.jpg",
@@ -272,7 +272,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=6f3RzjXPQwA",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/6f3RzjXPQwA/mqdefault.jpg",
@@ -281,7 +281,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=IIgWfz6FTSM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/IIgWfz6FTSM/mqdefault.jpg",
@@ -290,7 +290,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=baaNwRAhHBo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2024",
     "thumbnail": "https://i.ytimg.com/vi/baaNwRAhHBo/mqdefault.jpg",
@@ -299,7 +299,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=Iewisp9KYRw",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/Iewisp9KYRw/mqdefault.jpg",
@@ -308,7 +308,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=Zi2kJvHwk1k",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/Zi2kJvHwk1k/mqdefault.jpg",
@@ -317,7 +317,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=dUro-rg2Uz8",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/dUro-rg2Uz8/mqdefault.jpg",
@@ -326,7 +326,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=pCh3Kp6qxo8",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/pCh3Kp6qxo8/mqdefault.jpg",
@@ -335,7 +335,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=PITjb4VZHpQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/PITjb4VZHpQ/mqdefault.jpg",
@@ -344,7 +344,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=AKg_9dn_VmA",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/AKg_9dn_VmA/mqdefault.jpg",
@@ -353,7 +353,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=7HDeem-JaSY",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/7HDeem-JaSY/mqdefault.jpg",
@@ -362,7 +362,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=XZaBkbvteBc",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/XZaBkbvteBc/mqdefault.jpg",
@@ -371,7 +371,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=0X4XGrK_PwM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2023",
     "thumbnail": "https://i.ytimg.com/vi/0X4XGrK_PwM/mqdefault.jpg",
@@ -380,7 +380,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=qRrV31S7oO0",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/qRrV31S7oO0/mqdefault.jpg",
@@ -389,7 +389,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=bjFMG8BT144",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/bjFMG8BT144/mqdefault.jpg",
@@ -398,7 +398,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=a6Y1GX7wDnA",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/a6Y1GX7wDnA/mqdefault.jpg",
@@ -407,7 +407,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=uPU1l6fBEEQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/uPU1l6fBEEQ/mqdefault.jpg",
@@ -416,7 +416,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=fCO7f0SmrDc",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/fCO7f0SmrDc/mqdefault.jpg",
@@ -425,7 +425,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=xDBvRbiy9aI",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/xDBvRbiy9aI/mqdefault.jpg",
@@ -434,7 +434,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=cKqxdDg-d9I",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/cKqxdDg-d9I/mqdefault.jpg",
@@ -443,7 +443,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=35lirBqwgTs",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/35lirBqwgTs/mqdefault.jpg",
@@ -452,7 +452,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=KIQncyxUwnQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/KIQncyxUwnQ/mqdefault.jpg",
@@ -461,7 +461,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=SuMnpTc8zoU",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/SuMnpTc8zoU/mqdefault.jpg",
@@ -470,7 +470,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=Jh4QFaPmdss",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/Jh4QFaPmdss/mqdefault.jpg",
@@ -479,7 +479,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=eqB57puP5vQ",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2022",
     "thumbnail": "https://i.ytimg.com/vi/eqB57puP5vQ/mqdefault.jpg",
@@ -488,7 +488,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=iA04XJDdyrg",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/iA04XJDdyrg/mqdefault.jpg",
@@ -497,7 +497,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=fyk0U2BpiQg",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/fyk0U2BpiQg/mqdefault.jpg",
@@ -506,7 +506,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=MqzX9JAZ08U",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/MqzX9JAZ08U/mqdefault.jpg",
@@ -515,7 +515,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=AE8yKldv_oo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/AE8yKldv_oo/mqdefault.jpg",
@@ -524,7 +524,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=AE8yKldv_oo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/AE8yKldv_oo/mqdefault.jpg",
@@ -533,7 +533,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=wxDHQT0iBKM",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/wxDHQT0iBKM/mqdefault.jpg",
@@ -542,7 +542,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=P62kgQCuxGE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/mqdefault.jpg",
@@ -551,7 +551,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=z3szNvgQxHo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2021",
     "thumbnail": "https://i.ytimg.com/vi/z3szNvgQxHo/mqdefault.jpg",
@@ -560,7 +560,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=eiHCe0kGy3M",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2020",
     "thumbnail": "https://i.ytimg.com/vi/eiHCe0kGy3M/mqdefault.jpg",
@@ -569,7 +569,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=HPQ5mqovXHo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2020",
     "thumbnail": "https://i.ytimg.com/vi/HPQ5mqovXHo/mqdefault.jpg",
@@ -578,7 +578,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=H_HKE1mwzuo",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2020",
     "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/mqdefault.jpg",
@@ -587,7 +587,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ZlKoeJ3xlx4",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2020",
     "thumbnail": "https://i.ytimg.com/vi/ZlKoeJ3xlx4/mqdefault.jpg",
@@ -596,7 +596,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=om3n2ni8luE",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2020",
     "thumbnail": "https://i.ytimg.com/vi/om3n2ni8luE/mqdefault.jpg",
@@ -605,7 +605,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=6oanIo_2Z4Q",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2019",
     "thumbnail": "https://i.ytimg.com/vi/6oanIo_2Z4Q/mqdefault.jpg",
@@ -614,7 +614,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=ypNJMDlJvY4",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2019",
     "thumbnail": "https://i.ytimg.com/vi/ypNJMDlJvY4/mqdefault.jpg",
@@ -623,7 +623,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=I66oFXdf0KU",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2019",
     "thumbnail": "https://i.ytimg.com/vi/I66oFXdf0KU/mqdefault.jpg",
@@ -632,7 +632,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=2cevbhEqQF4",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2019",
     "thumbnail": "https://i.ytimg.com/vi/2cevbhEqQF4/mqdefault.jpg",
@@ -641,7 +641,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=OKNXn2qCEws",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2018",
     "thumbnail": "https://i.ytimg.com/vi/OKNXn2qCEws/mqdefault.jpg",
@@ -650,7 +650,7 @@ const mvSpecialClipCards = [
   },
   {
     "link": "https://www.youtube.com/watch?v=p4RIhcY7V3c",
-    "category": "MV-SPECIAL CLIP",
+    "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
     "year": "2018",
     "thumbnail": "https://i.ytimg.com/vi/p4RIhcY7V3c/mqdefault.jpg",
