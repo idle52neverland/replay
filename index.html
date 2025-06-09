@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>I-DLE 몰아보기</title>
+  <title>I-DLE 몬8에보기</title>
   <style>
     body {
       margin: 0;
@@ -95,7 +95,7 @@
 
     .card-container {
       display: grid;
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 10px;
       padding: 10px;
       padding-bottom: 100px;
@@ -103,6 +103,12 @@
 
     .card-container.disabled {
       pointer-events: none;
+    }
+
+    @media (min-width: 769px) {
+      .card-container {
+        grid-template-columns: repeat(5, 1fr);
+      }
     }
 
     .card {
@@ -169,27 +175,11 @@
     #scrollTopBtn:hover {
       background-color: #ddd;
     }
-
-    @media (max-width: 768px) {
-      .card-container {
-        grid-template-columns: repeat(2, 1fr);
-      }
-      .top-bar input {
-        width: 220px;
-      }
-      .category-btn {
-        padding: 6px 14px;
-        font-size: 13px;
-      }
-      .category-line {
-        justify-content: center;
-      }
-    }
   </style>
 </head>
 <body>
   <div class="header-bar">
-    <div id="mainTitle">I-DLE 몰아보기</div>
+    <div id="mainTitle">I-DLE 몬8에보기</div>
   </div>
 
   <div class="category-section">
@@ -309,8 +299,6 @@
         loadMoreBtn.blur();
 
         container.classList.add("disabled");
-
-        // 💡 핵심: 화면 아래로 1px 강제 스크롤
         const safeScroll = window.scrollY + 1;
         window.scrollTo({ top: safeScroll });
 
@@ -321,10 +309,17 @@
       });
 
       searchInput.addEventListener("input", function () {
-        const keywords = this.value.toLowerCase().split(/[\s,]+/);
-        filtered = all.filter(c =>
-          keywords.every(kw => c.title.toLowerCase().includes(kw))
-        );
+        const keywords = this.value
+          .toLowerCase()
+          .replace(/[^\w\uac00-\ud7af]+/g, ' ')
+          .trim()
+          .split(/\s+/);
+
+        filtered = all.filter(c => {
+          const cleanTitle = c.title.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ');
+          return keywords.every(k => cleanTitle.includes(k));
+        });
+
         currentIndex = 0;
         renderCards(filtered);
       });
