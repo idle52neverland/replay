@@ -41,6 +41,7 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
+      margin-bottom: 10px;
     }
     .category-btn {
       padding: 10px 20px;
@@ -52,6 +53,10 @@
       cursor: pointer;
       border: none;
       text-decoration: none;
+    }
+    .category-btn.active {
+      background-color: #fff;
+      color: #111;
     }
     .top-bar {
       display: flex;
@@ -159,154 +164,184 @@
         padding: 6px 14px;
         font-size: 13px;
       }
-      .category-line {
-        justify-content: center;
-      }
     }
   </style>
 </head>
 <body>
   <div class="header-bar">
-    <div id="mainTitle" class="category-title"></div>
+    <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
+
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
     <div class="category-line" id="monthFilters"></div>
     <div class="category-line" id="memberFilters"></div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
+      <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
+      <a class="category-btn" href="category.html?category=I_SERIES">I_SERIES</a>
+      <a class="category-btn" href="category.html?category=I_VARIETY">I_VARIETY</a>
+      <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
+      <a class="category-btn" href="category.html?category=LIVE_COVER_DANCE">LIVE_COVER_DANCE</a>
+      <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
+    </div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
+      <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
+      <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
+      <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
+      <a class="category-btn" href="category.html?category=FANCAM">FANCAM</a>
+      <a class="category-btn" href="category.html?category=CHALLENGE">CHALLENGE</a>
+      <a class="category-btn" href="category.html?category=ETC">ETC</a>
+    </div>
   </div>
+
   <div class="top-bar">
-    <button onclick="location.reload()"><img src="images/뒤로가기.jpg" alt="뒤로가기"></button>
+    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
-    <input type="text" id="searchInput" placeholder="카테고리 내 검색...">
+    <input type="text" id="searchInput" placeholder="전체 영상 검색...">
   </div>
+
   <div class="card-container" id="allCards"></div>
+
   <div class="button-wrapper">
-    <button id="loadMoreBtn">More</button>
-    <button id="scrollTopBtn">↑</button>
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
+
+  <!-- 카드 데이터 js -->
+  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
+  <script src="js/cards-RECORDING_BEHIND.js"></script>
+  <script src="js/cards-I_SERIES.js"></script>
+  <script src="js/cards-I_VARIETY.js"></script>
+  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
+  <script src="js/cards-LIVE_COVER_DANCE.js"></script>
+  <script src="js/cards-BEHIND_CLIPS.js"></script>
+  <script src="js/cards-MEDIA_CONTENTS.js"></script>
+  <script src="js/cards-RADIO_PODCAST.js"></script>
+  <script src="js/cards-INTERVIEW.js"></script>
+  <script src="js/cards-LIVE_STREAM.js"></script>
+  <script src="js/cards-FANCAM.js"></script>
+  <script src="js/cards-CHALLENGE.js"></script>
+  <script src="js/cards-ETC.js"></script>
+
   <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const selectedCategory = urlParams.get("category") || "";
-
-    const categoryMap = {
-      "MV_SPECIAL_CLIP":     "mvSpecialClipCards",
-      "RECORDING_BEHIND":    "recordingBehindCards",
-      "I_SERIES":            "iSeriesCards",
-      "I_VARIETY":           "iVarietyCards",
-      "STAGE_PERFORMANCE":   "stagePerformanceCards",
-      "LIVE_COVER_DANCE":    "liveCoverDanceCards",
-      "BEHIND_CLIPS":        "behindClipsCards",
-      "MEDIA_CONTENTS":      "mediaContentsCards",
-      "RADIO_PODCAST":       "radioPodcastCards",
-      "INTERVIEW":           "interviewCards",
-      "LIVE_STREAM":         "liveStreamCards",
-      "FANCAM":              "fancamCards",
-      "CHALLENGE":           "challengeCards",
-      "ETC":                 "etcCards"
-    };
-
-    let all = [];
-    let filtered = [];
-    let currentIndex = 0;
-    const batchSize = 30;
-
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
-
-    function renderCards(cards) {
+    window.onload = function () {
       const container = document.getElementById("allCards");
-      container.innerHTML = '';
-      cards.slice(0, currentIndex + batchSize).forEach(data => {
-        const card = document.createElement("a");
-        card.className = "card";
-        card.setAttribute("data-category", data.category);
-        card.setAttribute("data-member", data.member);
-        card.setAttribute("data-year", data.year);
-        card.innerHTML = `
-          <img src="${data.thumbnail}" alt="${data.alt}">
-          <div class="card-title">${data.title}</div>
-        `;
-        card.addEventListener("click", (e) => {
-          e.preventDefault();
-          e.stopPropagation();
-          window.open(data.link, "_blank");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
+      const loadMoreBtn = document.getElementById("loadMoreBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
+
+      let currentIndex = 0;
+      const batchSize = 30;
+
+      const all = [].concat(
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
+        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
+      );
+
+      function extractDate(title) {
+        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+        return match ? match[1] : '2000-01-01';
+      }
+
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      let filtered = all;
+
+      function renderCards(cards) {
+        container.innerHTML = '';
+        cards.slice(0, currentIndex + batchSize).forEach(data => {
+          const card = document.createElement("a");
+          card.className = "card";
+          card.setAttribute("data-category", data.category);
+          card.setAttribute("data-member", data.member);
+          card.setAttribute("data-year", data.year);
+          card.innerHTML = `
+            <img src="${data.thumbnail}" alt="${data.alt}">
+            <div class="card-title">${data.title}</div>
+          `;
+          card.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            window.open(data.link, "_blank");
+          });
+          container.appendChild(card);
         });
-        container.appendChild(card);
-      });
-      currentIndex += batchSize;
-      document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
-    }
+        currentIndex += batchSize;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+      }
 
-    function loadCardScript(category, callback) {
-      const script = document.createElement("script");
-      script.src = `js/cards-${category}.js`;
-      script.onload = callback;
-      document.body.appendChild(script);
-    }
+      function applyAllFilters() {
+        const rawInput = searchInput.value.toLowerCase();
+        const keywords = rawInput.split(/[^\w가-힣]+/).filter(Boolean);
+        const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+        const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+        const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
 
-    function createFilterButtons(containerId, items) {
-      const container = document.getElementById(containerId);
-      items.forEach(item => {
-        const btn = document.createElement("button");
-        btn.textContent = item;
-        btn.className = "category-btn";
-        btn.addEventListener("click", () => {
-          btn.classList.toggle("active");
-          applyAllFilters();
+        filtered = all.filter(card => {
+          const titleLower = card.title.toLowerCase();
+          const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+          const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+            const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+            return match && match[1] === month;
+          });
+          const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
+          const matchesKeyword = keywords.every(kw => titleLower.includes(kw));
+          return matchesYear && matchesMonth && matchesMember && matchesKeyword;
         });
-        container.appendChild(btn);
-      });
-    }
 
-    function applyAllFilters() {
-      const rawInput = document.getElementById("searchInput").value.toLowerCase();
-      const keywords = rawInput.split(/[^\w가-힣]+/).filter(Boolean);
+        currentIndex = 0;
+        renderCards(filtered);
+      }
 
-      const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-
-      filtered = all.filter(card => {
-        const titleLower = card.title.toLowerCase();
-
-        const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-        const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-          return match && match[1] === month;
+      function createFilterButtons(containerId, items) {
+        const container = document.getElementById(containerId);
+        items.forEach(item => {
+          const btn = document.createElement("button");
+          btn.textContent = item;
+          btn.className = "category-btn";
+          btn.addEventListener("click", () => {
+            btn.classList.toggle("active");
+            applyAllFilters();
+          });
+          container.appendChild(btn);
         });
-        const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-        const matchesKeyword = keywords.every(kw => titleLower.includes(kw));
+      }
 
-        return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-      });
-
-      currentIndex = 0;
-      renderCards(filtered);
-    }
-
-    document.addEventListener("DOMContentLoaded", () => {
-      document.getElementById("mainTitle").textContent = selectedCategory;
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
       createFilterButtons("memberFilters", ["소연", "미연", "민니", "우기", "슈화", "아이들"]);
 
-      if (selectedCategory && categoryMap[selectedCategory]) {
-        loadCardScript(selectedCategory, () => {
-          all = window[categoryMap[selectedCategory]] || [];
-          all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-          filtered = all;
-          renderCards(filtered);
-        });
-      }
+      renderCards(filtered);
 
-      document.getElementById("searchInput").addEventListener("input", applyAllFilters);
-      document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(filtered));
-      document.getElementById("scrollTopBtn").addEventListener("click", () => {
+      loadMoreBtn.addEventListener("click", () => renderCards(filtered));
+
+      searchInput.addEventListener("input", applyAllFilters);
+
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        filtered = all;
+        currentIndex = 0;
+        renderCards(filtered);
+      });
+
+      scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
-    });
+    };
   </script>
 </body>
 </html>
