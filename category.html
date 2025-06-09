@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>I-DLE 몰아보기 - 카테고리</title>
-  <style>
+<style>
     body {
       margin: 0;
       font-family: 'Helvetica Neue', sans-serif;
@@ -31,8 +25,8 @@
     }
     .category-section {
       display: flex;
-      flex-direction: column;
-      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center;
       gap: 10px;
       padding: 30px 10px 10px;
     }
@@ -53,11 +47,6 @@
       cursor: pointer;
       border: none;
       text-decoration: none;
-      user-select: none;
-    }
-    .category-btn.active {
-      background-color: #fff;
-      color: #111;
     }
     .top-bar {
       display: flex;
@@ -165,6 +154,9 @@
         padding: 6px 14px;
         font-size: 13px;
       }
+      .category-line {
+        justify-content: center;
+      }
     }
   </style>
 </head>
@@ -174,15 +166,30 @@
   </div>
 
   <div class="category-section">
-    <div class="category-line" id="yearFilters"></div>
-    <div class="category-line" id="monthFilters"></div>
-    <div class="category-line" id="memberFilters"></div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
+      <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
+      <a class="category-btn" href="category.html?category=I_SERIES">I_SERIES</a>
+      <a class="category-btn" href="category.html?category=I_VARIETY">I_VARIETY</a>
+      <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
+      <a class="category-btn" href="category.html?category=LIVE_COVER_DANCE">LIVE_COVER_DANCE</a>
+      <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
+    </div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
+      <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
+      <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
+      <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
+      <a class="category-btn" href="category.html?category=FANCAM">FANCAM</a>
+      <a class="category-btn" href="category.html?category=CHALLENGE">CHALLENGE</a>
+      <a class="category-btn" href="category.html?category=ETC">ETC</a>
+    </div>
   </div>
 
   <div class="top-bar">
-    <button id="resetSearchBtn" title="검색 초기화"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
-    <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
-    <input type="text" id="searchInput" placeholder="카테고리 내 검색...">
+    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
+    <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
+    <input type="text" id="searchInput" placeholder="전체 영상 검색...">
   </div>
 
   <div class="card-container" id="allCards"></div>
@@ -192,7 +199,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 모든 카드 데이터 JS 파일 -->
+  <!-- 모든 JS 파일 삽입 -->
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-RECORDING_BEHIND.js"></script>
   <script src="js/cards-I_SERIES.js"></script>
@@ -209,20 +216,17 @@
   <script src="js/cards-ETC.js"></script>
 
   <script>
-    window.onload = function () {
-      const urlParams = new URLSearchParams(window.location.search);
-      const selectedCategory = urlParams.get("category") || "";
-
+    document.addEventListener("DOMContentLoaded", function () {
       const container = document.getElementById("allCards");
-      const searchInput = document.getElementById("searchInput");
-      const resetSearchBtn = document.getElementById("resetSearchBtn");
       const loadMoreBtn = document.getElementById("loadMoreBtn");
       const scrollTopBtn = document.getElementById("scrollTopBtn");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
 
       let currentIndex = 0;
       const batchSize = 30;
 
-      // 모든 카드 데이터 배열 concat
+      // ✅ 배열이 undefined인 경우에도 작동하도록 방어 처리
       const all = [].concat(
         typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
         typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
@@ -240,16 +244,13 @@
         typeof etcCards !== 'undefined' ? etcCards : []
       );
 
-      // 선택된 카테고리 영상만 필터링
-      let filtered = all.filter(card => card.category === selectedCategory);
-
       function extractDate(title) {
         const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
         return match ? match[1] : '2000-01-01';
       }
 
-      // 최신순 정렬
-      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      let filtered = all;
 
       function renderCards(cards) {
         container.innerHTML = '';
@@ -274,73 +275,30 @@
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
 
-      // 필터 버튼 생성 함수
-      function createFilterButtons(containerId, items) {
-        const container = document.getElementById(containerId);
-        container.innerHTML = '';
-        items.forEach(item => {
-          const btn = document.createElement("button");
-          btn.textContent = item;
-          btn.className = "category-btn";
-          btn.addEventListener("click", () => {
-            btn.classList.toggle("active");
-            applyAllFilters();
-          });
-          container.appendChild(btn);
-        });
-      }
-
-      // 필터 + 검색 모두 적용
-      function applyAllFilters() {
-        const rawInput = searchInput.value.toLowerCase();
-        const keywords = rawInput.split(/[^\w가-힣]+/).filter(Boolean);
-        const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-
-        filtered = all.filter(card => {
-          if (card.category !== selectedCategory) return false;
-          const titleLower = card.title.toLowerCase();
-          const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-          const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-            const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-            return match && match[1] === month;
-          });
-          const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-          const matchesKeyword = keywords.every(kw => titleLower.includes(kw));
-          return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-        });
-
-        currentIndex = 0;
-        filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-        renderCards(filtered);
-      }
-
-      // 필터 버튼 초기 생성
-      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
-      createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
-      createFilterButtons("memberFilters", ["소연", "미연", "민니", "우기", "슈화", "아이들"]);
-
-      // 최초 렌더링
       renderCards(filtered);
 
-      // 이벤트 리스너 등록
       loadMoreBtn.addEventListener("click", () => renderCards(filtered));
-      searchInput.addEventListener("input", applyAllFilters);
-      resetSearchBtn.addEventListener("click", () => {
-        searchInput.value = '';
-        filtered = all.filter(card => card.category === selectedCategory);
+
+      searchInput.addEventListener("input", function () {
+        const keywords = this.value.toLowerCase().split(/[\s,]+/);
+        filtered = all.filter(c =>
+          keywords.every(kw => c.title.toLowerCase().includes(kw))
+        );
         currentIndex = 0;
         renderCards(filtered);
       });
+
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        filtered = all;
+        currentIndex = 0;
+        renderCards(filtered);
+      });
+
       scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
-
-      // 타이틀에 현재 카테고리 표시
-      const mainTitle = document.getElementById("mainTitle");
-      mainTitle.textContent = selectedCategory || "전체 영상";
-    };
+    });
   </script>
 </body>
 </html>
