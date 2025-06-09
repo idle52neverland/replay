@@ -137,7 +137,7 @@
 
     #loadMoreBtn {
       display: block;
-      margin: 60px auto 30px; /* 여기를 수정: 위 여백 추가 */
+      margin: 60px auto 30px; /* 여백 증가 */
       background-color: #fff;
       color: #111;
       font-size: 14px;
@@ -210,6 +210,7 @@
       let currentIndex = 0;
       const batchSize = 30;
       let all = allCards || [];
+      let filtered = all;
 
       function extractDate(title) {
         const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
@@ -232,7 +233,7 @@
           `;
           card.addEventListener("click", (e) => {
             e.preventDefault();
-            e.stopPropagation(); // 이벤트 전파 방지
+            e.stopPropagation();
             window.open(data.link, "_blank");
           });
           container.appendChild(card);
@@ -241,13 +242,13 @@
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
 
-      renderCards(all);
+      renderCards(filtered);
 
-      loadMoreBtn.addEventListener("click", () => renderCards(all));
+      loadMoreBtn.addEventListener("click", () => renderCards(filtered));
 
       searchInput.addEventListener("input", function () {
         const keywords = this.value.toLowerCase().split(/[\s,]+/);
-        const filtered = all.filter(c =>
+        filtered = all.filter(c =>
           keywords.every(kw => c.title.toLowerCase().includes(kw))
         );
         currentIndex = 0;
