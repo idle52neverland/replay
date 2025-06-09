@@ -215,126 +215,149 @@
     <button id="scrollTopBtn">↑</button>
   </div>
 
-  <script src="cards.js"></script>
-  <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const selectedCategory = urlParams.get("category") || "";
-    const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
-    const months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
-    const members = ["소연", "미연", "민니", "우기", "슈화", "아이들"];
+ <!-- main.js를 분리해도 되고 이처럼 script 안에 둬도 됨 -->
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const selectedCategory = urlParams.get("category") || "";
 
-    let currentIndex = 0;
-    const batchSize = 30;
-    let all = (allCards || []).filter(card => card.category === selectedCategory);
-    let filtered = all;
+const categoryMap = {
+  "MV-SPECIAL CLIP":     "mvSpecialClipCards",
+  "RECORDING BEHIND":    "recordingBehindCards",
+  "I-SERIES":            "iSeriesCards",
+  "I-VARIETY":           "iVarietyCards",
+  "STAGE PERFORMANCE":   "stagePerformanceCards",
+  "LIVE-COVER-DANCE":    "liveCoverDanceCards",
+  "BEHIND CLIPS":        "behindClipsCards",
+  "MEDIA CONTENTS":      "mediaContentsCards",
+  "RADIO-PODCAST":       "radioPodcastCards",
+  "INTERVIEW":           "interviewCards",
+  "LIVE STREAM":         "liveStreamCards",
+  "FANCAM":              "fancamCards",
+  "CHALLENGE":           "challengeCards",
+  "ETC":                 "etcCards"
+};
 
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
+let all = [];
+let filtered = [];
+let currentIndex = 0;
+const batchSize = 30;
 
-    all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+function loadCardScript(category, callback) {
+  const script = document.createElement("script");
+  script.src = `js/cards-${category}.js`;
+  script.onload = callback;
+  document.body.appendChild(script);
+}
 
-    function renderCards(cards) {
-      const container = document.getElementById("allCards");
-      container.innerHTML = '';
-      cards.slice(0, currentIndex + batchSize).forEach(data => {
-        const card = document.createElement("a");
-        card.className = "card";
-        card.setAttribute("data-category", data.category);
-        card.setAttribute("data-member", data.member);
-        card.setAttribute("data-year", data.year);
+function extractDate(title) {
+  const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+  return match ? match[1] : '2000-01-01';
+}
 
-        card.innerHTML = `
-          <img src="${data.thumbnail}" alt="${data.alt}">
-          <div class="card-title">${data.title}</div>
-        `;
-
-        card.addEventListener("click", (e) => {
-          e.preventDefault();
-          e.stopPropagation();
-          window.open(data.link, "_blank");
-        });
-
-        container.appendChild(card);
-      });
-
-      currentIndex += batchSize;
-      document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
-    }
-
-    function createFilterButtons(containerId, items) {
-      const container = document.getElementById(containerId);
-      items.forEach(item => {
-        const btn = document.createElement("button");
-        btn.textContent = item;
-        btn.className = "category-btn";
-        btn.addEventListener("click", () => {
-          btn.classList.toggle("active");
-          applyAllFilters();
-        });
-        container.appendChild(btn);
-      });
-    }
-
-    function applyAllFilters() {
-      const rawInput = document.getElementById("searchInput").value.toLowerCase();
-      const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
-
-      const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-      const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-
-      const memberEnglishToKorean = {
-        soyeon: "소연",
-        miyeon: "미연",
-        minnie: "민니",
-        yuqi: "우기",
-        shuhua: "슈화"
-      };
-
-      filtered = all.filter(card => {
-        const titleLower = card.title.toLowerCase();
-        let detectedMember = card.member;
-
-        for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
-          if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
-            detectedMember += `,${kor}`;
-          }
-        }
-
-        const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
-          return title.includes(eng) ? `${title} ${kor}` : title;
-        }, titleLower);
-
-        const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-        const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-          return match && match[1] === month;
-        });
-        const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
-        const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
-
-        return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-      });
-
-      currentIndex = 0;
-      renderCards(filtered);
-    }
-
-    document.addEventListener("DOMContentLoaded", () => {
-      document.getElementById("mainTitle").textContent = selectedCategory;
-      createFilterButtons("yearFilters", years);
-      createFilterButtons("monthFilters", months);
-      createFilterButtons("memberFilters", members);
-      renderCards(filtered);
-
-      document.getElementById("searchInput").addEventListener("input", applyAllFilters);
-      document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(filtered));
-      document.getElementById("scrollTopBtn").addEventListener("click", () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
+function renderCards(cards) {
+  const container = document.getElementById("allCards");
+  container.innerHTML = '';
+  cards.slice(0, currentIndex + batchSize).forEach(data => {
+    const card = document.createElement("a");
+    card.className = "card";
+    card.setAttribute("data-category", data.category);
+    card.setAttribute("data-member", data.member);
+    card.setAttribute("data-year", data.year);
+    card.innerHTML = `
+      <img src="${data.thumbnail}" alt="${data.alt}">
+      <div class="card-title">${data.title}</div>
+    `;
+    card.addEventListener("click", e => {
+      e.preventDefault();
+      window.open(data.link, "_blank");
     });
-  </script>
+    container.appendChild(card);
+  });
+  currentIndex += batchSize;
+  document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
+}
+
+function createFilterButtons(containerId, items) {
+  const container = document.getElementById(containerId);
+  items.forEach(item => {
+    const btn = document.createElement("button");
+    btn.textContent = item;
+    btn.className = "category-btn";
+    btn.addEventListener("click", () => {
+      btn.classList.toggle("active");
+      applyAllFilters();
+    });
+    container.appendChild(btn);
+  });
+}
+
+function applyAllFilters() {
+  const rawInput = document.getElementById("searchInput").value.toLowerCase();
+  const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
+
+  const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
+
+  const memberEnglishToKorean = {
+    soyeon: "소연",
+    miyeon: "미연",
+    minnie: "민니",
+    yuqi: "우기",
+    shuhua: "슈화"
+  };
+
+  filtered = all.filter(card => {
+    const titleLower = card.title.toLowerCase();
+    let detectedMember = card.member;
+
+    for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
+      if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
+        detectedMember += `,${kor}`;
+      }
+    }
+
+    const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
+      return title.includes(eng) ? `${title} ${kor}` : title;
+    }, titleLower);
+
+    const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+    const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+      return match && match[1] === month;
+    });
+    const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
+    const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
+
+    return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+  });
+
+  currentIndex = 0;
+  renderCards(filtered);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("mainTitle").textContent = selectedCategory;
+  createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+  createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
+  createFilterButtons("memberFilters", ["소연", "미연", "민니", "우기", "슈화", "아이들"]);
+
+  if (selectedCategory && categoryMap[selectedCategory]) {
+    loadCardScript(selectedCategory, () => {
+      all = window[categoryMap[selectedCategory]] || [];
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      filtered = all;
+      renderCards(filtered);
+    });
+  }
+
+  document.getElementById("searchInput").addEventListener("input", applyAllFilters);
+  document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(filtered));
+  document.getElementById("scrollTopBtn").addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+</script>
+
 </body>
 </html>
