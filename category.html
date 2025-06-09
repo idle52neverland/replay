@@ -32,18 +32,22 @@
     }
 
     .subcategory-section {
+      margin-top: 10px;
+    }
+
+    .subcategory-line {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
-      margin: 10px 10px 20px;
+      margin-bottom: 12px;
     }
 
     .subcategory-btn {
-      padding: 8px 16px;
+      padding: 10px 18px;
       background-color: #333;
       border-radius: 20px;
-      font-size: 14px;
+      font-size: 15px;
       font-weight: 600;
       color: #fff;
       cursor: pointer;
@@ -170,7 +174,11 @@
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
 
-  <div class="subcategory-section" id="subcategorySection"></div>
+  <div class="subcategory-section">
+    <div class="subcategory-line" id="yearLine"></div>
+    <div class="subcategory-line" id="monthLine"></div>
+    <div class="subcategory-line" id="memberLine"></div>
+  </div>
 
   <div class="top-bar">
     <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
@@ -203,19 +211,23 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const selectedCategory = urlParams.get("category") || "";
+      document.title = `${selectedCategory} - I-DLE 몰아보기`;
+      document.getElementById("mainTitle").textContent = selectedCategory;
+
       const container = document.getElementById("categoryCards");
-      const subcategorySection = document.getElementById("subcategorySection");
+      const yearLine = document.getElementById("yearLine");
+      const monthLine = document.getElementById("monthLine");
+      const memberLine = document.getElementById("memberLine");
       const searchInput = document.getElementById("searchInput");
       const resetSearchBtn = document.getElementById("resetSearchBtn");
       const loadMoreBtn = document.getElementById("loadMoreBtn");
       const scrollTopBtn = document.getElementById("scrollTopBtn");
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const selectedCategory = urlParams.get("category") || "";
-
-      const members = ["소연", "미연", "민니", "우기", "슈화", "아이들"];
       const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
       const months = ["01","02","03","04","05","06","07","08","09","10","11","12"];
+      const members = ["미연", "민니", "소연", "우기", "슈화", "아이들"];
 
       const all = [].concat(
         typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
@@ -242,7 +254,7 @@
       all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
 
       let currentIndex = 0;
-      let selectedFilter = { member: null, year: null, month: null };
+      let selectedFilter = { member: [], year: [], month: [] };
       let filtered = [];
 
       function renderCards(cards) {
@@ -266,11 +278,18 @@
 
       function applySubFilters() {
         let temp = all.filter(c => c.category === selectedCategory);
-        if (selectedFilter.member) temp = temp.filter(c => c.member === selectedFilter.member);
-        if (selectedFilter.year) temp = temp.filter(c => c.year === selectedFilter.year);
-        if (selectedFilter.year && selectedFilter.month) {
-          const ym = `${selectedFilter.year}-${selectedFilter.month}`;
-          temp = temp.filter(c => extractDate(c.title).startsWith(ym));
+
+        if (selectedFilter.member.length > 0) {
+          temp = temp.filter(c => selectedFilter.member.includes(c.member));
+        }
+        if (selectedFilter.year.length > 0) {
+          temp = temp.filter(c => selectedFilter.year.includes(c.year));
+        }
+        if (selectedFilter.month.length > 0 && selectedFilter.year.length > 0) {
+          temp = temp.filter(c => {
+            const date = extractDate(c.title);
+            return selectedFilter.year.some(y => selectedFilter.month.some(m => date.startsWith(`${y}-${m}`)));
+          });
         }
 
         const keyword = searchInput.value.toLowerCase().replace(/\s/g, '');
@@ -283,32 +302,37 @@
         renderCards(filtered);
       }
 
-      function createButtons(list, type) {
+      function createButtons(list, type, container) {
         list.forEach(item => {
           const btn = document.createElement("button");
           btn.className = "subcategory-btn";
           btn.textContent = item;
           btn.setAttribute("data-type", type);
           btn.onclick = () => {
-            document.querySelectorAll(`.subcategory-btn[data-type="${type}"]`).forEach(b => b.classList.remove("active"));
-            btn.classList.add("active");
-            selectedFilter[type] = item;
+            const index = selectedFilter[type].indexOf(item);
+            if (index > -1) {
+              selectedFilter[type].splice(index, 1);
+              btn.classList.remove("active");
+            } else {
+              selectedFilter[type].push(item);
+              btn.classList.add("active");
+            }
             applySubFilters();
           };
-          subcategorySection.appendChild(btn);
+          container.appendChild(btn);
         });
       }
 
-      createButtons(members, "member");
-      createButtons(years, "year");
-      createButtons(months, "month");
+      createButtons(years, "year", yearLine);
+      createButtons(months, "month", monthLine);
+      createButtons(members, "member", memberLine);
 
       applySubFilters();
 
       searchInput.addEventListener("input", applySubFilters);
       resetSearchBtn.addEventListener("click", () => {
         searchInput.value = '';
-        selectedFilter = { member: null, year: null, month: null };
+        selectedFilter = { member: [], year: [], month: [] };
         document.querySelectorAll(".subcategory-btn").forEach(btn => btn.classList.remove("active"));
         applySubFilters();
       });
