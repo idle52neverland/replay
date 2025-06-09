@@ -98,11 +98,11 @@
       grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
-      padding-bottom: 100px; /* 버튼 아래 공간 확보 */
+      padding-bottom: 100px;
     }
 
     .card-container.disabled {
-      pointer-events: none; /* 클릭 임시 차단 */
+      pointer-events: none;
     }
 
     .card {
@@ -308,12 +308,14 @@
         e.stopPropagation();
         loadMoreBtn.blur();
 
-        const scrollY = window.scrollY; // 현재 스크롤 저장
-        container.classList.add("disabled"); // 카드 클릭 임시 비활성화
+        container.classList.add("disabled");
+
+        // 💡 핵심: 화면 아래로 1px 강제 스크롤
+        const safeScroll = window.scrollY + 1;
+        window.scrollTo({ top: safeScroll });
 
         setTimeout(() => {
           renderCards(filtered);
-          window.scrollTo({ top: scrollY }); // 스크롤 위치 복원
           container.classList.remove("disabled");
         }, 100);
       });
