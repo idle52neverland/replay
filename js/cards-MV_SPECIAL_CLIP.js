@@ -1,5 +1,22 @@
 const mvSpecialClipCards = [
-  // 카드 데이터를 여기에 추가하세요
+ {
+    link: "https://www.youtube.com/watch?v=hAONx6nuEgI",
+    category: "MV_SPECIAL_CLIP",
+    member: "아이들",
+    year: "2025",
+    thumbnail: "https://i.ytimg.com/vi/hAONx6nuEgI/hqdefault.jpg",
+    alt: "아이들 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
+    title: "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
+  },
+  {
+    link: "https://www.youtube.com/watch?v=zKfs2EM8LQ4",
+    category: "MV_SPECIAL_CLIP",
+    member: "아이들",
+    year: "2025",
+    thumbnail: "https://i.ytimg.com/vi/zKfs2EM8LQ4/hqdefault.jpg",
+    alt: "아이들 - i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)",
+    title: "i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)"
+  }
 ];
 
 // ✅ 중복 제거
