@@ -148,7 +148,7 @@
       justify-content: center;
       align-items: center;
       gap: 10px;
-      margin: 60px auto;
+      margin: 80px auto 100px;
     }
 
     #loadMoreBtn, #scrollTopBtn {
@@ -190,7 +190,6 @@
   </style>
 </head>
 <body>
-
   <div class="header-bar">
     <div id="mainTitle" class="category-title"></div>
   </div>
@@ -208,7 +207,11 @@
   </div>
 
   <div class="card-container" id="allCards"></div>
-  <button id="loadMoreBtn">더보기</button>
+
+  <div class="load-btn-wrapper">
+    <button id="loadMoreBtn">더보기</button>
+    <button id="scrollTopBtn">↑</button>
+  </div>
 
   <script src="cards.js"></script>
   <script>
@@ -326,14 +329,9 @@
 
       document.getElementById("searchInput").addEventListener("input", applyAllFilters);
       document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(filtered));
- <div class="load-btn-wrapper">
-    <button id="loadMoreBtn">더보기</button>
-    <button id="scrollTopBtn">↑</button>
-  </div>
-
-  <script>
-    document.getElementById("scrollTopBtn")?.addEventListener("click", () => {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      document.getElementById("scrollTopBtn").addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
     });
   </script>
 </body>
