@@ -1,7 +1,7 @@
 const mvSpecialClipCards = [
  {
   link: "https://www.youtube.com/watch?v=sTNXFgl-US4",
-  category: "MV-SPECIAL CLIP",
+  category: "MV_SPECIAL_CLIP",
   member: "민니",
   year: "2025",
   thumbnail: "https://i.ytimg.com/vi/sTNXFgl-US4/hqdefault.jpg",
