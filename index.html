@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>I-DLE 몰아보기</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>I-DLE 몰아보기 - INDEX</title>
   <style>
     body {
       margin: 0;
@@ -10,8 +11,7 @@
       background-color: #111;
       color: #fff;
       text-align: center;
-      padding-left: 5px;
-      padding-right: 5px;
+      padding: 0 5px;
     }
 
     .header-bar {
@@ -25,38 +25,10 @@
     #mainTitle {
       font-size: 28px;
       color: #fff;
-      margin: 0 auto;
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
-    }
-
-    .category-section {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      padding: 30px 10px 10px;
-    }
-
-    .category-line {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-bottom: 10px;
-    }
-
-    .category-btn {
-      padding: 10px 20px;
-      background-color: #333;
-      border-radius: 20px;
-      font-size: 15px;
-      font-weight: 600;
-      color: #fff;
-      cursor: pointer;
-      border: none;
-      text-decoration: none;
+      margin: 0;
     }
 
     .top-bar {
@@ -113,19 +85,13 @@
       transition: transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       cursor: pointer;
-      width: 100%;
-      padding: 0;
-      margin: 0;
     }
 
     .card img {
       width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 0;
-      margin: 0;
-      object-fit: cover;
       aspect-ratio: 16 / 9;
+      object-fit: cover;
+      display: block;
       background-color: #000;
     }
 
@@ -135,14 +101,12 @@
       height: 72px;
       padding: 6px 6px 0;
       margin: 0;
-      color: #fff;
       background-color: #222;
+      color: #fff;
       overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 4;
       -webkit-box-orient: vertical;
-      text-overflow: ellipsis;
-      box-sizing: content-box;
     }
 
     .button-wrapper {
@@ -150,7 +114,7 @@
       justify-content: center;
       align-items: center;
       gap: 20px;
-      margin: 60px auto 80px;
+      margin: 100px auto 80px;
     }
 
     #loadMoreBtn, #scrollTopBtn {
@@ -177,12 +141,8 @@
       .top-bar input {
         width: 220px;
       }
-      .category-btn {
-        padding: 6px 14px;
-        font-size: 13px;
-      }
-      .category-line {
-        justify-content: center;
+      .button-wrapper {
+        margin-top: 60px;
       }
     }
   </style>
@@ -190,27 +150,6 @@
 <body>
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
-  </div>
-
-  <div class="category-section">
-    <div class="category-line">
-      <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
-      <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
-      <a class="category-btn" href="category.html?category=I_SERIES">I_SERIES</a>
-      <a class="category-btn" href="category.html?category=I_VARIETY">I_VARIETY</a>
-      <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
-      <a class="category-btn" href="category.html?category=LIVE_COVER_DANCE">LIVE_COVER_DANCE</a>
-      <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
-    </div>
-    <div class="category-line">
-      <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
-      <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
-      <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
-      <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
-      <a class="category-btn" href="category.html?category=FANCAM">FANCAM</a>
-      <a class="category-btn" href="category.html?category=CHALLENGE">CHALLENGE</a>
-      <a class="category-btn" href="category.html?category=ETC">ETC</a>
-    </div>
   </div>
 
   <div class="top-bar">
@@ -226,7 +165,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 카드 JS 파일들 -->
+  <!-- 카드 데이터 불러오는 JS 파일들 -->
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-RECORDING_BEHIND.js"></script>
   <script src="js/cards-I_SERIES.js"></script>
@@ -252,6 +191,7 @@
 
       let currentIndex = 0;
       const batchSize = 30;
+      let loadTriggered = false;
 
       const all = [].concat(
         typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
@@ -303,17 +243,14 @@
 
       renderCards(filtered);
 
-      loadMoreBtn.addEventListener("click", (e) => {
+      loadMoreBtn.addEventListener("mousedown", () => { loadTriggered = true; });
+      loadMoreBtn.addEventListener("mouseup", (e) => {
+        if (!loadTriggered) return;
+        loadTriggered = false;
         e.preventDefault();
         e.stopPropagation();
         loadMoreBtn.blur();
-
         container.classList.add("disabled");
-
-        // 💡 핵심: 화면 아래로 1px 강제 스크롤
-        const safeScroll = window.scrollY + 1;
-        window.scrollTo({ top: safeScroll });
-
         setTimeout(() => {
           renderCards(filtered);
           container.classList.remove("disabled");
