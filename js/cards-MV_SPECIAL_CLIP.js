@@ -1,5 +1,14 @@
 const mvSpecialClipCards = [
  {
+  link: "https://www.youtube.com/watch?v=sTNXFgl-US4",
+  category: "MV-SPECIAL CLIP",
+  member: "민니",
+  year: "2025",
+  thumbnail: "https://i.ytimg.com/vi/sTNXFgl-US4/hqdefault.jpg",
+  alt: "민니 - [언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV (2025-04-26)",
+  title: "[언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV (2025-04-26)"
+},
+ {
     link: "https://www.youtube.com/watch?v=hAONx6nuEgI",
     category: "MV_SPECIAL_CLIP",
     member: "아이들",
