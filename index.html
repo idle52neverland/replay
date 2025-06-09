@@ -4,13 +4,173 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>I-DLE 몬8아보기</title>
+  <title>I-DLE 몰아보기</title>
   <style>
-    /* (생략: CSS는 기존 그대로 유지) */
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background-color: #111;
+      color: #fff;
+      text-align: center;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    .header-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 60px 20px 30px;
+      position: relative;
+    }
+    #mainTitle {
+      font-size: 28px;
+      color: #fff;
+      margin: 0 auto;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    .category-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 30px 10px 10px;
+    }
+    .category-line {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .category-btn {
+      padding: 10px 20px;
+      background-color: #333;
+      border-radius: 20px;
+      font-size: 15px;
+      font-weight: 600;
+      color: #fff;
+      cursor: pointer;
+      border: none;
+      text-decoration: none;
+    }
+    .top-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin: 20px 0;
+    }
+    .top-bar input {
+      padding: 12px 16px;
+      border-radius: 24px;
+      border: none;
+      width: 260px;
+      font-size: 16px;
+    }
+    .top-bar button {
+      background-color: #fff;
+      border: none;
+      border-radius: 50%;
+      padding: 6px;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+    .top-bar button img {
+      width: 24px;
+      height: 24px;
+    }
+    .card-container {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      padding: 10px;
+    }
+    .card {
+      background-color: transparent;
+      border-radius: 0;
+      overflow: hidden;
+      text-align: left;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      cursor: pointer;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 0;
+      margin: 0;
+      object-fit: cover;
+      aspect-ratio: 16 / 9;
+      background-color: #000;
+    }
+    .card-title {
+      font-size: 13px;
+      line-height: 18px;
+      height: 72px;
+      padding: 6px 6px 0;
+      margin: 0;
+      color: #fff;
+      background-color: #222;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      text-overflow: ellipsis;
+      box-sizing: content-box;
+    }
+    .button-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      margin: 60px auto 80px;
+    }
+    #loadMoreBtn, #scrollTopBtn {
+      background-color: #fff;
+      color: #111;
+      font-size: 14px;
+      font-weight: bold;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+    #scrollTopBtn:hover {
+      background-color: #ddd;
+    }
+    @media (max-width: 768px) {
+      .card-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .top-bar input {
+        width: 220px;
+      }
+      .category-btn {
+        padding: 6px 14px;
+        font-size: 13px;
+      }
+      .category-line {
+        justify-content: center;
+      }
+    }
   </style>
 </head>
 <body>
-  <!-- (생략: 상단 UI 구조 기존 그대로 유지) -->
+  <div class="header-bar">
+    <div id="mainTitle">I-DLE 몰아보기</div>
+  </div>
 
   <div class="card-container" id="allCards"></div>
 
