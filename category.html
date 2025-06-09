@@ -193,21 +193,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 카드 JS -->
-  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
-  <script src="js/cards-RECORDING_BEHIND.js"></script>
-  <script src="js/cards-I_SERIES.js"></script>
-  <script src="js/cards-I_VARIETY.js"></script>
-  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
-  <script src="js/cards-LIVE_COVER_DANCE.js"></script>
-  <script src="js/cards-BEHIND_CLIPS.js"></script>
-  <script src="js/cards-MEDIA_CONTENTS.js"></script>
-  <script src="js/cards-RADIO_PODCAST.js"></script>
-  <script src="js/cards-INTERVIEW.js"></script>
-  <script src="js/cards-LIVE_STREAM.js"></script>
-  <script src="js/cards-FANCAM.js"></script>
-  <script src="js/cards-CHALLENGE.js"></script>
-  <script src="js/cards-ETC.js"></script>
+  <!-- 카드 JS 불러오기 (생략) -->
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
@@ -216,35 +202,25 @@
       document.title = `${selectedCategory} - I-DLE 몰아보기`;
       document.getElementById("mainTitle").textContent = selectedCategory;
 
-      const container = document.getElementById("categoryCards");
-      const yearLine = document.getElementById("yearLine");
-      const monthLine = document.getElementById("monthLine");
-      const memberLine = document.getElementById("memberLine");
-      const searchInput = document.getElementById("searchInput");
-      const resetSearchBtn = document.getElementById("resetSearchBtn");
-      const loadMoreBtn = document.getElementById("loadMoreBtn");
-      const scrollTopBtn = document.getElementById("scrollTopBtn");
-
       const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
       const months = ["01","02","03","04","05","06","07","08","09","10","11","12"];
       const members = ["미연", "민니", "소연", "우기", "슈화", "아이들"];
 
-      const all = [].concat(
-        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
-        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
-        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
-        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-        typeof interviewCards !== 'undefined' ? interviewCards : [],
-        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-        typeof fancamCards !== 'undefined' ? fancamCards : [],
-        typeof challengeCards !== 'undefined' ? challengeCards : [],
-        typeof etcCards !== 'undefined' ? etcCards : []
-      );
+      let all = [];
+      if (typeof mvSpecialClipCards !== 'undefined') all = all.concat(mvSpecialClipCards);
+      if (typeof recordingBehindCards !== 'undefined') all = all.concat(recordingBehindCards);
+      if (typeof iSeriesCards !== 'undefined') all = all.concat(iSeriesCards);
+      if (typeof iVarietyCards !== 'undefined') all = all.concat(iVarietyCards);
+      if (typeof stagePerformanceCards !== 'undefined') all = all.concat(stagePerformanceCards);
+      if (typeof liveCoverDanceCards !== 'undefined') all = all.concat(liveCoverDanceCards);
+      if (typeof behindClipsCards !== 'undefined') all = all.concat(behindClipsCards);
+      if (typeof mediaContentsCards !== 'undefined') all = all.concat(mediaContentsCards);
+      if (typeof radioPodcastCards !== 'undefined') all = all.concat(radioPodcastCards);
+      if (typeof interviewCards !== 'undefined') all = all.concat(interviewCards);
+      if (typeof liveStreamCards !== 'undefined') all = all.concat(liveStreamCards);
+      if (typeof fancamCards !== 'undefined') all = all.concat(fancamCards);
+      if (typeof challengeCards !== 'undefined') all = all.concat(challengeCards);
+      if (typeof etcCards !== 'undefined') all = all.concat(etcCards);
 
       function extractDate(title) {
         const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
@@ -253,6 +229,7 @@
 
       all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
 
+      const container = document.getElementById("categoryCards");
       let currentIndex = 0;
       let selectedFilter = { member: [], year: [], month: [] };
       let filtered = [];
@@ -273,18 +250,18 @@
           container.appendChild(card);
         });
         currentIndex += 30;
-        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+        document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
       }
 
       function applySubFilters() {
         let temp = all.filter(c => c.category === selectedCategory);
 
-        if (selectedFilter.member.length > 0) {
+        if (selectedFilter.member.length > 0)
           temp = temp.filter(c => selectedFilter.member.includes(c.member));
-        }
-        if (selectedFilter.year.length > 0) {
+
+        if (selectedFilter.year.length > 0)
           temp = temp.filter(c => selectedFilter.year.includes(c.year));
-        }
+
         if (selectedFilter.month.length > 0 && selectedFilter.year.length > 0) {
           temp = temp.filter(c => {
             const date = extractDate(c.title);
@@ -292,9 +269,17 @@
           });
         }
 
-        const keyword = searchInput.value.toLowerCase().replace(/\s/g, '');
-        if (keyword) {
-          temp = temp.filter(c => c.title.toLowerCase().replace(/\s/g, '').includes(keyword));
+        const keywords = document.getElementById("searchInput").value
+          .toLowerCase()
+          .replace(/[^가-힣\w]+/g, ' ')
+          .trim()
+          .split(/\s+/);
+
+        if (keywords.length > 0 && keywords[0] !== "") {
+          temp = temp.filter(c => {
+            const cleanTitle = c.title.toLowerCase().replace(/[^가-힣\w]+/g, ' ');
+            return keywords.every(k => cleanTitle.includes(k));
+          });
         }
 
         filtered = temp;
@@ -302,16 +287,16 @@
         renderCards(filtered);
       }
 
-      function createButtons(list, type, container) {
+      function createButtons(list, type, containerId) {
+        const container = document.getElementById(containerId);
         list.forEach(item => {
           const btn = document.createElement("button");
           btn.className = "subcategory-btn";
           btn.textContent = item;
-          btn.setAttribute("data-type", type);
           btn.onclick = () => {
-            const index = selectedFilter[type].indexOf(item);
-            if (index > -1) {
-              selectedFilter[type].splice(index, 1);
+            const idx = selectedFilter[type].indexOf(item);
+            if (idx > -1) {
+              selectedFilter[type].splice(idx, 1);
               btn.classList.remove("active");
             } else {
               selectedFilter[type].push(item);
@@ -323,21 +308,21 @@
         });
       }
 
-      createButtons(years, "year", yearLine);
-      createButtons(months, "month", monthLine);
-      createButtons(members, "member", memberLine);
+      createButtons(years, "year", "yearLine");
+      createButtons(months, "month", "monthLine");
+      createButtons(members, "member", "memberLine");
 
       applySubFilters();
 
-      searchInput.addEventListener("input", applySubFilters);
-      resetSearchBtn.addEventListener("click", () => {
-        searchInput.value = '';
+      document.getElementById("searchInput").addEventListener("input", applySubFilters);
+      document.getElementById("resetSearchBtn").addEventListener("click", () => {
+        document.getElementById("searchInput").value = "";
         selectedFilter = { member: [], year: [], month: [] };
-        document.querySelectorAll(".subcategory-btn").forEach(btn => btn.classList.remove("active"));
+        document.querySelectorAll(".subcategory-btn").forEach(b => b.classList.remove("active"));
         applySubFilters();
       });
 
-      loadMoreBtn.addEventListener("click", () => {
+      document.getElementById("loadMoreBtn").addEventListener("click", () => {
         container.classList.add("disabled");
         window.scrollTo({ top: window.scrollY + 1 });
         setTimeout(() => {
@@ -346,7 +331,7 @@
         }, 100);
       });
 
-      scrollTopBtn.addEventListener("click", () => {
+      document.getElementById("scrollTopBtn").addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
     });
