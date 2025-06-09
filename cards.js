@@ -17173,7 +17173,198 @@ const allCards = [
   "thumbnail": "https://i.ytimg.com/vi/goqX0p27O78/mqdefault.jpg",
   "alt": "아이들 - [EN] 고막 터짐 주의 美친 텐션의 그녀들이 만났다?! | 미주 | MIJOO | 우기 | (G)I-DLE YUQI | 런웨이2 | LEARN WAY 2 | EP.25 (2022-01-21)",
   "title": "[EN] 고막 터짐 주의 美친 텐션의 그녀들이 만났다?! | 미주 | MIJOO | 우기 | (G)I-DLE YUQI | 런웨이2 | LEARN WAY 2 | EP.25 (2022-01-21)"
+},
+  {
+  "link": "https://www.youtube.com/watch?v=oU4U39WSbVA",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/oU4U39WSbVA/mqdefault.jpg",
+  "alt": "아이들 - 스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | 시골요리 대작전 | (여자)아이들 소연 (2024-07-10)",
+  "title": "스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-07-10)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=ByfTTLhXPIs",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/ByfTTLhXPIs/mqdefault.jpg",
+  "alt": "아이들 - 할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | 시골요리 대작전 | (여자)아이들 (2024-07-17)",
+  "title": "할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | 시골요리 대작전 | (여자)아이들 |쏘리사 (2024-07-17)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=C_3wc2k8ENA",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/C_3wc2k8ENA/mqdefault.jpg",
+  "alt": "아이들 - 태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 시골요리 대작전 | (여자)아이들 소연 (2024-05-08)",
+  "title": "태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-05-08)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=klDyLicaaqE",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/klDyLicaaqE/mqdefault.jpg",
+  "alt": "아이들 - 여러분 꽈배기는 제발 사드세요… | 시골요리 대작전 | (여자)아이들 소연 (2024-06-19)",
+  "title": "여러분 꽈배기는 제발 사드세요… | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-06-19)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=5Xlmmq_PA8w",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/5Xlmmq_PA8w/mqdefault.jpg",
+  "alt": "아이들 - 92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! | 시골요리 대작전 | (여자)아이들 소연 (2024-05-15)",
+  "title": "92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-05-15)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=HD1hisCITN4",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/HD1hisCITN4/mqdefault.jpg",
+  "alt": "아이들 - 우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | 시골요리 대작전 | (여자)아이들 소연 (2024-07-03)",
+  "title": "우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-07-03)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=5NH75fbpIwU",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/5NH75fbpIwU/mqdefault.jpg",
+  "alt": "아이들 - 제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | 시골요리 대작전 | (여자)아이들 소연 (2024-06-12)",
+  "title": "제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-06-12)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=J-6OGwnSX5E",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/J-6OGwnSX5E/mqdefault.jpg",
+  "alt": "아이들 - 시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! | 시골요리 대작전 | (여자)아이들 소연 (2024-05-22)",
+  "title": "시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-05-22)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=WEKTIvHDWN4",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/WEKTIvHDWN4/mqdefault.jpg",
+  "alt": "아이들 - 팝콘 튀기다 집 날려 먹을 뻔했어요! | 시골요리 대작전 | (여자)아이들 소연 (2024-05-29)",
+  "title": "콘 튀기다 집 날려 먹을 뻔했어요! | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-05-29)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=OB6uWq8DK0k",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/OB6uWq8DK0k/mqdefault.jpg",
+  "alt": "아이들 - 10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?!  | 시골요리 대작전 | (여자)아이들 소연 (2024-06-05)",
+  "title": "10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?!  | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-06-05)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=nVLBGtnC2B8",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/nVLBGtnC2B8/mqdefault.jpg",
+  "alt": "아이들 - 과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | 시골요리 대작전 | (여자)아이들 소연 (2024-07-24)",
+  "title": "과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | 시골요리 대작전 | (여자)아이들 소연 |쏘리사 (2024-07-24)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=EZW70Fq5v78",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "thumbnail": "https://i.ytimg.com/vi/EZW70Fq5v78/mqdefault.jpg",
+  "alt": "아이들 - 미쉐린 셰프 사이에 숨은 가짜 요리사 찾기 (feat. (여자)아이들 소연) | PIXID (2024-05-03)",
+  "title": "미쉐린 셰프 사이에 숨은 가짜 요리사 찾기 (feat. (여자)아이들 소연) |쏘리사 | PIXID (2024-05-03)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=mwqtrEqqpAI",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/mwqtrEqqpAI/mqdefault.jpg",
+  "alt": "아이들 - \"이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | 스타!요리방 | (여자)아이들 소연 | BIBI (2025-03-12)",
+  "title": "\"이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | 스타!요리방 | (여자)아이들 소연 | BIBI |쏘리사 (2025-03-12)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=y8kU_KpRMRc",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/y8kU_KpRMRc/mqdefault.jpg",
+  "alt": "아이들 - 살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | 스타!요리방 | (여자)아이들 소연 | 정찬성 (2025-02-26)",
+  "title": "살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | 스타!요리방 | (여자)아이들 소연 | 정찬성 |쏘리사 (2025-02-26)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=u_8Av_bDP3U",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/u_8Av_bDP3U/mqdefault.jpg",
+  "alt": "아이들 - 연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 | 스타!요리방 | (여자)아이들 소연 | 미미미누 (2025-02-19)",
+  "title": "연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 | 스타!요리방 | (여자)아이들 소연 | 미미미누 |쏘리사 (2025-02-19)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=suH9D6zt_Jk",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/suH9D6zt_Jk/mqdefault.jpg",
+  "alt": "아이들 - 누나, 내가 갈비찜 해줄게요 | 스타!요리방 | (여자)아이들 소연 | 최현욱 (2025-02-12)",
+  "title": "누나, 내가 갈비찜 해줄게요 | 스타!요리방 | (여자)아이들 소연 | 최현욱 |쏘리사 (2025-02-12)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=i8Lxlr_7uO4",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/i8Lxlr_7uO4/mqdefault.jpg",
+  "alt": "아이들 - 3세대 여자 아이돌 대표주자들의 고품격 라면 요리 | 스타!요리방 | (여자)아이들 소연 | ITZY 류진 (2025-02-05)",
+  "title": "3세대 여자 아이돌 대표주자들의 고품격 라면 요리 | 스타!요리방 | (여자)아이들 소연 | ITZY 류진 |쏘리사 (2025-02-05)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=xPFYztEnBDc",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/xPFYztEnBDc/mqdefault.jpg",
+  "alt": "아이들 - 요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)",
+  "title": "요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나 |쏘리사 (2025-01-29)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=VjbVRXpSYJs",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/VjbVRXpSYJs/mqdefault.jpg",
+  "alt": "아이들 - 재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | 스타!요리방 | (여자)아이들 소연, 우기 (2025-01-22)",
+  "title": "재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | 스타!요리방 | (여자)아이들 소연, 우기 |쏘리사 (2025-01-22)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=dzVFwrkA1VM",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/dzVFwrkA1VM/mqdefault.jpg",
+  "alt": "아이들 - 지코씨, 제발 간짜장은 사먹어요... | 스타!요리방 | (여자)아이들 소연 | ZICO (2025-01-15)",
+  "title": "지코씨, 제발 간짜장은 사먹어요... | 스타!요리방 | (여자)아이들 소연 |쏘리사|  ZICO (2025-01-15)"
+},
+{
+  "link": "https://www.youtube.com/watch?v=9SXW-JbwJiA",
+  "category": "MEDIA CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "thumbnail": "https://i.ytimg.com/vi/9SXW-JbwJiA/mqdefault.jpg",
+  "alt": "아이들 - 쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” | 스타!요리방 | (여자)아이들 소연 (2025-01-10)",
+  "title": "쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” | 스타!요리방 | (여자)아이들 소연|쏘리사 (2025-01-10)"
 }
+
+
 
 
 
