@@ -1,11 +1,11 @@
-<!-- index.html (카테고리별 JS 파일 통합 로딩 버전) -->
+<!-- index.html (에러 방어코드 적용본) -->
 <!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>I-DLE 몰아보기</title>
-  <style>
+    <style>
     body {
       margin: 0;
       font-family: 'Helvetica Neue', sans-serif;
@@ -172,6 +172,33 @@
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
 
+  <div class="category-section">
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
+      <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
+      <a class="category-btn" href="category.html?category=I_SERIES">I_SERIES</a>
+      <a class="category-btn" href="category.html?category=I_VARIETY">I_VARIETY</a>
+      <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
+      <a class="category-btn" href="category.html?category=LIVE_COVER_DANCE">LIVE_COVER_DANCE</a>
+      <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
+    </div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
+      <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
+      <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
+      <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
+      <a class="category-btn" href="category.html?category=FANCAM">FANCAM</a>
+      <a class="category-btn" href="category.html?category=CHALLENGE">CHALLENGE</a>
+      <a class="category-btn" href="category.html?category=ETC">ETC</a>
+    </div>
+  </div>
+
+  <div class="top-bar">
+    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
+    <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
+    <input type="text" id="searchInput" placeholder="전체 영상 검색...">
+  </div>
+
   <div class="card-container" id="allCards"></div>
 
   <div class="button-wrapper">
@@ -179,7 +206,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- ✅ 카테고리별 카드 JS 파일 로딩 -->
+  <!-- 모든 JS 파일 삽입 -->
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-RECORDING_BEHIND.js"></script>
   <script src="js/cards-I_SERIES.js"></script>
@@ -206,22 +233,22 @@
       let currentIndex = 0;
       const batchSize = 30;
 
-      // ✅ 통합 배열 생성 (카테고리별 전역 배열 합치기)
+      // ✅ 배열이 undefined인 경우에도 작동하도록 방어 처리
       const all = [].concat(
-        mvSpecialClipCards,
-        recordingBehindCards,
-        iSeriesCards,
-        iVarietyCards,
-        stagePerformanceCards,
-        liveCoverDanceCards,
-        behindClipsCards,
-        mediaContentsCards,
-        radioPodcastCards,
-        interviewCards,
-        liveStreamCards,
-        fancamCards,
-        challengeCards,
-        etcCards
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
+        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
       );
 
       function extractDate(title) {
