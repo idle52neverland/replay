@@ -2,7 +2,6 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>I-DLE 몰아보기</title>
   <style>
     body {
@@ -11,16 +10,13 @@
       background-color: #111;
       color: #fff;
       text-align: center;
-    }
-
-    .category-btn.active {
-      background-color: #fff;
-      color: #111;
+      padding-left: 5px;
+      padding-right: 5px;
     }
 
     .header-bar {
       display: flex;
-      justify-content: space-between;
+      justify-content: center;
       align-items: center;
       padding: 60px 20px 30px;
       position: relative;
@@ -35,31 +31,28 @@
       transform: translateX(-50%);
     }
 
-    .category-section {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-      padding: 30px 10px 10px;
-    }
-
-    .category-line {
+    .subcategory-section {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
+      margin: 10px 10px 20px;
     }
 
-    .category-btn {
-      padding: 10px 20px;
+    .subcategory-btn {
+      padding: 8px 16px;
       background-color: #333;
       border-radius: 20px;
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 600;
       color: #fff;
       cursor: pointer;
       border: none;
-      text-decoration: none;
+    }
+
+    .subcategory-btn.active {
+      background-color: #fff;
+      color: #111;
     }
 
     .top-bar {
@@ -88,6 +81,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      cursor: pointer;
     }
 
     .top-bar button img {
@@ -100,6 +94,7 @@
       grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
+      padding-bottom: 100px;
     }
 
     .card {
@@ -107,30 +102,23 @@
       border-radius: 0;
       overflow: hidden;
       text-align: left;
-      transition: transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       cursor: pointer;
-      width: 100%;
-      padding: 0;
-      margin: 0;
     }
 
     .card img {
       width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 0;
-      margin: 0;
-      object-fit: cover;
       aspect-ratio: 16 / 9;
+      object-fit: cover;
       background-color: #000;
+      display: block;
     }
 
     .card-title {
       font-size: 13px;
       line-height: 18px;
       height: 72px;
-      padding: 6px 6px 0;
+      padding: 6px;
       margin: 0;
       color: #fff;
       background-color: #222;
@@ -139,22 +127,32 @@
       -webkit-line-clamp: 4;
       -webkit-box-orient: vertical;
       text-overflow: ellipsis;
-      box-sizing: border-box;
+      box-sizing: content-box;
     }
 
-    #loadMoreBtn {
-      display: block;
-      margin: 30px auto 60px;
-      padding: 10px;
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      font-size: 14px;
-      font-weight: bold;
+    .button-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      margin: 60px auto 80px;
+    }
+
+    #loadMoreBtn, #scrollTopBtn {
       background-color: #fff;
       color: #111;
+      font-size: 14px;
+      font-weight: bold;
       border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
       cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+
+    #scrollTopBtn:hover {
+      background-color: #ddd;
     }
 
     @media (max-width: 768px) {
@@ -164,153 +162,169 @@
       .top-bar input {
         width: 220px;
       }
-      .category-btn {
-        padding: 6px 14px;
-        font-size: 13px;
-      }
-      .category-line {
-        justify-content: center;
-      }
     }
   </style>
 </head>
 <body>
   <div class="header-bar">
-    <div id="mainTitle" class="category-title"></div>
+    <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
 
-  <div class="category-section">
-    <div class="category-line" id="yearFilters"></div>
-    <div class="category-line" id="monthFilters"></div>
-    <div class="category-line" id="memberFilters"></div>
-  </div>
+  <div class="subcategory-section" id="subcategorySection"></div>
 
   <div class="top-bar">
-    <button onclick="location.reload()"><img src="images/뒤로가기.jpg" alt="뒤로가기"></button>
+    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
     <input type="text" id="searchInput" placeholder="카테고리 내 검색...">
   </div>
 
-  <div class="card-container" id="allCards"></div>
-  <button id="loadMoreBtn">더보기</button>
+  <div class="card-container" id="categoryCards"></div>
 
-  <script src="cards.js"></script>
+  <div class="button-wrapper">
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="위로 가기">↑</button>
+  </div>
+
+  <!-- 카드 JS -->
+  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
+  <script src="js/cards-RECORDING_BEHIND.js"></script>
+  <script src="js/cards-I_SERIES.js"></script>
+  <script src="js/cards-I_VARIETY.js"></script>
+  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
+  <script src="js/cards-LIVE_COVER_DANCE.js"></script>
+  <script src="js/cards-BEHIND_CLIPS.js"></script>
+  <script src="js/cards-MEDIA_CONTENTS.js"></script>
+  <script src="js/cards-RADIO_PODCAST.js"></script>
+  <script src="js/cards-INTERVIEW.js"></script>
+  <script src="js/cards-LIVE_STREAM.js"></script>
+  <script src="js/cards-FANCAM.js"></script>
+  <script src="js/cards-CHALLENGE.js"></script>
+  <script src="js/cards-ETC.js"></script>
+
   <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const selectedCategory = urlParams.get("category") || "";
-    const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
-    const months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
-    const members = ["소연", "미연", "민니", "우기", "슈화", "아이들"];
-
-    let currentIndex = 0;
-    const batchSize = 30;
-    let all = (allCards || []).filter(card => card.category === selectedCategory);
-
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
-
-    all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-
-    function renderCards(cards) {
-      const container = document.getElementById("allCards");
-      container.innerHTML = '';
-      cards.slice(0, currentIndex + batchSize).forEach(data => {
-        const card = document.createElement("a");
-        card.className = "card";
-        card.setAttribute("data-category", data.category);
-        card.setAttribute("data-member", data.member);
-        card.setAttribute("data-year", data.year);
-
-        card.innerHTML = `
-          <img src="${data.thumbnail}" alt="${data.alt}">
-          <div class="card-title">${data.title}</div>
-        `;
-
-        card.addEventListener("click", (e) => {
-          e.preventDefault();
-          window.open(data.link, "_blank");
-        });
-
-        container.appendChild(card);
-      });
-
-      currentIndex += batchSize;
-      document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
-    }
-
-    function createFilterButtons(containerId, items) {
-      const container = document.getElementById(containerId);
-      items.forEach(item => {
-        const btn = document.createElement("button");
-        btn.textContent = item;
-        btn.className = "category-btn";
-        btn.addEventListener("click", () => {
-          btn.classList.toggle("active");
-          applyAllFilters();
-        });
-        container.appendChild(btn);
-      });
-    }
-
-    function applyAllFilters() {
-  const rawInput = document.getElementById("searchInput").value.toLowerCase();
-  const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
-
-  const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-  const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-  const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-
-  const memberEnglishToKorean = {
-    soyeon: "소연",
-    miyeon: "미연",
-    minnie: "민니",
-    yuqi: "우기",
-    shuhua: "슈화"
-  };
-
-  const filtered = all.filter(card => {
-    const titleLower = card.title.toLowerCase();
-    let detectedMember = card.member;
-
-    // 영어이름 감지 시 해당 멤버명 추가
-    for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
-      if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
-        detectedMember += `,${kor}`;
-      }
-    }
-
-    // 검색 키워드에도 영어 이름을 한글로 변환하여 포함되도록 추가
-    const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
-      return title.includes(eng) ? `${title} ${kor}` : title;
-    }, titleLower);
-
-    const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-    const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-      return match && match[1] === month;
-    });
-    const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
-    const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
-
-    return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-  });
-
-  currentIndex = 0;
-  renderCards(filtered);
-
-    }
-
     document.addEventListener("DOMContentLoaded", () => {
-      document.getElementById("mainTitle").textContent = selectedCategory;
-      createFilterButtons("yearFilters", years);
-      createFilterButtons("monthFilters", months);
-      createFilterButtons("memberFilters", members);
-      renderCards(all);
+      const container = document.getElementById("categoryCards");
+      const subcategorySection = document.getElementById("subcategorySection");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
+      const loadMoreBtn = document.getElementById("loadMoreBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
 
-      document.getElementById("searchInput").addEventListener("input", applyAllFilters);
-      document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(all));
+      const urlParams = new URLSearchParams(window.location.search);
+      const selectedCategory = urlParams.get("category") || "";
+
+      const members = ["소연", "미연", "민니", "우기", "슈화", "아이들"];
+      const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
+      const months = ["01","02","03","04","05","06","07","08","09","10","11","12"];
+
+      const all = [].concat(
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
+        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
+      );
+
+      function extractDate(title) {
+        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+        return match ? match[1] : '2000-01-01';
+      }
+
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+
+      let currentIndex = 0;
+      let selectedFilter = { member: null, year: null, month: null };
+      let filtered = [];
+
+      function renderCards(cards) {
+        container.innerHTML = '';
+        cards.slice(0, currentIndex + 30).forEach(data => {
+          const card = document.createElement("a");
+          card.className = "card";
+          card.innerHTML = `
+            <img src="${data.thumbnail}" alt="${data.alt}">
+            <div class="card-title">${data.title}</div>
+          `;
+          card.onclick = (e) => {
+            e.preventDefault();
+            window.open(data.link, "_blank");
+          };
+          container.appendChild(card);
+        });
+        currentIndex += 30;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+      }
+
+      function applySubFilters() {
+        let temp = all.filter(c => c.category === selectedCategory);
+        if (selectedFilter.member) temp = temp.filter(c => c.member === selectedFilter.member);
+        if (selectedFilter.year) temp = temp.filter(c => c.year === selectedFilter.year);
+        if (selectedFilter.year && selectedFilter.month) {
+          const ym = `${selectedFilter.year}-${selectedFilter.month}`;
+          temp = temp.filter(c => extractDate(c.title).startsWith(ym));
+        }
+
+        const keyword = searchInput.value.toLowerCase().replace(/\s/g, '');
+        if (keyword) {
+          temp = temp.filter(c => c.title.toLowerCase().replace(/\s/g, '').includes(keyword));
+        }
+
+        filtered = temp;
+        currentIndex = 0;
+        renderCards(filtered);
+      }
+
+      function createButtons(list, type) {
+        list.forEach(item => {
+          const btn = document.createElement("button");
+          btn.className = "subcategory-btn";
+          btn.textContent = item;
+          btn.setAttribute("data-type", type);
+          btn.onclick = () => {
+            document.querySelectorAll(`.subcategory-btn[data-type="${type}"]`).forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            selectedFilter[type] = item;
+            applySubFilters();
+          };
+          subcategorySection.appendChild(btn);
+        });
+      }
+
+      createButtons(members, "member");
+      createButtons(years, "year");
+      createButtons(months, "month");
+
+      applySubFilters();
+
+      searchInput.addEventListener("input", applySubFilters);
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        selectedFilter = { member: null, year: null, month: null };
+        document.querySelectorAll(".subcategory-btn").forEach(btn => btn.classList.remove("active"));
+        applySubFilters();
+      });
+
+      loadMoreBtn.addEventListener("click", () => {
+        container.classList.add("disabled");
+        window.scrollTo({ top: window.scrollY + 1 });
+        setTimeout(() => {
+          renderCards(filtered);
+          container.classList.remove("disabled");
+        }, 100);
+      });
+
+      scrollTopBtn.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
     });
   </script>
 </body>
