@@ -100,6 +100,7 @@
       grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
+      margin-bottom: 60px;
     }
 
     .card {
@@ -144,7 +145,7 @@
 
     #loadMoreBtn {
       display: block;
-      margin: 30px auto 60px;
+      margin: 60px auto 60px;
       padding: 10px;
       width: 60px;
       height: 60px;
@@ -175,6 +176,7 @@
   </style>
 </head>
 <body>
+
   <div class="header-bar">
     <div id="mainTitle" class="category-title"></div>
   </div>
@@ -205,6 +207,7 @@
     let currentIndex = 0;
     const batchSize = 30;
     let all = (allCards || []).filter(card => card.category === selectedCategory);
+    let filtered = all;
 
     function extractDate(title) {
       const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
@@ -230,6 +233,7 @@
 
         card.addEventListener("click", (e) => {
           e.preventDefault();
+          e.stopPropagation();
           window.open(data.link, "_blank");
         });
 
@@ -255,51 +259,48 @@
     }
 
     function applyAllFilters() {
-  const rawInput = document.getElementById("searchInput").value.toLowerCase();
-  const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
+      const rawInput = document.getElementById("searchInput").value.toLowerCase();
+      const keywords = rawInput.split(/[\s,]+/).filter(Boolean);
 
-  const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-  const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-  const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
+      const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+      const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+      const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
 
-  const memberEnglishToKorean = {
-    soyeon: "소연",
-    miyeon: "미연",
-    minnie: "민니",
-    yuqi: "우기",
-    shuhua: "슈화"
-  };
+      const memberEnglishToKorean = {
+        soyeon: "소연",
+        miyeon: "미연",
+        minnie: "민니",
+        yuqi: "우기",
+        shuhua: "슈화"
+      };
 
-  const filtered = all.filter(card => {
-    const titleLower = card.title.toLowerCase();
-    let detectedMember = card.member;
+      filtered = all.filter(card => {
+        const titleLower = card.title.toLowerCase();
+        let detectedMember = card.member;
 
-    // 영어이름 감지 시 해당 멤버명 추가
-    for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
-      if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
-        detectedMember += `,${kor}`;
-      }
-    }
+        for (const [eng, kor] of Object.entries(memberEnglishToKorean)) {
+          if (titleLower.includes(eng) && !detectedMember.includes(kor)) {
+            detectedMember += `,${kor}`;
+          }
+        }
 
-    // 검색 키워드에도 영어 이름을 한글로 변환하여 포함되도록 추가
-    const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
-      return title.includes(eng) ? `${title} ${kor}` : title;
-    }, titleLower);
+        const extendedTitle = Object.entries(memberEnglishToKorean).reduce((title, [eng, kor]) => {
+          return title.includes(eng) ? `${title} ${kor}` : title;
+        }, titleLower);
 
-    const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-    const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-      return match && match[1] === month;
-    });
-    const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
-    const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
+        const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+        const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+          return match && match[1] === month;
+        });
+        const matchesMember = activeMembers.length === 0 || activeMembers.some(member => detectedMember.includes(member));
+        const matchesKeyword = keywords.every(kw => extendedTitle.includes(kw));
 
-    return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-  });
+        return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+      });
 
-  currentIndex = 0;
-  renderCards(filtered);
-
+      currentIndex = 0;
+      renderCards(filtered);
     }
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -307,10 +308,10 @@
       createFilterButtons("yearFilters", years);
       createFilterButtons("monthFilters", months);
       createFilterButtons("memberFilters", members);
-      renderCards(all);
+      renderCards(filtered);
 
       document.getElementById("searchInput").addEventListener("input", applyAllFilters);
-      document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(all));
+      document.getElementById("loadMoreBtn").addEventListener("click", () => renderCards(filtered));
     });
   </script>
 </body>
