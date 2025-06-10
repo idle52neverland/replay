@@ -1,5 +1,6 @@
 const officialClipCards = [
- {
+
+{
   "link": "https://youtu.be/r-B4WCuI78c",
   "category": "I_SERIES",
   "member": "아이들",
@@ -4838,6 +4839,7 @@ const officialClipCards = [
   "alt": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
   "title": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)"
 },
+
 {
   "link": "https://youtu.be/_DnwJLFit0g",
   "category": "I_SERIES",
@@ -4853,8 +4855,10 @@ const officialClipCards = [
 
 
 
-  
-];
+
+
+
+ ];
 
 // ✅ 전역 등록
 window.recordingBehindCards = officialClipCards;
