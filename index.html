@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>I-DLE 몬8에보기</title>
+  <title>I-DLE 몰아보기</title>
   <style>
     body {
       margin: 0;
@@ -105,9 +105,16 @@
       pointer-events: none;
     }
 
-    @media (min-width: 769px) {
+     @media (max-width: 768px) {
       .card-container {
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .top-bar input {
+        width: 220px;
+      }
+      .category-btn {
+        padding: 6px 14px;
+        font-size: 13px;
       }
     }
 
