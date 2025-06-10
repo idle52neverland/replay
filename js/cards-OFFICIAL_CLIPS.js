@@ -4849,8 +4849,221 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/_DnwJLFit0g/mqdefault.jpg",
   "alt": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)",
   "title": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)"
+},
+{
+  "link": "https://youtu.be/KceEp8y5HC4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/KceEp8y5HC4/mqdefault.jpg",
+  "alt": "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)",
+  "title": "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)"
+},
+{
+  "link": "https://youtu.be/5MrJBrR_sfo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/5MrJBrR_sfo/mqdefault.jpg",
+  "alt": "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)",
+  "title": "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)"
+},
+{
+  "link": "https://youtu.be/qDg3uR7exAU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/qDg3uR7exAU/mqdefault.jpg",
+  "alt": "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)",
+  "title": "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)"
+},
+{
+  "link": "https://youtu.be/hLntT4a_O58",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/hLntT4a_O58/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)",
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)"
+},
+{
+  "link": "https://youtu.be/dyFGwGFerAc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/dyFGwGFerAc/mqdefault.jpg",
+  "alt": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
+  "title": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)"
+},
+{
+  "link": "https://youtu.be/J3TANTDWmTQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/J3TANTDWmTQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)"
+},
+{
+  "link": "https://youtu.be/pKCaXYYwGjw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/pKCaXYYwGjw/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)"
+},
+{
+  "link": "https://youtu.be/R9UsmrVEWYY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/R9UsmrVEWYY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)"
+},
+{
+  "link": "https://youtu.be/Si5pQHRRH5w",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/Si5pQHRRH5w/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)"
+},
+{
+  "link": "https://youtu.be/CKSQjJDQTaQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/CKSQjJDQTaQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)"
+},
+{
+  "link": "https://youtu.be/o0MM7TIpilE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/o0MM7TIpilE/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)"
+},
+{
+  "link": "https://youtu.be/6YGOq65MZpw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/6YGOq65MZpw/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)"
+},
+{
+  "link": "https://youtu.be/cwKYh2geaik",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/cwKYh2geaik/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)"
+},
+{
+  "link": "https://youtu.be/KqE4UK5sfHA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/KqE4UK5sfHA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)"
+},
+{
+  "link": "https://youtu.be/wLlKktf0ZWE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/wLlKktf0ZWE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)"
+},
+{
+  "link": "https://youtu.be/FRYY-OxzRTU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/FRYY-OxzRTU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)",
+  "title": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)"
+},
+{
+  "link": "https://youtu.be/SBtF_e6XWnc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/SBtF_e6XWnc/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)",
+  "title": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)"
+},
+{
+  "link": "https://youtu.be/PzSCnRCpM_c",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/PzSCnRCpM_c/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)"
+},
+{
+  "link": "https://youtu.be/rhBa2_-qw00",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/rhBa2_-qw00/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)",
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)"
+},
+{
+  "link": "https://youtu.be/EGuuBE7xjBk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/EGuuBE7xjBk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)",
+  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)"
+},
+{
+  "link": "https://youtu.be/Fhk4Qzj_QpM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/Fhk4Qzj_QpM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)"
 }
 
+
+
+  
   ];
 
 // ✅ 전역 등록
