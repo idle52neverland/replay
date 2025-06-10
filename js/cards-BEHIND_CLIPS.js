@@ -1,5 +1,3 @@
-// ✅ cards-*.js 공통 템플릿 코드 (데이터만 유지)
-
 const behindClipsCards = [
   // 여기에 카드 객체들을 넣으세요
   // 예시:
