@@ -192,7 +192,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 모든 카드 데이터 JS 파일 -->
+  <!-- 카드 데이터 JS 파일 -->
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-RECORDING_BEHIND.js"></script>
   <script src="js/cards-I_SERIES.js"></script>
@@ -222,7 +222,6 @@
       let currentIndex = 0;
       const batchSize = 30;
 
-      // 모든 카드 데이터 배열 concat
       const all = [].concat(
         typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
         typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
@@ -240,7 +239,6 @@
         typeof etcCards !== 'undefined' ? etcCards : []
       );
 
-      // 선택된 카테고리 영상만 필터링
       let filtered = all.filter(card => card.category === selectedCategory);
 
       function extractDate(title) {
@@ -248,7 +246,6 @@
         return match ? match[1] : '2000-01-01';
       }
 
-      // 최신순 정렬
       filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
 
       function renderCards(cards) {
@@ -274,7 +271,6 @@
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
 
-      // 필터 버튼 생성 함수
       function createFilterButtons(containerId, items) {
         const container = document.getElementById(containerId);
         container.innerHTML = '';
@@ -290,10 +286,14 @@
         });
       }
 
-      // 필터 + 검색 모두 적용
       function applyAllFilters() {
         const rawInput = searchInput.value.toLowerCase();
-        const keywords = rawInput.split(/[^\w가-힣]+/).filter(Boolean);
+        const keywords = rawInput
+          .replace(/[^\w가-힣]+/g, ' ')
+          .split(/\s+/)
+          .filter(Boolean)
+          .map(kw => kw.trim());
+
         const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
         const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
         const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
@@ -316,28 +316,29 @@
         renderCards(filtered);
       }
 
-      // 필터 버튼 초기 생성
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
       createFilterButtons("memberFilters", ["소연", "미연", "민니", "우기", "슈화", "아이들"]);
 
-      // 최초 렌더링
       renderCards(filtered);
 
-      // 이벤트 리스너 등록
       loadMoreBtn.addEventListener("click", () => renderCards(filtered));
       searchInput.addEventListener("input", applyAllFilters);
+
       resetSearchBtn.addEventListener("click", () => {
         searchInput.value = '';
+        document.querySelectorAll('.category-btn.active').forEach(btn => {
+          btn.classList.remove('active');
+        });
         filtered = all.filter(card => card.category === selectedCategory);
         currentIndex = 0;
         renderCards(filtered);
       });
+
       scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
 
-      // 타이틀에 현재 카테고리 표시
       const mainTitle = document.getElementById("mainTitle");
       mainTitle.textContent = selectedCategory || "전체 영상";
     };
