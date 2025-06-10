@@ -64,12 +64,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/om3n2ni8luE",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2020",
     "month": "04",
     "thumbnail": "https://i.ytimg.com/vi/om3n2ni8luE/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video (2020-04-06)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video (2020-04-06)"
+    "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video (2020-04-06)",
+    "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video (2020-04-06)"
   },
   {
     "link": "https://youtu.be/ZlKoeJ3xlx4",
@@ -94,12 +94,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/HPQ5mqovXHo",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2020",
     "month": "08",
     "thumbnail": "https://i.ytimg.com/vi/HPQ5mqovXHo/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video (2020-08-03)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video (2020-08-03)"
+    "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video (2020-08-03)",
+    "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video (2020-08-03)"
   },
   {
     "link": "https://youtu.be/eiHCe0kGy3M",
@@ -114,22 +114,22 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/z3szNvgQxHo",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2021",
     "month": "01",
     "thumbnail": "https://i.ytimg.com/vi/z3szNvgQxHo/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video (2021-01-11)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video (2021-01-11)"
+    "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video (2021-01-11)",
+    "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video (2021-01-11)"
   },
   {
     "link": "https://youtu.be/P62kgQCuxGE",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2021",
     "month": "02",
     "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
-    "title": "소연 - (여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)"
+    "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
+    "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)"
   },
   {
     "link": "https://youtu.be/wxDHQT0iBKM",
@@ -194,12 +194,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/Jh4QFaPmdss",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2022",
     "month": "03",
     "thumbnail": "https://i.ytimg.com/vi/Jh4QFaPmdss/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)"
+    "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)",
+    "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)"
   },
   {
     "link": "https://youtu.be/SuMnpTc8zoU",
@@ -254,12 +254,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/fCO7f0SmrDc",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2022",
     "month": "10",
     "thumbnail": "https://i.ytimg.com/vi/fCO7f0SmrDc/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)"
+    "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)",
+    "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)"
   },
   {
     "link": "https://youtu.be/uPU1l6fBEEQ",
@@ -294,12 +294,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/qRrV31S7oO0",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2022",
     "month": "12",
     "thumbnail": "https://i.ytimg.com/vi/qRrV31S7oO0/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
-    "title": "소연 - (여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)"
+    "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
+    "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)"
   },
   {
     "link": "https://youtu.be/0X4XGrK_PwM",
@@ -324,12 +324,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/7HDeem-JaSY",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2023",
     "month": "05",
     "thumbnail": "https://i.ytimg.com/vi/7HDeem-JaSY/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video (2023-05-15)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video (2023-05-15)"
+    "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video (2023-05-15)",
+    "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video (2023-05-15)"
   },
   {
     "link": "https://youtu.be/AKg_9dn_VmA",
@@ -414,12 +414,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/6f3RzjXPQwA",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2024",
     "month": "01",
     "thumbnail": "https://i.ytimg.com/vi/6f3RzjXPQwA/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video (2024-01-29)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video (2024-01-29)"
+    "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video (2024-01-29)",
+    "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video (2024-01-29)"
   },
   {
     "link": "https://youtu.be/KAymeaEyPr8",
@@ -574,12 +574,12 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/rTKqSmX9XhQ",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2024",
     "month": "07",
     "thumbnail": "https://i.ytimg.com/vi/rTKqSmX9XhQ/mqdefault.jpg",
-    "alt": "소연 - (여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video (2024-07-08)",
-    "title": "소연 - (여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video (2024-07-08)"
+    "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video (2024-07-08)",
+    "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video (2024-07-08)"
   },
   {
     "link": "https://youtu.be/nlkPoTADrdM",
@@ -694,22 +694,22 @@ const mvSpecialClipCards = [
   {
     "link": "https://youtu.be/zKfs2EM8LQ4",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2025",
     "month": "05",
     "thumbnail": "https://i.ytimg.com/vi/zKfs2EM8LQ4/mqdefault.jpg",
-    "alt": "소연 - i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)",
-    "title": "소연 - i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)"
+    "alt": "i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)",
+    "title": "i-dle (아이들) 'Girlfriend' Official Music Video (2025-05-08)"
   },
   {
     "link": "https://youtu.be/hAONx6nuEgI",
     "category": "MV_SPECIAL_CLIP",
-    "member": "소연",
+    "member": "아이들",
     "year": "2025",
     "month": "05",
     "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/mqdefault.jpg",
-    "alt": "소연 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
-    "title": "소연 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
+    "alt": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
+    "title": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
   },
   {
   "link": "https://youtu.be/EV2NXUYZ3Js",
