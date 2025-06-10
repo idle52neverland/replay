@@ -2,7 +2,8 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>I-DLE 몰아보기</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>I-DLE 몰아보기 - 카테고리</title>
   <style>
     body {
       margin: 0;
@@ -13,7 +14,6 @@
       padding-left: 5px;
       padding-right: 5px;
     }
-
     .header-bar {
       display: flex;
       justify-content: center;
@@ -21,7 +21,6 @@
       padding: 60px 20px 30px;
       position: relative;
     }
-
     #mainTitle {
       font-size: 28px;
       color: #fff;
@@ -30,21 +29,22 @@
       left: 50%;
       transform: translateX(-50%);
     }
-
-    .subcategory-section {
-      margin-top: 10px;
+    .category-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      padding: 30px 10px 10px;
     }
-
-    .subcategory-line {
+    .category-line {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
-
-    .subcategory-btn {
-      padding: 10px 18px;
+    .category-btn {
+      padding: 10px 20px;
       background-color: #333;
       border-radius: 20px;
       font-size: 15px;
@@ -52,13 +52,13 @@
       color: #fff;
       cursor: pointer;
       border: none;
+      text-decoration: none;
+      user-select: none;
     }
-
-    .subcategory-btn.active {
+    .category-btn.active {
       background-color: #fff;
       color: #111;
     }
-
     .top-bar {
       display: flex;
       justify-content: center;
@@ -66,7 +66,6 @@
       gap: 10px;
       margin: 20px 0;
     }
-
     .top-bar input {
       padding: 12px 16px;
       border-radius: 24px;
@@ -74,7 +73,6 @@
       width: 260px;
       font-size: 16px;
     }
-
     .top-bar button {
       background-color: #fff;
       border: none;
@@ -87,42 +85,43 @@
       align-items: center;
       cursor: pointer;
     }
-
     .top-bar button img {
       width: 24px;
       height: 24px;
     }
-
     .card-container {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
       gap: 10px;
       padding: 10px;
-      padding-bottom: 100px;
     }
-
     .card {
       background-color: transparent;
       border-radius: 0;
       overflow: hidden;
       text-align: left;
+      transition: transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       cursor: pointer;
+      width: 100%;
+      padding: 0;
+      margin: 0;
     }
-
     .card img {
       width: 100%;
-      aspect-ratio: 16 / 9;
-      object-fit: cover;
-      background-color: #000;
+      height: auto;
       display: block;
+      border-radius: 0;
+      margin: 0;
+      object-fit: cover;
+      aspect-ratio: 16 / 9;
+      background-color: #000;
     }
-
     .card-title {
       font-size: 13px;
       line-height: 18px;
       height: 72px;
-      padding: 6px;
+      padding: 6px 6px 0;
       margin: 0;
       color: #fff;
       background-color: #222;
@@ -133,7 +132,6 @@
       text-overflow: ellipsis;
       box-sizing: content-box;
     }
-
     .button-wrapper {
       display: flex;
       justify-content: center;
@@ -141,7 +139,6 @@
       gap: 20px;
       margin: 60px auto 80px;
     }
-
     #loadMoreBtn, #scrollTopBtn {
       background-color: #fff;
       color: #111;
@@ -154,17 +151,19 @@
       cursor: pointer;
       box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     }
-
     #scrollTopBtn:hover {
       background-color: #ddd;
     }
-
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(2, 1fr);
       }
       .top-bar input {
         width: 220px;
+      }
+      .category-btn {
+        padding: 6px 14px;
+        font-size: 13px;
       }
     }
   </style>
@@ -174,167 +173,174 @@
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
 
-  <div class="subcategory-section">
-    <div class="subcategory-line" id="yearLine"></div>
-    <div class="subcategory-line" id="monthLine"></div>
-    <div class="subcategory-line" id="memberLine"></div>
+  <div class="category-section">
+    <div class="category-line" id="yearFilters"></div>
+    <div class="category-line" id="monthFilters"></div>
+    <div class="category-line" id="memberFilters"></div>
   </div>
 
   <div class="top-bar">
-    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
-    <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
+    <button id="resetSearchBtn" title="검색 초기화"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
+    <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
     <input type="text" id="searchInput" placeholder="카테고리 내 검색...">
   </div>
 
-  <div class="card-container" id="categoryCards"></div>
+  <div class="card-container" id="allCards"></div>
 
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 카드 JS 불러오기 (생략) -->
+  <!-- 모든 카드 데이터 JS 파일 -->
+  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
+  <script src="js/cards-RECORDING_BEHIND.js"></script>
+  <script src="js/cards-I_SERIES.js"></script>
+  <script src="js/cards-I_VARIETY.js"></script>
+  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
+  <script src="js/cards-LIVE_COVER_DANCE.js"></script>
+  <script src="js/cards-BEHIND_CLIPS.js"></script>
+  <script src="js/cards-MEDIA_CONTENTS.js"></script>
+  <script src="js/cards-RADIO_PODCAST.js"></script>
+  <script src="js/cards-INTERVIEW.js"></script>
+  <script src="js/cards-LIVE_STREAM.js"></script>
+  <script src="js/cards-FANCAM.js"></script>
+  <script src="js/cards-CHALLENGE.js"></script>
+  <script src="js/cards-ETC.js"></script>
 
   <script>
-    document.addEventListener("DOMContentLoaded", () => {
+    window.onload = function () {
       const urlParams = new URLSearchParams(window.location.search);
       const selectedCategory = urlParams.get("category") || "";
-      document.title = `${selectedCategory} - I-DLE 몰아보기`;
-      document.getElementById("mainTitle").textContent = selectedCategory;
 
-      const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
-      const months = ["01","02","03","04","05","06","07","08","09","10","11","12"];
-      const members = ["미연", "민니", "소연", "우기", "슈화", "아이들"];
+      const container = document.getElementById("allCards");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
+      const loadMoreBtn = document.getElementById("loadMoreBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
 
-      let all = [];
-      if (typeof mvSpecialClipCards !== 'undefined') all = all.concat(mvSpecialClipCards);
-      if (typeof recordingBehindCards !== 'undefined') all = all.concat(recordingBehindCards);
-      if (typeof iSeriesCards !== 'undefined') all = all.concat(iSeriesCards);
-      if (typeof iVarietyCards !== 'undefined') all = all.concat(iVarietyCards);
-      if (typeof stagePerformanceCards !== 'undefined') all = all.concat(stagePerformanceCards);
-      if (typeof liveCoverDanceCards !== 'undefined') all = all.concat(liveCoverDanceCards);
-      if (typeof behindClipsCards !== 'undefined') all = all.concat(behindClipsCards);
-      if (typeof mediaContentsCards !== 'undefined') all = all.concat(mediaContentsCards);
-      if (typeof radioPodcastCards !== 'undefined') all = all.concat(radioPodcastCards);
-      if (typeof interviewCards !== 'undefined') all = all.concat(interviewCards);
-      if (typeof liveStreamCards !== 'undefined') all = all.concat(liveStreamCards);
-      if (typeof fancamCards !== 'undefined') all = all.concat(fancamCards);
-      if (typeof challengeCards !== 'undefined') all = all.concat(challengeCards);
-      if (typeof etcCards !== 'undefined') all = all.concat(etcCards);
+      let currentIndex = 0;
+      const batchSize = 30;
+
+      // 모든 카드 데이터 배열 concat
+      const all = [].concat(
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
+        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
+      );
+
+      // 선택된 카테고리 영상만 필터링
+      let filtered = all.filter(card => card.category === selectedCategory);
 
       function extractDate(title) {
         const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
         return match ? match[1] : '2000-01-01';
       }
 
-      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-
-      const container = document.getElementById("categoryCards");
-      let currentIndex = 0;
-      let selectedFilter = { member: [], year: [], month: [] };
-      let filtered = [];
+      // 최신순 정렬
+      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
 
       function renderCards(cards) {
         container.innerHTML = '';
-        cards.slice(0, currentIndex + 30).forEach(data => {
+        cards.slice(0, currentIndex + batchSize).forEach(data => {
           const card = document.createElement("a");
           card.className = "card";
+          card.setAttribute("data-category", data.category);
+          card.setAttribute("data-member", data.member);
+          card.setAttribute("data-year", data.year);
           card.innerHTML = `
             <img src="${data.thumbnail}" alt="${data.alt}">
             <div class="card-title">${data.title}</div>
           `;
-          card.onclick = (e) => {
+          card.addEventListener("click", (e) => {
             e.preventDefault();
+            e.stopPropagation();
             window.open(data.link, "_blank");
-          };
+          });
           container.appendChild(card);
         });
-        currentIndex += 30;
-        document.getElementById("loadMoreBtn").style.display = currentIndex >= cards.length ? "none" : "block";
+        currentIndex += batchSize;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
 
-      function applySubFilters() {
-        let temp = all.filter(c => c.category === selectedCategory);
-
-        if (selectedFilter.member.length > 0)
-          temp = temp.filter(c => selectedFilter.member.includes(c.member));
-
-        if (selectedFilter.year.length > 0)
-          temp = temp.filter(c => selectedFilter.year.includes(c.year));
-
-        if (selectedFilter.month.length > 0 && selectedFilter.year.length > 0) {
-          temp = temp.filter(c => {
-            const date = extractDate(c.title);
-            return selectedFilter.year.some(y => selectedFilter.month.some(m => date.startsWith(`${y}-${m}`)));
-          });
-        }
-
-        const keywords = document.getElementById("searchInput").value
-          .toLowerCase()
-          .replace(/[^가-힣\w]+/g, ' ')
-          .trim()
-          .split(/\s+/);
-
-        if (keywords.length > 0 && keywords[0] !== "") {
-          temp = temp.filter(c => {
-            const cleanTitle = c.title.toLowerCase().replace(/[^가-힣\w]+/g, ' ');
-            return keywords.every(k => cleanTitle.includes(k));
-          });
-        }
-
-        filtered = temp;
-        currentIndex = 0;
-        renderCards(filtered);
-      }
-
-      function createButtons(list, type, containerId) {
+      // 필터 버튼 생성 함수
+      function createFilterButtons(containerId, items) {
         const container = document.getElementById(containerId);
-        list.forEach(item => {
+        container.innerHTML = '';
+        items.forEach(item => {
           const btn = document.createElement("button");
-          btn.className = "subcategory-btn";
           btn.textContent = item;
-          btn.onclick = () => {
-            const idx = selectedFilter[type].indexOf(item);
-            if (idx > -1) {
-              selectedFilter[type].splice(idx, 1);
-              btn.classList.remove("active");
-            } else {
-              selectedFilter[type].push(item);
-              btn.classList.add("active");
-            }
-            applySubFilters();
-          };
+          btn.className = "category-btn";
+          btn.addEventListener("click", () => {
+            btn.classList.toggle("active");
+            applyAllFilters();
+          });
           container.appendChild(btn);
         });
       }
 
-      createButtons(years, "year", "yearLine");
-      createButtons(months, "month", "monthLine");
-      createButtons(members, "member", "memberLine");
+      // 필터 + 검색 모두 적용
+      function applyAllFilters() {
+        const rawInput = searchInput.value.toLowerCase();
+        const keywords = rawInput.split(/[^\w가-힣]+/).filter(Boolean);
+        const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+        const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+        const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
 
-      applySubFilters();
+        filtered = all.filter(card => {
+          if (card.category !== selectedCategory) return false;
+          const titleLower = card.title.toLowerCase();
+          const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+          const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+            const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+            return match && match[1] === month;
+          });
+          const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
+          const matchesKeyword = keywords.every(kw => titleLower.includes(kw));
+          return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+        });
 
-      document.getElementById("searchInput").addEventListener("input", applySubFilters);
-      document.getElementById("resetSearchBtn").addEventListener("click", () => {
-        document.getElementById("searchInput").value = "";
-        selectedFilter = { member: [], year: [], month: [] };
-        document.querySelectorAll(".subcategory-btn").forEach(b => b.classList.remove("active"));
-        applySubFilters();
+        currentIndex = 0;
+        filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+        renderCards(filtered);
+      }
+
+      // 필터 버튼 초기 생성
+      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+      createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
+      createFilterButtons("memberFilters", ["소연", "미연", "민니", "우기", "슈화", "아이들"]);
+
+      // 최초 렌더링
+      renderCards(filtered);
+
+      // 이벤트 리스너 등록
+      loadMoreBtn.addEventListener("click", () => renderCards(filtered));
+      searchInput.addEventListener("input", applyAllFilters);
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        filtered = all.filter(card => card.category === selectedCategory);
+        currentIndex = 0;
+        renderCards(filtered);
       });
-
-      document.getElementById("loadMoreBtn").addEventListener("click", () => {
-        container.classList.add("disabled");
-        window.scrollTo({ top: window.scrollY + 1 });
-        setTimeout(() => {
-          renderCards(filtered);
-          container.classList.remove("disabled");
-        }, 100);
-      });
-
-      document.getElementById("scrollTopBtn").addEventListener("click", () => {
+      scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
-    });
+
+      // 타이틀에 현재 카테고리 표시
+      const mainTitle = document.getElementById("mainTitle");
+      mainTitle.textContent = selectedCategory || "전체 영상";
+    };
   </script>
 </body>
 </html>
