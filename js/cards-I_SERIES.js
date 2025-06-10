@@ -4837,7 +4837,18 @@ const iSeriesCards = [
   "thumbnail": "https://i.ytimg.com/vi/XVKRymF-1aw/mqdefault.jpg",
   "alt": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
   "title": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)"
+},
+{
+  "link": "https://youtu.be/_DnwJLFit0g",
+  "category": "I_SERIES",
+  "member": "민니",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/_DnwJLFit0g/mqdefault.jpg",
+  "alt": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)",
+  "title": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)"
 }
+
 
 ];
 
