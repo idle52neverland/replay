@@ -2,6 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>I-DLE 몰아보기</title>
   <style>
     body {
@@ -94,30 +95,28 @@
     }
 
     .card-container {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 카드 5개 한 줄에 표시 */
-  gap: 10px;
-  padding: 10px;
-}
-
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      padding: 10px;
+    }
 
     .card-container.disabled {
       pointer-events: none;
     }
 
     @media (max-width: 768px) {
-  .card-container {
-    grid-template-columns: repeat(2, 1fr); /* 모바일: 카드 2개 한 줄에 표시 */
-  }
-  .top-bar input {
-    width: 220px; /* 검색창 너비 줄임 */
-  }
-  .category-btn {
-    padding: 6px 14px;
-    font-size: 13px;
-  }
-}
-
+      .card-container {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+      .top-bar input {
+        width: 220px;
+      }
+      .category-btn {
+        padding: 6px 14px;
+        font-size: 13px;
+      }
+    }
 
     .card {
       background-color: transparent;
@@ -241,105 +240,105 @@
   <script src="js/cards-ETC.js"></script>
 
   <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const container = document.getElementById("allCards");
-    const loadMoreBtn = document.getElementById("loadMoreBtn");
-    const scrollTopBtn = document.getElementById("scrollTopBtn");
-    const searchInput = document.getElementById("searchInput");
-    const resetSearchBtn = document.getElementById("resetSearchBtn");
+    document.addEventListener("DOMContentLoaded", function () {
+      const container = document.getElementById("allCards");
+      const loadMoreBtn = document.getElementById("loadMoreBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
 
-    let currentIndex = 0;
-    const batchSize = 30;
+      let currentIndex = 0;
+      const batchSize = 30;
 
-    const all = [].concat(
-      typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-      typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-      typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
-      typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
-      typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-      typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
-      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-      typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-      typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-      typeof interviewCards !== 'undefined' ? interviewCards : [],
-      typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-      typeof fancamCards !== 'undefined' ? fancamCards : [],
-      typeof challengeCards !== 'undefined' ? challengeCards : [],
-      typeof etcCards !== 'undefined' ? etcCards : []
-    );
+      const all = [].concat(
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof iSeriesCards !== 'undefined' ? iSeriesCards : [],
+        typeof iVarietyCards !== 'undefined' ? iVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof liveCoverDanceCards !== 'undefined' ? liveCoverDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
+      );
 
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
+      function extractDate(title) {
+        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+        return match ? match[1] : '2000-01-01';
+      }
 
-    all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-    let filtered = all;
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      let filtered = all;
 
-    function renderCards(cards) {
-      container.innerHTML = '';
-      cards.slice(0, currentIndex + batchSize).forEach(data => {
-        const card = document.createElement("a");
-        card.className = "card";
-        card.setAttribute("data-category", data.category);
-        card.setAttribute("data-member", data.member);
-        card.setAttribute("data-year", data.year);
-        card.innerHTML = `
-          <img src="${data.thumbnail}" alt="${data.alt}">
-          <div class="card-title">${data.title}</div>
-        `;
-        card.addEventListener("click", (e) => {
-          e.preventDefault();
-          e.stopPropagation();
-          window.open(data.link, "_blank");
+      function renderCards(cards) {
+        container.innerHTML = '';
+        cards.slice(0, currentIndex + batchSize).forEach(data => {
+          const card = document.createElement("a");
+          card.className = "card";
+          card.setAttribute("data-category", data.category);
+          card.setAttribute("data-member", data.member);
+          card.setAttribute("data-year", data.year);
+          card.innerHTML = `
+            <img src="${data.thumbnail}" alt="${data.alt}">
+            <div class="card-title">${data.title}</div>
+          `;
+          card.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            window.open(data.link, "_blank");
+          });
+          container.appendChild(card);
         });
-        container.appendChild(card);
+        currentIndex += batchSize;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+      }
+
+      renderCards(filtered);
+
+      loadMoreBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        loadMoreBtn.blur();
+        container.classList.add("disabled");
+        window.scrollTo({ top: window.scrollY + 1 });
+        setTimeout(() => {
+          renderCards(filtered);
+          container.classList.remove("disabled");
+        }, 100);
       });
-      currentIndex += batchSize;
-      loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
-    }
 
-    renderCards(filtered);
+      searchInput.addEventListener("input", function () {
+        const keywords = this.value
+          .toLowerCase()
+          .replace(/[^\w가-힣]+/g, ' ')
+          .split(/\s+/)
+          .filter(Boolean);
 
-    loadMoreBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      loadMoreBtn.blur();
-      container.classList.add("disabled");
-      window.scrollTo({ top: window.scrollY + 1 });
-      setTimeout(() => {
+        filtered = all.filter(c => {
+          const cleanTitle = c.title.toLowerCase().replace(/[^\w가-힣]+/g, ' ');
+          return keywords.every(k => cleanTitle.includes(k));
+        });
+
+        currentIndex = 0;
         renderCards(filtered);
-        container.classList.remove("disabled");
-      }, 100);
-    });
-
-    searchInput.addEventListener("input", function () {
-      const keywords = this.value
-        .toLowerCase()
-        .replace(/[^\w가-힣]+/g, ' ')  // 기호 → 공백 치환
-        .split(/\s+/)
-        .filter(Boolean);
-
-      filtered = all.filter(c => {
-        const cleanTitle = c.title.toLowerCase().replace(/[^\w가-힣]+/g, ' ');
-        return keywords.every(k => cleanTitle.includes(k));
       });
 
-      currentIndex = 0;
-      renderCards(filtered);
-    });
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        filtered = all;
+        currentIndex = 0;
+        renderCards(filtered);
+      });
 
-    resetSearchBtn.addEventListener("click", () => {
-      searchInput.value = '';
-      filtered = all;
-      currentIndex = 0;
-      renderCards(filtered);
+      scrollTopBtn.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
     });
-
-    scrollTopBtn.addEventListener("click", () => {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-  });
-</script>
+  </script>
 </body>
 </html>
