@@ -682,16 +682,6 @@ const mvSpecialClipCards = [
     "title": "민니(MINNIE) - 'Valentine’s Dream' SPECIAL CLIP (2025-02-13)"
   },
   {
-    "link": "https://youtu.be/HxROxHdBQ2g",
-    "category": "MV_SPECIAL_CLIP",
-    "member": "미연",
-    "year": "2025",
-    "month": "04",
-    "thumbnail": "https://i.ytimg.com/vi/HxROxHdBQ2g/mqdefault.jpg",
-    "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
-    "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)"
-  },
-  {
     "link": "https://youtu.be/zKfs2EM8LQ4",
     "category": "MV_SPECIAL_CLIP",
     "member": "아이들",
