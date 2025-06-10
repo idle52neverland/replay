@@ -710,7 +710,118 @@ const mvSpecialClipCards = [
     "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/mqdefault.jpg",
     "alt": "소연 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
     "title": "소연 - i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)"
-  }
+  },
+  {
+  "link": "https://youtu.be/EV2NXUYZ3Js",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "미연",
+  "year": "2024",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/EV2NXUYZ3Js/mqdefault.jpg",
+  "alt": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB (2024-12-24)",
+  "title": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB (2024-12-24)"
+},
+{
+  "link": "https://youtu.be/H6pLWC7zvA8",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "미연",
+  "year": "2023",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/H6pLWC7zvA8/mqdefault.jpg",
+  "alt": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN) (2023-12-24)",
+  "title": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN) (2023-12-24)"
+},
+{
+  "link": "https://youtu.be/SWC8DXoV7ts",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/SWC8DXoV7ts/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Allergy' Special Performance Video (2023-06-04)",
+  "title": "(여자)아이들((G)I-DLE) - 'Allergy' Special Performance Video (2023-06-04)"
+},
+{
+  "link": "https://youtu.be/P2WN35hWy4A",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/P2WN35hWy4A/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Special Performance Video (2023-05-15)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Special Performance Video (2023-05-15)"
+},
+{
+  "link": "https://youtu.be/wMmL0Ufb7u4",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2023",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/wMmL0Ufb7u4/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-05)",
+  "title": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-05)"
+},
+
+{
+  "link": "https://youtu.be/P7zU8MNxAoU",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "민니",
+  "year": "2022",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/P7zU8MNxAoU/mqdefault.jpg",
+  "alt": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover) (2022-12-25)",
+  "title": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover) (2022-12-25)"
+},
+{
+  "link": "https://youtu.be/Q8mioC2TpLg",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "우기",
+  "year": "2020",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/Q8mioC2TpLg/mqdefault.jpg",
+  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover) (2020-09-22)",
+  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover) (2020-09-22)"
+},
+{
+  "link": "https://youtu.be/0Hk8qGSoHnA",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2019",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/0Hk8qGSoHnA/mqdefault.jpg",
+  "alt": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)",
+  "title": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)"
+},
+{
+  "link": "https://youtu.be/4gxMgJSSVaQ",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "민니",
+  "year": "2019",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/4gxMgJSSVaQ/mqdefault.jpg",
+  "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
+  "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)"
+},
+{
+  "link": "https://youtu.be/p9oDlvOV3qs",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연, 미연",
+  "year": "2018",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/p9oDlvOV3qs/mqdefault.jpg",
+  "alt": "소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
+  "title": "소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)"
+},
+{
+  "link": "https://youtu.be/UOxkGD8qRB4",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연, 미연",
+  "year": "2018",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/mqdefault.jpg",
+  "alt": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "title": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)"
+}
 
 
  
