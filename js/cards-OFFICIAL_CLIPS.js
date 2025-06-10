@@ -1,8 +1,8 @@
 const officialClipCards = [
 
-{
+  {
   "link": "https://youtu.be/r-B4WCuI78c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "04",
@@ -13,7 +13,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/H54rWc8laeE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "04",
@@ -24,7 +24,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mz-9otF_v00",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2018",
   "month": "04",
@@ -35,7 +35,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/398QLj8ZKmE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2018",
   "month": "04",
@@ -46,7 +46,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pOOwt28gZYA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2018",
   "month": "04",
@@ -57,7 +57,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3w4ljZZ0iIA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "04",
@@ -68,7 +68,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Qw6Z4BbNbMc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2018",
   "month": "04",
@@ -79,7 +79,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/5wn5ponH2XI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2018",
   "month": "04",
@@ -90,7 +90,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mIh0X4jGLcE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "05",
@@ -101,7 +101,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/WeFiRp0p2JA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "05",
@@ -112,7 +112,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GOcJMC_JR7M",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "05",
@@ -123,7 +123,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/O5pRVUqzAuA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "05",
@@ -134,7 +134,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/SUFzczU-ahU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "05",
@@ -145,7 +145,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/W2CqsPE5Gtw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "06",
@@ -156,7 +156,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9zH2JuvaT8Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "06",
@@ -167,7 +167,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/BPKyBsqE7Lg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "06",
@@ -178,7 +178,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_tghpBwByM0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "07",
@@ -189,7 +189,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/5t6XK3h-sTI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2018",
   "month": "07",
@@ -200,7 +200,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ch91ZeS0zEw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "07",
@@ -211,7 +211,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/vhkltG7Tb84",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기, 슈화",
   "year": "2018",
   "month": "07",
@@ -222,7 +222,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/s_cd0CKZjL4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "08",
@@ -233,7 +233,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/yFpYfOrGkdw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "08",
@@ -244,7 +244,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1RRPkd9toZw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "08",
@@ -255,7 +255,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kLs5rsrbamg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "09",
@@ -266,7 +266,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/p8WDE-tsKv8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "09",
@@ -277,7 +277,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_ttzcNoj1nQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "09",
@@ -288,7 +288,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4G9MLumJLJI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "10",
@@ -299,7 +299,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ctq1jDzX34o",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "10",
@@ -310,7 +310,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3CY33hfnUy4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "12",
@@ -321,7 +321,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/6GeXJH_QIrE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2018",
   "month": "12",
@@ -332,7 +332,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/oD9pU98pizA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "01",
@@ -343,7 +343,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/6-GnSGXxWc8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "01",
@@ -354,7 +354,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kGXLROgEnyw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2019",
   "month": "02",
@@ -365,7 +365,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/RgZ7ohHwWZc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연, 우기",
   "year": "2019",
   "month": "02",
@@ -376,7 +376,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qBUY8lv5nJ4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -387,7 +387,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/DJ2oZj8nyig",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -398,7 +398,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KtOC9LNIyBo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -409,7 +409,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7bqewyz8_5s",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2019",
   "month": "02",
@@ -420,7 +420,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4mtAWfuDcwo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2019",
   "month": "02",
@@ -431,7 +431,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/HI7syzmCutA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2019",
   "month": "02",
@@ -442,7 +442,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9khosHZ7YLo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -453,7 +453,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/FHhOwtQ85Ow",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2019",
   "month": "02",
@@ -464,7 +464,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3Yjln4kr84Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2019",
   "month": "02",
@@ -475,7 +475,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/M12zfy-IZLA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -486,7 +486,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/b5LqwD78OVs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "02",
@@ -497,7 +497,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/wukHr2r2wVw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "03",
@@ -508,7 +508,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7ku_kVxCQrs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "03",
@@ -519,7 +519,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IyVT0FcCXlc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "03",
@@ -530,7 +530,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/BUF5N54Wnw0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "03",
@@ -541,7 +541,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/e7C91J_JQSQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "04",
@@ -552,7 +552,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IOHMP3f-Zsg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "05",
@@ -563,7 +563,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/--jnauMUngI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "05",
@@ -574,7 +574,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/lmADefjjV14",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2019",
   "month": "06",
@@ -585,7 +585,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/uFA8Y3tKHjU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2019",
   "month": "06",
@@ -596,7 +596,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7U26LjgodYU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2019",
   "month": "06",
@@ -607,7 +607,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/6oZ80LMxsuE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2019",
   "month": "06",
@@ -618,7 +618,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mttovhSQVVs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기",
   "year": "2019",
   "month": "06",
@@ -629,7 +629,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1CPQFG4k97k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기",
   "year": "2019",
   "month": "06",
@@ -640,7 +640,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nwsGnx4Bebc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "06",
@@ -651,7 +651,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/rKKdpcnyO74",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "06",
@@ -662,7 +662,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TqW04rj2WOs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "06",
@@ -673,7 +673,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/tJZlZj3s5io",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "06",
@@ -684,7 +684,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IjnxHVIgJ3M",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "07",
@@ -695,7 +695,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/D6bGBZdVYXc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "07",
@@ -706,7 +706,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/MOL71EcqTh8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "07",
@@ -717,7 +717,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/SGueYGtOwOg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "08",
@@ -728,7 +728,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/F1ClbxlwSr0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "09",
@@ -739,7 +739,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zL94SV9_j34",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "09",
@@ -750,7 +750,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1-GWerSkngM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "10",
@@ -761,7 +761,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/V3rcK6jIa6c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2019",
   "month": "10",
@@ -772,7 +772,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/n0mwthRl1qc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "11",
@@ -783,7 +783,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3EXJJeFkNmM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "11",
@@ -794,7 +794,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8z3xzJurlhg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "11",
@@ -805,7 +805,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/32XCmuFOt44",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "11",
@@ -816,7 +816,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/B4pd_JgZk40",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "11",
@@ -827,7 +827,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QlMi79s1WtM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2019",
   "month": "12",
@@ -838,7 +838,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/aukVj8epA74",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기, 슈화",
   "year": "2020",
   "month": "01",
@@ -849,7 +849,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Bf-dtm4u8_E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "01",
@@ -860,7 +860,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/sw6DrozQ9tc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "01",
@@ -871,7 +871,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GcVV6bY35IU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "01",
@@ -882,7 +882,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PCHCvt1DsKI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "01",
@@ -893,7 +893,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jrJGmq010R0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "01",
@@ -904,7 +904,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/lN8N84vSeEI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2020",
   "month": "01",
@@ -915,7 +915,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7HluoYHuEyU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2020",
   "month": "01",
@@ -926,7 +926,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qvnpyX_h_L0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기, 슈화",
   "year": "2020",
   "month": "02",
@@ -937,7 +937,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/vbor1FfbApM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2020",
   "month": "02",
@@ -948,7 +948,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/sEAry8EAbpo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "02",
@@ -959,7 +959,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GEHfqT3hrtA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2020",
   "month": "02",
@@ -970,7 +970,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/WwvGegsivfw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "02",
@@ -981,7 +981,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/u7cyF9bg4fw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "02",
@@ -992,7 +992,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ln65fG0CnwM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2020",
   "month": "02",
@@ -1003,7 +1003,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ZvHwRuyDl7s",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2020",
   "month": "02",
@@ -1014,7 +1014,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/w6xQbDB6BcI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "03",
@@ -1025,7 +1025,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ysmHFXpdAkI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "03",
@@ -1036,7 +1036,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/uhAQ1Hrbc8w",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1047,7 +1047,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/cIRuLD0-isY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1058,7 +1058,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OT-pQiWt_A0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1069,7 +1069,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YlBcYcgr89I",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1080,7 +1080,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PwV31p7GkmU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1091,7 +1091,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/UKcKVqE259E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2020",
   "month": "04",
@@ -1102,7 +1102,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/vcTbzTjGs28",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "04",
@@ -1113,7 +1113,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-rpeMCEhCEY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "05",
@@ -1124,7 +1124,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/y5TdZnnFFBs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "05",
@@ -1135,7 +1135,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jV1tyZj4Pjs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "05",
@@ -1146,7 +1146,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PqoufdgLfqQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "05",
@@ -1157,7 +1157,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/H4xb7punc-Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1168,7 +1168,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Oq07gOGw4Ec",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1179,7 +1179,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/i8zdCEK67ms",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1190,7 +1190,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8-me2RYYxfc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1201,7 +1201,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/a1FO6QlLtJY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1212,7 +1212,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/EEIeyyBMhdg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1223,7 +1223,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2LZ8UR1R2bg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1234,7 +1234,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2qBh7xa2bFg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "07",
@@ -1245,7 +1245,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7La7aO6VihA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "08",
@@ -1256,7 +1256,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Z9faUX6RnTQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "08",
@@ -1267,7 +1267,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Bfpdb1EdI5g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "08",
@@ -1278,7 +1278,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OdL-6LMTyKc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "08",
@@ -1289,7 +1289,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/imoLXmbxUdQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "08",
@@ -1300,7 +1300,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/t767qLX8xys",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "09",
@@ -1311,7 +1311,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/SHguASL-yDs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "09",
@@ -1322,7 +1322,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1MJBKuvt-EI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2020",
   "month": "10",
@@ -1333,7 +1333,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LxdkIhUyakE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "10",
@@ -1344,7 +1344,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/EFkVZYAQO2k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "11",
@@ -1355,7 +1355,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KWo9Ug4zrZI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2020",
   "month": "11",
@@ -1366,7 +1366,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/e2_BCG7f2J8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "11",
@@ -1377,7 +1377,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LTnDy_v77Cg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "12",
@@ -1388,7 +1388,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/cXdyFwuhScA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "12",
@@ -1399,7 +1399,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/yuEmtXzrBS8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "12",
@@ -1410,7 +1410,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3SsM-A71f10",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "12",
@@ -1421,7 +1421,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-RLp1yiTPh0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2020",
   "month": "12",
@@ -1432,7 +1432,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/tPIUXk96xng",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1443,7 +1443,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7FnbZGoMig0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1454,7 +1454,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mex7aRfrTiU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1465,7 +1465,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ErTq-VvkqIk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1476,7 +1476,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QTaC9QjUlNo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1487,7 +1487,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/eUoBGShDoA8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1498,7 +1498,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ANhubXC-hSg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1509,7 +1509,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/NtmzLugaJDQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "01",
@@ -1520,7 +1520,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/rQAUm0rJWDE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2021",
   "month": "01",
@@ -1531,7 +1531,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/HBzPLYWmBEw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "02",
@@ -1542,7 +1542,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PmYtROm07Ac",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2021",
   "month": "02",
@@ -1553,7 +1553,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/MUEo_-WYX-Q",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "03",
@@ -1564,7 +1564,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hhiK2nbnrs4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2021",
   "month": "03",
@@ -1575,7 +1575,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Yx9xhYRonpw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2021",
   "month": "05",
@@ -1586,7 +1586,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ch2zY9eUFzk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2021",
   "month": "05",
@@ -1597,7 +1597,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/09o7NGd9zQY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2021",
   "month": "05",
@@ -1608,7 +1608,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/czUwp_YNdCo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2021",
   "month": "05",
@@ -1619,7 +1619,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7VReeoBR3Kk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "06",
@@ -1630,7 +1630,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/FsMfjN63FTg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "06",
@@ -1641,7 +1641,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2ucAQuPRpmU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "07",
@@ -1652,7 +1652,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pQMh6dZiYM8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "07",
@@ -1663,7 +1663,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jN4xMjrfIi8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "07",
@@ -1674,7 +1674,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/X3NAUy7EjHQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "07",
@@ -1685,7 +1685,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zvuAQsBjHVA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "07",
@@ -1696,7 +1696,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-L4QCCMYjgE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2021",
   "month": "08",
@@ -1707,7 +1707,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pHZM7O87zoE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2021",
   "month": "12",
@@ -1718,7 +1718,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/N1qWluicDkM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "02",
@@ -1729,7 +1729,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/viKTTmds5w0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1740,7 +1740,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-nYIOcvTfWM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1751,7 +1751,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Bvx_7Z60jDg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1762,7 +1762,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-QHYb8fuwIs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1773,7 +1773,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/uOT2HadPJh8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1784,7 +1784,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/a8TWfH4RqB0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "03",
@@ -1795,7 +1795,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/J0Qkr0Ypqfo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "04",
@@ -1806,7 +1806,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hi3l7y6ZwrY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "04",
@@ -1817,7 +1817,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OXT3-sLFiaU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "04",
@@ -1828,7 +1828,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/x8NSEmpC4Jo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "04",
@@ -1839,7 +1839,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pEMC4GOMmOw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "04",
@@ -1850,7 +1850,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ij69A4ETIas",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "04",
@@ -1861,7 +1861,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7lU3Rvw3nGk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "04",
@@ -1872,7 +1872,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1q_yooSrgJ4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "04",
@@ -1883,7 +1883,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ur2x3tdoX5Q",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "05",
@@ -1894,7 +1894,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/L37aZiXpqY0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "05",
@@ -1905,7 +1905,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/0GvaKrCGV6s",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "05",
@@ -1916,7 +1916,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_FCfCpJMvOg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "05",
@@ -1927,7 +1927,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9IdcoGWD6cI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2022",
   "month": "05",
@@ -1938,7 +1938,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/z3LjmE-Jf9U",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연, 우기",
   "year": "2022",
   "month": "05",
@@ -1949,7 +1949,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nQBqKynYiWI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "06",
@@ -1960,7 +1960,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/x12T7F5Ak8E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "06",
@@ -1971,7 +1971,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kye1yH1d2TQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "06",
@@ -1982,7 +1982,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YwSWrRCUeI8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "06",
@@ -1993,7 +1993,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nwvZlzf0Qfk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2022",
   "month": "07",
@@ -2004,7 +2004,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dPM9_Y-n-LM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "07",
@@ -2015,7 +2015,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/THbNbuWvkTw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "07",
@@ -2026,7 +2026,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/eFs6BZOvp7Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "07",
@@ -2037,7 +2037,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/k1AjiiFOQIU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "08",
@@ -2048,7 +2048,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7qzwlb73-yM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "08",
@@ -2059,7 +2059,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kK4zZtJU1aA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연, 우기",
   "year": "2022",
   "month": "08",
@@ -2070,7 +2070,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KN3j4jS-5l0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "08",
@@ -2081,7 +2081,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/FUKPxRSNI7w",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2022",
   "month": "08",
@@ -2092,7 +2092,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/klm3ZO0VxVE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2103,7 +2103,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TTRQ3HtUVas",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2114,7 +2114,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/cVvLMuzeXs4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2125,7 +2125,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3Rcj4NmkRWw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2136,7 +2136,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/JHrzlRFbnns",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2147,7 +2147,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/q3dPS1a1pm8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "09",
@@ -2158,7 +2158,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9NGWQcgQHOI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2169,7 +2169,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qEWfUqSxmSY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2180,7 +2180,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/T91NIKVhn_4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2191,7 +2191,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jcKhzuNhvFQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2202,7 +2202,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hZf4w5d1T34",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2213,7 +2213,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/taGjyi9M0i0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2224,7 +2224,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Tw7ynjk6rVc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2235,7 +2235,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9f1iFCxhc4U",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2246,7 +2246,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/b8pFGiXiTjY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2257,7 +2257,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KnUzX0m2sHo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "10",
@@ -2268,7 +2268,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/VYgI3YmlxHk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "11",
@@ -2279,7 +2279,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/RM_9krmkC2I",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "11",
@@ -2290,7 +2290,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YQt3gzOWKMo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "11",
@@ -2301,7 +2301,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/xecwwEWwqOY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "11",
@@ -2312,7 +2312,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/I_YjPHZE04A",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "11",
@@ -2323,7 +2323,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/bsMO-p89ORg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "12",
@@ -2334,7 +2334,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/xqRjm5ulgJs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "12",
@@ -2345,7 +2345,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TFGeHfqVswI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "12",
@@ -2356,7 +2356,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/VagJTHGmjAg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "12",
@@ -2367,7 +2367,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2lDPw8FP0rI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2022",
   "month": "12",
@@ -2378,7 +2378,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/CQO4TFM0oZk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2022",
   "month": "12",
@@ -2389,7 +2389,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/tZM8ZZhcbiQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2022",
   "month": "12",
@@ -2400,7 +2400,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pf_I0r7fUck",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "01",
@@ -2411,7 +2411,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ryNHXwE3uDM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "01",
@@ -2422,7 +2422,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/J9Xh4_zoWD0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "01",
@@ -2433,7 +2433,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/RAKBokE7C-8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "01",
@@ -2444,7 +2444,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/URlJud2rlMo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "02",
@@ -2455,7 +2455,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/wHqn-UIyLHg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기",
   "year": "2023",
   "month": "02",
@@ -2466,7 +2466,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/HYZrwHYR8NQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "02",
@@ -2477,7 +2477,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LEp7sPPCkII",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "02",
@@ -2488,7 +2488,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/UZbO1ccNb84",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2499,7 +2499,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zi8zJBT2QyE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2510,7 +2510,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9XiIpdo7xhA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2521,7 +2521,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/D4c-8wlkzpc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2532,7 +2532,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/fngLL-2V5T8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2543,7 +2543,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Qu71MoWLA3c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "03",
@@ -2554,7 +2554,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dDZT1faYx0Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "04",
@@ -2565,7 +2565,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Rq-sSDdMOxI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "04",
@@ -2576,7 +2576,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/pdkt_wXOtW0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "04",
@@ -2587,7 +2587,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QWQfHKGmSeM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "04",
@@ -2598,7 +2598,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/URh5fgVufm4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "04",
@@ -2609,7 +2609,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qg8vNx_jQYU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "04",
@@ -2620,7 +2620,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/6P3fqtf3ibM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2023",
   "month": "04",
@@ -2631,7 +2631,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TFb3ITn3TyQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2023",
   "month": "04",
@@ -2642,7 +2642,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/riLm94E6EfE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "04",
@@ -2653,7 +2653,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/FZc4wGOf0i4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "04",
@@ -2664,7 +2664,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/XYIBQAm8iZ4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "05",
@@ -2675,7 +2675,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nEtSDq6geSc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "05",
@@ -2686,7 +2686,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/38kvqREhg8k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "05",
@@ -2697,7 +2697,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/5a7RDNGdXnU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "05",
@@ -2708,7 +2708,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Kly9hFFGrb0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2023",
   "month": "05",
@@ -2719,7 +2719,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IquoKcN-vU4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "05",
@@ -2730,7 +2730,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/6jL7U29W5Mk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "05",
@@ -2741,7 +2741,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jgtYt_k5tYg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "06",
@@ -2752,7 +2752,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/w0TQ51nnM5c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "06",
@@ -2763,7 +2763,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4Btl-X89kBY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "06",
@@ -2774,7 +2774,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dcn9yDyDZ0o",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "06",
@@ -2785,7 +2785,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8JYjc2nSL48",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "06",
@@ -2796,7 +2796,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ckcVS1YWcr4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "06",
@@ -2807,7 +2807,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GzxxFZoHESU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "06",
@@ -2818,7 +2818,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/bMDNqCMAn6g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "07",
@@ -2829,7 +2829,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2HYls6OJ4I8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "07",
@@ -2840,7 +2840,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/m5x85EObU1Q",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "07",
@@ -2851,7 +2851,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ISGec0pg5mk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "07",
@@ -2862,7 +2862,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zZQBBbTazuY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2023",
   "month": "07",
@@ -2873,7 +2873,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/v4qn-GFXfQI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2023",
   "month": "08",
@@ -2884,7 +2884,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nzGA5nKMDRg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "08",
@@ -2895,7 +2895,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/0K5RvD2p6v8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "08",
@@ -2906,7 +2906,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/SZoacJ-KSxU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "08",
@@ -2917,7 +2917,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/x7i6iIil-dQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "09",
@@ -2928,7 +2928,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/07NbYKFBJRs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2023",
   "month": "09",
@@ -2939,7 +2939,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qh2MGXp7HYs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "09",
@@ -2950,7 +2950,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/RbFdaAUXGIY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "09",
@@ -2961,7 +2961,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YePeIJjGQgc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "09",
@@ -2972,7 +2972,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/XJ0zcVrvLO4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -2983,7 +2983,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/CIxApX7r9YQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -2994,7 +2994,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IjGdsdLMttc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -3005,7 +3005,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/sxl3aKjF1e4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -3016,7 +3016,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/frYByt36Wj4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "10",
@@ -3027,7 +3027,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/uordQfbb4OI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기",
   "year": "2023",
   "month": "10",
@@ -3038,7 +3038,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PnJBs44SpMo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -3049,7 +3049,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2WZY9gRJfrw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -3060,7 +3060,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IQdDn_ktGww",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "10",
@@ -3071,7 +3071,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-RORM6aWoJw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "11",
@@ -3082,7 +3082,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ng021moIyt4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "11",
@@ -3093,7 +3093,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/UiqTmnzhvpU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "11",
@@ -3104,7 +3104,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/gI9rtej6Xck",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "11",
@@ -3115,7 +3115,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YNviAJJ3qsg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "11",
@@ -3126,7 +3126,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ay4S4V2vYzs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2023",
   "month": "11",
@@ -3137,7 +3137,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/0cFfTpbr-2A",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "11",
@@ -3148,7 +3148,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OzlQzpstJQY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2023",
   "month": "12",
@@ -3159,7 +3159,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/K2aDQ1r8-64",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2023",
   "month": "12",
@@ -3170,7 +3170,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/j9Z3_7P1wsc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "12",
@@ -3181,7 +3181,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/fI8ziJMj1D8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2023",
   "month": "12",
@@ -3192,7 +3192,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3zD8YRus8HI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3203,7 +3203,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hgrClZcu-Uc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3214,7 +3214,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3f3p64CNwyA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3225,7 +3225,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/E31_uxS2Lyw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3236,7 +3236,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/g_L_DZFdSNI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3247,7 +3247,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IBoOqS3bGh8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3258,7 +3258,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8GAIFlkBcM4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3269,7 +3269,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mBah7X9Yj88",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3280,7 +3280,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ff-s_LFaBiQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3291,7 +3291,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/j9YdW0adWTM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3302,7 +3302,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2wyRHP5poeE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3313,7 +3313,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/W08Ax_U9jxQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3324,7 +3324,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/yFngSPM0J1s",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "01",
@@ -3335,7 +3335,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/T6PUaBgHbao",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연, 우기",
   "year": "2024",
   "month": "01",
@@ -3346,7 +3346,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/quZ9zI24mp4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3357,7 +3357,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kS1Du7zkKG8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3368,7 +3368,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/sbYTcMoKh64",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3379,7 +3379,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/lipxvr_VlTA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3390,7 +3390,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/d2nPTeE_tZA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3401,7 +3401,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/WGY9G0xXdlY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "02",
@@ -3412,7 +3412,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Us_i2kNQWdM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2024",
   "month": "02",
@@ -3423,7 +3423,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/jL1pj_H4lMw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3434,7 +3434,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KFMe0WbALtE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "02",
@@ -3445,7 +3445,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/fUrArxSnJCw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "03",
@@ -3456,7 +3456,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/C45qwOFdMS8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "03",
@@ -3467,7 +3467,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/44XT6cL7qks",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "03",
@@ -3478,7 +3478,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8e8SeQAsBYE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "03",
@@ -3489,7 +3489,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mqbIEKDM4TI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "03",
@@ -3500,7 +3500,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/B9VXlhmOH6Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "03",
@@ -3511,7 +3511,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qdbEj8aohRk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "03",
@@ -3522,7 +3522,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/40T4DYvgvJc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3533,7 +3533,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zY4fvm0msMQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3544,7 +3544,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/VL34uz_mj94",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3555,7 +3555,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/VDtDh21N61c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3566,7 +3566,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ohTkcBZkdmQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3577,7 +3577,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/VNwkts-Wb58",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3588,7 +3588,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/EFOsEsFXWVE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3599,7 +3599,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4NYVk2sgw20",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "04",
@@ -3610,7 +3610,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/BAemXVPRVmA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "04",
@@ -3621,7 +3621,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OEpmaBcQdHI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "04",
@@ -3632,7 +3632,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/xixoX8iOsPo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "04",
@@ -3643,7 +3643,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/JHm3SEYuYlo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "05",
@@ -3654,7 +3654,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/sk1EJFVN1pM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "05",
@@ -3665,7 +3665,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/huJj-s2jyzE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "05",
@@ -3676,7 +3676,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/usbqQMR2SpQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "05",
@@ -3687,7 +3687,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QKqan5ul3YY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니, 우기",
   "year": "2024",
   "month": "05",
@@ -3698,7 +3698,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Zm4mTxuiTJw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "05",
@@ -3709,7 +3709,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1yeHokGLIQI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "05",
@@ -3720,7 +3720,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9FG9Zf2CmrM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "05",
@@ -3731,7 +3731,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/nfU3GiPMafs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "06",
@@ -3742,7 +3742,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/JKYzmuEOAtw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "06",
@@ -3753,7 +3753,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/XFk0K-lL4gQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "06",
@@ -3764,7 +3764,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/0eP7SFuL3g8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "06",
@@ -3775,7 +3775,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dgbc_BNJHiw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "06",
@@ -3786,7 +3786,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LkdK0-ySh_g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "06",
@@ -3797,7 +3797,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/J3dRsBZMKq4",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "06",
@@ -3808,7 +3808,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dxI3rieml2E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2024",
   "month": "06",
@@ -3819,7 +3819,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/AHXMG0hCZLs",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "06",
@@ -3830,7 +3830,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/HQ7QkWOxR9k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2024",
   "month": "06",
@@ -3841,7 +3841,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/knGQfZU3hAU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3852,7 +3852,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hqXwRaAFEtk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3863,7 +3863,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TEDw01ilFMc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3874,7 +3874,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/UPLnChh47lU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3885,7 +3885,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/BxFVF8DAGro",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3896,7 +3896,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2B8LN0DKb2g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3907,7 +3907,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/h68eA967Svo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3918,7 +3918,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/zAMMcs2ZX70",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3929,7 +3929,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/j4PaBGG8r5Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "07",
@@ -3940,7 +3940,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/cQ19LQPTH4k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3951,7 +3951,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dTRMAIME31E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3962,7 +3962,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/7lEVIPeba_c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "07",
@@ -3973,7 +3973,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/STsCCb30WHw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "08",
@@ -3984,7 +3984,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/60vocAC15Ag",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "08",
@@ -3995,7 +3995,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/W-XejFa7r0c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "08",
@@ -4006,7 +4006,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/gNK9V4pAQuo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2024",
   "month": "09",
@@ -4017,7 +4017,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ETrwHSfoiTk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "09",
@@ -4028,7 +4028,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/EG_YFhrMkZ0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "09",
@@ -4039,7 +4039,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/mFXJPYI4iYU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "09",
@@ -4050,7 +4050,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ycXbEIvOi9E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "10",
@@ -4061,7 +4061,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/1RP9N_fZe7w",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "10",
@@ -4072,7 +4072,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/YDrwz8lZ21g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "10",
@@ -4083,7 +4083,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/lxZlm_vxw_E",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "10",
@@ -4094,7 +4094,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/vY3EfQyCdZ8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "10",
@@ -4105,7 +4105,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kr3XVoiGFWg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "10",
@@ -4116,7 +4116,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/X8BhS_yhRJY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2024",
   "month": "10",
@@ -4127,7 +4127,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/m32aowLzWT0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "10",
@@ -4138,7 +4138,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/3A_qkAf6T84",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2024",
   "month": "10",
@@ -4149,7 +4149,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/etGKyx4pSXo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "11",
@@ -4160,7 +4160,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/skCiLytQACY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "11",
@@ -4171,7 +4171,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/hWMJY89qTsU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2024",
   "month": "11",
@@ -4182,7 +4182,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/b0QjjQ8Ag3A",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "11",
@@ -4193,7 +4193,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/a62yW5R_nDw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "11",
@@ -4204,7 +4204,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Enu4vXAvMiA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "11",
@@ -4215,7 +4215,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/q9-O55X-mCY",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "11",
@@ -4226,7 +4226,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QqcXotwxGtg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "11",
@@ -4237,7 +4237,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/NBkyet53xGQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2024",
   "month": "12",
@@ -4248,7 +4248,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/PG79NvF8MoE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4259,7 +4259,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LvhZgCAv7_M",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4270,7 +4270,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/gL-ZqpdiJXo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4281,7 +4281,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/JzxMKt8Ulgo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4292,7 +4292,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TbtHV-Mcn9Q",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4303,7 +4303,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/-A3xiSG1gAA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2024",
   "month": "12",
@@ -4314,7 +4314,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/BLJIzLLdPYU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4325,7 +4325,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kWLhZ6Tf4EE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4336,7 +4336,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/HbHSQiRExAM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4347,7 +4347,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/iLFMj3OdKG8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4358,7 +4358,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/9rGA5Zdlx9Y",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4369,7 +4369,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/ok4l4FWcvtw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
@@ -4380,7 +4380,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/bF5nZw4fE_k",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "02",
@@ -4391,7 +4391,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/KJ4-7DxXqeg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "02",
@@ -4402,7 +4402,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/00SlVIVDP4w",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "02",
@@ -4413,7 +4413,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/E2O0DT1al8o",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "02",
@@ -4424,7 +4424,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QujC4QNhbhw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "02",
@@ -4435,7 +4435,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/r9SwEcxVdec",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "02",
@@ -4446,7 +4446,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kvLcWr-hQBA",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2025",
   "month": "02",
@@ -4457,7 +4457,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/M4SSAVNYCFQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "02",
@@ -4468,7 +4468,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GGoFWBbbpUE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "02",
@@ -4479,7 +4479,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/QJskxdBfCjM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "02",
@@ -4490,7 +4490,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/lwsn7bBZ4yg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연, 미연",
   "year": "2025",
   "month": "02",
@@ -4501,7 +4501,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/O0ddGU45ahE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2025",
   "month": "02",
@@ -4512,7 +4512,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/EWn3u6LLRhM",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "03",
@@ -4523,7 +4523,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/TezybDObkWo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "03",
@@ -4534,7 +4534,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/vd8j7PPF5UQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "03",
@@ -4545,7 +4545,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Kx4gideWRvU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "03",
@@ -4556,7 +4556,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/XnFO4Kg-w10",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "04",
@@ -4567,7 +4567,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/qR0uNdipgMk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2025",
   "month": "04",
@@ -4578,7 +4578,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/Ejh3je1MbFo",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "04",
@@ -4589,7 +4589,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/SnbfsSJiwF8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2025",
   "month": "04",
@@ -4600,7 +4600,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8b82nUsmmrU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2025",
   "month": "04",
@@ -4611,7 +4611,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_MQaK1X2d0c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "04",
@@ -4622,7 +4622,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/OCYwFICly34",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2025",
   "month": "05",
@@ -4633,7 +4633,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/8AN66zZYLw8",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4644,7 +4644,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/G5rAbdThQ2o",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4655,7 +4655,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/intLWpnYwp0",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "슈화",
   "year": "2025",
   "month": "05",
@@ -4666,7 +4666,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/b2Tf4A_49Ak",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "우기",
   "year": "2025",
   "month": "05",
@@ -4677,7 +4677,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/GIzYsGoeqkc",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2025",
   "month": "05",
@@ -4688,7 +4688,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/IR_GuZbEWRE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "05",
@@ -4699,7 +4699,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/LPLI43Yz5QU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "미연",
   "year": "2025",
   "month": "05",
@@ -4710,7 +4710,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/2fWmaepwVDk",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4721,7 +4721,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/fiRsc0NrAxQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4732,7 +4732,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/j2jM6qMdYFw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4743,7 +4743,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/fAzEh21SXzQ",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4754,7 +4754,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/dqlbozzFt8g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4765,7 +4765,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/kmeNJo5osnw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4776,7 +4776,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4QBVn5qG4pI",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "소연",
   "year": "2025",
   "month": "05",
@@ -4787,7 +4787,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/rnHFWKdFl2c",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4798,7 +4798,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/gJmGdiCpjLU",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4809,7 +4809,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/4MThNhG-dIg",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4820,7 +4820,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_nnhV9iW_dE",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "05",
@@ -4831,7 +4831,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/XVKRymF-1aw",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "06",
@@ -4842,7 +4842,7 @@ const officialClipCards = [
 
 {
   "link": "https://youtu.be/_DnwJLFit0g",
-  "category": "I_SERIES",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "06",
@@ -4851,14 +4851,7 @@ const officialClipCards = [
   "title": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)"
 }
 
-
-
-
-
-
-
-
- ];
+  ];
 
 // ✅ 전역 등록
 window.recordingBehindCards = officialClipCards;
