@@ -306,8 +306,7 @@
         e.stopPropagation();
         loadMoreBtn.blur();
         container.classList.add("disabled");
-        window.scrollTo({ top: window.scrollY + 1 });
-        setTimeout(() => {
+                setTimeout(() => {
           renderCards(filtered);
           container.classList.remove("disabled");
         }, 100);
