@@ -83,8 +83,8 @@ const recordingBehindCards = [
   "year": "2022",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/xBdy4pG6pK4/mqdefault.jpg",
-  "alt": "소연 - 귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)",
-  "title": "소연 - 귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)"
+  "alt": "귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)",
+  "title": "귀여운 사람이 멋진 척 할 때 l 서든어택 (2022-07-28)"
 },
 
 {
