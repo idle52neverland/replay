@@ -5218,16 +5218,6 @@ const officialClipCards = [
   "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)"
 },
 {
-  "link": "https://youtu.be/8u9879OGO14",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2024",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/8u9879OGO14/mqdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)",
-  "title": "(여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)"
-},
-{
   "link": "https://youtu.be/M5EXpycSy3s",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
@@ -5556,16 +5546,6 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/X6vuf4JMVgk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)"
-},
-{
-  "link": "https://youtu.be/dyFGwGFerAc",
-  "category": "OFFICIAL_CLIPS",
-  "member": "우기",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/dyFGwGFerAc/mqdefault.jpg",
-  "alt": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
-  "title": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)"
 },
 {
   "link": "https://youtu.be/3avr0zsWANM",
@@ -5916,16 +5896,6 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/v3XUlKoQIZQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)"
-},
-{
-  "link": "https://youtu.be/xDBvRbiy9aI",
-  "category": "OFFICIAL_CLIPS",
-  "member": "우기",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/xDBvRbiy9aI/mqdefault.jpg",
-  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)",
-  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)"
 },
 {
   "link": "https://youtu.be/z9PHQWLkwj0",
