@@ -5059,7 +5059,1506 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/Fhk4Qzj_QpM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)"
+},
+  {
+  "link": "https://youtu.be/twXUS3fqI74",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/twXUS3fqI74/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)"
+},
+
+{
+  "link": "https://youtu.be/TzepUKHa9lg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/TzepUKHa9lg/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)",
+  "title": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)"
+},
+
+{
+  "link": "https://youtu.be/UR-1Tgx1MeA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/UR-1Tgx1MeA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)"
+},
+
+{
+  "link": "https://youtu.be/CWrthwplNgc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/CWrthwplNgc/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)",
+  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)"
+},
+
+{
+  "link": "https://youtu.be/sPzF8DZI5ZM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/sPzF8DZI5ZM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)",
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)"
+},
+
+{
+  "link": "https://youtu.be/hGiePSHdRw8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/hGiePSHdRw8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)"
+},
+
+{
+  "link": "https://youtu.be/miU4s4PUACY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/miU4s4PUACY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
+  "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)"
+},
+
+{
+  "link": "https://youtu.be/y3yqSbJ2T0w",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/y3yqSbJ2T0w/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)",
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)"
+},
+  {
+  "link": "https://youtu.be/4GB-VjoTLMs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/4GB-VjoTLMs/mqdefault.jpg",
+  "alt": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB (2025-01-26)",
+  "title": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB (2025-01-26)"
+},
+{
+  "link": "https://youtu.be/8B1z9u-p31s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/8B1z9u-p31s/mqdefault.jpg",
+  "alt": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)",
+  "title": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)"
+},
+{
+  "link": "https://youtu.be/tfet3q7ympE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2024",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/mqdefault.jpg",
+  "alt": "미연 - 곧 MY Angel 을 공개합니다. (2024-12-19)",
+  "title": "미연 - 곧 MY Angel 을 공개합니다. (2024-12-19)"
+},
+{
+  "link": "https://youtu.be/deuX_x6ykRY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2024",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/deuX_x6ykRY/mqdefault.jpg",
+  "alt": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)",
+  "title": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)"
+},
+{
+  "link": "https://youtu.be/zBFM3Da6eBg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/zBFM3Da6eBg/mqdefault.jpg",
+  "alt": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)",
+  "title": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)"
+},
+{
+  "link": "https://youtu.be/0yJ7bMyGUCw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/0yJ7bMyGUCw/mqdefault.jpg",
+  "alt": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser (2024-09-22)",
+  "title": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser (2024-09-22)"
+},
+{
+  "link": "https://youtu.be/X9VwcBm-qKA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2024",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/X9VwcBm-qKA/mqdefault.jpg",
+  "alt": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)",
+  "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)"
+},
+{
+  "link": "https://youtu.be/8u9879OGO14",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/8u9879OGO14/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)",
+  "title": "(여자)아이들((G)I-DLE) - 'Neverland' Recording BehindㅣSUB (2024-08-06)"
+},
+{
+  "link": "https://youtu.be/M5EXpycSy3s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/M5EXpycSy3s/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)",
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)"
+},
+{
+  "link": "https://youtu.be/5G8UqkXhS0w",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/5G8UqkXhS0w/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)"
+},
+{
+  "link": "https://youtu.be/pQpXPxBRzqE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/pQpXPxBRzqE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)",
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)"
+},
+{
+  "link": "https://youtu.be/2rQBtMEB6Bs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/2rQBtMEB6Bs/mqdefault.jpg",
+  "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
+  "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)"
+},
+{
+  "link": "https://youtu.be/Vc-XGZ3DbJE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/Vc-XGZ3DbJE/mqdefault.jpg",
+  "alt": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)",
+  "title": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)"
+},
+{
+  "link": "https://youtu.be/QPZY2Ityh8A",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/QPZY2Ityh8A/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/z4jDoc9GKEc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/z4jDoc9GKEc/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/91J3FD5qTIY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/91J3FD5qTIY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/Zmncc6A2OOQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/Zmncc6A2OOQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/6vQPTPbAPgY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/6vQPTPbAPgY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/mJxWu_PrqLQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/mJxWu_PrqLQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/DrdwtIeT8Vk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/DrdwtIeT8Vk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/TxDBjfijhIA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/TxDBjfijhIA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/5iLFGN34GYc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/5iLFGN34GYc/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/LquxAnFh2Hw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/LquxAnFh2Hw/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/XfyFeQBXbFA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/XfyFeQBXbFA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+},
+{
+  "link": "https://youtu.be/IkN4Ta1Fs94",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/IkN4Ta1Fs94/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/WYA7TiSATbE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/WYA7TiSATbE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/8EsTc6Fsr4M",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/8EsTc6Fsr4M/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/nAnuEnrK9Gs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/nAnuEnrK9Gs/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/ZF2G464WaKI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/ZF2G464WaKI/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/SQTTslwrZUE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/SQTTslwrZUE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/4-vCpfmMcN0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/4-vCpfmMcN0/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/1TShABJ0Y_A",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/1TShABJ0Y_A/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/yqjYHNmwxJI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/yqjYHNmwxJI/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/PEEmKcuJsCE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/PEEmKcuJsCE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+},
+{
+  "link": "https://youtu.be/4BU7sPv7qM0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/4BU7sPv7qM0/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY (2024-05-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY (2024-05-26)"
+},
+{
+  "link": "https://youtu.be/6lOH7_DUd14",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/6lOH7_DUd14/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY (2024-05-26)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY (2024-05-26)"
+},
+{
+  "link": "https://youtu.be/PEkyyrO5SZ8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/PEkyyrO5SZ8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY (2024-05-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY (2024-05-26)"
+},
+{
+  "link": "https://youtu.be/lgTXNtoLiqU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/lgTXNtoLiqU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY (2024-05-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY (2024-05-26)"
+},
+{
+  "link": "https://youtu.be/sj8jWrOGmjM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/sj8jWrOGmjM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY (2024-05-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY (2024-05-26)"
+},
+{
+  "link": "https://youtu.be/izrjkPuhwQ8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/izrjkPuhwQ8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY (2024-05-23)",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY (2024-05-23)"
+},
+{
+  "link": "https://youtu.be/X6vuf4JMVgk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/X6vuf4JMVgk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)"
+},
+{
+  "link": "https://youtu.be/dyFGwGFerAc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/dyFGwGFerAc/mqdefault.jpg",
+  "alt": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
+  "title": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)"
+},
+{
+  "link": "https://youtu.be/3avr0zsWANM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/3avr0zsWANM/mqdefault.jpg",
+  "alt": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN) (2024-04-25)",
+  "title": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN) (2024-04-25)"
+},
+{
+  "link": "https://youtu.be/--jLgCIDrC8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/--jLgCIDrC8/mqdefault.jpg",
+  "alt": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)",
+  "title": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)"
+},
+{
+  "link": "https://youtu.be/2C6f7r_Hqfs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/2C6f7r_Hqfs/mqdefault.jpg",
+  "alt": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer (2024-04-08)",
+  "title": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer (2024-04-08)"
+},
+{
+  "link": "https://youtu.be/KvbdAYDljHM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/KvbdAYDljHM/mqdefault.jpg",
+  "alt": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)",
+  "title": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)"
+},
+{
+  "link": "https://youtu.be/vq3-lPqBX-o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2024",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/vq3-lPqBX-o/mqdefault.jpg",
+  "alt": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)",
+  "title": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)"
+},
+{
+  "link": "https://youtu.be/CA9jn8viiK4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/CA9jn8viiK4/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)",
+  "title": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)"
+},
+{
+  "link": "https://youtu.be/KWI_ThK1BMU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/KWI_ThK1BMU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)"
+},
+{
+  "link": "https://youtu.be/6SNUbo1G0JE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2024",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/6SNUbo1G0JE/mqdefault.jpg",
+  "alt": "미연 - 💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
+  "title": "미연 - 💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)"
+},
+{
+  "link": "https://youtu.be/YP1NyGaa4uU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/YP1NyGaa4uU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)"
+},
+{
+  "link": "https://youtu.be/IIhPuxpted8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2024",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/IIhPuxpted8/mqdefault.jpg",
+  "alt": "슈화 - 💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)",
+  "title": "슈화 - 💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)"
+},
+{
+  "link": "https://youtu.be/5RSIJdz9x_w",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2023",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/5RSIJdz9x_w/mqdefault.jpg",
+  "alt": "민니 - 💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)",
+  "title": "민니 - 💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)"
+},
+{
+  "link": "https://youtu.be/46Nr2DsHEYA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2023",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/46Nr2DsHEYA/mqdefault.jpg",
+  "alt": "우기 - 🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)",
+  "title": "우기 - 🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)"
+},
+{
+  "link": "https://youtu.be/h22rV2yCpnc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2023",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/h22rV2yCpnc/mqdefault.jpg",
+  "alt": "소연 - 💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)",
+  "title": "소연 - 💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)"
+},
+{
+  "link": "https://youtu.be/Nzs9Liewjo8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/Nzs9Liewjo8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)",
+  "title": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)"
+},
+{
+  "link": "https://youtu.be/EJ-Gb-ljxdM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/EJ-Gb-ljxdM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN) (2023-05-30)",
+  "title": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN) (2023-05-30)"
+},
+{
+  "link": "https://youtu.be/PAh2PEsX65U",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/PAh2PEsX65U/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN) (2023-05-20)",
+  "title": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN) (2023-05-20)"
+},
+{
+  "link": "https://youtu.be/a3R3KPgP5u4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/a3R3KPgP5u4/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
+  "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)"
+},
+{
+  "link": "https://youtu.be/NV-pwtijKWg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/NV-pwtijKWg/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)"
+},
+{
+  "link": "https://youtu.be/dFNyiyofGlE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/dFNyiyofGlE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)",
+  "title": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)"
+},
+{
+  "link": "https://youtu.be/gYDo7FOyz1Q",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/gYDo7FOyz1Q/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)"
+},
+{
+  "link": "https://youtu.be/Gk80c8nSV0k",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/Gk80c8nSV0k/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)"
+},
+{
+  "link": "https://youtu.be/AKAA4js2858",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/AKAA4js2858/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+},
+{
+  "link": "https://youtu.be/xB8aJ5KVW1o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/xB8aJ5KVW1o/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+},
+{
+  "link": "https://youtu.be/bvNNoY4rH28",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/bvNNoY4rH28/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+},
+{
+  "link": "https://youtu.be/7RuqX8NDMD8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/7RuqX8NDMD8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+},
+{
+  "link": "https://youtu.be/RI-rPp75kCg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/RI-rPp75kCg/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+},
+{
+  "link": "https://youtu.be/7ZJwXaL8mD4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/7ZJwXaL8mD4/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN) (2022-10-25)",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN) (2022-10-25)"
+},
+{
+  "link": "https://youtu.be/a5MB1tkHMlE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/a5MB1tkHMlE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)"
+},
+{
+  "link": "https://youtu.be/WjCYHBcNS08",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/WjCYHBcNS08/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)"
+},
+{
+  "link": "https://youtu.be/Fs8ILBls_2Y",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/Fs8ILBls_2Y/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)"
+},
+{
+  "link": "https://youtu.be/9Y8oSiV1FNM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/9Y8oSiV1FNM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)"
+},
+{
+  "link": "https://youtu.be/0IJcKyjy7P0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/0IJcKyjy7P0/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+},
+{
+  "link": "https://youtu.be/xSKVz1QshaM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/xSKVz1QshaM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "title": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+},
+{
+  "link": "https://youtu.be/bzXXG9VaULI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/bzXXG9VaULI/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "title": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+},
+{
+  "link": "https://youtu.be/v3XUlKoQIZQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/v3XUlKoQIZQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)"
+},
+{
+  "link": "https://youtu.be/xDBvRbiy9aI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2022",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/xDBvRbiy9aI/mqdefault.jpg",
+  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)",
+  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)"
+},
+{
+  "link": "https://youtu.be/z9PHQWLkwj0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/z9PHQWLkwj0/mqdefault.jpg",
+  "alt": "(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide) (2022-06-20)",
+  "title": "(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide) (2022-06-20)"
+},
+{
+  "link": "https://youtu.be/XsXyaXIv5lM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/XsXyaXIv5lM/mqdefault.jpg",
+  "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)",
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)"
+},
+{
+  "link": "https://youtu.be/n7l5pRXQKoc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/n7l5pRXQKoc/mqdefault.jpg",
+  "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)",
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)"
+},
+{
+  "link": "https://youtu.be/c3-dnBwM6O8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/c3-dnBwM6O8/mqdefault.jpg",
+  "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)",
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)"
+},
+{
+  "link": "https://youtu.be/QZOvAdQqbjk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/QZOvAdQqbjk/mqdefault.jpg",
+  "alt": "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)",
+  "title": "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)"
+},
+{
+  "link": "https://youtu.be/uMl_cMm7o_E",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/uMl_cMm7o_E/mqdefault.jpg",
+  "alt": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG) (2022-04-16)",
+  "title": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG) (2022-04-16)"
+},
+{
+  "link": "https://youtu.be/wkTOHWQvGXQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/wkTOHWQvGXQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/pq_J-0d0z3M",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/pq_J-0d0z3M/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/pBzZvIiBvA4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/pBzZvIiBvA4/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/foNBw_ubhf8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/foNBw_ubhf8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/VsW8oXuCNUk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/VsW8oXuCNUk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/ax45oDJiQh0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/ax45oDJiQh0/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)"
+},
+{
+  "link": "https://youtu.be/eqB57puP5vQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/eqB57puP5vQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)"
+},
+{
+  "link": "https://youtu.be/CK422h0brGE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/CK422h0brGE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)",
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)"
+},
+{
+  "link": "https://youtu.be/lLiiq3_nABA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연, 우기",
+  "year": "2022",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/lLiiq3_nABA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU (ENG) (2022-02-19)",
+  "title": "(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU (ENG) (2022-02-19)"
+},
+{
+  "link": "https://youtu.be/krzXdipQK2o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2022",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/krzXdipQK2o/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 3 🙌 (ENG) (2022-02-12)",
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 3 🙌 (ENG) (2022-02-12)"
+},
+{
+  "link": "https://youtu.be/XspBCK9zNMM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/XspBCK9zNMM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 집콕 🏠 (ENG) (2021-11-05)",
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 집콕 🏠 (ENG) (2021-11-05)"
+},
+{
+  "link": "https://youtu.be/2sFnGME_iGQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2021",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/2sFnGME_iGQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 2 🙌 (ENG) (2021-10-20)",
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 2 🙌 (ENG) (2021-10-20)"
+},
+{
+  "link": "https://youtu.be/oAPm3_s68OI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2021",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/oAPm3_s68OI/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌 (ENG) (2021-09-15)",
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌 (ENG) (2021-09-15)"
+},
+{
+  "link": "https://youtu.be/wyNWtNSUqs4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/wyNWtNSUqs4/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)",
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)"
+},
+{
+  "link": "https://youtu.be/DXWE5FqdpGk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/DXWE5FqdpGk/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
+  "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)"
+},
+{
+  "link": "https://youtu.be/6UXb3tDJg_Y",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/6UXb3tDJg_Y/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
+  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)"
+},
+{
+  "link": "https://youtu.be/hr3np7viBPw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/hr3np7viBPw/mqdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
+  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)"
+},
+{
+  "link": "https://youtu.be/d7LHCQ4qZXA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/d7LHCQ4qZXA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)",
+  "title": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)"
+},
+{
+  "link": "https://youtu.be/2njcKe_wweU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/2njcKe_wweU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)"
+},
+{
+  "link": "https://youtu.be/Xv_s8WBurWU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/Xv_s8WBurWU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/LlPS_LYhnTE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/LlPS_LYhnTE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/nlLc9p8q75w",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/nlLc9p8q75w/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/SLsWLUNADtM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/SLsWLUNADtM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/M-YQ_0GOa88",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/M-YQ_0GOa88/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/87zYoeoqFrM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/87zYoeoqFrM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+},
+{
+  "link": "https://youtu.be/cD47izQfxTs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/cD47izQfxTs/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)"
+},
+{
+  "link": "https://youtu.be/55TEB82zfVk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/55TEB82zfVk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver. (2021-01-11)",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver. (2021-01-11)"
+},
+{
+  "link": "https://youtu.be/i--O8Yhrc44",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/i--O8Yhrc44/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG) (2021-01-01)",
+  "title": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG) (2021-01-01)"
+},
+{
+  "link": "https://youtu.be/vu16GWI3WMQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/vu16GWI3WMQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶 (2020-12-22)",
+  "title": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶 (2020-12-22)"
+},
+{
+  "link": "https://youtu.be/Kv_Cfa9b8FQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/Kv_Cfa9b8FQ/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
+  "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)"
+},
+{
+  "link": "https://youtu.be/k8HNMV5ubvE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연, 미연",
+  "year": "2020",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/k8HNMV5ubvE/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'MORE' 발매 기념 라이엇 게임즈 방문 VLOG (미연&소연) (2020-11-05)",
+  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'MORE' 발매 기념 라이엇 게임즈 방문 VLOG (미연&소연) (2020-11-05)"
+},
+{
+  "link": "https://youtu.be/4qkbnw79voA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/4qkbnw79voA/mqdefault.jpg",
+  "alt": "CLC(씨엘씨) & (여자)아이들((G)I-DLE) - 외국인 라인 추석회동 V-LOG (ENG) (2020-10-21)",
+  "title": "CLC(씨엘씨) & (여자)아이들((G)I-DLE) - 외국인 라인 추석회동 V-LOG (ENG) (2020-10-21)"
+},
+{
+  "link": "https://youtu.be/za4mpgQWs7c",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/za4mpgQWs7c/mqdefault.jpg",
+  "alt": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
+  "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)"
+},
+{
+  "link": "https://youtu.be/aD-ZAhCVV-s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/aD-ZAhCVV-s/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)",
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)"
+},
+{
+  "link": "https://youtu.be/DPykR20ZxAo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/DPykR20ZxAo/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)",
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)"
+},
+{
+  "link": "https://youtu.be/H_HKE1mwzuo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)"
+},
+{
+  "link": "https://youtu.be/DgF3tjsujdY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/DgF3tjsujdY/mqdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
+},
+{
+  "link": "https://youtu.be/DgF3tjsujdY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/DgF3tjsujdY/mqdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
+},
+{
+  "link": "https://youtu.be/brH6kAa9waA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/brH6kAa9waA/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)"
+},
+{
+  "link": "https://youtu.be/iG6KRfUE_hs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/iG6KRfUE_hs/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)"
+},
+{
+  "link": "https://youtu.be/GQh88VtWoFs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/GQh88VtWoFs/mqdefault.jpg",
+  "alt": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
+  "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)"
+},
+{
+  "link": "https://youtu.be/kMVY3GNNgBw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/kMVY3GNNgBw/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
+  "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)"
+},
+{
+  "link": "https://youtu.be/Xc67HobtL68",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/Xc67HobtL68/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법 (2019-06-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법 (2019-06-26)"
+},
+{
+  "link": "https://youtu.be/-HPdxo3kNbg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/-HPdxo3kNbg/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)",
+  "title": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)"
+},
+{
+  "link": "https://youtu.be/nLKPXoxPGfI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2019",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/nLKPXoxPGfI/mqdefault.jpg",
+  "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
+  "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)"
+},
+{
+  "link": "https://youtu.be/mtS__Me5KhM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/mtS__Me5KhM/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법 (2019-02-26)",
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법 (2019-02-26)"
+},
+{
+  "link": "https://youtu.be/8b2DjJ5iVgI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연, 미연",
+  "year": "2018",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/8b2DjJ5iVgI/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
+  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)"
+},
+{
+  "link": "https://youtu.be/ERK1jzLEDm0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/ERK1jzLEDm0/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)"
+},
+{
+  "link": "https://youtu.be/fAJi2ZAryNY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/fAJi2ZAryNY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)",
+  "title": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)"
+},
+{
+  "link": "https://youtu.be/ztWnrkpKPk8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/ztWnrkpKPk8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA' (2018-08-11)",
+  "title": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA' (2018-08-11)"
+},
+{
+  "link": "https://youtu.be/atdBi-yIDgk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/atdBi-yIDgk/mqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)"
+},
+{
+  "link": "https://youtu.be/YHz9ABDyjmg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "미연",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/YHz9ABDyjmg/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON) (2018-04-26)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON) (2018-04-26)"
+},
+{
+  "link": "https://youtu.be/1woJTDD96iU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/1woJTDD96iU/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE) (2018-04-26)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE) (2018-04-26)"
+},
+{
+  "link": "https://youtu.be/MkkbLKWx_GY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/MkkbLKWx_GY/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI) (2018-04-26)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI) (2018-04-26)"
+},
+{
+  "link": "https://youtu.be/Dwi-oX-hRg8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/Dwi-oX-hRg8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA) (2018-04-25)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA) (2018-04-25)"
+},
+{
+  "link": "https://youtu.be/lJfzlFJq3Ts",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/lJfzlFJq3Ts/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN) (2018-04-25)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN) (2018-04-25)"
+},
+{
+  "link": "https://youtu.be/6KvYHQqq5F8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "year": "2018",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/6KvYHQqq5F8/mqdefault.jpg",
+  "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)",
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)"
 }
+
+  
 
 
 
