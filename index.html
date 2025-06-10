@@ -94,29 +94,30 @@
     }
 
     .card-container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 10px;
-      padding: 10px;
-      padding-bottom: 100px;
-    }
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 카드 5개 한 줄에 표시 */
+  gap: 10px;
+  padding: 10px;
+}
+
 
     .card-container.disabled {
       pointer-events: none;
     }
 
-     @media (max-width: 768px) {
-      .card-container {
-        grid-template-columns: repeat(2, 1fr);
-      }
-      .top-bar input {
-        width: 220px;
-      }
-      .category-btn {
-        padding: 6px 14px;
-        font-size: 13px;
-      }
-    }
+    @media (max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(2, 1fr); /* 모바일: 카드 2개 한 줄에 표시 */
+  }
+  .top-bar input {
+    width: 220px; /* 검색창 너비 줄임 */
+  }
+  .category-btn {
+    padding: 6px 14px;
+    font-size: 13px;
+  }
+}
+
 
     .card {
       background-color: transparent;
