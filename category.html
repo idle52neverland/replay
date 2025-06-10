@@ -90,11 +90,14 @@
       height: 24px;
     }
     .card-container {
-      display: grid;
-      grid-template-columns: repeat(5, 1fr);
-      gap: 10px;
-      padding: 10px;
-    }
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 10px;
+  width: 90%;       /* ← 전체 화면의 90% */
+  max-width: none;  /* max 제한 없음 */
+  margin: 0 auto;
+}
     .card-container.disabled .card {
       pointer-events: none;
     }
