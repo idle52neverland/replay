@@ -1,23 +1,18 @@
+// ✅ cards-*.js 공통 템플릿 코드 (데이터만 유지)
+
 const behindClipsCards = [
-  // 카드 데이터를 여기에 추가하세요
+  // 여기에 카드 객체들을 넣으세요
+  // 예시:
+  // {
+  //   link: "https://www.youtube.com/watch?v=xxxx",
+  //   title: "아이들 (2024-05-10)",
+  //   member: "소연",
+  //   category: "BEHIND_CLIPS",
+  //   year: "2024",
+  //   thumbnail: "https://i.ytimg.com/vi/xxxx/hqdefault.jpg",
+  //   alt: "아이들 비하인드 영상"
+  // }
 ];
-
-// ✅ 중복 제거
-const normalize = str => str?.toLowerCase().trim().replace(/\s+/g, '');
-const seen = new Set();
-behindClipsCards = behindClipsCards.filter(card => {{
-  const key = normalize(card.link) + "::" + normalize(card.title);
-  if (seen.has(key)) return false;
-  seen.add(key);
-  return true;
-}});
-
-// ✅ 최신순 정렬
-function extractDate(title) {{
-  const match = title.match(/\((\d{{4}}-\d{{2}}-\d{{2}})\)/);
-  return match ? new Date(match[1]) : new Date(0);
-}}
-behindClipsCards.sort((a, b) => extractDate(b.title) - extractDate(a.title));
 
 // ✅ 전역 등록
 window.behindClipsCards = behindClipsCards;
