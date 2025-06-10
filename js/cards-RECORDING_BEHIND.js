@@ -68,18 +68,18 @@ const recordingBehindCards = [
 {
   "link": "https://youtu.be/4zKHhA_HtKQ",
   "category": "RECORDING_BEHIND",
-  "member": "아이들",
+  "member": "민니",
   "year": "2022",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4zKHhA_HtKQ/mqdefault.jpg",
   "alt": "헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)",
-  "title": "헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)"
+  "title": "민니- 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)"
 },
 
 {
   "link": "https://youtu.be/xBdy4pG6pK4",
   "category": "RECORDING_BEHIND",
-  "member": "소연, 미연, 민니, 우기, 슈화",
+  "member": "아이들",
   "year": "2022",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/xBdy4pG6pK4/mqdefault.jpg",
