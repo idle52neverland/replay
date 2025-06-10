@@ -326,16 +326,10 @@
       searchInput.addEventListener("input", applyAllFilters);
 
       resetSearchBtn.addEventListener("click", () => {
-        searchInput.value = '';
-        document.querySelectorAll('.category-btn.active').forEach(btn => {
-          btn.classList.remove('active');
-        });
-        filtered = all.filter(card => card.category === selectedCategory);
-        currentIndex = 0;
-        renderCards(filtered);
-      });
+  window.location.href = window.location.href; // 또는 location.reload();
+});
 
-      scrollTopBtn.addEventListener("click", () => {
+            scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
 
