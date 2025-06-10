@@ -94,14 +94,15 @@
       height: 24px;
     }
 
-    .card-container {
+   .card-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 썸네일 4개 */
   gap: 10px;
   padding: 10px;
-  max-width: calc(100% * 5 / 4); /* 5칸 분량 확보 */
-  margin: 0 auto; /* 가운데 정렬로 좌우 여백 분산 */
+  max-width: 1200px;       /* 또는 너가 원하는 고정 최대 너비 */
+  margin: 0 auto;          /* 가운데 정렬로 좌우 여백 생김 */
 }
+
 
     .card-container.disabled .card {
       pointer-events: none;
