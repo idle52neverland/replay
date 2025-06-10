@@ -101,9 +101,10 @@
       padding: 10px;
     }
 
-    .card-container.disabled {
-      pointer-events: none;
-    }
+    .card-container.disabled .card {
+  pointer-events: none;
+}
+
 
     @media (max-width: 768px) {
       .card-container {
@@ -302,15 +303,18 @@
       renderCards(filtered);
 
       loadMoreBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        loadMoreBtn.blur();
-        container.classList.add("disabled");
-                setTimeout(() => {
-          renderCards(filtered);
-          container.classList.remove("disabled");
-        }, 100);
-      });
+  e.preventDefault();
+  e.stopPropagation();
+  loadMoreBtn.blur(); // 버튼 포커스 제거
+
+  container.classList.add("disabled"); // 카드 클릭 잠시 차단
+
+  setTimeout(() => {
+    renderCards(filtered);
+    container.classList.remove("disabled"); // 다시 카드 클릭 허용
+  }, 100);
+});
+
 
       searchInput.addEventListener("input", function () {
         const keywords = this.value
