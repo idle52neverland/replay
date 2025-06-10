@@ -102,9 +102,8 @@
     }
 
     .card-container.disabled .card {
-  pointer-events: none;
-}
-
+      pointer-events: none;
+    }
 
     @media (max-width: 768px) {
       .card-container {
@@ -215,6 +214,7 @@
     <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
     <input type="text" id="searchInput" placeholder="전체 영상 검색...">
+    <button id="searchBtn" title="검색 실행">🔍</button>
   </div>
 
   <div class="card-container" id="allCards"></div>
@@ -248,6 +248,7 @@
       const scrollTopBtn = document.getElementById("scrollTopBtn");
       const searchInput = document.getElementById("searchInput");
       const resetSearchBtn = document.getElementById("resetSearchBtn");
+      const searchBtn = document.getElementById("searchBtn");
 
       let currentIndex = 0;
       const batchSize = 30;
@@ -277,6 +278,22 @@
       all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
       let filtered = all;
 
+      function applySearch() {
+        const keywords = searchInput.value
+          .toLowerCase()
+          .replace(/[^\w가-힣]+/g, ' ')
+          .split(/\s+/)
+          .filter(Boolean);
+
+        filtered = all.filter(c => {
+          const cleanTitle = c.title.toLowerCase().replace(/[^\w가-힣]+/g, ' ');
+          return keywords.every(k => cleanTitle.includes(k));
+        });
+
+        currentIndex = 0;
+        renderCards(filtered);
+      }
+
       function renderCards(cards) {
         container.innerHTML = '';
         cards.slice(0, currentIndex + batchSize).forEach(data => {
@@ -303,33 +320,23 @@
       renderCards(filtered);
 
       loadMoreBtn.addEventListener("click", (e) => {
-  e.preventDefault();
-  e.stopPropagation();
-  loadMoreBtn.blur(); // 버튼 포커스 제거
+        e.preventDefault();
+        e.stopPropagation();
+        loadMoreBtn.blur();
+        container.classList.add("disabled");
+        setTimeout(() => {
+          renderCards(filtered);
+          container.classList.remove("disabled");
+        }, 100);
+      });
 
-  container.classList.add("disabled"); // 카드 클릭 잠시 차단
+      searchBtn.addEventListener("click", applySearch);
 
-  setTimeout(() => {
-    renderCards(filtered);
-    container.classList.remove("disabled"); // 다시 카드 클릭 허용
-  }, 100);
-});
-
-
-      searchInput.addEventListener("input", function () {
-        const keywords = this.value
-          .toLowerCase()
-          .replace(/[^\w가-힣]+/g, ' ')
-          .split(/\s+/)
-          .filter(Boolean);
-
-        filtered = all.filter(c => {
-          const cleanTitle = c.title.toLowerCase().replace(/[^\w가-힣]+/g, ' ');
-          return keywords.every(k => cleanTitle.includes(k));
-        });
-
-        currentIndex = 0;
-        renderCards(filtered);
+      searchInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          applySearch();
+        }
       });
 
       resetSearchBtn.addEventListener("click", () => {
