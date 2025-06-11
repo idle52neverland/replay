@@ -6526,4 +6526,4 @@ const officialClipCards = [
   ];
 
 // ✅ 전역 등록
-window.recordingBehindCards = officialClipCards;
+window.officialClipCards = officialClipCards;
