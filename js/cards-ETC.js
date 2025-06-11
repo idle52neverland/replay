@@ -33,17 +33,6 @@ const etcCards = [
 },
 
 {
-  "link": "https://youtu.be/7TCtgVAbMZg",
-  "category": "ETC",
-  "member": "아이들",
-  "year": "2025",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/7TCtgVAbMZg/sddefault.jpg",
-  "alt": "양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 | tvN 250118 방송 (2025-01-01)",
-  "title": "양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 | tvN 250118 방송 (2025-01-01)"
-},
-
-{
   "link": "https://youtu.be/QatbI5y8jr4",
   "category": "ETC",
   "member": "아이들",
@@ -612,7 +601,97 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/ld69NQsKuBU/sddefault.jpg",
   "alt": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-01)",
   "title": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-01)"
+},
+  [POP/STRAS 노래출제]-
+
+{
+  "link": "https://youtu.be/uTxvzBeaa5w",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2018",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/uTxvzBeaa5w/sddefault.jpg",
+  "alt": "[놀토- POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일 (2018-12-29)",
+  "title": "[놀토- POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일 (2018-12-29)"
+},
+
+{
+  "link": "https://youtu.be/43pmkDu6CRs",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2019",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/43pmkDu6CRs/sddefault.jpg",
+  "alt": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 | (2019-11-30)",
+  "title": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 | (2019-11-30)"
+},
+
+{
+  "link": "https://youtu.be/RKnp-6F9rwk",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/RKnp-6F9rwk/sddefault.jpg",
+  "alt": "[놀토- MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송 (2022-04-23)",
+  "title": "[놀토- MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송 (2022-04-23)"
+},
+
+{
+  "link": "https://youtu.be/LIUnvuV8lb4",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/LIUnvuV8lb4/sddefault.jpg",
+  "alt": "[놀토- 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송 (2022-07-30)",
+  "title": "[놀토- 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송 (2022-07-30)"
+},
+
+{
+  "link": "https://youtu.be/7xMcl5wnYBQ",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2024",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/7xMcl5wnYBQ/sddefault.jpg",
+  "alt": "[놀토- Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 | (2024-03-09)",
+  "title": "[놀토- Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 | (2024-03-09)"
+},
+
+{
+  "link": "https://youtu.be/Zr-Kx53WMe4",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2024",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/Zr-Kx53WMe4/sddefault.jpg",
+  "alt": "[놀토- 아딱질 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)",
+  "title": "[놀토- 아딱질 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)"
+},
+
+{
+  "link": "https://youtu.be/7TCtgVAbMZg",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/7TCtgVAbMZg/sddefault.jpg",
+  "alt": "[놀토- VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 | (2025-01-18)",
+  "title": "[놀토- VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 | (2025-01-18)"
+},
+
+{
+  "link": "https://youtu.be/erkLvEyZpDE",
+  "category": "ETC",
+  "member": "아이들",
+  "year": "2025",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/erkLvEyZpDE/sddefault.jpg",
+  "alt": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 | (2025-03-22)",
+  "title": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 | (2025-03-22)"
 }
+  
 
   
 ];
