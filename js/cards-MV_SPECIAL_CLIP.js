@@ -811,7 +811,98 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/mqdefault.jpg",
   "alt": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
   "title": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)"
+},
+  {
+  "link": "https://youtu.be/sVZpHFXcFJw",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2019",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/sVZpHFXcFJw/mqdefault.jpg",
+  "alt": "소연 - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends (2019-11-10)",
+  "title": "소연 - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends (2019-11-10)"
+},
+{
+  "link": "https://youtu.be/Lx4ka2qBY_A",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "민니",
+  "year": "2021",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/mqdefault.jpg",
+  "alt": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
+  "title": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)"
+},
+{
+  "link": "https://youtu.be/n9oti9orTuM",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2022",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/n9oti9orTuM/mqdefault.jpg",
+  "alt": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)",
+  "title": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)"
+},
+{
+  "link": "https://youtu.be/yu_85QuSNAU",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2022",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/yu_85QuSNAU/mqdefault.jpg",
+  "alt": "FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)",
+  "title": "소연 FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)"
+},
+{
+  "link": "https://youtu.be/4VmLuWDkHYQ",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2020",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/mqdefault.jpg",
+  "alt": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "title": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)"
+},
+{
+  "link": "https://youtu.be/bKLTsAy9ig4",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2023",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/bKLTsAy9ig4/mqdefault.jpg",
+  "alt": "[MV] SOYEON ((G)I-DLE) X MOONO (소연 ((여자)아이들) X 무너) _ I'm OK(아무너케) (2023-08-23)",
+  "title": "[MV] SOYEON ((G)I-DLE) X MOONO (소연 ((여자)아이들) X 무너) _ I'm OK(아무너케) (2023-08-23)"
+},
+{
+  "link": "https://youtu.be/N68rwFjyinI",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/N68rwFjyinI/mqdefault.jpg",
+  "alt": "소연 - [MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
+  "title": "소연 - [MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)"
+},
+{
+  "link": "https://youtu.be/8OfUx3yY_B8",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "미연",
+  "year": "2024",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/8OfUx3yY_B8/mqdefault.jpg",
+  "alt": "MIYEON(미연) LOVIN’ MY STAY MV | Experience Macao Limited Edition (2024-09-17)",
+  "title": "MIYEON(미연) LOVIN’ MY STAY MV | Experience Macao Limited Edition (2024-09-17)"
+},
+{
+  "link": "https://youtu.be/ZlpxcCiCCP4",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "슈화",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/ZlpxcCiCCP4/mqdefault.jpg",
+  "alt": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
+  "title": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)"
 }
+
 
 
  
