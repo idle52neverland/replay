@@ -10293,6 +10293,16 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/C2nLyYgZMPM/mqdefault.jpg",
   "alt": "[DANCE THE X] (G)I-DLE COMPILATION l LATATA X HANN(Alone) X Uh-Oh X SENORITA @KCON19TH🇹🇭 (2019-10-09)",
   "title": "[DANCE THE X] (G)I-DLE COMPILATION l LATATA X HANN(Alone) X Uh-Oh X SENORITA @KCON19TH🇹🇭 (2019-10-09)"
+},
+  {
+  "link": "https://youtu.be/p9oDlvOV3qs",
+  "category": "STAGE_PERFORMANCE",
+  "member": "미연, 소연",
+  "year": "2018",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/p9oDlvOV3qs/mqdefault.jpg",
+  "alt": "POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
+  "title": "POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)"
 }
 
 
