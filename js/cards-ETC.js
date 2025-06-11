@@ -385,17 +385,6 @@ const etcCards = [
 },
 
 {
-  "link": "https://youtu.be/ZzZk-iOnJ48",
-  "category": "ETC",
-  "member": "민니",
-  "year": "2022",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/ZzZk-iOnJ48/sddefault.jpg",
-  "alt": "말해모해💓 예쁨 그 잡채(ღ•͈ᴗ•͈ღ) 예삐예삐 민니(MINNIE)의 올겨울 태국갈때 여기어때🌎🎵 (2022-11-16)",
-  "title": "말해모해💓 예쁨 그 잡채(ღ•͈ᴗ•͈ღ) 예삐예삐 민니(MINNIE)의 올겨울 태국갈때 여기어때🌎🎵 (2022-11-16)"
-},
-
-{
   "link": "https://youtu.be/6V7sCMVX3z8",
   "category": "ETC",
   "member": "민니",
@@ -404,17 +393,6 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/6V7sCMVX3z8/sddefault.jpg",
   "alt": "올겨울 해외갈때 여기어때🌎🎵 (ft.장기하, 민니, 이용진, 마츠다, 그렉, 미초바, 파트리샤, 파비앙) (2022-11-10)",
   "title": "올겨울 해외갈때 여기어때🌎🎵 (ft.장기하, 민니, 이용진, 마츠다, 그렉, 미초바, 파트리샤, 파비앙) (2022-11-10)"
-},
-
-{
-  "link": "https://youtu.be/-pMAHu9i180",
-  "category": "ETC",
-  "member": "소연",
-  "year": "2021",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/-pMAHu9i180/sddefault.jpg",
-  "alt": "세상의 기준을 불태워라! 불닭볶음면(Main casting \"(여자) 아이들 소연\") (2021-12-17)",
-  "title": "세상의 기준을 불태워라! 불닭볶음면(Main casting \"(여자) 아이들 소연\") (2021-12-17)"
 },
 
 {
@@ -550,17 +528,6 @@ const etcCards = [
 },
 
 {
-  "link": "https://youtu.be/-jCaSSe1lNg",
-  "category": "ETC",
-  "member": "아이들",
-  "year": "2021",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/-jCaSSe1lNg/sddefault.jpg",
-  "alt": "Android X Galaxy Z Flip 3 5G 튜토리얼 비디오 (2021-09-08)",
-  "title": "Android X Galaxy Z Flip 3 5G 튜토리얼 비디오 (2021-09-08)"
-},
-
-{
   "link": "https://youtu.be/qL48R94Clk4",
   "category": "ETC",
   "member": "미연",
@@ -582,7 +549,6 @@ const etcCards = [
   "title": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Fashion Pavilion(Eng sub) (2021-07-16)"
 },
 
-// 오류 발생: Unexpected non-whitespace character after JSON at position 343 (line 11 column 2)
 {
   "link": "https://youtu.be/ld69NQsKuBU",
   "category": "ETC",
@@ -593,6 +559,7 @@ const etcCards = [
   "alt": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-09)",
   "title": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-09)"
 },
+
 {
   "link": "https://youtu.be/uTxvzBeaa5w",
   "category": "ETC",
@@ -614,6 +581,7 @@ const etcCards = [
   "alt": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 | (2019-11-30)",
   "title": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 | (2019-11-30)"
 },
+
 {
   "link": "https://youtu.be/RKnp-6F9rwk",
   "category": "ETC",
@@ -679,7 +647,6 @@ const etcCards = [
   "alt": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 | (2025-03-22)",
   "title": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 | (2025-03-22)"
 }
-
   ];
 
 // ✅ 전역 등록
