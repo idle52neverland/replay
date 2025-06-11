@@ -297,8 +297,9 @@
             return match && match[1] === month;
           });
           const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-          const matchesKeyword = keywords.every(kw => titleLower.includes(kw));
-          return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+          const combinedText = (card.title + " " + card.member).toLowerCase();
+          const matchesKeyword = keywords.every(kw => combinedText.includes(kw));
+
         });
         currentIndex = 0;
         filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
