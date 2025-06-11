@@ -6328,16 +6328,6 @@ const officialClipCards = [
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
 },
 {
-  "link": "https://youtu.be/DgF3tjsujdY",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/DgF3tjsujdY/mqdefault.jpg",
-  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
-  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
-},
-{
   "link": "https://youtu.be/brH6kAa9waA",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
