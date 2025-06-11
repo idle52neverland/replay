@@ -901,8 +901,27 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZlpxcCiCCP4/mqdefault.jpg",
   "alt": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
   "title": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)"
+},
+{
+  "link": "https://youtu.be/NL-uanxNldk",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "민니",
+  "year": "2023",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/mqdefault.jpg",
+  "alt": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)"
+},
+{
+  "link": "https://youtu.be/_E5JtAcc3cY",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2019",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/mqdefault.jpg",
+  "alt": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "title": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)"
 }
-
 
 
  
