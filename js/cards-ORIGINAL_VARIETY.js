@@ -402,4 +402,4 @@ const originalVarietyCards = [
 ];
 
 // ✅ 전역 등록
-window.radioPodcastCards = originalVarietyCards;
+window.originalVarietyCards = originalVarietyCards;
