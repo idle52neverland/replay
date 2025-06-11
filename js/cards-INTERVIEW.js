@@ -1981,7 +1981,7 @@ const interviewCards = [
 {
   "link": "https://youtu.be/pU8GHpHA4ts",
   "category": "INTERVIEW",
-  "member": "아이들",
+  "member": "슈화",
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/pU8GHpHA4ts/sddefault.jpg",
