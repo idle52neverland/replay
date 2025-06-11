@@ -283,20 +283,21 @@
       let filtered = all;
 
       function applySearch() {
-        const keywords = searchInput.value
-          .toLowerCase()
-          .replace(/[^\w가-힣]+/g, ' ')
-          .split(/\s+/)
-          .filter(Boolean);
+  const keywords = searchInput.value
+    .toLowerCase()
+    .replace(/[^\w가-힣]+/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
 
-        filtered = all.filter(c => {
-          const cleanTitle = c.title.toLowerCase().replace(/[^\w가-힣]+/g, ' ');
-          return keywords.every(k => cleanTitle.includes(k));
-        });
+  filtered = all.filter(c => {
+    const combinedText = (c.title + " " + c.member).toLowerCase().replace(/[^\w가-힣]+/g, ' ');
+    return keywords.every(k => combinedText.includes(k));
+  });
 
-        currentIndex = 0;
-        renderCards(filtered);
-      }
+  currentIndex = 0;
+  renderCards(filtered);
+}
+
 
       function renderCards(cards) {
         container.innerHTML = '';
