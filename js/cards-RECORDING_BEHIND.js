@@ -1,5 +1,5 @@
 const recordingBehindCards = [
- {
+{
   "link": "https://youtu.be/S3DVpMbd9Aw",
   "category": "RECORDING_BEHIND",
   "member": "소연",
@@ -174,6 +174,7 @@ const recordingBehindCards = [
   "alt": "[Behind The Scene] 민니 ((여자)아이들) 'Expectations' 녹음 현장 (2023-03-20)",
   "title": "[Behind The Scene] 민니 ((여자)아이들) 'Expectations' 녹음 현장 (2023-03-20)"
 },
+
 {
   "link": "https://youtu.be/wg7AL7inFTE",
   "category": "RECORDING_BEHIND",
@@ -426,7 +427,8 @@ const recordingBehindCards = [
   "alt": "i-dle (아이들) 'Love Tease' Recording BehindㅣSUB (2025-06-10)",
   "title": "i-dle (아이들) 'Love Tease' Recording BehindㅣSUB (2025-06-10)"
 },
- {
+
+{
   "link": "https://youtu.be/UUh3rlx3lSw",
   "category": "RECORDING_BEHIND",
   "member": "미연",
@@ -436,6 +438,7 @@ const recordingBehindCards = [
   "alt": "[Making] 미연 보컬과 함께하니 애틋함이 두배로✌ 'Someday' [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)",
   "title": "[Making] 미연 보컬과 함께하니 애틋함이 두배로✌ 'Someday' [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)"
 },
+
 {
   "link": "https://youtu.be/rI-88uYZNyE",
   "category": "RECORDING_BEHIND",
@@ -446,6 +449,7 @@ const recordingBehindCards = [
   "alt": "Raiden Love Right Back Recording Behind the Scene (2021-10-24)",
   "title": "(미연 07:17~) Raiden Love Right Back Recording Behind the Scene (2021-10-24)"
 },
+
 {
   "link": "https://youtu.be/YVjugI2zlk4",
   "category": "RECORDING_BEHIND",
@@ -455,11 +459,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/YVjugI2zlk4/mqdefault.jpg",
   "alt": "[Making] 민니((여자)아이들) - Getaway (MBN 나의 위험한 아내 OST) 메이킹 필름 (2020-10-14)",
   "title": "[Making] 민니((여자)아이들) - Getaway (MBN 나의 위험한 아내 OST) 메이킹 필름 (2020-10-14)"
+},
+ {
+  "link": "https://youtu.be/_lQxaYmt0DQ",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/_lQxaYmt0DQ/mqdefault.jpg",
+  "alt": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
+  "title": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)"
 }
-
-
-
-
 
 
   
