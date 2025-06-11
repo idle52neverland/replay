@@ -7,7 +7,7 @@ const recordingBehindCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/S3DVpMbd9Aw/mqdefault.jpg",
   "alt": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)",
-  "title": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)"
+  "title": "(소연 02:23~) - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)"
 },
 
 {
@@ -73,7 +73,7 @@ const recordingBehindCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4zKHhA_HtKQ/mqdefault.jpg",
   "alt": "헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)",
-  "title": "민니- 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)"
+  "title": "(민니 04:03~) - 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3 (2022-07-05)"
 },
 
 {
