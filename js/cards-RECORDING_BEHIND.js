@@ -396,17 +396,6 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://youtu.be/i2wG04YoEOg",
-  "category": "RECORDING_BEHIND",
-  "member": "민니",
-  "year": "2025",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/i2wG04YoEOg/mqdefault.jpg",
-  "alt": "[언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV Teaser (2025-04-24)",
-  "title": "[언젠가는 슬기로울 전공의생활 (Resident Playbook) OST Part 5] 민니 (MINNIE) - 숨 (Breath) MV Teaser (2025-04-24)"
-},
-
-{
   "link": "https://youtu.be/eOFfOLZOp0M",
   "category": "RECORDING_BEHIND",
   "member": "민니",
