@@ -210,7 +210,7 @@
   <script src="js/cards-INTERVIEW.js"></script>
   <script src="js/cards-LIVE_STREAM.js"></script>
   <script src="js/cards-FANCAM.js"></script>
-  <script src="js/cards-CHALLENGE.js"></script>
+  <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
   <script>
     window.onload = function () {
@@ -237,7 +237,7 @@
         typeof interviewCards !== 'undefined' ? interviewCards : [],
         typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
         typeof fancamCards !== 'undefined' ? fancamCards : [],
-        typeof challengeCards !== 'undefined' ? challengeCards : [],
+        typeof shortsCards !== 'undefined' ? shortsCards : [],
         typeof etcCards !== 'undefined' ? etcCards : []
       );
       let filtered = all.filter(card => card.category === selectedCategory);
