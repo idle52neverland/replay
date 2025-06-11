@@ -283,28 +283,39 @@
         });
       }
       function applyAllFilters() {
-        const rawInput = searchInput.value.toLowerCase();
-        const keywords = rawInput.replace(/[^\w가-힣]+/g, ' ').split(/\s+/).filter(Boolean).map(kw => kw.trim());
-        const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-        filtered = all.filter(card => {
-          if (card.category !== selectedCategory) return false;
-          const titleLower = card.title.toLowerCase();
-          const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-          const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-            const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-            return match && match[1] === month;
-          });
-          const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-          const combinedText = (card.title + " " + card.member).toLowerCase();
-          const matchesKeyword = keywords.every(kw => combinedText.includes(kw));
+  const rawInput = searchInput.value.toLowerCase();
+  const keywords = rawInput.replace(/[^\w가-힣]+/g, ' ')
+                            .split(/\s+/)
+                            .filter(Boolean)
+                            .map(kw => kw.trim());
 
-        });
-        currentIndex = 0;
-        filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-        renderCards(filtered);
-      }
+  const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+  const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
+
+  filtered = all.filter(card => {
+    if (card.category !== selectedCategory) return false;
+
+    const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+
+    const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+      return match && match[1] === month;
+    });
+
+    const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
+
+    const combinedText = (card.title + " " + card.member).toLowerCase();
+    const matchesKeyword = keywords.every(kw => combinedText.includes(kw));
+
+    return matchesYear && matchesMonth && matchesMember && matchesKeyword;
+  });
+
+  currentIndex = 0;
+  filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+  renderCards(filtered);
+}
+
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
       createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
