@@ -793,16 +793,6 @@ const mvSpecialClipCards = [
   "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)"
 },
 {
-  "link": "https://youtu.be/p9oDlvOV3qs",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연, 미연",
-  "year": "2018",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/p9oDlvOV3qs/mqdefault.jpg",
-  "alt": "소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
-  "title": "소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)"
-},
-{
   "link": "https://youtu.be/UOxkGD8qRB4",
   "category": "MV_SPECIAL_CLIP",
   "member": "소연, 미연",
@@ -831,26 +821,6 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/mqdefault.jpg",
   "alt": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
   "title": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)"
-},
-{
-  "link": "https://youtu.be/n9oti9orTuM",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2022",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/n9oti9orTuM/mqdefault.jpg",
-  "alt": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)",
-  "title": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)"
-},
-{
-  "link": "https://youtu.be/yu_85QuSNAU",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/yu_85QuSNAU/mqdefault.jpg",
-  "alt": "FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)",
-  "title": "소연 FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)"
 },
 {
   "link": "https://youtu.be/4VmLuWDkHYQ",
