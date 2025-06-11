@@ -319,28 +319,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/4EsLy_HgVCQ",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2024",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/4EsLy_HgVCQ/mqdefault.jpg",
-  "alt": "[한성대학교 방송국 HBS] 240530 (여자)아이들 FULL 영상 (2024-06-13)",
-  "title": "[한성대학교 방송국 HBS] 240530 (여자)아이들 FULL 영상 (2024-06-13)"
-},
-
-{
-  "link": "https://youtu.be/haV9i4JwkB0",
-  "category": "STAGE_PERFORMANCE",
-  "member": "소연",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/haV9i4JwkB0/mqdefault.jpg",
-  "alt": "소연 빠진 (여자)아이들 (G)I-DLE 240530 한성대학교 축제 35분 full 미니 콘서트 (2024-05-30)",
-  "title": "소연 빠진 (여자)아이들 (G)I-DLE 240530 한성대학교 축제 35분 full 미니 콘서트 (2024-05-30)"
-},
-
-{
   "link": "https://youtu.be/fS_-J96XGIs",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -679,17 +657,6 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/HEe1L6yHU1Q/mqdefault.jpg",
   "alt": "[인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)",
   "title": "[인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)"
-},
-
-{
-  "link": "https://youtu.be/Q5zeQneOv1E",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2023",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/Q5zeQneOv1E/mqdefault.jpg",
-  "alt": "[4K] 230526 (여자)아이들 직캠 Full ver | 2023 고려대학교 입실렌티 (LATATA, MY BAG, Allergy, 퀸카(Queen card), TOMBOY) (2023-05-26)",
-  "title": "[4K] 230526 (여자)아이들 직캠 Full ver | 2023 고려대학교 입실렌티 (LATATA, MY BAG, Allergy, 퀸카(Queen card), TOMBOY) (2023-05-26)"
 },
 
 {
@@ -1540,17 +1507,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/RDWVQZrNFM0",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/RDWVQZrNFM0/mqdefault.jpg",
-  "alt": "220519 (여자)아이들 (G)I-DLE - 단국대학교 천안캠퍼스 축제 직캠 (Fancam) (2022-05-21)",
-  "title": "220519 (여자)아이들 (G)I-DLE - 단국대학교 천안캠퍼스 축제 직캠 (Fancam) (2022-05-21)"
-},
-
-{
   "link": "https://youtu.be/CMMdD0rN_qQ",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -1561,27 +1517,6 @@ const stagePerformanceCards = [
   "title": "[2022 쇼챔 뮤직 페스티벌] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | EP.434 (2022-05-18)"
 },
 
-{
-  "link": "https://youtu.be/Q3zxkOqS114",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/Q3zxkOqS114/mqdefault.jpg",
-  "alt": "220515 (여자)아이들 ((G)I-DLE) - Tomboy | Kpopflex 4K fancam (2022-05-17)",
-  "title": "220515 (여자)아이들 ((G)I-DLE) - Tomboy | Kpopflex 4K fancam (2022-05-17)"
-},
-
-{
-  "link": "https://youtu.be/ItHzujZ_24U",
-  "category": "STAGE_PERFORMANCE",
-  "member": "미연",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/ItHzujZ_24U/mqdefault.jpg",
-  "alt": "미연 - (140522 KPOP FLEX IN FRA) LOVE YOURSELF : MIYEON FOCUS (SPECIAL STAGE) (2022-05-15)",
-  "title": "미연 - (140522 KPOP FLEX IN FRA) LOVE YOURSELF : MIYEON FOCUS (SPECIAL STAGE) (2022-05-15)"
-},
 
 {
   "link": "https://youtu.be/ZuaYjANJIMg",
@@ -2882,17 +2817,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/6tQYULZ9DXQ",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2020",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/6tQYULZ9DXQ/mqdefault.jpg",
-  "alt": "[여자아이들] 멤버들이 부르는 애정결핍 (2020-06-28)",
-  "title": "[여자아이들] 멤버들이 부르는 애정결핍 (2020-06-28)"
-},
-
-{
   "link": "https://youtu.be/JMf7Qm9bj8A",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -3231,28 +3155,6 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/WFkZjTCxVPc/mqdefault.jpg",
   "alt": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
   "title": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)"
-},
-
-{
-  "link": "https://youtu.be/pHooRisLRxY",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2019",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/pHooRisLRxY/mqdefault.jpg",
-  "alt": "[ENG sub] [1회] 오프닝 퍼포먼스 (On-Air ver.) - AOA, 마마무, (여자)아이들, 오마이걸, 러블리즈 컴백전쟁 : 퀸덤 1화 (2019-08-29)",
-  "title": "[ENG sub] [1회] 오프닝 퍼포먼스 (On-Air ver.) - AOA, 마마무, (여자)아이들, 오마이걸, 러블리즈 컴백전쟁 : 퀸덤 1화 (2019-08-29)"
-},
-
-{
-  "link": "https://youtu.be/hHQc9nzKk4E",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2019",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/hHQc9nzKk4E/mqdefault.jpg",
-  "alt": "[BE ORIGINAL] (G)I-DLE 'Uh-Oh' in NEW YORK (4K) (2019-07-29)",
-  "title": "[BE ORIGINAL] (G)I-DLE 'Uh-Oh' in NEW YORK (4K) (2019-07-29)"
 },
 
 {
@@ -4158,17 +4060,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/ZXHMMNMo4Ww",
-  "category": "STAGE_PERFORMANCE",
-  "member": "소연",
-  "year": "2018",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/ZXHMMNMo4Ww/mqdefault.jpg",
-  "alt": "((G)I-DLE JEON SO YEON  (여자)아이들 소연- 아이들 쏭 (2018-05-28)",
-  "title": "((G)I-DLE JEON SO YEON  (여자)아이들 소연- 아이들 쏭 (2018-05-28)"
-},
-
-{
   "link": "https://youtu.be/hRQk0BJrXYE",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -4221,17 +4112,6 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/E9UYVt0I-as/mqdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
   "title": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)"
-},
-
-{
-  "link": "https://youtu.be/oZM-C_IEd8Q",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2018",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/oZM-C_IEd8Q/mqdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Don't text Me' Lyrics [Color Coded Lyrics Han|Rom|Eng] (2018-05-15)",
-  "title": "(여자)아이들((G)I-DLE) - 'Don't text Me' Lyrics [Color Coded Lyrics Han|Rom|Eng] (2018-05-15)"
 },
 
 {
@@ -4320,28 +4200,6 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/eZRmP-l3Nz0/mqdefault.jpg",
   "alt": "[(G)I-DLE - LATATA] Debut Stage | M COUNTDOWN 20180503 EP.569 (2018-05-03)",
   "title": "[(G)I-DLE - LATATA] Debut Stage | M COUNTDOWN 20180503 EP.569 (2018-05-03)"
-},
-
-{
-  "link": "https://youtu.be/5WVsMPZIT9E",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2018",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/5WVsMPZIT9E/mqdefault.jpg",
-  "alt": "(G)I-DLE ((여자)아이들) - 'DALLA / DOLLAR (달라) $$$' Lyrics (Color Coded Han-Rom) (2018-05-02)",
-  "title": "(G)I-DLE ((여자)아이들) - 'DALLA / DOLLAR (달라) $$$' Lyrics (Color Coded Han-Rom) (2018-05-02)"
-},
-
-{
-  "link": "https://youtu.be/3vZ5KjI36zg",
-  "category": "STAGE_PERFORMANCE",
-  "member": "소연",
-  "year": "2016",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/3vZ5KjI36zg/mqdefault.jpg",
-  "alt": "161028 전소연-무서워 (중대부고 축제) (2016-10-28)",
-  "title": "161028 전소연-무서워 (중대부고 축제) (2016-10-28)"
 },
 
 {
@@ -6908,17 +6766,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/2E5nbe46bUc",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/2E5nbe46bUc/mqdefault.jpg",
-  "alt": "(Full Focused) (G)I-DLE ((여자)아이들) 'TOMBOY' 4K | BE ORIGINAL (2022-03-25)",
-  "title": "(Full Focused) (G)I-DLE ((여자)아이들) 'TOMBOY' 4K | BE ORIGINAL (2022-03-25)"
-},
-
-{
   "link": "https://youtu.be/Hig9pH072gQ",
   "category": "STAGE_PERFORMANCE",
   "member": "소연",
@@ -7070,61 +6917,6 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/sPSCM-5AMOI/mqdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.427 (2022-03-23)",
   "title": "[쇼챔직캠 4K] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.427 (2022-03-23)"
-},
-
-{
-  "link": "https://youtu.be/xHjn-johq6c",
-  "category": "STAGE_PERFORMANCE",
-  "member": "소연",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/xHjn-johq6c/mqdefault.jpg",
-  "alt": "[UNFILTERED CAM] (G)I-DLE SOYEON(소연) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)",
-  "title": "[UNFILTERED CAM] (G)I-DLE SOYEON(소연) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)"
-},
-
-{
-  "link": "https://youtu.be/H1mIpTR_n4Y",
-  "category": "STAGE_PERFORMANCE",
-  "member": "민니",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/H1mIpTR_n4Y/mqdefault.jpg",
-  "alt": "[UNFILTERED CAM] (G)I-DLE MINNIE(민니) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)",
-  "title": "[UNFILTERED CAM] (G)I-DLE MINNIE(민니) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)"
-},
-
-{
-  "link": "https://youtu.be/DEjAkf9KjDc",
-  "category": "STAGE_PERFORMANCE",
-  "member": "미연",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/DEjAkf9KjDc/mqdefault.jpg",
-  "alt": "[UNFILTERED CAM] (G)I-DLE MIYEON(미연) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)",
-  "title": "[UNFILTERED CAM] (G)I-DLE MIYEON(미연) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)"
-},
-
-{
-  "link": "https://youtu.be/EqBLMGdrtHg",
-  "category": "STAGE_PERFORMANCE",
-  "member": "슈화",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/EqBLMGdrtHg/mqdefault.jpg",
-  "alt": "[UNFILTERED CAM] (G)I-DLE SHUHUA(슈화) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)",
-  "title": "[UNFILTERED CAM] (G)I-DLE SHUHUA(슈화) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)"
-},
-
-{
-  "link": "https://youtu.be/9aFEKNUdtyU",
-  "category": "STAGE_PERFORMANCE",
-  "member": "우기",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/9aFEKNUdtyU/mqdefault.jpg",
-  "alt": "[UNFILTERED CAM] (G)I-DLE YUQI(우기) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)",
-  "title": "[UNFILTERED CAM] (G)I-DLE YUQI(우기) 'TOMBOY' 4K | BE ORIGINAL (2022-03-21)"
 },
 
 {
