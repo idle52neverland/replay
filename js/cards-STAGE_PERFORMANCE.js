@@ -4214,17 +4214,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/nC_sOwcAAQI",
-  "category": "STAGE_PERFORMANCE",
-  "member": "소연",
-  "year": "2016",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/nC_sOwcAAQI/mqdefault.jpg",
-  "alt": "[언프리티랩스타3 LIVE] 전소연 vs 하주연 @ 영구탈락미션 1vs1 배틀 160812 EP.03 (2016-08-13)",
-  "title": "[언프리티랩스타3 LIVE] 전소연 vs 하주연 @ 영구탈락미션 1vs1 배틀 160812 EP.03 (2016-08-13)"
-},
-
-{
   "link": "https://youtu.be/wf2el46VZEA",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -10065,27 +10054,6 @@ const stagePerformanceCards = [
   "title": "[플리캠 4K 가로] (G)I-DLE MIYEON 'DUMDi DUMDi(덤디덤디)' (여자아이들 미연)ㅣSimply K-POP Ep .428 (2020-08-21)"
 },
 
-{
-  "link": "https://youtu.be/VjT5902wgP0",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/VjT5902wgP0/mqdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - \"DUMDi DUMDi (덤디덤디)\" Dance Performance | 뮤플리 스페셜 (2020-08-04)",
-  "title": "(여자)아이들((G)I-DLE) - \"DUMDi DUMDi (덤디덤디)\" Dance Performance | 뮤플리 스페셜 (2020-08-04)"
-},
-
-{
-  "link": "https://youtu.be/C2nLyYgZMPM",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2019",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/C2nLyYgZMPM/mqdefault.jpg",
-  "alt": "[DANCE THE X] (G)I-DLE COMPILATION l LATATA X HANN(Alone) X Uh-Oh X SENORITA @KCON19TH🇹🇭 (2019-10-09)",
-  "title": "[DANCE THE X] (G)I-DLE COMPILATION l LATATA X HANN(Alone) X Uh-Oh X SENORITA @KCON19TH🇹🇭 (2019-10-09)"
-},
   {
   "link": "https://youtu.be/p9oDlvOV3qs",
   "category": "STAGE_PERFORMANCE",
