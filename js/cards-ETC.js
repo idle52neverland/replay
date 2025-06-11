@@ -602,8 +602,7 @@ const etcCards = [
   "alt": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-01)",
   "title": "[ KOTRA X (G)I-DLE Miyeon ] 2021 CGSK K-Beauty Pavilion(Eng sub) (2021-07-01)"
 },
-  [POP/STRAS 노래출제]-
-
+ 
 {
   "link": "https://youtu.be/uTxvzBeaa5w",
   "category": "ETC",
