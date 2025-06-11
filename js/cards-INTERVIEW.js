@@ -1702,7 +1702,293 @@ const interviewCards = [
   "thumbnail": "https://i.ytimg.com/vi/nI3v3PunQVk/sddefault.jpg",
   "alt": "[TV10] 전소연 X 텐아시아 화보 촬영 메이킹 영상 (2016-10-06)",
   "title": "[TV10] 전소연 X 텐아시아 화보 촬영 메이킹 영상 (2016-10-06)"
+},
+ {
+  "link": "https://youtu.be/Y2UwPjp2Mus",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2024",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/Y2UwPjp2Mus/sddefault.jpg",
+  "alt": "[ENG] (여자)아이들 미연의 반응 좋았던 홀리데이 선물 추천🎁 연말 선물 쪽집게 강의 시작! by W Korea (2024-12-09)",
+  "title": "[ENG] (여자)아이들 미연의 반응 좋았던 홀리데이 선물 추천🎁 연말 선물 쪽집게 강의 시작! by W Korea (2024-12-09)"
+},
+
+{
+  "link": "https://youtu.be/2EkLzvXAV0M",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2024",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/2EkLzvXAV0M/sddefault.jpg",
+  "alt": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub) (2024-12-06)",
+  "title": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub) (2024-12-06)"
+},
+
+{
+  "link": "https://youtu.be/rj9wt9b_8e0",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2023",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/rj9wt9b_8e0/sddefault.jpg",
+  "alt": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝 (2023-10-23)",
+  "title": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝 (2023-10-23)"
+},
+
+{
+  "link": "https://youtu.be/uRdHqhQdP2k",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2023",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/uRdHqhQdP2k/sddefault.jpg",
+  "alt": "미연 공주 탄생 1등 공신은 담당 메이크업 아티스트? 미연+담당 메이크업 아티스트 본인 등판 #스타뷰터뷰 | 얼루어코리아 Allure Korea (2023-10-10)",
+  "title": "미연 공주 탄생 1등 공신은 담당 메이크업 아티스트? 미연+담당 메이크업 아티스트 본인 등판 #스타뷰터뷰 | 얼루어코리아 Allure Korea (2023-10-10)"
+},
+
+{
+  "link": "https://youtu.be/Uxkw8z9nfFw",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2023",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/Uxkw8z9nfFw/sddefault.jpg",
+  "alt": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP (2023-08-04)",
+  "title": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP (2023-08-04)"
+},
+
+{
+  "link": "https://youtu.be/GCDj3sxmO7w",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/GCDj3sxmO7w/sddefault.jpg",
+  "alt": "MINNIE x BAZAAR สปอยซีรี่ย์ที่เดียวที่แรกของมินนี่ใน 'So not worth it'  ทุกเรื่องที่ควรรู้ก่อนดูจริง (2021-06-14)",
+  "title": "MINNIE x BAZAAR สปอยซีรี่ย์ที่เดียวที่แรกของมินนี่ใน 'So not worth it'  ทุกเรื่องที่ควรรู้ก่อนดูจริง (2021-06-14)"
+},
+
+{
+  "link": "https://youtu.be/3rgzfcTvuSs",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/3rgzfcTvuSs/sddefault.jpg",
+  "alt": "มินนี่ วง (G)I_DLE กับ 10 เรื่องที่เธออยากเล่าให้แฟนๆ ในไทยฟังด้วยตัวเอง (2021-06-15)",
+  "title": "มินนี่ วง (G)I_DLE กับ 10 เรื่องที่เธออยากเล่าให้แฟนๆ ในไทยฟังด้วยตัวเอง (2021-06-15)"
+},
+
+{
+  "link": "https://youtu.be/dhWATtljlVM",
+  "category": "INTERVIEW",
+  "member": "우기",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/dhWATtljlVM/sddefault.jpg",
+  "alt": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것. (2022-10-29)",
+  "title": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것. (2022-10-29)"
+},
+
+{
+  "link": "https://youtu.be/nOadVxssyAw",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/nOadVxssyAw/sddefault.jpg",
+  "alt": "ทำความรู้จักกับสาวมากเสน่ห์ \"มินนี่\" สมาชิกเกิร์ลกรุ๊ปวง (G)I-DLE (2021-06-17)",
+  "title": "ทำความรู้จักกับสาวมากเสน่ห์ \"มินนี่\" สมาชิกเกิร์ลกรุ๊ปวง (G)I-DLE (2021-06-17)"
+},
+
+{
+  "link": "https://youtu.be/QPk0aV4YrzU",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/QPk0aV4YrzU/sddefault.jpg",
+  "alt": "(ENG SUB) I Love Sudsapda : One Day with MINNIE (G)I-DLE (PLS DO NOT RE-UPLOAD, PLS SHARE) (2021-08-09)",
+  "title": "(ENG SUB) I Love Sudsapda : One Day with MINNIE (G)I-DLE (PLS DO NOT RE-UPLOAD, PLS SHARE) (2021-08-09)"
+},
+
+{
+  "link": "https://youtu.be/6y-sSbHZyMc",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/6y-sSbHZyMc/sddefault.jpg",
+  "alt": "MINNIE | #legend (2021-10-12)",
+  "title": "MINNIE | #legend (2021-10-12)"
+},
+
+{
+  "link": "https://youtu.be/V8wtsSCRKRg",
+  "category": "INTERVIEW",
+  "member": "소연",
+  "year": "2022",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/V8wtsSCRKRg/sddefault.jpg",
+  "alt": "(여자)아이들 전소연의 공간을 압도하는 카리스마 | YCONTACT (2022-07-06)",
+  "title": "(여자)아이들 전소연의 공간을 압도하는 카리스마 | YCONTACT (2022-07-06)"
+},
+
+{
+  "link": "https://youtu.be/AfGxxcWPOro",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2022",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/AfGxxcWPOro/sddefault.jpg",
+  "alt": "(여자)아이들 민니의 독보적인 매력 | YCONTACT (2022-07-05)",
+  "title": "(여자)아이들 민니의 독보적인 매력 | YCONTACT (2022-07-05)"
+},
+
+{
+  "link": "https://youtu.be/0iBe7RJkF_w",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2022",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/0iBe7RJkF_w/sddefault.jpg",
+  "alt": "(여자)아이들 미연이 선사하는 아름다운 마법 | YCONTACT (2022-07-04)",
+  "title": "(여자)아이들 미연이 선사하는 아름다운 마법 | YCONTACT (2022-07-04)"
+},
+
+{
+  "link": "https://youtu.be/f0IGLrgKjwM",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2022",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/f0IGLrgKjwM/sddefault.jpg",
+  "alt": "바닥 보여도 못 버려요..✌ (여자)아이들 미연의 뷰티 '찐' 애장품 🌸 #ELLE네이름택 | ELLE KOREA #drive (2022-05-02)",
+  "title": "바닥 보여도 못 버려요..✌ (여자)아이들 미연의 뷰티 '찐' 애장품 🌸 #ELLE네이름택 | ELLE KOREA #drive (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/exH70A1huzs",
+  "category": "INTERVIEW",
+  "member": "소연",
+  "year": "2022",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/exH70A1huzs/sddefault.jpg",
+  "alt": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨. (2022-01-31)",
+  "title": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨. (2022-01-31)"
+},
+
+{
+  "link": "https://youtu.be/ZFQ48gknSF0",
+  "category": "INTERVIEW",
+  "member": "소연",
+  "year": "2022",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/ZFQ48gknSF0/sddefault.jpg",
+  "alt": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨. (2022-01-28)",
+  "title": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨. (2022-01-28)"
+},
+
+{
+  "link": "https://youtu.be/CRaxcdiGpyg",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/CRaxcdiGpyg/sddefault.jpg",
+  "alt": "다들 빨리 #미연(MIYEON)에게 물🥛 좀 주세요!! 🌷꽃이 시들면 안 되니까...😍😍 | #래들리(RADLEYLONDON) #MIYEON #앳스타일 (2021-11-19)",
+  "title": "다들 빨리 #미연(MIYEON)에게 물🥛 좀 주세요!! 🌷꽃이 시들면 안 되니까...😍😍 | #래들리(RADLEYLONDON) #MIYEON #앳스타일 (2021-11-19)"
+},
+
+{
+  "link": "https://youtu.be/9K9eWjMIOi0",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/9K9eWjMIOi0/sddefault.jpg",
+  "alt": "[MAPS] 동화속 비주얼 미연 (With.서울스토어) (2021-11-11)",
+  "title": "[MAPS] 동화속 비주얼 미연 (With.서울스토어) (2021-11-11)"
+},
+
+{
+  "link": "https://youtu.be/Nk4DydPTSx0",
+  "category": "INTERVIEW",
+  "member": "미연",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/Nk4DydPTSx0/sddefault.jpg",
+  "alt": "MAPS X 미연 | 팝업 오픈 (2021-11-10)",
+  "title": "MAPS X 미연 | 팝업 오픈 (2021-11-10)"
+},
+
+{
+  "link": "https://youtu.be/xnTaBBNqTm0",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/xnTaBBNqTm0/sddefault.jpg",
+  "alt": "มินนี่ (G)I-DLE กับแฟชั่นเซตปกนิตยสารแอล ประเทศไทย ฉบับเดือนกันยายน 2021 (2021-09-08)",
+  "title": "มินนี่ (G)I-DLE กับแฟชั่นเซตปกนิตยสารแอล ประเทศไทย ฉบับเดือนกันยายน 2021 (2021-09-08)"
+},
+
+{
+  "link": "https://youtu.be/bhj4WDg-I_A",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/bhj4WDg-I_A/sddefault.jpg",
+  "alt": "นั่งคุยชิลๆ กับสาว \"มินนี่-ณิชา ยนตรรักษ์\" และชาเลนจ์การแสดงสนุกๆ (2021-08-11)",
+  "title": "นั่งคุยชิลๆ กับสาว \"มินนี่-ณิชา ยนตรรักษ์\" และชาเลนจ์การแสดงสนุกๆ (2021-08-11)"
+},
+
+{
+  "link": "https://youtu.be/fMR_Hs9TEFY",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/fMR_Hs9TEFY/sddefault.jpg",
+  "alt": "#VogueMore นั่งคุยกับ ' มินนี่ (G)I-DLE' บนเส้นทางความสำเร็จไม่มีที่สิ้นสุด (2021-07-28)",
+  "title": "#VogueMore นั่งคุยกับ ' มินนี่ (G)I-DLE' บนเส้นทางความสำเร็จไม่มีที่สิ้นสุด (2021-07-28)"
+},
+
+{
+  "link": "https://youtu.be/Srsz_OKZgzA",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/Srsz_OKZgzA/sddefault.jpg",
+  "alt": "(Eng Sub) คุยกับ “มินนี่ (G)I-DLE” เรื่องราวตั้งแต่เด็กจนโต (2021-07-16)",
+  "title": "(Eng Sub) คุยกับ “มินนี่ (G)I-DLE” เรื่องราวตั้งแต่เด็กจนโต (2021-07-16)"
+},
+
+{
+  "link": "https://youtu.be/vvmMT57ekDQ",
+  "category": "INTERVIEW",
+  "member": "민니",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/vvmMT57ekDQ/sddefault.jpg",
+  "alt": "MINNIE (G)I-DLE ส่งพลังความน่ารัก โลกนี้สดใสเพราะมีเธอ (PLS DO NOT RE-UPLOAD, PLS SHARE) (2021-07-06)",
+  "title": "MINNIE (G)I-DLE ส่งพลังความน่ารัก โลกนี้สดใสเพราะมีเธอ (PLS DO NOT RE-UPLOAD, PLS SHARE) (2021-07-06)"
+},
+
+{
+  "link": "https://youtu.be/pU8GHpHA4ts",
+  "category": "INTERVIEW",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/pU8GHpHA4ts/sddefault.jpg",
+  "alt": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ 싱테나 (2020-12-19)",
+  "title": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ 싱테나 (2020-12-19)"
 }
+
 
 
   
