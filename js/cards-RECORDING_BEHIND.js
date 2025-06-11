@@ -437,7 +437,58 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/u3Yu5N3CMNw/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Love Tease' Recording BehindㅣSUB (2025-06-10)",
   "title": "i-dle (아이들) 'Love Tease' Recording BehindㅣSUB (2025-06-10)"
+},
+ {
+  "link": "https://youtu.be/UUh3rlx3lSw",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2022",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/UUh3rlx3lSw/mqdefault.jpg",
+  "alt": "[Making] 미연 보컬과 함께하니 애틋함이 두배로✌ 'Someday' [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)",
+  "title": "[Making] 미연 보컬과 함께하니 애틋함이 두배로✌ 'Someday' [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)"
+},
+{
+  "link": "https://youtu.be/zGTjopEZnmQ",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2022",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/zGTjopEZnmQ/mqdefault.jpg",
+  "alt": "[Blue Moon] Donghae Recording Log #3 with Miyeon from (G)-IDLE / 동해 녹음 비하인드 #3 with (여자)아이들 미연 (2022-01-29)",
+  "title": "[Blue Moon] Donghae Recording Log #3 with Miyeon from (G)-IDLE / 동해 녹음 비하인드 #3 with (여자)아이들 미연 (2022-01-29)"
+},
+{
+  "link": "https://youtu.be/mgB4LrADUls",
+  "category": "RECORDING_BEHIND",
+  "member": "소연",
+  "year": "2022",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/mgB4LrADUls/mqdefault.jpg",
+  "alt": "[메이킹]불타오르게 위대하게 난리난 소연의 녹음 현장! (2022-01-17)",
+  "title": "[메이킹]불타오르게 위대하게 난리난 소연의 녹음 현장! (2022-01-17)"
+},
+{
+  "link": "https://youtu.be/rI-88uYZNyE",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2021",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/rI-88uYZNyE/mqdefault.jpg",
+  "alt": "Raiden Love Right Back Recording Behind the Scene (2021-10-24)",
+  "title": "(미연 07:17~) Raiden Love Right Back Recording Behind the Scene (2021-10-24)"
+},
+{
+  "link": "https://youtu.be/YVjugI2zlk4",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2020",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/YVjugI2zlk4/mqdefault.jpg",
+  "alt": "[Making] 민니((여자)아이들) - Getaway (MBN 나의 위험한 아내 OST) 메이킹 필름 (2020-10-14)",
+  "title": "[Making] 민니((여자)아이들) - Getaway (MBN 나의 위험한 아내 OST) 메이킹 필름 (2020-10-14)"
 }
+
 
 
 
