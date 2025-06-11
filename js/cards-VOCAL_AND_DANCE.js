@@ -2948,4 +2948,4 @@ const vocalAndDanceCards = [
 ];
 
 // ✅ 전역 등록
-window.fancamCards = vocalAndDanceCards;
+window.vocalAndDanceCards = vocalAndDanceCards;
