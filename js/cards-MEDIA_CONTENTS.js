@@ -2156,17 +2156,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/1MQP6k2x3HQ",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연, 미연",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/1MQP6k2x3HQ/sddefault.jpg",
-  "alt": "[예고] 생색은 소연이 내고 원샷은 미연이 받는다? | 놀라운 토요일-도레미마켓 amazingsaturday EP.122",
-  "title": "[예고] 생색은 소연이 내고 원샷은 미연이 받는다? | 놀라운 토요일-도레미마켓 amazingsaturday EP.122 (2020-08-18)"
-},
-
-{
   "link": "https://youtu.be/mbDKSPfSvvA",
   "category": "MEDIA_CONTENTS",
   "member": "소연, 미연",
@@ -2395,17 +2384,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/00L672Fc7rU/sddefault.jpg",
   "alt": "(여자)아이들 우기 드디어 기린 만났습니다! 🦒우기린🦒 극적 상봉의 순간 大공개! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.5 | 에버랜드",
   "title": "(여자)아이들 우기 드디어 기린 만났습니다! 🦒우기린🦒 극적 상봉의 순간 大공개! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.5 | 에버랜드 (2020-10-23)"
-},
-
-{
-  "link": "https://youtu.be/yD2iHQQPedw",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/yD2iHQQPedw/sddefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 I 티저 영상 [IDOL WORKSHOP (G)I-DLE TEASER]",
-  "title": "㈜아이돌워크숍 (여자)아이들 I 티저 영상 [IDOL WORKSHOP (G)I-DLE TEASER] (2020-10-29)"
 },
 
 {
@@ -4686,17 +4664,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/UoCvnU3oovQ",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/UoCvnU3oovQ/sddefault.jpg",
-  "alt": "(Teaser) [거치면 흥하리] (여자)아이들, 할머니댁 최초 블랙리스트 등극?! 감당 불가 TOMBOY들이 거흥에 떴다🤟 | (G)I-DLE 편 (ENG SUB)",
-  "title": "(Teaser) [거치면 흥하리] (여자)아이들, 할머니댁 최초 블랙리스트 등극?! 감당 불가 TOMBOY들이 거흥에 떴다🤟 | (G)I-DLE 편 (ENG SUB) (2022-03-28)"
-},
-
-{
   "link": "https://youtu.be/K9Pt2WGVy24",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -4950,17 +4917,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/QQafZcj8924",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/QQafZcj8924/sddefault.jpg",
-  "alt": "(sub) [TEASER] 지금부터 네버버 예술학교에 전설의 우등생을 소개할게😉 | 꿀로그잼 : 네버버 예술학교 (여자)아이들",
-  "title": "(sub) [TEASER] 지금부터 네버버 예술학교에 전설의 우등생을 소개할게😉 | 꿀로그잼 : 네버버 예술학교 (여자)아이들 (2022-05-16)"
-},
-
-{
   "link": "https://youtu.be/VKQYN7cv5ZQ",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
@@ -5112,17 +5068,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/9PcWhAVq8-s/sddefault.jpg",
   "alt": "모래시계 멍 x ( 곽윤기 + 미연 ) = ? I 미적분 - 휴멍비잉 I Google Play (2022-05-27)",
   "title": "모래시계 멍 x ( 곽윤기 + 미연 ) = ? I 미적분 - 휴멍비잉 I Google Play (2022-05-27)"
-},
-
-{
-  "link": "https://youtu.be/gN0PIFY90Ms",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/gN0PIFY90Ms/sddefault.jpg",
-  "alt": "[🎤 TEASER] SALAM DARI (G)I-DLE 💜ㅣMANTUL ENTERTAINMENT",
-  "title": "[🎤 TEASER] SALAM DARI (G)I-DLE 💜ㅣMANTUL ENTERTAINMENT (2022-05-28)"
 },
 
 {
@@ -5401,17 +5346,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/wnrFSjd5pgA",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/wnrFSjd5pgA/sddefault.jpg",
-  "alt": "(sub) [TEASER] 바쁜 갓생은 잠시 내려놓고 우리 아이들 하고 싶은 거 다 해💘ㅣ방해금지모드+ (여자)아이들",
-  "title": "(sub) [TEASER] 바쁜 갓생은 잠시 내려놓고 우리 아이들 하고 싶은 거 다 해💘ㅣ방해금지모드+ (여자)아이들 (2022-09-05)"
-},
-
-{
   "link": "https://youtu.be/icodolkPNcY",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -5431,17 +5365,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/j2g_plNlJFI/sddefault.jpg",
   "alt": "지구상에는 없던 헤어케어 광고의 끝판왕! 이게 샴푸광고라구요?? |  랄랄 | 양세형 | [좋광고2] Ep.7 코에티카 (2022-09-07)",
   "title": "지구상에는 없던 헤어케어 광고의 끝판왕! 이게 샴푸광고라구요?? |  랄랄 | 양세형 | [좋광고2] Ep.7 코에티카 (2022-09-07)"
-},
-
-{
-  "link": "https://youtu.be/8H1LR6D-bmk",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/8H1LR6D-bmk/sddefault.jpg",
-  "alt": "(sub) [2화 예고편] 방해금지모드+ (여자)아이들",
-  "title": "(sub) [2화 예고편] 방해금지모드+ (여자)아이들 (2022-09-08)"
 },
 
 {
@@ -5466,16 +5389,6 @@ const mediaContentsCards = [
   "title": "(sub) [88클립] 사람은 5명 사진은 2장? 4컷 사진은 왜 홀수가 왜 없어요? | 방해금지모드+ (여자)아이들 (2022-09-10)"
 },
 
-{
-  "link": "https://youtu.be/J-EUOxHmFpM",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/J-EUOxHmFpM/sddefault.jpg",
-  "alt": "(sub) [3화 예고편] 방해금지모드+ (여자)아이들",
-  "title": "(sub) [3화 예고편] 방해금지모드+ (여자)아이들 (2022-09-13)"
-},
 
 {
   "link": "https://youtu.be/vPCLHG8jUuU",
@@ -5499,16 +5412,6 @@ const mediaContentsCards = [
   "title": "(sub) [FULL] 방해금지모드+ (여자)아이들 Ep.01 (2022-09-14)"
 },
 
-{
-  "link": "https://youtu.be/vV6Cs-THrP0",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/vV6Cs-THrP0/sddefault.jpg",
-  "alt": "(sub) [4화 예고편] 방해금지모드+ (여자)아이들",
-  "title": "(sub) [4화 예고편] 방해금지모드+ (여자)아이들 (2022-09-15)"
-},
 
 {
   "link": "https://youtu.be/rZKOHhF548c",
