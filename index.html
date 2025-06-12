@@ -168,6 +168,150 @@
   </style>
 </head>
 <body>
-  <!-- Full HTML and JS from your last working index.html will be inserted here -->
+  <div class="header-bar">
+    <div id="mainTitle">I-DLE 몰아보기</div>
+  </div>
+  <div class="category-section">
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
+      <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
+      <a class="category-btn" href="category.html?category=OFFICIAL_CLIPS">OFFICIAL_CLIPS</a>
+      <a class="category-btn" href="category.html?category=ORIGINAL_VARIETY">ORIGINAL_VARIETY</a>
+      <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
+      <a class="category-btn" href="category.html?category=VOCAL_AND_DANCE">VOCAL_AND_DANCE</a>
+      <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
+    </div>
+    <div class="category-line">
+      <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
+      <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
+      <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
+      <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
+      <a class="category-btn" href="category.html?category=FANCAM">FANCAM</a>
+      <a class="category-btn" href="category.html?category=SHORTS">SHORTS</a>
+      <a class="category-btn" href="category.html?category=ETC">ETC</a>
+    </div>
+  </div>
+  <div class="top-bar">
+    <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
+    <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
+    <input type="text" id="searchInput" placeholder="Search all videos...">
+    <button id="searchBtn" title="검색 실행">🔍</button>
+  </div>
+  <div class="card-container" id="allCards"></div>
+  <div class="button-wrapper">
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="위로 가기">↑</button>
+  </div>
+  <script src="common.js"></script>
+  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
+  <script src="js/cards-RECORDING_BEHIND.js"></script>
+  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+  <script src="js/cards-ORIGINAL_VARIETY.js"></script>
+  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
+  <script src="js/cards-VOCAL_AND_DANCE.js"></script>
+  <script src="js/cards-BEHIND_CLIPS.js"></script>
+  <script src="js/cards-MEDIA_CONTENTS.js"></script>
+  <script src="js/cards-RADIO_PODCAST.js"></script>
+  <script src="js/cards-INTERVIEW.js"></script>
+  <script src="js/cards-LIVE_STREAM.js"></script>
+  <script src="js/cards-FANCAM.js"></script>
+  <script src="js/cards-SHORTS.js"></script>
+  <script src="js/cards-ETC.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const container = document.getElementById("allCards");
+      const loadMoreBtn = document.getElementById("loadMoreBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
+      const searchInput = document.getElementById("searchInput");
+      const resetSearchBtn = document.getElementById("resetSearchBtn");
+      const searchBtn = document.getElementById("searchBtn");
+      let currentIndex = 0;
+      const batchSize = 20;
+      const all = [].concat(
+        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+        typeof officialClipCards !== 'undefined' ? officialClipCards : [],
+        typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
+        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+        typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
+        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+        typeof interviewCards !== 'undefined' ? interviewCards : [],
+        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+        typeof fancamCards !== 'undefined' ? fancamCards : [],
+        typeof shortsCards !== 'undefined' ? shortsCards : [],
+        typeof etcCards !== 'undefined' ? etcCards : []
+      );
+      function extractDate(title) {
+        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+        return match ? match[1] : '2000-01-01';
+      }
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      let filtered = all;
+      function applySearch() {
+        const keywords = searchInput.value
+          .toLowerCase()
+          .replace(/[^\w가-힣]+/g, ' ')
+          .split(/\s+/)
+          .filter(Boolean);
+        filtered = all.filter(c => {
+          const combinedText = (c.title + " " + c.member).toLowerCase().replace(/[^\w가-힣]+/g, ' ');
+          return keywords.every(k => combinedText.includes(k));
+        });
+        currentIndex = 0;
+        renderCards(filtered);
+      }
+      function renderCards(cards) {
+        container.innerHTML = '';
+        cards.slice(0, currentIndex + batchSize).forEach(data => {
+          const card = document.createElement("a");
+          card.className = "card";
+          card.setAttribute("data-category", data.category);
+          card.setAttribute("data-member", data.member);
+          card.setAttribute("data-year", data.year);
+          card.innerHTML = `
+            <img src="${data.thumbnail}" alt="${data.alt}">
+            <div class="card-title">${data.title}</div>
+          `;
+          card.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            window.open(data.link, "_blank");
+          });
+          container.appendChild(card);
+        });
+        currentIndex += batchSize;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+      }
+      renderCards(filtered);
+      loadMoreBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        loadMoreBtn.blur();
+        container.classList.add("disabled");
+        setTimeout(() => {
+          renderCards(filtered);
+          container.classList.remove("disabled");
+        }, 100);
+      });
+      searchBtn.addEventListener("click", applySearch);
+      searchInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          applySearch();
+        }
+      });
+      resetSearchBtn.addEventListener("click", () => {
+        searchInput.value = '';
+        filtered = all;
+        currentIndex = 0;
+        renderCards(filtered);
+      });
+      scrollTopBtn.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    });
+  </script>
 </body>
 </html>
