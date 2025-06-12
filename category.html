@@ -29,31 +29,38 @@
       left: 50%;
       transform: translateX(-50%);
     }
-    .category-section {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      padding: 30px 10px 10px;
-    }
-    .category-line {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-bottom: 10px;
-    }
-    .category-btn {
-      padding: 10px 20px;
-      background-color: #333;
-      border-radius: 20px;
-      font-size: 15px;
-      font-weight: 600;
-      color: #fff;
-      cursor: pointer;
-      border: none;
-      text-decoration: none;
-    }
+    /* ✅ 바꿔야 할 부분만 수정 */
+.category-section {
+  display: flex;
+  flex-direction: column; /* 기존 wrap → column 변경 */
+  gap: 10px;
+  padding: 30px 10px 10px;
+}
+
+.category-line {
+  display: flex;
+  flex-wrap: nowrap;        /* ✅ 줄바꿈 금지 */
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  overflow-x: auto;         /* ✅ 넘치면 좌우 스크롤 */
+  -webkit-overflow-scrolling: touch;
+}
+
+.category-btn {
+  padding: 10px 20px;
+  background-color: #333;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  white-space: nowrap;      /* ✅ 텍스트 줄바꿈 방지 */
+  flex-shrink: 0;           /* ✅ 스크롤시 강제로 줄어들지 않게 */
+}
+
     .top-bar {
       display: flex;
       justify-content: center;
@@ -184,7 +191,7 @@
   </div>
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
-    <div class="category-line" id="monthFilters"></div>
+     <div class="category-line" id="monthFilters"></div>
     <div class="category-line" id="memberFilters"></div>
   </div>
   <div class="top-bar">
