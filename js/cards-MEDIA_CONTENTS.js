@@ -8612,6 +8612,16 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/kgm8rD5R6jY/sddefault.jpg",
   "alt": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜JTBC 250607 방송 (2025-06-07)",
   "title": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜JTBC 250607 방송 (2025-06-07)"
+},
+  {
+  "link": "https://youtu.be/2ip1QWTozwY",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/2ip1QWTozwY/sddefault.jpg",
+  "alt": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)",
+  "title": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)"
 }
 
 ];
