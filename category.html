@@ -163,16 +163,21 @@
   .top-bar input {
     width: 140px;
   }
- @media (max-width: 768px) {
+ @media screen and (max-width: 768px) {
   .card-title {
-    height: auto !important; /* ✅ 모바일에선 고정 높이 제거 */
-    line-height: 1.2em;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: normal;
+    all: unset;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 4 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: normal !important;
+    font-size: 13px !important;
+    line-height: 1.2em !important;
+    padding: 6px !important;
+    color: #fff !important;
+    background-color: #222 !important;
+    box-sizing: content-box !important;
   }
 }
 
