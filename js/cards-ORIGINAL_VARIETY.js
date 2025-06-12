@@ -35,7 +35,7 @@ const originalVarietyCards = [
 {
   "link": "https://youtu.be/4vY76usk3fk",
   "category": "ORIGINAL_VARIETY",
-  "member": "슈화",
+  "member": "아이들",
   "year": "2023",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/4vY76usk3fk/sddefault.jpg",
@@ -321,7 +321,7 @@ const originalVarietyCards = [
 {
   "link": "https://youtu.be/IWq6mswwLCo",
   "category": "ORIGINAL_VARIETY",
-  "member": "우기, 슈화",
+  "member": "아이들",
   "year": "2019",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/IWq6mswwLCo/sddefault.jpg",
