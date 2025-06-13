@@ -2190,7 +2190,7 @@ const liveStreamCards = [
 {
   "link": "https://weverse.io/i-dle/live/4-110663551",
   "category": "LIVE_STREAM",
-  "member": "민니",
+  "member": 
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
