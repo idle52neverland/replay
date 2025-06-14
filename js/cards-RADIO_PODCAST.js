@@ -630,7 +630,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/1.png",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/1.PNG",
   "alt": "면스트 미연이와 겨울방학 해요🌹 (210114)",
   "title": "면스트 미연이와 겨울방학 해요🌹 (210114)"
 }
