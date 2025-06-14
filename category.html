@@ -296,18 +296,24 @@
           card.setAttribute("data-category", data.category);
           card.setAttribute("data-member", data.member);
           card.setAttribute("data-year", data.year);
+
+          const durationHTML = data.duration ? `<div class="duration-label">${formatDuration(data.duration)}</div>` : "";
+
           card.innerHTML = `
-            <img src="${data.thumbnail}" alt="${data.alt}">
-            <div class="duration-label">${formatDuration(data.duration || "")}</div>
+            <img src="${data.thumbnail}" alt="${data.alt}" loading="lazy">
+            ${durationHTML}
             <div class="card-title">${data.title}</div>
           `;
+
           card.addEventListener("click", (e) => {
             e.preventDefault();
             e.stopPropagation();
             window.open(data.link, "_blank");
           });
+
           container.appendChild(card);
         });
+
         currentIndex += batchSize;
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
       }
