@@ -3,7 +3,7 @@ const mediaContentsCards = [
   "link": "https://youtu.be/MbHVHQstS9w",
   "category": "MEDIA_CONTENTS",
   "member": "우기",
-  "year": "2018",
+  "year": "PRE-DEBUT",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/MbHVHQstS9w/sddefault.jpg",
   "alt": "아이돌 연습생이 노래를 들어 달라고 한다면? 반전 목소리네 꼭 데뷔했으면 좋겠다 | 세상의 온도 | (2018-02-27)",
@@ -11,21 +11,10 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/KXB-9PeJbb8",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연, 민니",
-  "year": "2018",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/KXB-9PeJbb8/sddefault.jpg",
-  "alt": "[일소라] 댕댕이 자매의 노력 (박원) cover (2018-03-05)",
-  "title": "[일소라] 댕댕이 자매의 노력 (박원) cover (2018-03-05)"
-},
-
-{
   "link": "https://youtu.be/YkrS9kfFO_s",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
-  "year": "2018",
+  "year": "PRE-DEBUT",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/YkrS9kfFO_s/sddefault.jpg",
   "alt": "2018 아는만큼 보이는 아이돌 댄스! 이거 다 맞추면 춤잘알 인정 (여자)아이들 (G)I-DLE DANCE MEDLEY (2018-04-21)",
@@ -36,7 +25,7 @@ const mediaContentsCards = [
   "link": "https://youtu.be/FoiDU23wjO4",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
-  "year": "2018",
+  "year": "PRE-DEBUT",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/FoiDU23wjO4/sddefault.jpg",
   "alt": "걸그룹 데뷔를 앞둔 한 소녀에게 어마무시한 일이 일어났다?! 데뷔 전부터 살벌한(?) 신인 걸그룹 '아이들' ! (2018-04-26)",
@@ -8622,7 +8611,42 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2ip1QWTozwY/sddefault.jpg",
   "alt": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)",
   "title": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)"
+},
+  {
+  "link": "https://youtu.be/PVC08LXEC30",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2021",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/PVC08LXEC30/sddefault.jpg",
+  "alt": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)",
+  "title": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)"
+},
+
+{
+  "link": "https://youtu.be/nHCE-8NnNbE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/nHCE-8NnNbE/sddefault.jpg",
+  "alt": "(여자)아이들 우기 시즌 1 마무리! 🍯 꿀타래 배우러 왔서예 🖌️ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.28 (2021-04-23)",
+  "title": "(여자)아이들 우기 시즌 1 마무리! 🍯 꿀타래 배우러 왔서예 🖌️ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.28 (2021-04-23)"
+},
+
+{
+  "link": "https://youtu.be/tuvMvLO3aJI",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/tuvMvLO3aJI/sddefault.jpg",
+  "alt": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)",
+  "title": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)"
 }
+
+
+  
 
 ];
 
