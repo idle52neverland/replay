@@ -1533,6 +1533,16 @@ const radioPodcastCards = [
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/어벤걸스.png",
   "alt": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)",
   "title": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)"
+},
+  {
+  "link": "https://naver.me/GtJpJUZl",
+  "category": "RADIO_PODCAST",
+  "member": "미연",
+  "year": "2022",
+  "month": "11",
+  "thumbnail": "",
+  "alt": "미연과 다정하고 따뜻한밤 보내요 (2022-11-06)",
+  "title": "미연과 다정하고 따뜻한밤 보내요 |소문의 아이들| (2022-11-06)"
 }
 
 
