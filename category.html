@@ -221,6 +221,10 @@
   <script src="js/cards-ETC.js"></script>
   <script>
   window.onload = function () {
+    const closeBtn = document.getElementById("closeBtn");
+    if (closeBtn) {
+      closeBtn.addEventListener("click", closeVideo);
+    }
     const urlParams = new URLSearchParams(window.location.search);
     const selectedCategory = urlParams.get("category") || "";
     const container = document.getElementById("allCards");
