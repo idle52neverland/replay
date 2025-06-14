@@ -1503,6 +1503,36 @@ const radioPodcastCards = [
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
   "alt": "면스트 미연이와 겨울방학 해요🌹 (2023-01-10)",
   "title": "면스트 미연이와 겨울방학 해요🌹 |소문의 아이들| (2023-01-10)"
+},
+  {
+  "link": "https://naver.me/Gl7UFGvx",
+  "category": "RADIO_PODCAST",
+  "member": "소연",
+  "year": "2022",
+  "month": "03",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/너에게음악.png",
+  "alt": "윤상과 전소연 in 너에게 음악 (2022-03-30)",
+  "title": "윤상과 전소연 in 너에게 음악 (2022-03-30)"
+},
+{
+  "link": "https://naver.me/FDGTezvK",
+  "category": "RADIO_PODCAST",
+  "member": "소연",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/SAP.png",
+  "alt": "삽질하는 이야기 합니다with 소연 | SAP | (2021-04-02)",
+  "title": "삽질하는 이야기 합니다with 소연 | SAP | (2021-04-02)"
+},
+{
+  "link": "https://naver.me/5ZSfUBBW",
+  "category": "RADIO_PODCAST",
+  "member": "민니",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/어벤걸스.png",
+  "alt": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)",
+  "title": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)"
 }
 
 
