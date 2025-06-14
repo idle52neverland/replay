@@ -8643,6 +8643,171 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/tuvMvLO3aJI/sddefault.jpg",
   "alt": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)",
   "title": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)"
+},
+  {
+  "link": "https://youtu.be/Gdk-KV8uXvw",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/Gdk-KV8uXvw/sddefault.jpg",
+  "alt": "[SUB] 그동안 감사했습니다ㅣ2024 강원 동계청소년올림픽대회ㅣ겨울 스포츠ㅣ워크돌ㅣ슈화 (2023-12-21)",
+  "title": "[SUB] 그동안 감사했습니다ㅣ2024 강원 동계청소년올림픽대회ㅣ겨울 스포츠ㅣ워크돌ㅣ슈화 (2023-12-21)"
+},
+
+{
+  "link": "https://youtu.be/rdayY7k8xsc",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/rdayY7k8xsc/sddefault.jpg",
+  "alt": "[SUB] 이걸 본 당신은 주말에 대방어를 먹으러 가게 됩니다ㅣ횟집ㅣ대방어, 킹크랩ㅣ워크돌ㅣ슈화 (2023-12-14)",
+  "title": "[SUB] 이걸 본 당신은 주말에 대방어를 먹으러 가게 됩니다ㅣ횟집ㅣ대방어, 킹크랩ㅣ워크돌ㅣ슈화 (2023-12-14)"
+},
+
+{
+  "link": "https://youtu.be/LmjoREi390I",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2023",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/LmjoREi390I/sddefault.jpg",
+  "alt": "[SUB] 게임하다 현피 뜨는 여돌ㅋㅋㅋㅋㅋ (w.이세돌, 뜨뜨뜨뜨) ㅣ게임ㅣ넷마블 지스타ㅣ워크돌ㅣ슈화, 우기 (2023-12-07)",
+  "title": "[SUB] 게임하다 현피 뜨는 여돌ㅋㅋㅋㅋㅋ (w.이세돌, 뜨뜨뜨뜨) ㅣ게임ㅣ넷마블 지스타ㅣ워크돌ㅣ슈화, 우기 (2023-12-07)"
+},
+
+{
+  "link": "https://youtu.be/YOzoLxWomMk",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/YOzoLxWomMk/sddefault.jpg",
+  "alt": "[SUB] 잔 깨부수고 헌팅에 폭탄주 파티ㅣ역전할머니맥주ㅣ워크돌ㅣ슈화 (2023-11-30)",
+  "title": "[SUB] 잔 깨부수고 헌팅에 폭탄주 파티ㅣ역전할머니맥주ㅣ워크돌ㅣ슈화 (2023-11-30)"
+},
+
+{
+  "link": "https://youtu.be/NjJHUVAyUv4",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/NjJHUVAyUv4/sddefault.jpg",
+  "alt": "[SUB] 역대급 난이도 알바..😇 쓰레기가 계속 나와요..ㅣ특수청소ㅣ워크돌ㅣ슈화 (2023-11-23)",
+  "title": "[SUB] 역대급 난이도 알바..😇 쓰레기가 계속 나와요..ㅣ특수청소ㅣ워크돌ㅣ슈화 (2023-11-23)"
+},
+
+{
+  "link": "https://youtu.be/xGfPcH3WT6A",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/xGfPcH3WT6A/sddefault.jpg",
+  "alt": "[SUB] 만원으로 차은우 이동욱되는 법(feat. NMIXX 해원, 쯔위)ㅣ미용실ㅣ워크돌ㅣ슈화 (2023-11-16)",
+  "title": "[SUB] 만원으로 차은우 이동욱되는 법(feat. NMIXX 해원, 쯔위)ㅣ미용실ㅣ워크돌ㅣ슈화 (2023-11-16)"
+},
+
+{
+  "link": "https://youtu.be/ghoT4CfPHo0",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/ghoT4CfPHo0/sddefault.jpg",
+  "alt": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
+  "title": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)"
+},
+
+{
+  "link": "https://youtu.be/8KtoKw5tW08",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/8KtoKw5tW08/sddefault.jpg",
+  "alt": "[EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)",
+  "title": "[EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)"
+},
+
+
+{
+  "link": "https://youtu.be/u1spnGXvjsQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 슈화",
+  "year": "2023",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/u1spnGXvjsQ/sddefault.jpg",
+  "alt": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)",
+  "title": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)"
+},
+
+{
+  "link": "https://youtu.be/e_YxEIZgRWg",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/e_YxEIZgRWg/sddefault.jpg",
+  "alt": "[EN/CN] 개 크니깐 개 힘들다ㅣ대형견 목욕ㅣ워크돌ㅣ슈화 (2023-07-27)",
+  "title": "[EN/CN] 개 크니깐 개 힘들다ㅣ대형견 목욕ㅣ워크돌ㅣ슈화 (2023-07-27)"
+},
+
+{
+  "link": "https://youtu.be/chkzgW9aJrg",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/chkzgW9aJrg/sddefault.jpg",
+  "alt": "[EN/CN] 간장게장 왤케 비싸요?! 극한직업에 나온 이유가 있었네..😇ㅣ간장게장ㅣ워크돌ㅣ슈화 (2023-07-13)",
+  "title": "[EN/CN] 간장게장 왤케 비싸요?! 극한직업에 나온 이유가 있었네..😇ㅣ간장게장ㅣ워크돌ㅣ슈화 (2023-07-13)"
+},
+
+{
+  "link": "https://youtu.be/K3jHdrfM6l4",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 슈화",
+  "year": "2023",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/K3jHdrfM6l4/sddefault.jpg",
+  "alt": "[EN/CN] 시현하다 알바생들이 증명사진을 찍으면?.......은 미모 레전드 찍은 (여자)아이들 TJ 조합🐱🐭ㅣ시현하다ㅣ워크돌ㅣ슈화, 미연 (2023-07-06)",
+  "title": "[EN/CN] 시현하다 알바생들이 증명사진을 찍으면?.......은 미모 레전드 찍은 (여자)아이들 TJ 조합🐱🐭ㅣ시현하다ㅣ워크돌ㅣ슈화, 미연 (2023-07-06)"
+},
+
+{
+  "link": "https://youtu.be/U5D4nDHKGn4",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니, 슈화",
+  "year": "2023",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/U5D4nDHKGn4/sddefault.jpg",
+  "alt": "[EN/CN] 조교는 오늘 너희에게 무척 실망했다... (G)I-DLE 민니와 동반 입대 아니고 알바🫡ㅣ군사학과ㅣ워크돌ㅣ슈화 (2023-06-22)",
+  "title": "[EN/CN] 조교는 오늘 너희에게 무척 실망했다... (G)I-DLE 민니와 동반 입대 아니고 알바🫡ㅣ군사학과ㅣ워크돌ㅣ슈화 (2023-06-22)"
+},
+
+{
+  "link": "https://youtu.be/zgBL5SeqsV0",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/zgBL5SeqsV0/sddefault.jpg",
+  "alt": "[EN/CN] 떡볶이집 알바.. 이게 맞아..? 서빙,청소,디제잉,메뉴개발....닭발 먹방(?)까지🔥ㅣ신당동 떡볶이ㅣ워크돌ㅣ슈화 (2023-06-15)",
+  "title": "[EN/CN] 떡볶이집 알바.. 이게 맞아..? 서빙,청소,디제잉,메뉴개발....닭발 먹방(?)까지🔥ㅣ신당동 떡볶이ㅣ워크돌ㅣ슈화 (2023-06-15)"
+},
+
+{
+  "link": "https://youtu.be/kXzdibrb5Sw",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/kXzdibrb5Sw/sddefault.jpg",
+  "alt": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
+  "title": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)"
 }
 
 
