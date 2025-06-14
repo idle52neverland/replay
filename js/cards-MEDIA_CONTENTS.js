@@ -8732,18 +8732,6 @@ const mediaContentsCards = [
   "title": "[EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)"
 },
 
-
-{
-  "link": "https://youtu.be/u1spnGXvjsQ",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연, 민니, 슈화",
-  "year": "2023",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/u1spnGXvjsQ/sddefault.jpg",
-  "alt": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)",
-  "title": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)"
-},
-
 {
   "link": "https://youtu.be/e_YxEIZgRWg",
   "category": "MEDIA_CONTENTS",
