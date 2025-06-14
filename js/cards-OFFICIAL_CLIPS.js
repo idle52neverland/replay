@@ -6516,6 +6516,16 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/6KvYHQqq5F8/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)"
+},
+  {
+  "link": "https://youtu.be/sYGLN6biYb0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/sYGLN6biYb0/sddefault.jpg",
+  "alt": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)",
+  "title": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)"
 }
 
   
