@@ -623,16 +623,6 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/1s7_BcNNO2c/sddefault.jpg",
   "alt": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 210711방송 (2021-07-11)",
   "title": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 210711방송 (2021-07-11)"
-},
-{
-  "link": "https://naver.me/GgBLQI5v",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "미연",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/1.png",
-  "alt": "면스트 미연이와 겨울방학 해요🌹 (2021-01-14)",
-  "title": "면스트 미연이와 겨울방학 해요🌹 (2021-01-14)"
 }
 
 
