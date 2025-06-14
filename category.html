@@ -156,6 +156,29 @@
       background-color: #fff !important;
       color: #111 !important;
     }
+    #videoOverlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: #000;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+    #closeBtn {
+      position: absolute;
+      top: -48px;
+      right: 0;
+      background: rgba(255, 255, 255, 0.3);
+      border: none;
+      font-size: 22px;
+      padding: 4px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
@@ -176,9 +199,9 @@
     <button id="loadMoreBtn">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
-  <div id="videoOverlay" tabindex="0" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background-color:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:9999;">
+  <div id="videoOverlay" tabindex="0">
     <div style="position:relative; width:90%; max-width:800px; padding-top:48px;">
-      <button onclick="closeVideo()" id="closeBtn" style="position:absolute; top:-48px; right:0; background:#fff; border:none; font-size:22px; padding:4px 10px; border-radius:8px; cursor:pointer;">✕</button>
+      <button id="closeBtn">✕</button>
       <iframe id="videoFrame" width="100%" height="450px" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
