@@ -106,12 +106,25 @@
       padding: 0;
       margin: 0;
     }
-    .card img {
+    .thumbnail-wrapper {
+      position: relative;
+    }
+    .thumbnail-wrapper img {
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
       display: block;
       background-color: #000;
+    }
+    .duration-label {
+      position: absolute;
+      right: 6px;
+      bottom: 6px;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      font-size: 12px;
+      padding: 2px 4px;
+      border-radius: 3px;
     }
     .card-title {
       font-size: 13px;
@@ -128,17 +141,17 @@
       box-sizing: content-box;
     }
     @media screen and (max-width: 768px) {
-  .card-title {
-    font-size: 14px;
-    line-height: 1.2em;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: normal;
-  }
-}
+      .card-title {
+        font-size: 14px;
+        line-height: 1.2em;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+      }
+    }
     .button-wrapper {
       display: flex;
       justify-content: center;
@@ -179,8 +192,6 @@
   </style>
 </head>
 <body>
-<!-- 이하 동일 -->
-
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
@@ -283,8 +294,12 @@
           card.setAttribute("data-category", data.category);
           card.setAttribute("data-member", data.member);
           card.setAttribute("data-year", data.year);
+          const durationHTML = data.duration ? `<div class="duration-label">${data.duration}</div>` : '';
           card.innerHTML = `
-            <img src="${data.thumbnail}" alt="${data.alt}">
+            <div class="thumbnail-wrapper">
+              <img src="${data.thumbnail}" alt="${data.alt}">
+              ${durationHTML}
+            </div>
             <div class="card-title">${data.title}</div>
           `;
           card.addEventListener("click", (e) => {
