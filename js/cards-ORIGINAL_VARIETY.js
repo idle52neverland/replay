@@ -393,6 +393,16 @@ const originalVarietyCards = [
   "thumbnail": "https://i.ytimg.com/vi/mDiZFM97uUo/sddefault.jpg",
   "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
   "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)"
+},
+ {
+  "link": "https://youtu.be/J6AyyiFlCu8",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/J6AyyiFlCu8/sddefault.jpg",
+  "alt": "아이들 언어 능력, 어디까지 올라가는 거예요? [네맘대로 아이들] EP. 2 | i-dle (아이들)ㅣSUB (2025-06-12)",
+  "title": "아이들 언어 능력, 어디까지 올라가는 거예요? [네맘대로 아이들] EP. 2 | i-dle (아이들)ㅣSUB (2025-06-12)"
 }
 
 
