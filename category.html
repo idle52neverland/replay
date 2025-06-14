@@ -108,7 +108,7 @@
         typeof etcCards !== 'undefined' ? etcCards : []
       );
 
-      let filtered = all.filter(card => card.category === selectedCategory);
+      let filtered = all.filter(card => card.category?.toLowerCase() === selectedCategory.toLowerCase());
 
       function extractDate(title) {
         const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
@@ -171,7 +171,7 @@
         const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
 
         filtered = all.filter(card => {
-          if (card.category !== selectedCategory) return false;
+          if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
 
           const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
           const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
