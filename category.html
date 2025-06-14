@@ -176,9 +176,9 @@
     <button id="loadMoreBtn">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
-  <div id="videoOverlay" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background-color:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:9999;">
-    <div style="position:relative; width:90%; max-width:800px;">
-      <button onclick="closeVideo()" style="position:absolute; top:-40px; right:0; background:#fff; border:none; font-size:18px; padding:8px 12px; border-radius:4px; cursor:pointer;">닫기 ✕</button>
+  <div id="videoOverlay" tabindex="0" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background-color:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:9999;">
+    <div style="position:relative; width:90%; max-width:800px; padding-top:48px;">
+      <button onclick="closeVideo()" id="closeBtn" style="position:absolute; top:-48px; right:0; background:#fff; border:none; font-size:22px; padding:4px 10px; border-radius:8px; cursor:pointer;">✕</button>
       <iframe id="videoFrame" width="100%" height="450px" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
@@ -197,148 +197,156 @@
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
   <script>
-    window.onload = function () {
-      const urlParams = new URLSearchParams(window.location.search);
-      const selectedCategory = urlParams.get("category") || "";
-      const container = document.getElementById("allCards");
-      const searchInput = document.getElementById("searchInput");
-      const searchBtn = document.getElementById("searchBtn");
-      const resetSearchBtn = document.getElementById("resetSearchBtn");
-      const loadMoreBtn = document.getElementById("loadMoreBtn");
-      const scrollTopBtn = document.getElementById("scrollTopBtn");
-      let currentIndex = 0;
-      const batchSize = 20;
+  window.onload = function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const selectedCategory = urlParams.get("category") || "";
+    const container = document.getElementById("allCards");
+    const searchInput = document.getElementById("searchInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const resetSearchBtn = document.getElementById("resetSearchBtn");
+    const loadMoreBtn = document.getElementById("loadMoreBtn");
+    const scrollTopBtn = document.getElementById("scrollTopBtn");
+    let currentIndex = 0;
+    const batchSize = 20;
 
-      const all = [].concat(
-        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-        typeof officialClipCards !== 'undefined' ? officialClipCards : [],
-        typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
-        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-        typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
-        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-        typeof interviewCards !== 'undefined' ? interviewCards : [],
-        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-        typeof fancamCards !== 'undefined' ? fancamCards : [],
-        typeof shortsCards !== 'undefined' ? shortsCards : [],
-        typeof etcCards !== 'undefined' ? etcCards : []
-      );
+    const all = [].concat(
+      typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+      typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+      typeof officialClipCards !== 'undefined' ? officialClipCards : [],
+      typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
+      typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+      typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
+      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+      typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+      typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+      typeof interviewCards !== 'undefined' ? interviewCards : [],
+      typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+      typeof fancamCards !== 'undefined' ? fancamCards : [],
+      typeof shortsCards !== 'undefined' ? shortsCards : [],
+      typeof etcCards !== 'undefined' ? etcCards : []
+    );
 
-      let filtered = all.filter(card => card.category === selectedCategory);
-      function extractDate(title) {
-        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-        return match ? match[1] : '2000-01-01';
-      }
-      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+    let filtered = all.filter(card => card.category === selectedCategory);
 
-      function renderCards(cards) {
-        container.innerHTML = '';
-        cards.slice(0, currentIndex + batchSize).forEach(data => {
-          const card = document.createElement("a");
-          card.className = "card";
-          card.setAttribute("data-category", data.category);
-          card.setAttribute("data-member", data.member);
-          card.setAttribute("data-year", data.year);
-          card.innerHTML = `
-            <img src="${data.thumbnail}" alt="${data.alt}">
-            <div class="card-title">${data.title}</div>
-          `;
-          card.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            playVideoInPage(data.link);
-          });
-          container.appendChild(card);
-        });
-        currentIndex += batchSize;
-        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
-      }
+    function extractDate(title) {
+      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+      return match ? match[1] : '2000-01-01';
+    }
 
-      function playVideoInPage(link) {
-        const ytMatch = link.match(/(?:youtu\.be\/|v=)([^&?/]+)/);
-        if (ytMatch) {
-          const videoId = ytMatch[1];
-          document.getElementById("videoFrame").src = `https://www.youtube.com/embed/${videoId}?rel=0`;
-        } else {
-          document.getElementById("videoFrame").src = link;
-        }
-        document.getElementById("videoOverlay").style.display = "flex";
-      }
-      function closeVideo() {
-        const frame = document.getElementById("videoFrame");
-        frame.src = "";
-        document.getElementById("videoOverlay").style.display = "none";
-      }
+    filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
 
-      function createFilterButtons(containerId, items) {
-        const filterContainer = document.getElementById(containerId);
-        filterContainer.innerHTML = '';
-        items.forEach(item => {
-          const btn = document.createElement("button");
-          btn.textContent = item;
-          btn.className = "category-btn";
-          btn.addEventListener("click", () => {
-            btn.classList.toggle("active");
-            applyAllFilters();
-          });
-          filterContainer.appendChild(btn);
-        });
-      }
-
-      function applyAllFilters() {
-        const rawInput = searchInput.value.toLowerCase();
-        const keywords = rawInput.replace(/[^\w가-힣]+/g, ' ').split(/\s+/).filter(Boolean);
-        const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
-        const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
-        filtered = all.filter(card => {
-          if (card.category !== selectedCategory) return false;
-          const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
-          const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
-            const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-            return match && match[1] === month;
-          });
-          const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
-          const combinedText = (card.title + " " + card.member).toLowerCase();
-          const matchesKeyword = keywords.every(kw => combinedText.includes(kw));
-          return matchesYear && matchesMonth && matchesMember && matchesKeyword;
-        });
-        currentIndex = 0;
-        filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-        renderCards(filtered);
-      }
-
-      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
-      createFilterButtons("monthFilters", ["01","02","03","04","05","06","07","08","09","10","11","12"]);
-      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
-
-      renderCards(filtered);
-
-      loadMoreBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        loadMoreBtn.blur();
-        setTimeout(() => {
-          renderCards(filtered);
-        }, 100);
-      });
-      searchBtn.addEventListener("click", applyAllFilters);
-      searchInput.addEventListener("keydown", (e) => {
-        if (e.key === "Enter") {
+    function renderCards(cards) {
+      container.innerHTML = '';
+      cards.slice(0, currentIndex + batchSize).forEach(data => {
+        const card = document.createElement("a");
+        card.className = "card";
+        card.setAttribute("data-category", data.category);
+        card.setAttribute("data-member", data.member);
+        card.setAttribute("data-year", data.year);
+        card.innerHTML = `
+          <img src="${data.thumbnail}" alt="${data.alt}">
+          <div class="card-title">${data.title}</div>
+        `;
+        card.addEventListener("click", (e) => {
           e.preventDefault();
+          e.stopPropagation();
+          playVideoInPage(data.link);
+        });
+        container.appendChild(card);
+      });
+      currentIndex += batchSize;
+      loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+    }
+
+    function playVideoInPage(link) {
+      const ytMatch = link.match(/(?:youtu\.be\/|v=)([^&?/]+)/);
+      if (ytMatch) {
+        const videoId = ytMatch[1];
+        document.getElementById("videoFrame").src = `https://www.youtube.com/embed/${videoId}?rel=0`;
+      } else {
+        document.getElementById("videoFrame").src = link;
+      }
+      const overlay = document.getElementById("videoOverlay");
+      overlay.style.display = "flex";
+      overlay.focus();
+    }
+
+    function closeVideo() {
+      const frame = document.getElementById("videoFrame");
+      frame.src = "";
+      document.getElementById("videoOverlay").style.display = "none";
+    }
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeVideo();
+    });
+
+    function createFilterButtons(containerId, items) {
+      const filterContainer = document.getElementById(containerId);
+      filterContainer.innerHTML = '';
+      items.forEach(item => {
+        const btn = document.createElement("button");
+        btn.textContent = item;
+        btn.className = "category-btn";
+        btn.addEventListener("click", () => {
+          btn.classList.toggle("active");
           applyAllFilters();
-        }
+        });
+        filterContainer.appendChild(btn);
       });
-      resetSearchBtn.addEventListener("click", () => {
-        window.location.href = window.location.href;
+    }
+
+    function applyAllFilters() {
+      const rawInput = searchInput.value.toLowerCase();
+      const keywords = rawInput.replace(/[^\w가-힣]+/g, ' ').split(/\s+/).filter(Boolean);
+      const activeYears = Array.from(document.querySelectorAll('#yearFilters .category-btn.active')).map(btn => btn.textContent);
+      const activeMonths = Array.from(document.querySelectorAll('#monthFilters .category-btn.active')).map(btn => btn.textContent);
+      const activeMembers = Array.from(document.querySelectorAll('#memberFilters .category-btn.active')).map(btn => btn.textContent);
+
+      filtered = all.filter(card => {
+        if (card.category !== selectedCategory) return false;
+        const matchesYear = activeYears.length === 0 || activeYears.includes(card.year);
+        const matchesMonth = activeMonths.length === 0 || activeMonths.some(month => {
+          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+          return match && match[1] === month;
+        });
+        const matchesMember = activeMembers.length === 0 || activeMembers.some(member => card.member.includes(member));
+        const combinedText = (card.title + " " + card.member).toLowerCase();
+        const matchesKeyword = keywords.every(kw => combinedText.includes(kw));
+        return matchesYear && matchesMonth && matchesMember && matchesKeyword;
       });
-      scrollTopBtn.addEventListener("click", () => {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
-      document.getElementById("mainTitle").textContent = selectedCategory || "전체 영상";
-    };
-  </script>
+
+      currentIndex = 0;
+      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      renderCards(filtered);
+    }
+
+    createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+    createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
+    createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
+
+    renderCards(filtered);
+
+    loadMoreBtn.addEventListener("click", () => {
+      renderCards(filtered);
+    });
+
+    searchBtn.addEventListener("click", applyAllFilters);
+    searchInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") applyAllFilters();
+    });
+
+    resetSearchBtn.addEventListener("click", () => {
+      window.location.href = window.location.href;
+    });
+
+    scrollTopBtn.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    document.getElementById("mainTitle").textContent = selectedCategory || "전체 영상";
+  };
+</script>
+
 </body>
 </html>
