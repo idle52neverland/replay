@@ -3189,6 +3189,17 @@ const vocalAndDanceCards = [
   "alt": "[4K] 아이들(i-dle) “Good Thing” Band LIVE 전기 맞은 것처럼 계속 귓가에 맴돈다..⚡ [it’s KPOP LIVE 잇츠라이브] (2025-05-26)",
   "title": "[4K] 아이들(i-dle) “Good Thing” Band LIVE 전기 맞은 것처럼 계속 귓가에 맴돈다..⚡ [it’s KPOP LIVE 잇츠라이브] (2025-05-26)",
   "duration": "00:03:56"
+},
+  {
+  "link": "https://youtu.be/QHFE7VoGSSw",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/QHFE7VoGSSw/hqdefault.jpg",
+  "alt": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)",
+  "title": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)"
 }
 
 
