@@ -286,34 +286,41 @@
       });
     }
 
-    function applyFilters() {
-      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
-      const keyword = document.getElementById("searchInput").value.toLowerCase();
-      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
+   function applyFilters() {
+  const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+  const keyword = document.getElementById("searchInput").value.toLowerCase();
+  const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+  const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+  const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
-      const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent);
-      const members = Array.from(memberBtns).map(b => b.textContent);
+  const years = Array.from(yearBtns).map(b => b.textContent);
+  const months = Array.from(monthBtns).map(b => b.textContent);
+  const members = Array.from(memberBtns).map(b => b.textContent);
 
-      filtered = all.filter(card => {
-        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
-        if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
-        if (years.length && !years.includes(card.year)) return false;
-        if (months.length) {
-          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-          if (!months.includes(m)) return false;
-        }
-        if (members.length && !members.some(m => card.member.includes(m))) return false;
-        return true;
-      });
+  filtered = all.filter(card => {
+    // ✅ category 대소문자 비교 문제 해결
+    if ((card.category || "").toUpperCase() !== selectedCategory.toUpperCase()) return false;
+    
+    if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
+    
+    if (years.length && !years.includes(card.year)) return false;
 
-      currentIndex = 0;
-      container.innerHTML = '';
-      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-      renderCards(filtered);
+    if (months.length) {
+      const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
+      if (!months.includes(m)) return false;
     }
+
+    if (members.length && !members.some(m => card.member.includes(m))) return false;
+
+    return true;
+  });
+
+  currentIndex = 0;
+  container.innerHTML = '';
+  filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+  renderCards(filtered);
+}
+
 
     window.onload = function () {
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
