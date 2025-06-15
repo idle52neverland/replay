@@ -141,7 +141,7 @@
       aspect-ratio: 16 / 9;
       object-fit: cover;
       display: block;
-      background-color: #ccc;
+      background-color: transparent; /* 썸네일 배경색 제거 */
     }
 
     /* 영상 시간 라벨 */
@@ -156,14 +156,15 @@
       border-radius: 3px;
     }
 
-    /* 카드 내 제목 스타일 */
+    /* 카드 내 제목 스타일 - 글씨 키우고 굵게 */
     .card-title {
-      font-size: 13px;
-      line-height: 18px;
-      height: 72px;
+      font-size: 15px;
+      font-weight: bold;
+      line-height: 20px;
+      height: 80px;
       padding: 6px;
       color: #000;
-      background-color: #f2f2f2;
+      background-color: transparent; /* 배경 제거 */
       overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 4;
@@ -175,8 +176,9 @@
     /* 모바일에서 카드 제목 처리 */
     @media screen and (max-width: 768px) {
       .card-title {
-        font-size: 14px;
-        line-height: 1.2em;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 1.3em;
         display: -webkit-box;
         -webkit-line-clamp: 4;
         -webkit-box-orient: vertical;
