@@ -181,6 +181,12 @@
       background-color: #fff !important;
       color: #111 !important;
     }
+    #cardCount {
+      text-align: right;
+      padding: 0 20px 5px 0;
+      font-size: 14px;
+      color: #ccc;
+    }
   </style>
 </head>
 <body>
@@ -198,6 +204,7 @@
     <input type="text" id="searchInput" placeholder="Search in category">
     <button id="searchBtn" title="검색 실행">🔍</button>
   </div>
+  <div id="cardCount"></div>
   <div class="card-container" id="allCards"></div>
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
@@ -211,7 +218,7 @@
   <script src="js/cards-ORIGINAL_VARIETY.js"></script>
   <script src="js/cards-STAGE_PERFORMANCE.js"></script>
   <script src="js/cards-VOCAL_AND_DANCE.js"></script>
-  <script src="js/cards-BEHIND_CLIPS.js"></script> 
+  <script src="js/cards-BEHIND_CLIPS.js"></script>
   <script src="js/cards-MEDIA_CONTENTS.js"></script>
   <script src="js/cards-RADIO_PODCAST.js"></script>
   <script src="js/cards-INTERVIEW.js"></script>
@@ -244,10 +251,15 @@
     const container = document.getElementById("allCards");
     const loadMoreBtn = document.getElementById("loadMoreBtn");
     const mainTitle = document.getElementById("mainTitle");
+    const cardCountEl = document.getElementById("cardCount");
 
     function extractDate(title) {
       const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
       return match ? match[1] : '2000-01-01';
+    }
+
+    function updateCardCount(count) {
+      cardCountEl.textContent = `총 ${count}개 영상`;
     }
 
     function renderCards(data) {
@@ -271,6 +283,7 @@
       });
       currentIndex += batchSize;
       loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+      updateCardCount(data.length);
     }
 
     function createFilterButtons(containerId, items) {
@@ -318,26 +331,24 @@
     }
 
     window.onload = function () {
-  const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
-  mainTitle.textContent = selectedCategory || "전체 영상";
+      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+      mainTitle.textContent = selectedCategory || "전체 영상";
 
-  createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
-  createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
-  createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
+      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+      createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
+      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
 
-  document.getElementById("searchBtn").onclick = applyFilters;
-  document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
-  document.getElementById("resetSearchBtn").onclick = () => location.reload();
-  document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+      document.getElementById("searchBtn").onclick = applyFilters;
+      document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
+      document.getElementById("resetSearchBtn").onclick = () => location.reload();
+      document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
-  // 🔥 요거 추가
-  loadMoreBtn.onclick = function () {
-    renderCards(filtered);
-  };
+      loadMoreBtn.onclick = function () {
+        renderCards(filtered);
+      };
 
-  applyFilters();
-};
-
+      applyFilters();
+    };
   </script>
 </body>
 </html>
