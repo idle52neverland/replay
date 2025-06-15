@@ -219,7 +219,58 @@
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
   <script>
-    // 필터 버튼 초기화 로직
+    const all = [].concat(
+      typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+      typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+      typeof officialClipCards !== 'undefined' ? officialClipCards : [],
+      typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
+      typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+      typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
+      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+      typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+      typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+      typeof interviewCards !== 'undefined' ? interviewCards : [],
+      typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+      typeof fancamCards !== 'undefined' ? fancamCards : [],
+      typeof shortsCards !== 'undefined' ? shortsCards : [],
+      typeof etcCards !== 'undefined' ? etcCards : []
+    );
+
+    let filtered = [];
+    let currentIndex = 0;
+    const batchSize = 20;
+    const container = document.getElementById("allCards");
+    const loadMoreBtn = document.getElementById("loadMoreBtn");
+    const mainTitle = document.getElementById("mainTitle");
+
+    function extractDate(title) {
+      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+      return match ? match[1] : '2000-01-01';
+    }
+
+    function renderCards(data) {
+      const next = data.slice(currentIndex, currentIndex + batchSize);
+      next.forEach(card => {
+        const el = document.createElement('a');
+        el.className = 'card';
+        const durationHTML = card.duration ? `<div class="duration-label">${card.duration}</div>` : '';
+        el.innerHTML = `
+          <div class="thumbnail-wrapper">
+            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
+            ${durationHTML}
+          </div>
+          <div class="card-title">${card.title}</div>
+        `;
+        el.onclick = e => {
+          e.preventDefault();
+          window.open(card.link, '_blank');
+        };
+        container.appendChild(el);
+      });
+      currentIndex += batchSize;
+      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+    }
+
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
       filterContainer.innerHTML = '';
@@ -260,6 +311,7 @@
 
       currentIndex = 0;
       container.innerHTML = '';
+      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
       renderCards(filtered);
     }
 
@@ -274,9 +326,12 @@
       document.getElementById("searchBtn").onclick = applyFilters;
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
-      scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+      document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
+      filtered = all.filter(card => card.category?.toLowerCase() === selectedCategory.toLowerCase());
+      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
       renderCards(filtered);
+
       loadMoreBtn.onclick = () => renderCards(filtered);
     };
   </script>
