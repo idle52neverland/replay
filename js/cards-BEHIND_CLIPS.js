@@ -312,18 +312,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/S3DVpMbd9Aw",
-  "category": "BEHIND_CLIPS",
-  "member": "소연",
-  "year": "2020",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/S3DVpMbd9Aw/sddefault.jpg",
-  "alt": "HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)",
-  "title": "HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes (2020-07-21)",
-  "duration": "00:06:43"
-},
-
-{
   "link": "https://youtu.be/ObM3iB317FM",
   "category": "BEHIND_CLIPS",
   "member": "소연",
@@ -633,30 +621,6 @@ const behindClipsCards = [
   "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210218 M COUNTDOWN (2021-02-19)",
   "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210218 M COUNTDOWN (2021-02-19)",
   "duration": "00:06:53"
-},
-
-{
-  "link": "https://youtu.be/PVC08LXEC30",
-  "category": "BEHIND_CLIPS",
-  "member": "미연, 우기",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/PVC08LXEC30/sddefault.jpg",
-  "alt": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)",
-  "title": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)",
-  "duration": "00:17:24"
-},
-
-{
-  "link": "https://youtu.be/H2YHkKQfkKM",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/H2YHkKQfkKM/sddefault.jpg",
-  "alt": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
-  "title": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
-  "duration": "00:11:16"
 },
 
 {
@@ -1785,18 +1749,6 @@ const behindClipsCards = [
   "alt": "(ENG) [쇼챔직캠미방] 🚨네버랜드 참고🚨 (여자)아이들 콘서트 드레스 코드👑 l #GIDLE l #쇼챔피언 (2023-06-11)",
   "title": "(ENG) [쇼챔직캠미방] 🚨네버랜드 참고🚨 (여자)아이들 콘서트 드레스 코드👑 l #GIDLE l #쇼챔피언 (2023-06-11)",
   "duration": "00:02:36"
-},
-
-{
-  "link": "https://youtu.be/7k0oABK_Ae8",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2023",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/7k0oABK_Ae8/sddefault.jpg",
-  "alt": "선양X미연 설레는 첫 만남(메이킹필름_full 버전) (2023-09-05)",
-  "title": "선양X미연 설레는 첫 만남(메이킹필름_full 버전) (2023-09-05)",
-  "duration": "00:01:23"
 },
 
 {
