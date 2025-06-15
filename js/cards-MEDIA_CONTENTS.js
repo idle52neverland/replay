@@ -9600,7 +9600,7 @@ const mediaContentsCards = [
 },
   {
   "link": "https://youtu.be/H2YHkKQfkKM",
-  "category": "BEHIND_CLIPS",
+  "category": "MEDIA_CONTENTS",
   "member": "미연",
   "year": "2021",
   "month": "02",
