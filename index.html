@@ -47,12 +47,13 @@
   opacity: 0.7;
 }
     @media (max-width: 768px) {
-      .sns-icons {
-        position: static;
-        justify-content: center;
-        margin-top: 10px;
-      }
-    }
+  .sns-icons {
+    display: flex;          /* ❗ 중요: flex 재지정 */
+    position: static;
+    justify-content: center;
+    margin-top: 10px;
+  }
+}
     .category-section {
       display: flex;
       flex-wrap: wrap;
@@ -192,9 +193,10 @@
   </style>
 </head>
 <body>
-  <div class="header-bar">
-    <div id="mainTitle">I-DLE 몰아보기</div>
-    <div class="sns-icons">
+ <div class="header-bar">
+  <div id="mainTitle">I-DLE 몰아보기</div>
+</div>
+<div class="sns-icons">
       <a href="https://youtube.com/@official_i_dle" target="_blank" title="YouTube">
         <img src="images/유튜브.jpg" alt="YouTube">
       </a>
