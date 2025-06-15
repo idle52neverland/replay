@@ -328,11 +328,7 @@
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
       document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
-      filtered = all.filter(card => card.category?.toLowerCase() === selectedCategory.toLowerCase());
-      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-      renderCards(filtered);
-
-      loadMoreBtn.onclick = () => renderCards(filtered);
+      applyFilters();
     };
   </script>
 </body>
