@@ -1,6 +1,5 @@
 const officialClipCards = [
-
-  {
+{
   "link": "https://youtu.be/r-B4WCuI78c",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
@@ -8,7 +7,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/r-B4WCuI78c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet (2018-04-29)",
-  "title": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet (2018-04-29)"
+  "title": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet (2018-04-29)",
+  "duration": "00:01:46"
 },
 
 {
@@ -19,7 +19,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/H54rWc8laeE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser (2018-04-30)",
+  "duration": "00:00:29"
 },
 
 {
@@ -30,7 +31,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/mz-9otF_v00/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser (2018-04-30)",
+  "duration": "00:00:16"
 },
 
 {
@@ -41,7 +43,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/398QLj8ZKmE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 우기(YUQI) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 우기(YUQI) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 우기(YUQI) Teaser (2018-04-30)",
+  "duration": "00:00:17"
 },
 
 {
@@ -52,7 +55,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/pOOwt28gZYA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser (2018-04-30)",
+  "duration": "00:00:17"
 },
 
 {
@@ -63,7 +67,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/3w4ljZZ0iIA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser (2018-04-30)",
+  "duration": "00:00:16"
 },
 
 {
@@ -74,7 +79,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Qw6Z4BbNbMc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser (2018-04-30)",
+  "duration": "00:00:16"
 },
 
 {
@@ -85,7 +91,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/5wn5ponH2XI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser (2018-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser (2018-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser (2018-04-30)",
+  "duration": "00:00:16"
 },
 
 {
@@ -96,7 +103,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/mIh0X4jGLcE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)",
+  "duration": "00:09:35"
 },
 
 {
@@ -107,7 +115,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/WeFiRp0p2JA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)",
+  "duration": "00:09:32"
 },
 
 {
@@ -118,7 +127,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/GOcJMC_JR7M/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)",
+  "duration": "00:16:17"
 },
 
 {
@@ -129,7 +139,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/O5pRVUqzAuA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)",
+  "duration": "00:13:29"
 },
 
 {
@@ -140,7 +151,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/SUFzczU-ahU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)",
-  "title": "(여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)"
+  "title": "(여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)",
+  "duration": "00:14:38"
 },
 
 {
@@ -151,7 +163,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/W2CqsPE5Gtw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)",
+  "duration": "00:14:02"
 },
 
 {
@@ -162,7 +175,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/9zH2JuvaT8Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)",
+  "duration": "00:13:00"
 },
 
 {
@@ -173,7 +187,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/BPKyBsqE7Lg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)",
+  "duration": "00:13:29"
 },
 
 {
@@ -184,7 +199,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/_tghpBwByM0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)",
+  "duration": "00:14:41"
 },
 
 {
@@ -195,7 +211,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/5t6XK3h-sTI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)",
+  "duration": "00:06:21"
 },
 
 {
@@ -206,7 +223,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ch91ZeS0zEw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)",
+  "duration": "00:13:16"
 },
 
 {
@@ -217,7 +235,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/vhkltG7Tb84/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)",
+  "duration": "00:09:16"
 },
 
 {
@@ -228,7 +247,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/s_cd0CKZjL4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser (2018-08-12)",
-  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser (2018-08-12)"
+  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser (2018-08-12)",
+  "duration": "00:00:28"
 },
 
 {
@@ -239,7 +259,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/yFpYfOrGkdw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)",
+  "duration": "00:18:17"
 },
 
 {
@@ -250,7 +271,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/1RRPkd9toZw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)",
+  "duration": "00:18:55"
 },
 
 {
@@ -261,7 +283,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/kLs5rsrbamg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)",
+  "duration": "00:17:10"
 },
 
 {
@@ -272,7 +295,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/p8WDE-tsKv8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)",
+  "duration": "00:18:19"
 },
 
 {
@@ -283,7 +307,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/_ttzcNoj1nQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)",
+  "duration": "00:15:06"
 },
 
 {
@@ -294,7 +319,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/4G9MLumJLJI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)",
+  "duration": "00:12:20"
 },
 
 {
@@ -305,7 +331,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Ctq1jDzX34o/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)",
+  "duration": "00:08:31"
 },
 
 {
@@ -316,7 +343,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/3CY33hfnUy4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)",
+  "duration": "00:14:59"
 },
 
 {
@@ -327,7 +355,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/6GeXJH_QIrE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)",
+  "duration": "00:16:48"
 },
 
 {
@@ -338,7 +367,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/oD9pU98pizA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)",
+  "duration": "00:19:47"
 },
 
 {
@@ -349,7 +379,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/6-GnSGXxWc8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)",
+  "duration": "00:11:04"
 },
 
 {
@@ -360,7 +391,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/kGXLROgEnyw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)",
+  "duration": "00:10:02"
 },
 
 {
@@ -371,7 +403,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/RgZ7ohHwWZc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)",
+  "duration": "00:18:03"
 },
 
 {
@@ -382,7 +415,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/qBUY8lv5nJ4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)",
+  "duration": "00:11:35"
 },
 
 {
@@ -393,7 +427,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/DJ2oZj8nyig/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film (2019-02-18)",
-  "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film (2019-02-18)"
+  "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film (2019-02-18)",
+  "duration": "00:01:04"
 },
 
 {
@@ -404,7 +439,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/KtOC9LNIyBo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet (2019-02-19)",
-  "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet (2019-02-19)"
+  "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet (2019-02-19)",
+  "duration": "00:01:31"
 },
 
 {
@@ -415,7 +451,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/7bqewyz8_5s/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser (2019-02-20)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser (2019-02-20)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser (2019-02-20)",
+  "duration": "00:00:18"
 },
 
 {
@@ -426,7 +463,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/4mtAWfuDcwo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser (2019-02-20)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser (2019-02-20)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser (2019-02-20)",
+  "duration": "00:00:16"
 },
 
 {
@@ -437,7 +475,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HI7syzmCutA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser (2019-02-21)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser (2019-02-21)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser (2019-02-21)",
+  "duration": "00:00:15"
 },
 
 {
@@ -448,7 +487,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/9khosHZ7YLo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser (2019-02-21)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser (2019-02-21)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser (2019-02-21)",
+  "duration": "00:00:16"
 },
 
 {
@@ -459,7 +499,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/FHhOwtQ85Ow/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser (2019-02-22)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser (2019-02-22)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser (2019-02-22)",
+  "duration": "00:00:16"
 },
 
 {
@@ -470,7 +511,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/3Yjln4kr84Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser (2019-02-22)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser (2019-02-22)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser (2019-02-22)",
+  "duration": "00:00:17"
 },
 
 {
@@ -481,7 +523,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/M12zfy-IZLA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser (2019-02-24)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser (2019-02-24)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser (2019-02-24)",
+  "duration": "00:00:26"
 },
 
 {
@@ -492,7 +535,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/b5LqwD78OVs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)",
+  "duration": "00:15:43"
 },
 
 {
@@ -503,7 +547,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/wukHr2r2wVw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)",
+  "duration": "00:11:20"
 },
 
 {
@@ -514,7 +559,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/7ku_kVxCQrs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)",
+  "duration": "00:13:22"
 },
 
 {
@@ -525,7 +571,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/IyVT0FcCXlc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)",
+  "duration": "00:12:26"
 },
 
 {
@@ -536,7 +583,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/BUF5N54Wnw0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)",
+  "duration": "00:11:21"
 },
 
 {
@@ -547,7 +595,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/e7C91J_JQSQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)",
+  "duration": "00:17:38"
 },
 
 {
@@ -558,7 +607,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/IOHMP3f-Zsg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)",
+  "duration": "00:11:17"
 },
 
 {
@@ -569,7 +619,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/--jnauMUngI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #34 : 2019 더 팩트 뮤직어워드 비하인드 (2019-05-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #34 : 2019 더 팩트 뮤직어워드 비하인드 (2019-05-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #34 : 2019 더 팩트 뮤직어워드 비하인드 (2019-05-21)",
+  "duration": "00:11:01"
 },
 
 {
@@ -580,7 +631,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/lmADefjjV14/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
+  "duration": "00:12:14"
 },
 
 {
@@ -591,7 +643,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/uFA8Y3tKHjU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
+  "duration": "00:11:31"
 },
 
 {
@@ -602,7 +655,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/7U26LjgodYU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #2 : 소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #2 : 소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #2 : 소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
+  "duration": "00:15:24"
 },
 
 {
@@ -613,7 +667,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/6oZ80LMxsuE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
+  "duration": "00:12:38"
 },
 
 {
@@ -624,7 +679,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/mttovhSQVVs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
+  "duration": "00:11:50"
 },
 
 {
@@ -635,7 +691,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/1CPQFG4k97k/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)"
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
+  "duration": "00:12:25"
 },
 
 {
@@ -646,7 +703,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/nwsGnx4Bebc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 1 (2019-06-24)",
-  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 1 (2019-06-24)"
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 1 (2019-06-24)",
+  "duration": "00:00:21"
 },
 
 {
@@ -657,7 +715,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/rKKdpcnyO74/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #35 : \"Uh-Oh\" 재킷 촬영 비하인드 (2019-06-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #35 : \"Uh-Oh\" 재킷 촬영 비하인드 (2019-06-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #35 : \"Uh-Oh\" 재킷 촬영 비하인드 (2019-06-24)",
+  "duration": "00:10:25"
 },
 
 {
@@ -668,7 +727,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/TqW04rj2WOs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 2 (2019-06-25)",
-  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 2 (2019-06-25)"
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 2 (2019-06-25)",
+  "duration": "00:00:20"
 },
 
 {
@@ -679,7 +739,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/tJZlZj3s5io/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #36 : 'Uh-Oh' M/V 촬영 비하인드 (Part 1) (2019-06-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #36 : 'Uh-Oh' M/V 촬영 비하인드 (Part 1) (2019-06-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #36 : 'Uh-Oh' M/V 촬영 비하인드 (Part 1) (2019-06-30)",
+  "duration": "00:16:43"
 },
 
 {
@@ -690,7 +751,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/IjnxHVIgJ3M/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #37 : 'Uh-Oh' M/V 촬영 비하인드 (Part 2) (2019-07-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #37 : 'Uh-Oh' M/V 촬영 비하인드 (Part 2) (2019-07-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #37 : 'Uh-Oh' M/V 촬영 비하인드 (Part 2) (2019-07-06)",
+  "duration": "00:14:00"
 },
 
 {
@@ -701,7 +763,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/D6bGBZdVYXc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
+  "duration": "00:16:02"
 },
 
 {
@@ -712,7 +775,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/MOL71EcqTh8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #39 : 'Uh-Oh' 첫방 비하인드 (Part 2) (2019-07-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #39 : 'Uh-Oh' 첫방 비하인드 (Part 2) (2019-07-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #39 : 'Uh-Oh' 첫방 비하인드 (Part 2) (2019-07-22)",
+  "duration": "00:15:48"
 },
 
 {
@@ -723,7 +787,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/SGueYGtOwOg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #40 : 'Uh-Oh' 막방 비하인드 (2019-08-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #40 : 'Uh-Oh' 막방 비하인드 (2019-08-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #40 : 'Uh-Oh' 막방 비하인드 (2019-08-09)",
+  "duration": "00:15:16"
 },
 
 {
@@ -734,7 +799,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/F1ClbxlwSr0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
+  "duration": "00:10:20"
 },
 
 {
@@ -745,7 +811,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/zL94SV9_j34/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #42 : 미공개 비하인드 (싱가포르 한류팝페스트 & 2019 드림콘서트 비하인드) (2019-09-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #42 : 미공개 비하인드 (싱가포르 한류팝페스트 & 2019 드림콘서트 비하인드) (2019-09-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #42 : 미공개 비하인드 (싱가포르 한류팝페스트 & 2019 드림콘서트 비하인드) (2019-09-20)",
+  "duration": "00:10:46"
 },
 
 {
@@ -756,7 +823,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/1-GWerSkngM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #43 : 'WELCOME TO THE NEVERLAND' 비하인드 (2019-10-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #43 : 'WELCOME TO THE NEVERLAND' 비하인드 (2019-10-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #43 : 'WELCOME TO THE NEVERLAND' 비하인드 (2019-10-19)",
+  "duration": "00:13:50"
 },
 
 {
@@ -767,7 +835,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/V3rcK6jIa6c/mqdefault.jpg",
   "alt": "민니 - (여자)아이들((G)I-DLE) - I-TALK #44 : MINNIE X WENGIE 'EMPIRE' 비하인드 (2019-10-22)",
-  "title": "민니 - (여자)아이들((G)I-DLE) - I-TALK #44 : MINNIE X WENGIE 'EMPIRE' 비하인드 (2019-10-22)"
+  "title": "민니 - (여자)아이들((G)I-DLE) - I-TALK #44 : MINNIE X WENGIE 'EMPIRE' 비하인드 (2019-10-22)",
+  "duration": "00:10:08"
 },
 
 {
@@ -778,7 +847,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/n0mwthRl1qc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' M/V Teaser (2019-11-02)",
-  "title": "(여자)아이들((G)I-DLE) - 'LION' M/V Teaser (2019-11-02)"
+  "title": "(여자)아이들((G)I-DLE) - 'LION' M/V Teaser (2019-11-02)",
+  "duration": "00:00:23"
 },
 
 {
@@ -789,7 +859,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/3EXJJeFkNmM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #45 : 'LION' 뮤직비디오 비하인드 Part 1 (2019-11-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #45 : 'LION' 뮤직비디오 비하인드 Part 1 (2019-11-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #45 : 'LION' 뮤직비디오 비하인드 Part 1 (2019-11-09)",
+  "duration": "00:13:02"
 },
 
 {
@@ -800,7 +871,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/8z3xzJurlhg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #46 : 'LION' 뮤직비디오 비하인드 Part 2 (2019-11-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #46 : 'LION' 뮤직비디오 비하인드 Part 2 (2019-11-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #46 : 'LION' 뮤직비디오 비하인드 Part 2 (2019-11-16)",
+  "duration": "00:14:11"
 },
 
 {
@@ -811,7 +883,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/32XCmuFOt44/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #47 : 퀸덤 파이널 경연 비하인드 (2019-11-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #47 : 퀸덤 파이널 경연 비하인드 (2019-11-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #47 : 퀸덤 파이널 경연 비하인드 (2019-11-22)",
+  "duration": "00:11:45"
 },
 
 {
@@ -822,7 +895,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/B4pd_JgZk40/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #48 : 2020 시즌 그리팅 비하인드 (2019-11-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #48 : 2020 시즌 그리팅 비하인드 (2019-11-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #48 : 2020 시즌 그리팅 비하인드 (2019-11-30)",
+  "duration": "00:10:48"
 },
 
 {
@@ -833,7 +907,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/QlMi79s1WtM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #49 : 2019 AAA & V HEARTBEAT in Vietnam 비하인드 (2019-12-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #49 : 2019 AAA & V HEARTBEAT in Vietnam 비하인드 (2019-12-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #49 : 2019 AAA & V HEARTBEAT in Vietnam 비하인드 (2019-12-20)",
+  "duration": "00:14:12"
 },
 
 {
@@ -844,7 +919,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/aukVj8epA74/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)",
-  "title": "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)"
+  "title": "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)",
+  "duration": "00:01:15"
 },
 
 {
@@ -855,7 +931,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Bf-dtm4u8_E/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)",
-  "title": "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)"
+  "title": "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)",
+  "duration": "00:02:04"
 },
 
 {
@@ -866,7 +943,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/sw6DrozQ9tc/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)",
-  "title": "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)"
+  "title": "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)",
+  "duration": "00:01:09"
 },
 
 {
@@ -877,7 +955,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/GcVV6bY35IU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #50 : 2019 MBC 가요대제전 비하인드 (ENG) (2020-01-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #50 : 2019 MBC 가요대제전 비하인드 (ENG) (2020-01-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #50 : 2019 MBC 가요대제전 비하인드 (ENG) (2020-01-19)",
+  "duration": "00:13:34"
 },
 
 {
@@ -888,7 +967,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/PCHCvt1DsKI/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)",
-  "title": "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)"
+  "title": "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)",
+  "duration": "00:02:00"
 },
 
 {
@@ -899,7 +979,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/jrJGmq010R0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #51 : 2020 골든디스크어워즈 & 가온차트뮤직어워즈 비하인드 (ENG) (2020-01-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #51 : 2020 골든디스크어워즈 & 가온차트뮤직어워즈 비하인드 (ENG) (2020-01-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #51 : 2020 골든디스크어워즈 & 가온차트뮤직어워즈 비하인드 (ENG) (2020-01-24)",
+  "duration": "00:15:00"
 },
 
 {
@@ -910,7 +991,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/lN8N84vSeEI/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)",
-  "title": "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)"
+  "title": "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)",
+  "duration": "00:02:20"
 },
 
 {
@@ -921,7 +1003,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/7HluoYHuEyU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #52 : 2020 설특집 아이돌스타 선수권대회 우기 승마 비하인드 (ENG) (2020-01-29)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #52 : 2020 설특집 아이돌스타 선수권대회 우기 승마 비하인드 (ENG) (2020-01-29)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #52 : 2020 설특집 아이돌스타 선수권대회 우기 승마 비하인드 (ENG) (2020-01-29)",
+  "duration": "00:14:21"
 },
 
 {
@@ -932,7 +1015,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/qvnpyX_h_L0/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)",
-  "title": "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)"
+  "title": "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)",
+  "duration": "00:01:36"
 },
 
 {
@@ -943,7 +1027,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/vbor1FfbApM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #53 : 소연이의 VLOG in Paris (롤드컵 비하인드) (ENG) (2020-02-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #53 : 소연이의 VLOG in Paris (롤드컵 비하인드) (ENG) (2020-02-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #53 : 소연이의 VLOG in Paris (롤드컵 비하인드) (ENG) (2020-02-04)",
+  "duration": "00:15:09"
 },
 
 {
@@ -954,7 +1039,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/sEAry8EAbpo/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)",
-  "title": "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)"
+  "title": "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)",
+  "duration": "00:02:42"
 },
 
 {
@@ -965,7 +1051,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/GEHfqT3hrtA/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)",
-  "title": "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)"
+  "title": "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)",
+  "duration": "00:02:32"
 },
 
 {
@@ -976,7 +1063,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/WwvGegsivfw/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)",
-  "title": "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)"
+  "title": "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)",
+  "duration": "00:02:44"
 },
 
 {
@@ -987,7 +1075,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/u7cyF9bg4fw/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)",
-  "title": "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)"
+  "title": "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)",
+  "duration": "00:02:16"
 },
 
 {
@@ -998,7 +1087,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/Ln65fG0CnwM/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)",
-  "title": "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)"
+  "title": "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)",
+  "duration": "00:03:27"
 },
 
 {
@@ -1009,7 +1099,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/ZvHwRuyDl7s/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)",
-  "title": "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)"
+  "title": "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)",
+  "duration": "00:01:29"
 },
 
 {
@@ -1020,7 +1111,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/w6xQbDB6BcI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1 (2020-03-26)",
-  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1 (2020-03-26)"
+  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1 (2020-03-26)",
+  "duration": "00:00:21"
 },
 
 {
@@ -1031,7 +1123,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/ysmHFXpdAkI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2 (2020-03-29)",
-  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2 (2020-03-29)"
+  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2 (2020-03-29)",
+  "duration": "00:00:18"
 },
 
 {
@@ -1042,7 +1135,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/uhAQ1Hrbc8w/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet (2020-04-02)",
-  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet (2020-04-02)"
+  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet (2020-04-02)",
+  "duration": "00:01:38"
 },
 
 {
@@ -1053,7 +1147,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/cIRuLD0-isY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 현장 비하인드 (ENG) (2020-04-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 현장 비하인드 (ENG) (2020-04-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #54 : \"I trust\" 재킷 촬영 현장 비하인드 (ENG) (2020-04-04)",
+  "duration": "00:12:50"
 },
 
 {
@@ -1064,7 +1159,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/OT-pQiWt_A0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser (2020-04-05)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser (2020-04-05)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser (2020-04-05)",
+  "duration": "00:00:32"
 },
 
 {
@@ -1075,7 +1171,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/YlBcYcgr89I/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #55 : 'Oh my god' 뮤직비디오 비하인드 Part 1 (ENG) (2020-04-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #55 : 'Oh my god' 뮤직비디오 비하인드 Part 1 (ENG) (2020-04-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #55 : 'Oh my god' 뮤직비디오 비하인드 Part 1 (ENG) (2020-04-11)",
+  "duration": "00:13:11"
 },
 
 {
@@ -1086,7 +1183,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/PwV31p7GkmU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #56 : 'Oh my god' 뮤직비디오 비하인드 Part 2 (ENG) (2020-04-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #56 : 'Oh my god' 뮤직비디오 비하인드 Part 2 (ENG) (2020-04-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #56 : 'Oh my god' 뮤직비디오 비하인드 Part 2 (ENG) (2020-04-15)",
+  "duration": "00:12:36"
 },
 
 {
@@ -1097,7 +1195,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/UKcKVqE259E/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)",
-  "title": "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)"
+  "title": "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)",
+  "duration": "00:03:13"
 },
 
 {
@@ -1108,7 +1207,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/vcTbzTjGs28/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #57 : 'Oh my god' 첫방 비하인드 Part 1 (ENG) (2020-04-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #57 : 'Oh my god' 첫방 비하인드 Part 1 (ENG) (2020-04-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #57 : 'Oh my god' 첫방 비하인드 Part 1 (ENG) (2020-04-28)",
+  "duration": "00:13:48"
 },
 
 {
@@ -1119,7 +1219,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-rpeMCEhCEY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #58 : 'Oh my god' 첫방 비하인드 Part 2 (ENG) (2020-05-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #58 : 'Oh my god' 첫방 비하인드 Part 2 (ENG) (2020-05-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #58 : 'Oh my god' 첫방 비하인드 Part 2 (ENG) (2020-05-03)",
+  "duration": "00:16:47"
 },
 
 {
@@ -1130,7 +1231,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/y5TdZnnFFBs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #59 : 'Oh my god' 둘째 주 비하인드 (ENG) (2020-05-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #59 : 'Oh my god' 둘째 주 비하인드 (ENG) (2020-05-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #59 : 'Oh my god' 둘째 주 비하인드 (ENG) (2020-05-11)",
+  "duration": "00:15:25"
 },
 
 {
@@ -1141,7 +1243,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/jV1tyZj4Pjs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #60 : '사랑해' 막방 비하인드 (ENG) (2020-05-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #60 : '사랑해' 막방 비하인드 (ENG) (2020-05-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #60 : '사랑해' 막방 비하인드 (ENG) (2020-05-16)",
+  "duration": "00:14:03"
 },
 
 {
@@ -1152,7 +1255,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/PqoufdgLfqQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #61 : 미공개 비하인드 (\"I trust\" 온라인 미디어 쇼케이스 & 'Oh my god' 스페셜 안무영상 촬영) (ENG) (2020-05-23)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #61 : 미공개 비하인드 (\"I trust\" 온라인 미디어 쇼케이스 & 'Oh my god' 스페셜 안무영상 촬영) (ENG) (2020-05-23)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #61 : 미공개 비하인드 (\"I trust\" 온라인 미디어 쇼케이스 & 'Oh my god' 스페셜 안무영상 촬영) (ENG) (2020-05-23)",
+  "duration": "00:15:16"
 },
 
 {
@@ -1163,7 +1267,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/H4xb7punc-Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip Teaser (2020-07-06)",
-  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip Teaser (2020-07-06)"
+  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip Teaser (2020-07-06)",
+  "duration": "00:00:25"
 },
 
 {
@@ -1174,7 +1279,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Oq07gOGw4Ec/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #62 : 'i'M THE TREND' 스페셜 클립 촬영 비하인드 (ENG) (2020-07-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #62 : 'i'M THE TREND' 스페셜 클립 촬영 비하인드 (ENG) (2020-07-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #62 : 'i'M THE TREND' 스페셜 클립 촬영 비하인드 (ENG) (2020-07-11)",
+  "duration": "00:13:56"
 },
 
 {
@@ -1185,7 +1291,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/i8zdCEK67ms/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #63 : 'I-LAND : WHO AM I' 콘서트 포스터 촬영 비하인드 (ENG) (2020-07-14)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #63 : 'I-LAND : WHO AM I' 콘서트 포스터 촬영 비하인드 (ENG) (2020-07-14)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #63 : 'I-LAND : WHO AM I' 콘서트 포스터 촬영 비하인드 (ENG) (2020-07-14)",
+  "duration": "00:13:55"
 },
 
 {
@@ -1196,7 +1303,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/8-me2RYYxfc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #64 : 'I-LAND : WHO AM I' 콘서트 VCR 촬영 비하인드 (ENG) (2020-07-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #64 : 'I-LAND : WHO AM I' 콘서트 VCR 촬영 비하인드 (ENG) (2020-07-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #64 : 'I-LAND : WHO AM I' 콘서트 VCR 촬영 비하인드 (ENG) (2020-07-19)",
+  "duration": "00:15:48"
 },
 
 {
@@ -1207,7 +1315,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/a1FO6QlLtJY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #65 : 'I-LAND : WHO AM I' 콘서트 현장 비하인드 (ENG) (2020-07-26)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #65 : 'I-LAND : WHO AM I' 콘서트 현장 비하인드 (ENG) (2020-07-26)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #65 : 'I-LAND : WHO AM I' 콘서트 현장 비하인드 (ENG) (2020-07-26)",
+  "duration": "00:17:17"
 },
 
 {
@@ -1218,7 +1327,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/EEIeyyBMhdg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Audio Teaser (2020-07-29)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Audio Teaser (2020-07-29)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Audio Teaser (2020-07-29)",
+  "duration": "00:00:23"
 },
 
 {
@@ -1229,7 +1339,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2LZ8UR1R2bg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 1 (2020-07-30)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 1 (2020-07-30)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 1 (2020-07-30)",
+  "duration": "00:00:18"
 },
 
 {
@@ -1240,7 +1351,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2qBh7xa2bFg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 2 (2020-07-31)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 2 (2020-07-31)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 2 (2020-07-31)",
+  "duration": "00:00:17"
 },
 
 {
@@ -1251,7 +1363,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/7La7aO6VihA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #66 : '덤디덤디 (DUMDi DUMDi)' 재킷 촬영 현장 비하인드 (ENG) (2020-08-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #66 : '덤디덤디 (DUMDi DUMDi)' 재킷 촬영 현장 비하인드 (ENG) (2020-08-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #66 : '덤디덤디 (DUMDi DUMDi)' 재킷 촬영 현장 비하인드 (ENG) (2020-08-05)",
+  "duration": "00:13:41"
 },
 
 {
@@ -1262,7 +1375,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/Z9faUX6RnTQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #67 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2020-08-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #67 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2020-08-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #67 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2020-08-09)",
+  "duration": "00:18:08"
 },
 
 {
@@ -1273,7 +1387,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/Bfpdb1EdI5g/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #68 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2020-08-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #68 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2020-08-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #68 : '덤디덤디 (DUMDi DUMDi)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2020-08-16)",
+  "duration": "00:15:08"
 },
 
 {
@@ -1284,7 +1399,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/OdL-6LMTyKc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #69 : '덤디덤디 (DUMDi DUMDi)' 첫방 비하인드 (ENG) (2020-08-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #69 : '덤디덤디 (DUMDi DUMDi)' 첫방 비하인드 (ENG) (2020-08-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #69 : '덤디덤디 (DUMDi DUMDi)' 첫방 비하인드 (ENG) (2020-08-20)",
+  "duration": "00:15:15"
 },
 
 {
@@ -1295,7 +1411,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/imoLXmbxUdQ/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)",
-  "title": "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)"
+  "title": "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)",
+  "duration": "00:02:49"
 },
 
 {
@@ -1306,7 +1423,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/t767qLX8xys/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #70 : '덤디덤디 (DUMDi DUMDi)' 둘째 주 비하인드 (ENG) (2020-09-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #70 : '덤디덤디 (DUMDi DUMDi)' 둘째 주 비하인드 (ENG) (2020-09-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #70 : '덤디덤디 (DUMDi DUMDi)' 둘째 주 비하인드 (ENG) (2020-09-03)",
+  "duration": "00:12:37"
 },
 
 {
@@ -1317,7 +1435,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/SHguASL-yDs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #71 : '덤디덤디 (DUMDi DUMDi)' 마지막 주 비하인드 (ENG) (2020-09-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #71 : '덤디덤디 (DUMDi DUMDi)' 마지막 주 비하인드 (ENG) (2020-09-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #71 : '덤디덤디 (DUMDi DUMDi)' 마지막 주 비하인드 (ENG) (2020-09-06)",
+  "duration": "00:15:08"
 },
 
 {
@@ -1328,7 +1447,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/1MJBKuvt-EI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #72 : 2020 추석특집 아멍대 슈화&하쿠 비하인드 (ENG) (2020-10-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #72 : 2020 추석특집 아멍대 슈화&하쿠 비하인드 (ENG) (2020-10-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #72 : 2020 추석특집 아멍대 슈화&하쿠 비하인드 (ENG) (2020-10-05)",
+  "duration": "00:14:44"
 },
 
 {
@@ -1339,7 +1459,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/LxdkIhUyakE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #73 : 미공개 비하인드 (뮤직뱅크 상반기결산 & 소리바다 어워즈 & '덤디덤디 (DUMDi DUMDi)' 쇼케이스) (ENG) (2020-10-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #73 : 미공개 비하인드 (뮤직뱅크 상반기결산 & 소리바다 어워즈 & '덤디덤디 (DUMDi DUMDi)' 쇼케이스) (ENG) (2020-10-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #73 : 미공개 비하인드 (뮤직뱅크 상반기결산 & 소리바다 어워즈 & '덤디덤디 (DUMDi DUMDi)' 쇼케이스) (ENG) (2020-10-11)",
+  "duration": "00:09:38"
 },
 
 {
@@ -1350,7 +1471,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/EFkVZYAQO2k/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #74 : 2020 슈퍼 온택트 & DMZ 페스티벌 & 한국문화축제 비하인드 (ENG) (2020-11-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #74 : 2020 슈퍼 온택트 & DMZ 페스티벌 & 한국문화축제 비하인드 (ENG) (2020-11-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #74 : 2020 슈퍼 온택트 & DMZ 페스티벌 & 한국문화축제 비하인드 (ENG) (2020-11-15)",
+  "duration": "00:12:54"
 },
 
 {
@@ -1361,7 +1483,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/KWo9Ug4zrZI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #75 : 우기 tvN '나는 살아있다' 제작발표회 비하인드 (ENG) (2020-11-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #75 : 우기 tvN '나는 살아있다' 제작발표회 비하인드 (ENG) (2020-11-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #75 : 우기 tvN '나는 살아있다' 제작발표회 비하인드 (ENG) (2020-11-21)",
+  "duration": "00:05:30"
 },
 
 {
@@ -1372,7 +1495,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/e2_BCG7f2J8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #76 : 'GBC in the NEVERLAND' 팬미팅 VCR 촬영 비하인드 (ENG) (2020-11-26)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #76 : 'GBC in the NEVERLAND' 팬미팅 VCR 촬영 비하인드 (ENG) (2020-11-26)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #76 : 'GBC in the NEVERLAND' 팬미팅 VCR 촬영 비하인드 (ENG) (2020-11-26)",
+  "duration": "00:10:53"
 },
 
 {
@@ -1383,7 +1507,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/LTnDy_v77Cg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #77 : 'GBC in the NEVERLAND' 팬미팅 비하인드 (ENG) (2020-12-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #77 : 'GBC in the NEVERLAND' 팬미팅 비하인드 (ENG) (2020-12-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #77 : 'GBC in the NEVERLAND' 팬미팅 비하인드 (ENG) (2020-12-01)",
+  "duration": "00:14:38"
 },
 
 {
@@ -1394,7 +1519,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/cXdyFwuhScA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #78 : 2021 시즌 그리팅 비하인드 (ENG) (2020-12-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #78 : 2021 시즌 그리팅 비하인드 (ENG) (2020-12-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #78 : 2021 시즌 그리팅 비하인드 (ENG) (2020-12-17)",
+  "duration": "00:12:24"
 },
 
 {
@@ -1405,7 +1531,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/yuEmtXzrBS8/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)",
-  "title": "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)"
+  "title": "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)",
+  "duration": "00:04:47"
 },
 
 {
@@ -1416,7 +1543,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/3SsM-A71f10/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Visual Film (2020-12-27)",
-  "title": "(여자)아이들((G)I-DLE) - Visual Film (2020-12-27)"
+  "title": "(여자)아이들((G)I-DLE) - Visual Film (2020-12-27)",
+  "duration": "00:00:54"
 },
 
 {
@@ -1427,7 +1555,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/-RLp1yiTPh0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser (2020-12-31)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser (2020-12-31)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser (2020-12-31)",
+  "duration": "00:00:11"
 },
 
 {
@@ -1438,7 +1567,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/tPIUXk96xng/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview (2021-01-01)",
-  "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview (2021-01-01)"
+  "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview (2021-01-01)",
+  "duration": "00:00:22"
 },
 
 {
@@ -1449,7 +1579,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/7FnbZGoMig0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Audio Snippet (2021-01-06)",
-  "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Audio Snippet (2021-01-06)"
+  "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Audio Snippet (2021-01-06)",
+  "duration": "00:02:10"
 },
 
 {
@@ -1460,7 +1591,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/mex7aRfrTiU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 1 (2021-01-07)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 1 (2021-01-07)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 1 (2021-01-07)",
+  "duration": "00:00:14"
 },
 
 {
@@ -1471,7 +1603,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ErTq-VvkqIk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 2 (2021-01-08)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 2 (2021-01-08)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 2 (2021-01-08)",
+  "duration": "00:00:25"
 },
 
 {
@@ -1482,7 +1615,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/QTaC9QjUlNo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드 (ENG) (2021-01-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드 (ENG) (2021-01-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드 (ENG) (2021-01-10)",
+  "duration": "00:16:20"
 },
 
 {
@@ -1493,7 +1627,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/eUoBGShDoA8/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)",
-  "title": "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)"
+  "title": "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)",
+  "duration": "00:04:55"
 },
 
 {
@@ -1504,7 +1639,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ANhubXC-hSg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #80 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2021-01-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #80 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2021-01-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #80 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2021-01-16)",
+  "duration": "00:14:52"
 },
 
 {
@@ -1515,7 +1651,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/NtmzLugaJDQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #81 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2021-01-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #81 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2021-01-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #81 : '화(火花)(HWAA)' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2021-01-22)",
+  "duration": "00:13:32"
 },
 
 {
@@ -1526,7 +1663,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/rQAUm0rJWDE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #82 : 미연 웹드라마 '리플레이' 커피차 촬영 비하인드 (ENG) (2021-01-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #82 : 미연 웹드라마 '리플레이' 커피차 촬영 비하인드 (ENG) (2021-01-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #82 : 미연 웹드라마 '리플레이' 커피차 촬영 비하인드 (ENG) (2021-01-24)",
+  "duration": "00:05:52"
 },
 
 {
@@ -1537,7 +1675,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HBzPLYWmBEw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #83: '화(火花)' 첫방 비하인드 (ENG) (2021-02-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #83: '화(火花)' 첫방 비하인드 (ENG) (2021-02-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #83: '화(火花)' 첫방 비하인드 (ENG) (2021-02-01)",
+  "duration": "00:17:32"
 },
 
 {
@@ -1548,7 +1687,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/PmYtROm07Ac/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #84: 미연 웹드라마 '리플레이' 제작 발표회 비하인드 (ENG) (2021-02-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #84: 미연 웹드라마 '리플레이' 제작 발표회 비하인드 (ENG) (2021-02-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #84: 미연 웹드라마 '리플레이' 제작 발표회 비하인드 (ENG) (2021-02-10)",
+  "duration": "00:04:55"
 },
 
 {
@@ -1559,7 +1699,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/MUEo_-WYX-Q/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #85: '화(火花)' 둘째 주 비하인드 (2021-03-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #85: '화(火花)' 둘째 주 비하인드 (2021-03-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #85: '화(火花)' 둘째 주 비하인드 (2021-03-10)",
+  "duration": "00:10:11"
 },
 
 {
@@ -1570,7 +1711,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/hhiK2nbnrs4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #86: '화(火花)' 마지막 주 비하인드 (ENG) (2021-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #86: '화(火花)' 마지막 주 비하인드 (ENG) (2021-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #86: '화(火花)' 마지막 주 비하인드 (ENG) (2021-03-16)",
+  "duration": "00:09:36"
 },
 
 {
@@ -1581,7 +1723,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Yx9xhYRonpw/mqdefault.jpg",
   "alt": "우기 (YUQI) - \"A Page\" Audio Snippet (2021-05-10)",
-  "title": "우기 (YUQI) - \"A Page\" Audio Snippet (2021-05-10)"
+  "title": "우기 (YUQI) - \"A Page\" Audio Snippet (2021-05-10)",
+  "duration": "00:00:36"
 },
 
 {
@@ -1592,7 +1735,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Ch2zY9eUFzk/mqdefault.jpg",
   "alt": "우기 (YUQI) - 'Giant' M/V Teaser (2021-05-11)",
-  "title": "우기 (YUQI) - 'Giant' M/V Teaser (2021-05-11)"
+  "title": "우기 (YUQI) - 'Giant' M/V Teaser (2021-05-11)",
+  "duration": "00:00:24"
 },
 
 {
@@ -1603,7 +1747,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/09o7NGd9zQY/mqdefault.jpg",
   "alt": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 1 (2021-05-18)",
-  "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 1 (2021-05-18)"
+  "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 1 (2021-05-18)",
+  "duration": "00:00:18"
 },
 
 {
@@ -1614,7 +1759,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/czUwp_YNdCo/mqdefault.jpg",
   "alt": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 2 (2021-05-19)",
-  "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 2 (2021-05-19)"
+  "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 2 (2021-05-19)",
+  "duration": "00:00:20"
 },
 
 {
@@ -1625,7 +1771,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/7VReeoBR3Kk/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Concept Teaser (2021-06-20)",
-  "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Concept Teaser (2021-06-20)"
+  "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Concept Teaser (2021-06-20)",
+  "duration": "00:00:29"
 },
 
 {
@@ -1636,7 +1783,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/FsMfjN63FTg/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Audio Snippet (2021-06-30)",
-  "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Audio Snippet (2021-06-30)"
+  "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Audio Snippet (2021-06-30)",
+  "duration": "00:03:30"
 },
 
 {
@@ -1647,7 +1795,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2ucAQuPRpmU/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 1 (2021-07-01)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 1 (2021-07-01)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 1 (2021-07-01)",
+  "duration": "00:00:12"
 },
 
 {
@@ -1658,7 +1807,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/pQMh6dZiYM8/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 2 (2021-07-02)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 2 (2021-07-02)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 2 (2021-07-02)",
+  "duration": "00:00:27"
 },
 
 {
@@ -1669,7 +1819,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/jN4xMjrfIi8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #87 : 전소연 \"Windy\" 재킷 촬영 현장 비하인드 (ENG) (2021-07-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #87 : 전소연 \"Windy\" 재킷 촬영 현장 비하인드 (ENG) (2021-07-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #87 : 전소연 \"Windy\" 재킷 촬영 현장 비하인드 (ENG) (2021-07-06)",
+  "duration": "00:04:58"
 },
 
 {
@@ -1680,7 +1831,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/X3NAUy7EjHQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #88 : 전소연 '삠삠 (BEAM BEAM)' 뮤비 촬영 현장 비하인드 (ENG) (2021-07-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #88 : 전소연 '삠삠 (BEAM BEAM)' 뮤비 촬영 현장 비하인드 (ENG) (2021-07-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #88 : 전소연 '삠삠 (BEAM BEAM)' 뮤비 촬영 현장 비하인드 (ENG) (2021-07-11)",
+  "duration": "00:11:02"
 },
 
 {
@@ -1691,7 +1843,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/zvuAQsBjHVA/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)",
-  "title": "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)"
+  "title": "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)",
+  "duration": "00:03:58"
 },
 
 {
@@ -1702,7 +1855,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/-L4QCCMYjgE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #89 전소연 '삠삠 (BEAM BEAM)' 활동 비하인드 (ENG) (2021-08-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #89 전소연 '삠삠 (BEAM BEAM)' 활동 비하인드 (ENG) (2021-08-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #89 전소연 '삠삠 (BEAM BEAM)' 활동 비하인드 (ENG) (2021-08-13)",
+  "duration": "00:10:04"
 },
 
 {
@@ -1713,7 +1867,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/pHZM7O87zoE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #90 미연 2021년 활동 비하인드 (ENG) (2021-12-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #90 미연 2021년 활동 비하인드 (ENG) (2021-12-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #90 미연 2021년 활동 비하인드 (ENG) (2021-12-24)",
+  "duration": "00:11:14"
 },
 
 {
@@ -1724,7 +1879,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/N1qWluicDkM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE] (2022-02-24)",
-  "title": "(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE] (2022-02-24)"
+  "title": "(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE] (2022-02-24)",
+  "duration": "00:00:44"
 },
 
 {
@@ -1735,7 +1891,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/viKTTmds5w0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 1st Full Album \"I NEVER DIE\" Audio Snippet (2022-03-06)",
-  "title": "(여자)아이들((G)I-DLE) - 1st Full Album \"I NEVER DIE\" Audio Snippet (2022-03-06)"
+  "title": "(여자)아이들((G)I-DLE) - 1st Full Album \"I NEVER DIE\" Audio Snippet (2022-03-06)",
+  "duration": "00:02:13"
 },
 
 {
@@ -1746,7 +1903,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-nYIOcvTfWM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1 (2022-03-10)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1 (2022-03-10)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1 (2022-03-10)",
+  "duration": "00:00:31"
 },
 
 {
@@ -1757,7 +1915,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Bvx_7Z60jDg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2 (2022-03-11)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2 (2022-03-11)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2 (2022-03-11)",
+  "duration": "00:00:14"
 },
 
 {
@@ -1768,7 +1927,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-QHYb8fuwIs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #91: \"I NEVER DIE\" 재킷 촬영 현장 비하인드 (ENG) (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #91: \"I NEVER DIE\" 재킷 촬영 현장 비하인드 (ENG) (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #91: \"I NEVER DIE\" 재킷 촬영 현장 비하인드 (ENG) (2022-03-16)",
+  "duration": "00:14:27"
 },
 
 {
@@ -1779,7 +1939,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/uOT2HadPJh8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2022-03-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2022-03-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 (ENG) (2022-03-20)",
+  "duration": "00:11:40"
 },
 
 {
@@ -1790,7 +1951,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/a8TWfH4RqB0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2022-03-27)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2022-03-27)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 (ENG) (2022-03-27)",
+  "duration": "00:11:29"
 },
 
 {
@@ -1801,7 +1963,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/J0Qkr0Ypqfo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 (ENG) (2022-04-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 (ENG) (2022-04-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 (ENG) (2022-04-01)",
+  "duration": "00:13:50"
 },
 
 {
@@ -1812,7 +1975,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/hi3l7y6ZwrY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드 (ENG) (2022-04-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드 (ENG) (2022-04-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드 (ENG) (2022-04-09)",
+  "duration": "00:09:25"
 },
 
 {
@@ -1823,7 +1987,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/OXT3-sLFiaU/mqdefault.jpg",
   "alt": "미연 (MIYEON) - 1st Mini Album \"MY\" Mood Film (2022-04-12)",
-  "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Mood Film (2022-04-12)"
+  "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Mood Film (2022-04-12)",
+  "duration": "00:01:30"
 },
 
 {
@@ -1834,7 +1999,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/x8NSEmpC4Jo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 (ENG) (2022-04-14)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 (ENG) (2022-04-14)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 (ENG) (2022-04-14)",
+  "duration": "00:13:55"
 },
 
 {
@@ -1845,7 +2011,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/pEMC4GOMmOw/mqdefault.jpg",
   "alt": "미연 (MIYEON) - 1st Mini Album \"MY\" Audio Snippet (2022-04-22)",
-  "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Audio Snippet (2022-04-22)"
+  "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Audio Snippet (2022-04-22)",
+  "duration": "00:01:37"
 },
 
 {
@@ -1856,7 +2023,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/ij69A4ETIas/mqdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' M/V Teaser 1 (2022-04-24)",
-  "title": "미연 (MIYEON) - 'Drive' M/V Teaser 1 (2022-04-24)"
+  "title": "미연 (MIYEON) - 'Drive' M/V Teaser 1 (2022-04-24)",
+  "duration": "00:00:18"
 },
 
 {
@@ -1867,7 +2035,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/7lU3Rvw3nGk/mqdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' M/V Teaser 2 (2022-04-25)",
-  "title": "미연 (MIYEON) - 'Drive' M/V Teaser 2 (2022-04-25)"
+  "title": "미연 (MIYEON) - 'Drive' M/V Teaser 2 (2022-04-25)",
+  "duration": "00:00:23"
 },
 
 {
@@ -1878,7 +2047,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/1q_yooSrgJ4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)",
+  "duration": "00:05:37"
 },
 
 {
@@ -1889,7 +2059,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/ur2x3tdoX5Q/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #98: 미연 \"MY\" 뮤비 촬영 현장 비하인드 (ENG) (2022-05-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #98: 미연 \"MY\" 뮤비 촬영 현장 비하인드 (ENG) (2022-05-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #98: 미연 \"MY\" 뮤비 촬영 현장 비하인드 (ENG) (2022-05-04)",
+  "duration": "00:13:28"
 },
 
 {
@@ -1900,7 +2071,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/L37aZiXpqY0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)",
+  "duration": "00:01:07"
 },
 
 {
@@ -1911,7 +2083,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/0GvaKrCGV6s/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀ (ENG) (2022-05-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀ (ENG) (2022-05-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀ (ENG) (2022-05-09)",
+  "duration": "00:10:55"
 },
 
 {
@@ -1922,7 +2095,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/_FCfCpJMvOg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #99: 미연 'Drive' 첫방 비하인드 (ENG) (2022-05-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #99: 미연 'Drive' 첫방 비하인드 (ENG) (2022-05-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #99: 미연 'Drive' 첫방 비하인드 (ENG) (2022-05-15)",
+  "duration": "00:09:07"
 },
 
 {
@@ -1933,7 +2107,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/9IdcoGWD6cI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #100: 미연 'Drive' 마지막 주 비하인드 (ENG) (2022-05-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #100: 미연 'Drive' 마지막 주 비하인드 (ENG) (2022-05-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #100: 미연 'Drive' 마지막 주 비하인드 (ENG) (2022-05-22)",
+  "duration": "00:12:21"
 },
 
 {
@@ -1944,7 +2119,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/z3LjmE-Jf9U/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #2 소연&우기의 먹방 브이로그 (ENG) (2022-05-23)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #2 소연&우기의 먹방 브이로그 (ENG) (2022-05-23)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #2 소연&우기의 먹방 브이로그 (ENG) (2022-05-23)",
+  "duration": "00:10:55"
 },
 
 {
@@ -1955,7 +2131,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/nQBqKynYiWI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #101: 2022 KPOP.FLEX 비하인드 (ENG) (2022-06-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #101: 2022 KPOP.FLEX 비하인드 (ENG) (2022-06-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #101: 2022 KPOP.FLEX 비하인드 (ENG) (2022-06-05)",
+  "duration": "00:11:44"
 },
 
 {
@@ -1966,7 +2143,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/x12T7F5Ak8E/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #3 민우슈의 성수동 나들이 (ENG) (2022-06-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #3 민우슈의 성수동 나들이 (ENG) (2022-06-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #3 민우슈의 성수동 나들이 (ENG) (2022-06-06)",
+  "duration": "00:14:06"
 },
 
 {
@@ -1977,7 +2155,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/kye1yH1d2TQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #4 (G)I-DLE in Frankfurt ✈️ (ENG) (2022-06-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #4 (G)I-DLE in Frankfurt ✈️ (ENG) (2022-06-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #4 (G)I-DLE in Frankfurt ✈️ (ENG) (2022-06-20)",
+  "duration": "00:12:01"
 },
 
 {
@@ -1988,7 +2167,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/YwSWrRCUeI8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #102 : 'JUST ME ( )I-DLE' 콘서트 포스터 촬영 비하인드 (ENG) (2022-06-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #102 : 'JUST ME ( )I-DLE' 콘서트 포스터 촬영 비하인드 (ENG) (2022-06-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #102 : 'JUST ME ( )I-DLE' 콘서트 포스터 촬영 비하인드 (ENG) (2022-06-22)",
+  "duration": "00:10:06"
 },
 
 {
@@ -1999,7 +2179,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/nwvZlzf0Qfk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #5  콘서트 합주 | 부모님과 함께하는 민니의 하루 (ENG/CHN) (2022-07-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #5  콘서트 합주 | 부모님과 함께하는 민니의 하루 (ENG/CHN) (2022-07-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #5  콘서트 합주 | 부모님과 함께하는 민니의 하루 (ENG/CHN) (2022-07-04)",
+  "duration": "00:15:15"
 },
 
 {
@@ -2010,7 +2191,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dPM9_Y-n-LM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #103 : 'JUST ME ( )I-DLE' 콘서트 VCR 촬영 비하인드 (ENG/CHN) (2022-07-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #103 : 'JUST ME ( )I-DLE' 콘서트 VCR 촬영 비하인드 (ENG/CHN) (2022-07-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #103 : 'JUST ME ( )I-DLE' 콘서트 VCR 촬영 비하인드 (ENG/CHN) (2022-07-06)",
+  "duration": "00:10:29"
 },
 
 {
@@ -2021,7 +2203,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/THbNbuWvkTw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #6 운전면허 브이로그 🚗 (ENG/CHN) (2022-07-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #6 운전면허 브이로그 🚗 (ENG/CHN) (2022-07-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #6 운전면허 브이로그 🚗 (ENG/CHN) (2022-07-18)",
+  "duration": "00:11:15"
 },
 
 {
@@ -2032,7 +2215,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/eFs6BZOvp7Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
+  "duration": "00:20:36"
 },
 
 {
@@ -2043,7 +2227,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/k1AjiiFOQIU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #7  운전면허 브이로그 EP.2 🚗  | 기능 시험 보는 날 (2022-08-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #7  운전면허 브이로그 EP.2 🚗  | 기능 시험 보는 날 (2022-08-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #7  운전면허 브이로그 EP.2 🚗  | 기능 시험 보는 날 (2022-08-01)",
+  "duration": "00:08:15"
 },
 
 {
@@ -2054,7 +2239,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/7qzwlb73-yM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
+  "duration": "00:18:03"
 },
 
 {
@@ -2065,7 +2251,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/kK4zZtJU1aA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #8 미연이의💕 일상 모음.zip (feat. 우기🐶) (ENG/CHN) (2022-08-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #8 미연이의💕 일상 모음.zip (feat. 우기🐶) (ENG/CHN) (2022-08-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #8 미연이의💕 일상 모음.zip (feat. 우기🐶) (ENG/CHN) (2022-08-15)",
+  "duration": "00:07:32"
 },
 
 {
@@ -2076,7 +2263,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/KN3j4jS-5l0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
+  "duration": "00:18:02"
 },
 
 {
@@ -2087,7 +2275,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/FUKPxRSNI7w/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #9 소연이의 FIFA 촬영 현장 ⚽ | TMI 대방출 🎁 (ENG/CHN) (2022-08-29)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #9 소연이의 FIFA 촬영 현장 ⚽ | TMI 대방출 🎁 (ENG/CHN) (2022-08-29)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #9 소연이의 FIFA 촬영 현장 ⚽ | TMI 대방출 🎁 (ENG/CHN) (2022-08-29)",
+  "duration": "00:08:32"
 },
 
 {
@@ -2098,7 +2287,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/klm3ZO0VxVE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
+  "duration": "00:12:57"
 },
 
 {
@@ -2109,7 +2299,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/TTRQ3HtUVas/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #10 (여자)아이들이 LA에 왔슈 🌍 | 가이드 슈슈 🚩 (ENG/CHN) (2022-09-12)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #10 (여자)아이들이 LA에 왔슈 🌍 | 가이드 슈슈 🚩 (ENG/CHN) (2022-09-12)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #10 (여자)아이들이 LA에 왔슈 🌍 | 가이드 슈슈 🚩 (ENG/CHN) (2022-09-12)",
+  "duration": "00:06:16"
 },
 
 {
@@ -2120,7 +2311,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/cVvLMuzeXs4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Spoiler Teaser (2022-09-13)",
-  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Spoiler Teaser (2022-09-13)"
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Spoiler Teaser (2022-09-13)",
+  "duration": "00:10:00"
 },
 
 {
@@ -2131,7 +2323,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/3Rcj4NmkRWw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
+  "duration": "00:16:12"
 },
 
 {
@@ -2142,7 +2335,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/JHrzlRFbnns/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰 (ENG/CHN) (2022-09-26)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰 (ENG/CHN) (2022-09-26)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰 (ENG/CHN) (2022-09-26)",
+  "duration": "00:07:56"
 },
 
 {
@@ -2153,7 +2347,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/q3dPS1a1pm8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Sketch Film (2022-09-29)",
-  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Sketch Film (2022-09-29)"
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Sketch Film (2022-09-29)",
+  "duration": "00:00:13"
 },
 
 {
@@ -2164,7 +2359,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/9NGWQcgQHOI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
+  "duration": "00:19:09"
 },
 
 {
@@ -2175,7 +2371,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/qEWfUqSxmSY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Audio Snippet (2022-10-09)",
-  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Audio Snippet (2022-10-09)"
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Audio Snippet (2022-10-09)",
+  "duration": "00:01:50"
 },
 
 {
@@ -2186,7 +2383,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/T91NIKVhn_4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - X-FILE VIDEO (2022-10-11)",
-  "title": "(여자)아이들((G)I-DLE) - X-FILE VIDEO (2022-10-11)"
+  "title": "(여자)아이들((G)I-DLE) - X-FILE VIDEO (2022-10-11)",
+  "duration": "00:01:27"
 },
 
 {
@@ -2197,7 +2395,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/jcKhzuNhvFQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview (2022-10-13)",
-  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview (2022-10-13)"
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview (2022-10-13)",
+  "duration": "00:01:18"
 },
 
 {
@@ -2208,7 +2407,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/hZf4w5d1T34/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 1 (2022-10-14)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 1 (2022-10-14)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 1 (2022-10-14)",
+  "duration": "00:00:12"
 },
 
 {
@@ -2219,7 +2419,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/taGjyi9M0i0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 2 (2022-10-15)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 2 (2022-10-15)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 2 (2022-10-15)",
+  "duration": "00:00:18"
 },
 
 {
@@ -2230,7 +2431,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Tw7ynjk6rVc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #104 : \"I love\" 재킷 촬영 현장 비하인드 (ENG/CHN) (2022-10-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #104 : \"I love\" 재킷 촬영 현장 비하인드 (ENG/CHN) (2022-10-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #104 : \"I love\" 재킷 촬영 현장 비하인드 (ENG/CHN) (2022-10-19)",
+  "duration": "00:10:10"
 },
 
 {
@@ -2241,7 +2443,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/9f1iFCxhc4U/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
-  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)"
+  "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
+  "duration": "00:16:10"
 },
 
 {
@@ -2252,7 +2455,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/b8pFGiXiTjY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #105 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 1 (ENG/CHN) (2022-10-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #105 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 1 (ENG/CHN) (2022-10-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #105 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 1 (ENG/CHN) (2022-10-22)",
+  "duration": "00:11:14"
 },
 
 {
@@ -2263,7 +2467,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/KnUzX0m2sHo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2 (ENG/CHN) (2022-10-27)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2 (ENG/CHN) (2022-10-27)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2 (ENG/CHN) (2022-10-27)",
+  "duration": "00:09:24"
 },
 
 {
@@ -2274,7 +2479,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/VYgI3YmlxHk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #107 : X-LOVE SHOW 비하인드 (ENG/CHN) (2022-11-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #107 : X-LOVE SHOW 비하인드 (ENG/CHN) (2022-11-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #107 : X-LOVE SHOW 비하인드 (ENG/CHN) (2022-11-06)",
+  "duration": "00:07:02"
 },
 
 {
@@ -2285,7 +2491,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/RM_9krmkC2I/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드 (ENG/CHN) (2022-11-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드 (ENG/CHN) (2022-11-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드 (ENG/CHN) (2022-11-09)",
+  "duration": "00:13:45"
 },
 
 {
@@ -2296,7 +2503,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/YQt3gzOWKMo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #109: 'Nxde' 마지막 주 비하인드 (ENG/CHN) (2022-11-11)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #109: 'Nxde' 마지막 주 비하인드 (ENG/CHN) (2022-11-11)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #109: 'Nxde' 마지막 주 비하인드 (ENG/CHN) (2022-11-11)",
+  "duration": "00:15:24"
 },
 
 {
@@ -2307,7 +2515,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/xecwwEWwqOY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #110: X-FILE VIDEO 비하인드 (ENG/CHN) (2022-11-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #110: X-FILE VIDEO 비하인드 (ENG/CHN) (2022-11-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #110: X-FILE VIDEO 비하인드 (ENG/CHN) (2022-11-13)",
+  "duration": "00:06:50"
 },
 
 {
@@ -2318,7 +2527,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/I_YjPHZE04A/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드 (ENG/CHN) (2022-11-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드 (ENG/CHN) (2022-11-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드 (ENG/CHN) (2022-11-20)",
+  "duration": "00:10:51"
 },
 
 {
@@ -2329,7 +2539,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/bsMO-p89ORg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #12 칠레에 가게 된 (여자)아이들 ✈ (ENG/CHN) (2022-12-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #12 칠레에 가게 된 (여자)아이들 ✈ (ENG/CHN) (2022-12-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #12 칠레에 가게 된 (여자)아이들 ✈ (ENG/CHN) (2022-12-01)",
+  "duration": "00:07:36"
 },
 
 {
@@ -2340,7 +2551,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/xqRjm5ulgJs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Teaser (2022-12-11)",
-  "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Teaser (2022-12-11)"
+  "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Teaser (2022-12-11)",
+  "duration": "00:00:18"
 },
 
 {
@@ -2351,7 +2563,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/TFGeHfqVswI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser (2022-12-14)",
-  "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser (2022-12-14)"
+  "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser (2022-12-14)",
+  "duration": "00:00:16"
 },
 
 {
@@ -2362,7 +2575,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/VagJTHGmjAg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA (ENG/CHN) (2022-12-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA (ENG/CHN) (2022-12-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA (ENG/CHN) (2022-12-17)",
+  "duration": "00:06:09"
 },
 
 {
@@ -2373,7 +2587,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/2lDPw8FP0rI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #112 : 2023 시즌 그리팅 비하인드 (ENG/CHN) (2022-12-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #112 : 2023 시즌 그리팅 비하인드 (ENG/CHN) (2022-12-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #112 : 2023 시즌 그리팅 비하인드 (ENG/CHN) (2022-12-20)",
+  "duration": "00:09:50"
 },
 
 {
@@ -2384,7 +2599,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/CQO4TFM0oZk/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)",
-  "title": "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)"
+  "title": "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)",
+  "duration": "00:05:48"
 },
 
 {
@@ -2395,7 +2611,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/tZM8ZZhcbiQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #113 : 민니의 'Recuérdame' 촬영 비하인드 (ENG/CHN) (2022-12-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #113 : 민니의 'Recuérdame' 촬영 비하인드 (ENG/CHN) (2022-12-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #113 : 민니의 'Recuérdame' 촬영 비하인드 (ENG/CHN) (2022-12-30)",
+  "duration": "00:07:01"
 },
 
 {
@@ -2406,7 +2623,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/pf_I0r7fUck/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #14 (여자)아이들 in 자카르타 🙌 (ENG/CHN) (2023-01-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #14 (여자)아이들 in 자카르타 🙌 (ENG/CHN) (2023-01-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #14 (여자)아이들 in 자카르타 🙌 (ENG/CHN) (2023-01-06)",
+  "duration": "00:07:50"
 },
 
 {
@@ -2417,7 +2635,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ryNHXwE3uDM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #15 민니의 해피 크리스마스 🎄❤ (ENG/CHN) (2023-01-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #15 민니의 해피 크리스마스 🎄❤ (ENG/CHN) (2023-01-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #15 민니의 해피 크리스마스 🎄❤ (ENG/CHN) (2023-01-18)",
+  "duration": "00:06:57"
 },
 
 {
@@ -2428,7 +2647,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/J9Xh4_zoWD0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #114 : 2022 연말 무대 비하인드 💕 (ENG/CHN) (2023-01-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #114 : 2022 연말 무대 비하인드 💕 (ENG/CHN) (2023-01-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #114 : 2022 연말 무대 비하인드 💕 (ENG/CHN) (2023-01-20)",
+  "duration": "00:18:11"
 },
 
 {
@@ -2439,7 +2659,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/RAKBokE7C-8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #115 : 골든디스크어워즈 비하인드 💗 (ENG/CHN) (2023-01-31)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #115 : 골든디스크어워즈 비하인드 💗 (ENG/CHN) (2023-01-31)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #115 : 골든디스크어워즈 비하인드 💗 (ENG/CHN) (2023-01-31)",
+  "duration": "00:13:12"
 },
 
 {
@@ -2450,7 +2671,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/URlJud2rlMo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #16 소연의 슬기로운 격리 생활 ✨ (ENG/CHN) (2023-02-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #16 소연의 슬기로운 격리 생활 ✨ (ENG/CHN) (2023-02-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #16 소연의 슬기로운 격리 생활 ✨ (ENG/CHN) (2023-02-04)",
+  "duration": "00:08:51"
 },
 
 {
@@ -2461,7 +2683,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/wHqn-UIyLHg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #17 민니의 태국 브이로그 🌟 (Feat. 우기와의 데이트 🥰) | (ENG/CHN) (2023-02-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #17 민니의 태국 브이로그 🌟 (Feat. 우기와의 데이트 🥰) | (ENG/CHN) (2023-02-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #17 민니의 태국 브이로그 🌟 (Feat. 우기와의 데이트 🥰) | (ENG/CHN) (2023-02-08)",
+  "duration": "00:11:44"
 },
 
 {
@@ -2472,7 +2695,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HYZrwHYR8NQ/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)",
-  "title": "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)"
+  "title": "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)",
+  "duration": "00:04:40"
 },
 
 {
@@ -2483,7 +2707,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/LEp7sPPCkII/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #116 : 서울가요대상 비하인드 🌟 (ENG/CHN) (2023-02-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #116 : 서울가요대상 비하인드 🌟 (ENG/CHN) (2023-02-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #116 : 서울가요대상 비하인드 🌟 (ENG/CHN) (2023-02-28)",
+  "duration": "00:11:57"
 },
 
 {
@@ -2494,7 +2719,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/UZbO1ccNb84/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #117 : '행운의 편지' 팬미팅 VCR 촬영 비하인드 💞 (ENG/CHN) (2023-03-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #117 : '행운의 편지' 팬미팅 VCR 촬영 비하인드 💞 (ENG/CHN) (2023-03-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #117 : '행운의 편지' 팬미팅 VCR 촬영 비하인드 💞 (ENG/CHN) (2023-03-03)",
+  "duration": "00:17:39"
 },
 
 {
@@ -2505,7 +2731,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/zi8zJBT2QyE/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)",
-  "title": "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)"
+  "title": "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)",
+  "duration": "00:02:43"
 },
 
 {
@@ -2516,7 +2743,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/9XiIpdo7xhA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #18 (여자)아이들의 먹방 브이로그 🥤 | (ENG/CHN) (2023-03-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #18 (여자)아이들의 먹방 브이로그 🥤 | (ENG/CHN) (2023-03-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #18 (여자)아이들의 먹방 브이로그 🥤 | (ENG/CHN) (2023-03-13)",
+  "duration": "00:05:53"
 },
 
 {
@@ -2527,7 +2755,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/D4c-8wlkzpc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #118 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 1 (ENG/CHN) (2023-03-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #118 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 1 (ENG/CHN) (2023-03-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #118 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 1 (ENG/CHN) (2023-03-15)",
+  "duration": "00:10:02"
 },
 
 {
@@ -2538,7 +2767,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/fngLL-2V5T8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #119 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 2 (ENG/CHN) (2023-03-25)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #119 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 2 (ENG/CHN) (2023-03-25)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #119 : 3RD FAN MEETING [행운의 편지] 비하인드 PART 2 (ENG/CHN) (2023-03-25)",
+  "duration": "00:12:05"
 },
 
 {
@@ -2549,7 +2779,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Qu71MoWLA3c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #120 : 분금치의 엠카운트다운 비하인드 💖💚 (ENG/CHN) (2023-03-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #120 : 분금치의 엠카운트다운 비하인드 💖💚 (ENG/CHN) (2023-03-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #120 : 분금치의 엠카운트다운 비하인드 💖💚 (ENG/CHN) (2023-03-28)",
+  "duration": "00:07:15"
 },
 
 {
@@ -2560,7 +2791,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/dDZT1faYx0Y/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)",
-  "title": "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)"
+  "title": "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)",
+  "duration": "00:02:41"
 },
 
 {
@@ -2571,7 +2803,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Rq-sSDdMOxI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #121 : MC 여니의 스페셜 스테이지 비하인드 🌸 (ENG/CHN) (2023-04-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #121 : MC 여니의 스페셜 스테이지 비하인드 🌸 (ENG/CHN) (2023-04-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #121 : MC 여니의 스페셜 스테이지 비하인드 🌸 (ENG/CHN) (2023-04-08)",
+  "duration": "00:06:17"
 },
 
 {
@@ -2582,7 +2815,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/pdkt_wXOtW0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #122 : 미연의 '혜미리예채파' 제작 발표회 비하인드 (ENG/CHN) (2023-04-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #122 : 미연의 '혜미리예채파' 제작 발표회 비하인드 (ENG/CHN) (2023-04-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #122 : 미연의 '혜미리예채파' 제작 발표회 비하인드 (ENG/CHN) (2023-04-10)",
+  "duration": "00:05:48"
 },
 
 {
@@ -2593,7 +2827,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/QWQfHKGmSeM/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)",
-  "title": "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)"
+  "title": "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)",
+  "duration": "00:02:57"
 },
 
 {
@@ -2604,7 +2839,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/URh5fgVufm4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes (2023-04-23)",
-  "title": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes (2023-04-23)"
+  "title": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes (2023-04-23)",
+  "duration": "00:01:18"
 },
 
 {
@@ -2615,7 +2851,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/qg8vNx_jQYU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Character Introduction : [I feel] (2023-04-25)",
-  "title": "(여자)아이들((G)I-DLE) - Character Introduction : [I feel] (2023-04-25)"
+  "title": "(여자)아이들((G)I-DLE) - Character Introduction : [I feel] (2023-04-25)",
+  "duration": "00:00:51"
 },
 
 {
@@ -2626,7 +2863,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/6P3fqtf3ibM/mqdefault.jpg",
   "alt": "우기 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #YUQI (2023-04-26)",
-  "title": "우기 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #YUQI (2023-04-26)"
+  "title": "우기 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #YUQI (2023-04-26)",
+  "duration": "00:01:00"
 },
 
 {
@@ -2637,7 +2875,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/TFb3ITn3TyQ/mqdefault.jpg",
   "alt": "슈화 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SHUHUA (2023-04-27)",
-  "title": "슈화 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SHUHUA (2023-04-27)"
+  "title": "슈화 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SHUHUA (2023-04-27)",
+  "duration": "00:00:44"
 },
 
 {
@@ -2648,7 +2887,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/riLm94E6EfE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #19 민니의 파리 브이로그 😘 | (ENG/CHN) (2023-04-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #19 민니의 파리 브이로그 😘 | (ENG/CHN) (2023-04-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #19 민니의 파리 브이로그 😘 | (ENG/CHN) (2023-04-28)",
+  "duration": "00:09:06"
 },
 
 {
@@ -2659,7 +2899,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/FZc4wGOf0i4/mqdefault.jpg",
   "alt": "민니 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MINNIE (2023-04-30)",
-  "title": "민니 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MINNIE (2023-04-30)"
+  "title": "민니 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MINNIE (2023-04-30)",
+  "duration": "00:00:50"
 },
 
 {
@@ -2670,7 +2911,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/XYIBQAm8iZ4/mqdefault.jpg",
   "alt": "미연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MIYEON (2023-05-01)",
-  "title": "미연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MIYEON (2023-05-01)"
+  "title": "미연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MIYEON (2023-05-01)",
+  "duration": "00:00:39"
 },
 
 {
@@ -2681,7 +2923,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/nEtSDq6geSc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #20 소연의 밀라노 브이로그 😎 | (ENG/CHN) (2023-05-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #20 소연의 밀라노 브이로그 😎 | (ENG/CHN) (2023-05-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #20 소연의 밀라노 브이로그 😎 | (ENG/CHN) (2023-05-03)",
+  "duration": "00:10:51"
 },
 
 {
@@ -2692,7 +2935,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/38kvqREhg8k/mqdefault.jpg",
   "alt": "소연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SOYEON (2023-05-03)",
-  "title": "소연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SOYEON (2023-05-03)"
+  "title": "소연 - (여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SOYEON (2023-05-03)",
+  "duration": "00:00:55"
 },
 
 {
@@ -2703,7 +2947,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/5a7RDNGdXnU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #123 : 소연의 '방과후 설렘 시즌2' 첫 촬영 & 제작 발표회 비하인드 (ENG/CHN) (2023-05-05)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #123 : 소연의 '방과후 설렘 시즌2' 첫 촬영 & 제작 발표회 비하인드 (ENG/CHN) (2023-05-05)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #123 : 소연의 '방과후 설렘 시즌2' 첫 촬영 & 제작 발표회 비하인드 (ENG/CHN) (2023-05-05)",
+  "duration": "00:06:07"
 },
 
 {
@@ -2714,7 +2959,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Kly9hFFGrb0/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)",
-  "title": "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)"
+  "title": "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)",
+  "duration": "00:03:35"
 },
 
 {
@@ -2725,7 +2971,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/IquoKcN-vU4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #124 : 6th Mini Album [I feel] 재킷 촬영 비하인드 (ENG/CHN) (2023-05-23)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #124 : 6th Mini Album [I feel] 재킷 촬영 비하인드 (ENG/CHN) (2023-05-23)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #124 : 6th Mini Album [I feel] 재킷 촬영 비하인드 (ENG/CHN) (2023-05-23)",
+  "duration": "00:13:50"
 },
 
 {
@@ -2736,7 +2983,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/6jL7U29W5Mk/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)",
-  "title": "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)"
+  "title": "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)",
+  "duration": "00:04:26"
 },
 
 {
@@ -2747,7 +2995,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/jgtYt_k5tYg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #125 : ‘퀸카 (Queencard)’ M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-06-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #125 : ‘퀸카 (Queencard)’ M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-06-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #125 : ‘퀸카 (Queencard)’ M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-06-03)",
+  "duration": "00:17:02"
 },
 
 {
@@ -2758,7 +3007,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/w0TQ51nnM5c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #126 : 2023 신한은행 SOL KBO리그 시구&시타 비하인드 ⚾ (ENG/CHN) (2023-06-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #126 : 2023 신한은행 SOL KBO리그 시구&시타 비하인드 ⚾ (ENG/CHN) (2023-06-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #126 : 2023 신한은행 SOL KBO리그 시구&시타 비하인드 ⚾ (ENG/CHN) (2023-06-06)",
+  "duration": "00:10:55"
 },
 
 {
@@ -2769,7 +3019,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/4Btl-X89kBY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #127 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-06-12)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #127 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-06-12)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #127 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-06-12)",
+  "duration": "00:16:44"
 },
 
 {
@@ -2780,7 +3031,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/dcn9yDyDZ0o/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #21 민니의 작업실 브이로그 🎧 | (ENG/CHN) (2023-06-14)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #21 민니의 작업실 브이로그 🎧 | (ENG/CHN) (2023-06-14)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #21 민니의 작업실 브이로그 🎧 | (ENG/CHN) (2023-06-14)",
+  "duration": "00:09:53"
 },
 
 {
@@ -2791,7 +3043,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/8JYjc2nSL48/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #128 : 민니의 '비긴어게인 오픈마이크' 비하인드 🎤🎶 (ENG/CHN) (2023-06-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #128 : 민니의 '비긴어게인 오픈마이크' 비하인드 🎤🎶 (ENG/CHN) (2023-06-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #128 : 민니의 '비긴어게인 오픈마이크' 비하인드 🎤🎶 (ENG/CHN) (2023-06-21)",
+  "duration": "00:12:30"
 },
 
 {
@@ -2802,7 +3055,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/ckcVS1YWcr4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #129 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2023-06-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #129 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2023-06-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #129 : '퀸카 (Queencard)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2023-06-24)",
+  "duration": "00:12:39"
 },
 
 {
@@ -2813,7 +3067,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/GzxxFZoHESU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #130 : '퀸카 (Queencard)' 음악방송 비하인드 PART 1 (ENG/CHN) (2023-06-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #130 : '퀸카 (Queencard)' 음악방송 비하인드 PART 1 (ENG/CHN) (2023-06-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #130 : '퀸카 (Queencard)' 음악방송 비하인드 PART 1 (ENG/CHN) (2023-06-30)",
+  "duration": "00:21:30"
 },
 
 {
@@ -2824,7 +3079,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/bMDNqCMAn6g/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #131 : '퀸카 (Queencard)' 음악방송 비하인드 PART 2 (ENG/CHN) (2023-07-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #131 : '퀸카 (Queencard)' 음악방송 비하인드 PART 2 (ENG/CHN) (2023-07-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #131 : '퀸카 (Queencard)' 음악방송 비하인드 PART 2 (ENG/CHN) (2023-07-04)",
+  "duration": "00:25:42"
 },
 
 {
@@ -2835,7 +3091,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2HYls6OJ4I8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #132 : '퀸카 (Queencard)' 음악방송 비하인드 PART 3 (ENG/CHN) (2023-07-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #132 : '퀸카 (Queencard)' 음악방송 비하인드 PART 3 (ENG/CHN) (2023-07-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #132 : '퀸카 (Queencard)' 음악방송 비하인드 PART 3 (ENG/CHN) (2023-07-08)",
+  "duration": "00:20:25"
 },
 
 {
@@ -2846,7 +3103,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/m5x85EObU1Q/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #133 : 6th Mini Album [I feel] 미공개 비하인드 모음 💝 (ENG/CHN) (2023-07-12)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #133 : 6th Mini Album [I feel] 미공개 비하인드 모음 💝 (ENG/CHN) (2023-07-12)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #133 : 6th Mini Album [I feel] 미공개 비하인드 모음 💝 (ENG/CHN) (2023-07-12)",
+  "duration": "00:15:11"
 },
 
 {
@@ -2857,7 +3115,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ISGec0pg5mk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #134 : MC 여니의 엠카운트다운 800회 비하인드 🥳 (ENG/CHN) (2023-07-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #134 : MC 여니의 엠카운트다운 800회 비하인드 🥳 (ENG/CHN) (2023-07-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #134 : MC 여니의 엠카운트다운 800회 비하인드 🥳 (ENG/CHN) (2023-07-21)",
+  "duration": "00:05:42"
 },
 
 {
@@ -2868,7 +3127,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/zZQBBbTazuY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #22 '셀러브리티' 우기의 하루 😎 | (ENG/CHN) (2023-07-25)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #22 '셀러브리티' 우기의 하루 😎 | (ENG/CHN) (2023-07-25)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #22 '셀러브리티' 우기의 하루 😎 | (ENG/CHN) (2023-07-25)",
+  "duration": "00:04:47"
 },
 
 {
@@ -2879,7 +3139,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/v4qn-GFXfQI/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)",
-  "title": "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)"
+  "title": "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)",
+  "duration": "00:03:48"
 },
 
 {
@@ -2890,7 +3151,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/nzGA5nKMDRg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #135 : 2023 쿠팡플레이 시리즈 비하인드 ⚽ (ENG/CHN) (2023-08-14)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #135 : 2023 쿠팡플레이 시리즈 비하인드 ⚽ (ENG/CHN) (2023-08-14)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #135 : 2023 쿠팡플레이 시리즈 비하인드 ⚽ (ENG/CHN) (2023-08-14)",
+  "duration": "00:15:26"
 },
 
 {
@@ -2901,7 +3163,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/0K5RvD2p6v8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
+  "duration": "00:21:09"
 },
 
 {
@@ -2912,7 +3175,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/SZoacJ-KSxU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
+  "duration": "00:17:31"
 },
 
 {
@@ -2923,7 +3187,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/x7i6iIil-dQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
+  "duration": "00:14:13"
 },
 
 {
@@ -2934,7 +3199,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/07NbYKFBJRs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #23 마법 같았던 우기의 하루 🏰  | (ENG/CHN) (2023-09-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #23 마법 같았던 우기의 하루 🏰  | (ENG/CHN) (2023-09-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #23 마법 같았던 우기의 하루 🏰  | (ENG/CHN) (2023-09-08)",
+  "duration": "00:06:37"
 },
 
 {
@@ -2945,7 +3211,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/qh2MGXp7HYs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #24 민니의 What's in MY BAG & Luggage 🧳 | (ENG/CHN) (2023-09-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #24 민니의 What's in MY BAG & Luggage 🧳 | (ENG/CHN) (2023-09-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #24 민니의 What's in MY BAG & Luggage 🧳 | (ENG/CHN) (2023-09-15)",
+  "duration": "00:14:17"
 },
 
 {
@@ -2956,7 +3223,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/RbFdaAUXGIY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
+  "duration": "00:20:47"
 },
 
 {
@@ -2967,7 +3235,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/YePeIJjGQgc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #25 TJ의 밀랍 인형 박물관 나들이 😎🪩 | (ENG/CHN) (2023-09-29)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #25 TJ의 밀랍 인형 박물관 나들이 😎🪩 | (ENG/CHN) (2023-09-29)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #25 TJ의 밀랍 인형 박물관 나들이 😎🪩 | (ENG/CHN) (2023-09-29)",
+  "duration": "00:07:38"
 },
 
 {
@@ -2978,7 +3247,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/XJ0zcVrvLO4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) Special EP [HEAT] Audio Snippet (2023-10-02)",
-  "title": "(여자)아이들((G)I-DLE) Special EP [HEAT] Audio Snippet (2023-10-02)"
+  "title": "(여자)아이들((G)I-DLE) Special EP [HEAT] Audio Snippet (2023-10-02)",
+  "duration": "00:02:31"
 },
 
 {
@@ -2989,7 +3259,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/CIxApX7r9YQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 1 (2023-10-04)",
-  "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 1 (2023-10-04)"
+  "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 1 (2023-10-04)",
+  "duration": "00:00:26"
 },
 
 {
@@ -3000,7 +3271,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/IjGdsdLMttc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 2 (2023-10-05)",
-  "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 2 (2023-10-05)"
+  "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 2 (2023-10-05)",
+  "duration": "00:00:16"
 },
 
 {
@@ -3011,7 +3283,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/sxl3aKjF1e4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
+  "duration": "00:21:09"
 },
 
 {
@@ -3022,7 +3295,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/frYByt36Wj4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #136 : MC미연의 엠카운트다운 비하인드 👑 (ENG/CHN) (2023-10-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #136 : MC미연의 엠카운트다운 비하인드 👑 (ENG/CHN) (2023-10-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #136 : MC미연의 엠카운트다운 비하인드 👑 (ENG/CHN) (2023-10-10)",
+  "duration": "00:15:50"
 },
 
 {
@@ -3033,7 +3307,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/uordQfbb4OI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #26 민니와 우기의 댈러스 브이로그 💗💚 | (ENG/CHN) (2023-10-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #26 민니와 우기의 댈러스 브이로그 💗💚 | (ENG/CHN) (2023-10-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #26 민니와 우기의 댈러스 브이로그 💗💚 | (ENG/CHN) (2023-10-13)",
+  "duration": "00:08:14"
 },
 
 {
@@ -3044,7 +3319,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/PnJBs44SpMo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #137 : 'I Want That' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-10-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #137 : 'I Want That' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-10-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #137 : 'I Want That' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2023-10-17)",
+  "duration": "00:16:57"
 },
 
 {
@@ -3055,7 +3331,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/2WZY9gRJfrw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
+  "duration": "00:18:41"
 },
 
 {
@@ -3066,7 +3343,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/IQdDn_ktGww/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
+  "duration": "00:20:30"
 },
 
 {
@@ -3077,7 +3355,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/-RORM6aWoJw/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)",
-  "title": "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)"
+  "title": "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)",
+  "duration": "00:03:07"
 },
 
 {
@@ -3088,7 +3367,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/Ng021moIyt4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #138 : 'I Want That' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-11-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #138 : 'I Want That' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-11-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #138 : 'I Want That' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2023-11-04)",
+  "duration": "00:14:21"
 },
 
 {
@@ -3099,7 +3379,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/UiqTmnzhvpU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #27 민니의 나홀로 영국 여행 브이로그 🎡 | (ENG/CHN) (2023-11-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #27 민니의 나홀로 영국 여행 브이로그 🎡 | (ENG/CHN) (2023-11-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #27 민니의 나홀로 영국 여행 브이로그 🎡 | (ENG/CHN) (2023-11-08)",
+  "duration": "00:12:08"
 },
 
 {
@@ -3110,7 +3391,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/gI9rtej6Xck/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
+  "duration": "00:21:54"
 },
 
 {
@@ -3121,7 +3403,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/YNviAJJ3qsg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #28 민니 마우스의 신나는 하루 🎢🎀 | (ENG/CHN) (2023-11-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #28 민니 마우스의 신나는 하루 🎢🎀 | (ENG/CHN) (2023-11-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #28 민니 마우스의 신나는 하루 🎢🎀 | (ENG/CHN) (2023-11-17)",
+  "duration": "00:07:20"
 },
 
 {
@@ -3132,7 +3415,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/Ay4S4V2vYzs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #139 : 'NOT OK (Feat. 민니 ((여자)아이들))' M/V 촬영 비하인드 (ENG/CHN) (2023-11-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #139 : 'NOT OK (Feat. 민니 ((여자)아이들))' M/V 촬영 비하인드 (ENG/CHN) (2023-11-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #139 : 'NOT OK (Feat. 민니 ((여자)아이들))' M/V 촬영 비하인드 (ENG/CHN) (2023-11-21)",
+  "duration": "00:14:10"
 },
 
 {
@@ -3143,7 +3427,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/0cFfTpbr-2A/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
-  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)"
+  "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
+  "duration": "00:22:28"
 },
 
 {
@@ -3154,7 +3439,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/OzlQzpstJQY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #140 : MC 미연의 마지막 엠카운트다운 비하인드 💚 (ENG/CHN) (2023-12-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #140 : MC 미연의 마지막 엠카운트다운 비하인드 💚 (ENG/CHN) (2023-12-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #140 : MC 미연의 마지막 엠카운트다운 비하인드 💚 (ENG/CHN) (2023-12-01)",
+  "duration": "00:14:16"
 },
 
 {
@@ -3165,7 +3451,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/K2aDQ1r8-64/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #141 : 소연의 'NOBODY' M/V 촬영 비하인드 (ENG/CHN) (2023-12-10)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #141 : 소연의 'NOBODY' M/V 촬영 비하인드 (ENG/CHN) (2023-12-10)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #141 : 소연의 'NOBODY' M/V 촬영 비하인드 (ENG/CHN) (2023-12-10)",
+  "duration": "00:13:17"
 },
 
 {
@@ -3176,7 +3463,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/j9Z3_7P1wsc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #142 : 9 Wave Music Festival 비하인드 🎶 (ENG/CHN) (2023-12-17)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #142 : 9 Wave Music Festival 비하인드 🎶 (ENG/CHN) (2023-12-17)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #142 : 9 Wave Music Festival 비하인드 🎶 (ENG/CHN) (2023-12-17)",
+  "duration": "00:12:24"
 },
 
 {
@@ -3187,7 +3475,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/fI8ziJMj1D8/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)",
-  "title": "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)"
+  "title": "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)",
+  "duration": "00:06:49"
 },
 
 {
@@ -3198,7 +3487,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/3zD8YRus8HI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
-  "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)"
+  "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
+  "duration": "00:18:00"
 },
 
 {
@@ -3209,7 +3499,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/hgrClZcu-Uc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #143 : 2024 시즌 그리팅 비하인드 (ENG/CHN) (2024-01-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #143 : 2024 시즌 그리팅 비하인드 (ENG/CHN) (2024-01-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #143 : 2024 시즌 그리팅 비하인드 (ENG/CHN) (2024-01-04)",
+  "duration": "00:16:42"
 },
 
 {
@@ -3220,7 +3511,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/3f3p64CNwyA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion (2024-01-07)",
-  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion (2024-01-07)"
+  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion (2024-01-07)",
+  "duration": "00:00:19"
 },
 
 {
@@ -3231,7 +3523,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/E31_uxS2Lyw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
-  "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)"
+  "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
+  "duration": "00:18:51"
 },
 
 {
@@ -3242,7 +3535,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/g_L_DZFdSNI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE' (2024-01-11)",
-  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE' (2024-01-11)"
+  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE' (2024-01-11)",
+  "duration": "00:00:40"
 },
 
 {
@@ -3253,7 +3547,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/IBoOqS3bGh8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Audio Snippet (2024-01-18)",
-  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Audio Snippet (2024-01-18)"
+  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Audio Snippet (2024-01-18)",
+  "duration": "00:03:21"
 },
 
 {
@@ -3264,7 +3559,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/8GAIFlkBcM4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #144 : 2023 연말 무대 비하인드 PART 1 (ENG/CHN) (2024-01-18)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #144 : 2023 연말 무대 비하인드 PART 1 (ENG/CHN) (2024-01-18)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #144 : 2023 연말 무대 비하인드 PART 1 (ENG/CHN) (2024-01-18)",
+  "duration": "00:23:39"
 },
 
 {
@@ -3275,7 +3571,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/mBah7X9Yj88/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #29 (여자)아이들의 자유 시간 모음.zip 🎁 | (ENG/CHN) (2024-01-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #29 (여자)아이들의 자유 시간 모음.zip 🎁 | (ENG/CHN) (2024-01-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #29 (여자)아이들의 자유 시간 모음.zip 🎁 | (ENG/CHN) (2024-01-20)",
+  "duration": "00:13:00"
 },
 
 {
@@ -3286,7 +3583,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ff-s_LFaBiQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Wife' M/V Teaser (2024-01-20)",
-  "title": "(여자)아이들((G)I-DLE) - 'Wife' M/V Teaser (2024-01-20)"
+  "title": "(여자)아이들((G)I-DLE) - 'Wife' M/V Teaser (2024-01-20)",
+  "duration": "00:00:08"
 },
 
 {
@@ -3297,7 +3595,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/j9YdW0adWTM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' (2024-01-23)",
-  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' (2024-01-23)"
+  "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' (2024-01-23)",
+  "duration": "00:01:23"
 },
 
 {
@@ -3308,7 +3607,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/2wyRHP5poeE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #145 : 2023 연말 무대 비하인드 PART 2 (ENG/CHN) (2024-01-23)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #145 : 2023 연말 무대 비하인드 PART 2 (ENG/CHN) (2024-01-23)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #145 : 2023 연말 무대 비하인드 PART 2 (ENG/CHN) (2024-01-23)",
+  "duration": "00:24:22"
 },
 
 {
@@ -3319,7 +3619,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/W08Ax_U9jxQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 1 (2024-01-24)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 1 (2024-01-24)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 1 (2024-01-24)",
+  "duration": "00:00:11"
 },
 
 {
@@ -3330,7 +3631,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/yFngSPM0J1s/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 2 (2024-01-25)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 2 (2024-01-25)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 2 (2024-01-25)",
+  "duration": "00:00:16"
 },
 
 {
@@ -3341,7 +3643,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/T6PUaBgHbao/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #30 소연과 우기의 미국 브이로그 💛❤️ | (ENG/CHN) (2024-01-27)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #30 소연과 우기의 미국 브이로그 💛❤️ | (ENG/CHN) (2024-01-27)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #30 소연과 우기의 미국 브이로그 💛❤️ | (ENG/CHN) (2024-01-27)",
+  "duration": "00:05:55"
 },
 
 {
@@ -3352,7 +3655,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/quZ9zI24mp4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #146 : 'Super Lady' 안무 연습 비하인드 (with 커스틴) (ENG/CHN) (2024-02-07)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #146 : 'Super Lady' 안무 연습 비하인드 (with 커스틴) (ENG/CHN) (2024-02-07)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #146 : 'Super Lady' 안무 연습 비하인드 (with 커스틴) (ENG/CHN) (2024-02-07)",
+  "duration": "00:14:48"
 },
 
 {
@@ -3363,7 +3667,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/kS1Du7zkKG8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #147 : 'Wife' M/V 촬영 비하인드 (ENG/CHN) (2024-02-08)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #147 : 'Wife' M/V 촬영 비하인드 (ENG/CHN) (2024-02-08)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #147 : 'Wife' M/V 촬영 비하인드 (ENG/CHN) (2024-02-08)",
+  "duration": "00:14:49"
 },
 
 {
@@ -3374,7 +3679,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/sbYTcMoKh64/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #148 : 2nd Full Album [2] 재킷 촬영 비하인드 (ENG/CHN) (2024-02-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #148 : 2nd Full Album [2] 재킷 촬영 비하인드 (ENG/CHN) (2024-02-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #148 : 2nd Full Album [2] 재킷 촬영 비하인드 (ENG/CHN) (2024-02-09)",
+  "duration": "00:15:46"
 },
 
 {
@@ -3385,7 +3691,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/lipxvr_VlTA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #149 : 'Super Lady' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-02-14)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #149 : 'Super Lady' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-02-14)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #149 : 'Super Lady' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-02-14)",
+  "duration": "00:17:26"
 },
 
 {
@@ -3396,7 +3703,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/d2nPTeE_tZA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #150 : 'Super Lady' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-02-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #150 : 'Super Lady' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-02-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #150 : 'Super Lady' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-02-16)",
+  "duration": "00:15:17"
 },
 
 {
@@ -3407,7 +3715,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/WGY9G0xXdlY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #31 민니의 '7Days' & 'Vision' 작업 브이로그 💞 | (ENG/CHN) (2024-02-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #31 민니의 '7Days' & 'Vision' 작업 브이로그 💞 | (ENG/CHN) (2024-02-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #31 민니의 '7Days' & 'Vision' 작업 브이로그 💞 | (ENG/CHN) (2024-02-19)",
+  "duration": "00:10:03"
 },
 
 {
@@ -3418,7 +3727,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/Us_i2kNQWdM/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)",
-  "title": "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)"
+  "title": "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)",
+  "duration": "00:04:01"
 },
 
 {
@@ -3429,7 +3739,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/jL1pj_H4lMw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)",
+  "duration": "00:16:34"
 },
 
 {
@@ -3440,7 +3751,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/KFMe0WbALtE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #152 : 'Super Lady' Special Performance Video 촬영 비하인드 (ENG/CHN) (2024-02-26)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #152 : 'Super Lady' Special Performance Video 촬영 비하인드 (ENG/CHN) (2024-02-26)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #152 : 'Super Lady' Special Performance Video 촬영 비하인드 (ENG/CHN) (2024-02-26)",
+  "duration": "00:10:42"
 },
 
 {
@@ -3451,7 +3763,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/fUrArxSnJCw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #153 : 'Super Lady' 음악방송 비하인드 (ENG/CHN) (2024-03-01)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #153 : 'Super Lady' 음악방송 비하인드 (ENG/CHN) (2024-03-01)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #153 : 'Super Lady' 음악방송 비하인드 (ENG/CHN) (2024-03-01)",
+  "duration": "00:18:29"
 },
 
 {
@@ -3462,7 +3775,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/C45qwOFdMS8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #154 : 'Revenge' M/V 촬영 비하인드 (ENG/CHN) (2024-03-04)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #154 : 'Revenge' M/V 촬영 비하인드 (ENG/CHN) (2024-03-04)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #154 : 'Revenge' M/V 촬영 비하인드 (ENG/CHN) (2024-03-04)",
+  "duration": "00:20:31"
 },
 
 {
@@ -3473,7 +3787,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/44XT6cL7qks/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)",
-  "title": "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)"
+  "title": "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)",
+  "duration": "00:03:08"
 },
 
 {
@@ -3484,7 +3799,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/8e8SeQAsBYE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #155 : 우기의 'FENDI 24 F/W 컬렉션 패션쇼' 비하인드 (ENG/CHN) (2024-03-15)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #155 : 우기의 'FENDI 24 F/W 컬렉션 패션쇼' 비하인드 (ENG/CHN) (2024-03-15)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #155 : 우기의 'FENDI 24 F/W 컬렉션 패션쇼' 비하인드 (ENG/CHN) (2024-03-15)",
+  "duration": "00:13:39"
 },
 
 {
@@ -3495,7 +3811,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/mqbIEKDM4TI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #156 : '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP 촬영 비하인드 (ENG/CHN) (2024-03-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #156 : '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP 촬영 비하인드 (ENG/CHN) (2024-03-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #156 : '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP 촬영 비하인드 (ENG/CHN) (2024-03-21)",
+  "duration": "00:09:52"
 },
 
 {
@@ -3506,7 +3823,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/B9VXlhmOH6Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #157 : 민니의 'Miu Miu 24 F/W 컬렉션 쇼' 비하인드 (ENG/CHN) (2024-03-29)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #157 : 민니의 'Miu Miu 24 F/W 컬렉션 쇼' 비하인드 (ENG/CHN) (2024-03-29)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #157 : 민니의 'Miu Miu 24 F/W 컬렉션 쇼' 비하인드 (ENG/CHN) (2024-03-29)",
+  "duration": "00:12:56"
 },
 
 {
@@ -3517,7 +3835,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/qdbEj8aohRk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #158 : MLB 월드투어 서울 시리즈 2024 비하인드 ⚾ (ENG/CHN) (2024-03-31)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #158 : MLB 월드투어 서울 시리즈 2024 비하인드 ⚾ (ENG/CHN) (2024-03-31)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #158 : MLB 월드투어 서울 시리즈 2024 비하인드 ⚾ (ENG/CHN) (2024-03-31)",
+  "duration": "00:07:57"
 },
 
 {
@@ -3528,7 +3847,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/40T4DYvgvJc/mqdefault.jpg",
   "alt": "우기(YUQI) 'Could It Be' Intro Film : By Myself (2024-04-02)",
-  "title": "우기(YUQI) 'Could It Be' Intro Film : By Myself (2024-04-02)"
+  "title": "우기(YUQI) 'Could It Be' Intro Film : By Myself (2024-04-02)",
+  "duration": "00:03:46"
 },
 
 {
@@ -3539,7 +3859,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/zY4fvm0msMQ/mqdefault.jpg",
   "alt": "우기(YUQI) - 'Could It Be' M/V Teaser (2024-04-03)",
-  "title": "우기(YUQI) - 'Could It Be' M/V Teaser (2024-04-03)"
+  "title": "우기(YUQI) - 'Could It Be' M/V Teaser (2024-04-03)",
+  "duration": "00:00:43"
 },
 
 {
@@ -3550,7 +3871,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/VL34uz_mj94/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
-  "title": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)"
+  "title": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
+  "duration": "00:19:14"
 },
 
 {
@@ -3561,7 +3883,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/VDtDh21N61c/mqdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Audio Snippet (2024-04-14)",
-  "title": "우기(YUQI) 1st Mini Album [YUQ1] Audio Snippet (2024-04-14)"
+  "title": "우기(YUQI) 1st Mini Album [YUQ1] Audio Snippet (2024-04-14)",
+  "duration": "00:02:29"
 },
 
 {
@@ -3572,7 +3895,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/ohTkcBZkdmQ/mqdefault.jpg",
   "alt": "우기(YUQI) - Invitation from the RABBIT (2024-04-16)",
-  "title": "우기(YUQI) - Invitation from the RABBIT (2024-04-16)"
+  "title": "우기(YUQI) - Invitation from the RABBIT (2024-04-16)",
+  "duration": "00:00:31"
 },
 
 {
@@ -3583,7 +3907,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/VNwkts-Wb58/mqdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' M/V Teaser 1 (2024-04-18)",
-  "title": "우기(YUQI) - 'FREAK' M/V Teaser 1 (2024-04-18)"
+  "title": "우기(YUQI) - 'FREAK' M/V Teaser 1 (2024-04-18)",
+  "duration": "00:00:17"
 },
 
 {
@@ -3594,7 +3919,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/EFOsEsFXWVE/mqdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' M/V Teaser 2 (2024-04-21)",
-  "title": "우기(YUQI) - 'FREAK' M/V Teaser 2 (2024-04-21)"
+  "title": "우기(YUQI) - 'FREAK' M/V Teaser 2 (2024-04-21)",
+  "duration": "00:00:16"
 },
 
 {
@@ -3605,7 +3931,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/4NYVk2sgw20/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #160 : 2nd Full Album [2] 일본 프로모션 비하인드 (ENG/CHN) (2024-04-21)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #160 : 2nd Full Album [2] 일본 프로모션 비하인드 (ENG/CHN) (2024-04-21)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #160 : 2nd Full Album [2] 일본 프로모션 비하인드 (ENG/CHN) (2024-04-21)",
+  "duration": "00:15:25"
 },
 
 {
@@ -3616,7 +3943,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/BAemXVPRVmA/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
-  "title": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)"
+  "title": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
+  "duration": "00:10:02"
 },
 
 {
@@ -3627,7 +3955,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/OEpmaBcQdHI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #32 민니의 태국 활동 브이로그 ✨ | (ENG/CHN) (2024-04-28)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #32 민니의 태국 활동 브이로그 ✨ | (ENG/CHN) (2024-04-28)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #32 민니의 태국 활동 브이로그 ✨ | (ENG/CHN) (2024-04-28)",
+  "duration": "00:08:50"
 },
 
 {
@@ -3638,7 +3967,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/xixoX8iOsPo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #33 미연이의 태국 여행 브이로그 🌴| (ENG/CHN) (2024-04-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #33 미연이의 태국 여행 브이로그 🌴| (ENG/CHN) (2024-04-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #33 미연이의 태국 여행 브이로그 🌴| (ENG/CHN) (2024-04-30)",
+  "duration": "00:08:13"
 },
 
 {
@@ -3649,7 +3979,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/JHm3SEYuYlo/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)",
-  "title": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)"
+  "title": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)",
+  "duration": "00:15:45"
 },
 
 {
@@ -3660,7 +3991,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/sk1EJFVN1pM/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)",
-  "title": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)"
+  "title": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)",
+  "duration": "00:13:26"
 },
 
 {
@@ -3671,7 +4003,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/huJj-s2jyzE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #161 : 골든웨이브 비하인드 (ENG/CHN) (2024-05-12)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #161 : 골든웨이브 비하인드 (ENG/CHN) (2024-05-12)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #161 : 골든웨이브 비하인드 (ENG/CHN) (2024-05-12)",
+  "duration": "00:14:10"
 },
 
 {
@@ -3682,7 +4015,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/usbqQMR2SpQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #162 : 뮤직뱅크 인 벨기에 비하인드 (ENG/CHN) (2024-05-19)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #162 : 뮤직뱅크 인 벨기에 비하인드 (ENG/CHN) (2024-05-19)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #162 : 뮤직뱅크 인 벨기에 비하인드 (ENG/CHN) (2024-05-19)",
+  "duration": "00:11:32"
 },
 
 {
@@ -3693,7 +4027,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/QKqan5ul3YY/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)",
-  "title": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)"
+  "title": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)",
+  "duration": "00:09:38"
 },
 
 {
@@ -3704,7 +4039,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Zm4mTxuiTJw/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
-  "title": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)"
+  "title": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
+  "duration": "00:15:26"
 },
 
 {
@@ -3715,7 +4051,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/1yeHokGLIQI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #163 : Head in the Clouds New York 2024 비하인드 (ENG/CHN) (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #163 : Head in the Clouds New York 2024 비하인드 (ENG/CHN) (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #163 : Head in the Clouds New York 2024 비하인드 (ENG/CHN) (2024-05-26)",
+  "duration": "00:12:10"
 },
 
 {
@@ -3726,7 +4063,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/9FG9Zf2CmrM/mqdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
-  "title": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)"
+  "title": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
+  "duration": "00:16:13"
 },
 
 {
@@ -3737,7 +4075,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/nfU3GiPMafs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #164 : 민니의 스킨유 촬영 비하인드 (ENG/CHN) (2024-06-03)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #164 : 민니의 스킨유 촬영 비하인드 (ENG/CHN) (2024-06-03)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #164 : 민니의 스킨유 촬영 비하인드 (ENG/CHN) (2024-06-03)",
+  "duration": "00:06:45"
 },
 
 {
@@ -3748,7 +4087,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/JKYzmuEOAtw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #165 : 우기의 Strawberry Music Festival 비하인드 🍓 (ENG/CHN) (2024-06-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #165 : 우기의 Strawberry Music Festival 비하인드 🍓 (ENG/CHN) (2024-06-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #165 : 우기의 Strawberry Music Festival 비하인드 🍓 (ENG/CHN) (2024-06-16)",
+  "duration": "00:11:25"
 },
 
 {
@@ -3759,7 +4099,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/XFk0K-lL4gQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Concept Trailer (2024-06-20)",
-  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Concept Trailer (2024-06-20)"
+  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Concept Trailer (2024-06-20)",
+  "duration": "00:00:52"
 },
 
 {
@@ -3770,7 +4111,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/0eP7SFuL3g8/mqdefault.jpg",
   "alt": "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)",
-  "title": "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)"
+  "title": "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)",
+  "duration": "00:02:31"
 },
 
 {
@@ -3781,7 +4123,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/dgbc_BNJHiw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Audio Snippet (2024-06-27)",
-  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Audio Snippet (2024-06-27)"
+  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Audio Snippet (2024-06-27)",
+  "duration": "00:01:24"
 },
 
 {
@@ -3792,7 +4135,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/LkdK0-ySh_g/mqdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #미연 #MIYEON (2024-06-30)",
-  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #미연 #MIYEON (2024-06-30)"
+  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #미연 #MIYEON (2024-06-30)",
+  "duration": "00:00:12"
 },
 
 {
@@ -3803,7 +4147,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/J3dRsBZMKq4/mqdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #민니 #MINNIE (2024-06-30)",
-  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #민니 #MINNIE (2024-06-30)"
+  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #민니 #MINNIE (2024-06-30)",
+  "duration": "00:00:12"
 },
 
 {
@@ -3814,7 +4159,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/dxI3rieml2E/mqdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #소연 #SOYEON (2024-06-30)",
-  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #소연 #SOYEON (2024-06-30)"
+  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #소연 #SOYEON (2024-06-30)",
+  "duration": "00:00:11"
 },
 
 {
@@ -3825,7 +4171,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/AHXMG0hCZLs/mqdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #우기 #YUQI (2024-06-30)",
-  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #우기 #YUQI (2024-06-30)"
+  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #우기 #YUQI (2024-06-30)",
+  "duration": "00:00:11"
 },
 
 {
@@ -3836,7 +4183,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/HQ7QkWOxR9k/mqdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #슈화 #SHUHUA (2024-06-30)",
-  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #슈화 #SHUHUA (2024-06-30)"
+  "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #슈화 #SHUHUA (2024-06-30)",
+  "duration": "00:00:11"
 },
 
 {
@@ -3847,7 +4195,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/knGQfZU3hAU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Intro Film (2024-07-01)",
-  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Intro Film (2024-07-01)"
+  "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Intro Film (2024-07-01)",
+  "duration": "00:01:04"
 },
 
 {
@@ -3858,7 +4207,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/hqXwRaAFEtk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 1 (2024-07-03)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 1 (2024-07-03)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 1 (2024-07-03)",
+  "duration": "00:00:15"
 },
 
 {
@@ -3869,7 +4219,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/TEDw01ilFMc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 2 (2024-07-04)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 2 (2024-07-04)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 2 (2024-07-04)",
+  "duration": "00:00:10"
 },
 
 {
@@ -3880,7 +4231,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/UPLnChh47lU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #166 : Rexona 라이브 이벤트 비하인드 💜 (ENG/CHN) (2024-07-06)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #166 : Rexona 라이브 이벤트 비하인드 💜 (ENG/CHN) (2024-07-06)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #166 : Rexona 라이브 이벤트 비하인드 💜 (ENG/CHN) (2024-07-06)",
+  "duration": "00:13:16"
 },
 
 {
@@ -3891,7 +4243,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/BxFVF8DAGro/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #167 : 7th Mini Album [I SWAY] 재킷 촬영 비하인드 (ENG/CHN) (2024-07-12)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #167 : 7th Mini Album [I SWAY] 재킷 촬영 비하인드 (ENG/CHN) (2024-07-12)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #167 : 7th Mini Album [I SWAY] 재킷 촬영 비하인드 (ENG/CHN) (2024-07-12)",
+  "duration": "00:11:19"
 },
 
 {
@@ -3902,7 +4255,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2B8LN0DKb2g/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)",
+  "duration": "00:11:03"
 },
 
 {
@@ -3913,7 +4267,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/h68eA967Svo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #169 : 쇼! 음악중심 in JAPAN 비하인드 (ENG/CHN) (2024-07-20)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #169 : 쇼! 음악중심 in JAPAN 비하인드 (ENG/CHN) (2024-07-20)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #169 : 쇼! 음악중심 in JAPAN 비하인드 (ENG/CHN) (2024-07-20)",
+  "duration": "00:09:22"
 },
 
 {
@@ -3924,7 +4279,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/zAMMcs2ZX70/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #170 : '제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)' 촬영 비하인드 (ENG/CHN) (2024-07-22)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #170 : '제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)' 촬영 비하인드 (ENG/CHN) (2024-07-22)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #170 : '제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)' 촬영 비하인드 (ENG/CHN) (2024-07-22)",
+  "duration": "00:07:12"
 },
 
 {
@@ -3935,7 +4291,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/j4PaBGG8r5Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-LOG #34 민니의 'Bloom' 작업 브이로그 💖 | (ENG/CHN) (2024-07-24)",
-  "title": "(여자)아이들((G)I-DLE) - I-LOG #34 민니의 'Bloom' 작업 브이로그 💖 | (ENG/CHN) (2024-07-24)"
+  "title": "(여자)아이들((G)I-DLE) - I-LOG #34 민니의 'Bloom' 작업 브이로그 💖 | (ENG/CHN) (2024-07-24)",
+  "duration": "00:09:46"
 },
 
 {
@@ -3946,7 +4303,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/cQ19LQPTH4k/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #171 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-07-25)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #171 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-07-25)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #171 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 (ENG/CHN) (2024-07-25)",
+  "duration": "00:14:44"
 },
 
 {
@@ -3957,7 +4315,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dTRMAIME31E/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #172 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-07-27)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #172 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-07-27)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #172 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 (ENG/CHN) (2024-07-27)",
+  "duration": "00:14:08"
 },
 
 {
@@ -3968,7 +4327,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/7lEVIPeba_c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #173 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2024-07-30)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #173 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2024-07-30)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #173 : '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 (ENG/CHN) (2024-07-30)",
+  "duration": "00:14:10"
 },
 
 {
@@ -3979,7 +4339,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/STsCCb30WHw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #174 : '클락션 (Klaxon)' 음악방송 비하인드 PART 1ㅣSUB (2024-08-07)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #174 : '클락션 (Klaxon)' 음악방송 비하인드 PART 1ㅣSUB (2024-08-07)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #174 : '클락션 (Klaxon)' 음악방송 비하인드 PART 1ㅣSUB (2024-08-07)",
+  "duration": "00:16:31"
 },
 
 {
@@ -3990,7 +4351,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/60vocAC15Ag/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #175 : '클락션 (Klaxon)' 음악방송 비하인드 PART 2ㅣSUB (2024-08-09)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #175 : '클락션 (Klaxon)' 음악방송 비하인드 PART 2ㅣSUB (2024-08-09)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #175 : '클락션 (Klaxon)' 음악방송 비하인드 PART 2ㅣSUB (2024-08-09)",
+  "duration": "00:12:17"
 },
 
 {
@@ -4001,7 +4363,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/W-XejFa7r0c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드ㅣSUB (2024-08-13)",
-  "title": "(여자)아이들((G)I-DLE) - I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드ㅣSUB (2024-08-13)"
+  "title": "(여자)아이들((G)I-DLE) - I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드ㅣSUB (2024-08-13)",
+  "duration": "00:18:55"
 },
 
 {
@@ -4012,7 +4375,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/gNK9V4pAQuo/mqdefault.jpg",
   "alt": "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)",
-  "title": "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)"
+  "title": "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)",
+  "duration": "00:03:34"
 },
 
 {
@@ -4023,7 +4387,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/ETrwHSfoiTk/mqdefault.jpg",
   "alt": "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)",
-  "title": "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)"
+  "title": "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)",
+  "duration": "00:10:39"
 },
 
 {
@@ -4034,7 +4399,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/EG_YFhrMkZ0/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
+  "duration": "00:19:32"
 },
 
 {
@@ -4045,7 +4411,8 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/mFXJPYI4iYU/mqdefault.jpg",
   "alt": "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)",
-  "title": "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)"
+  "title": "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)",
+  "duration": "00:09:21"
 },
 
 {
@@ -4056,7 +4423,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ycXbEIvOi9E/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
+  "duration": "00:16:41"
 },
 
 {
@@ -4067,7 +4435,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/1RP9N_fZe7w/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
+  "duration": "00:15:35"
 },
 
 {
@@ -4078,7 +4447,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/YDrwz8lZ21g/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
+  "duration": "00:11:52"
 },
 
 {
@@ -4089,7 +4459,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/lxZlm_vxw_E/mqdefault.jpg",
   "alt": "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)",
-  "title": "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)"
+  "title": "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)",
+  "duration": "00:04:11"
 },
 
 {
@@ -4100,7 +4471,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/vY3EfQyCdZ8/mqdefault.jpg",
   "alt": "우기의 'Radio (Dum-Dum)' SPECIAL CLIP 촬영 비하인드 [I-TALK] #177 | (여자)아이들((G)I-DLE)ㅣSUB (2024-10-18)",
-  "title": "우기의 'Radio (Dum-Dum)' SPECIAL CLIP 촬영 비하인드 [I-TALK] #177 | (여자)아이들((G)I-DLE)ㅣSUB (2024-10-18)"
+  "title": "우기의 'Radio (Dum-Dum)' SPECIAL CLIP 촬영 비하인드 [I-TALK] #177 | (여자)아이들((G)I-DLE)ㅣSUB (2024-10-18)",
+  "duration": "00:13:20"
 },
 
 {
@@ -4111,7 +4483,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/kr3XVoiGFWg/mqdefault.jpg",
   "alt": "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)",
-  "title": "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)"
+  "title": "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)",
+  "duration": "00:09:02"
 },
 
 {
@@ -4122,7 +4495,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/X8BhS_yhRJY/mqdefault.jpg",
   "alt": "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)",
-  "title": "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)"
+  "title": "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)",
+  "duration": "00:09:39"
 },
 
 {
@@ -4133,7 +4507,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/m32aowLzWT0/mqdefault.jpg",
   "alt": "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)",
-  "title": "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)"
+  "title": "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)",
+  "duration": "00:14:31"
 },
 
 {
@@ -4144,7 +4519,8 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/3A_qkAf6T84/mqdefault.jpg",
   "alt": "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)",
-  "title": "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)"
+  "title": "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)",
+  "duration": "00:10:40"
 },
 
 {
@@ -4155,7 +4531,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/etGKyx4pSXo/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
+  "duration": "00:13:34"
 },
 
 {
@@ -4166,7 +4543,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/skCiLytQACY/mqdefault.jpg",
   "alt": "우기의 What's in my luggage (Feat. 룸투어) [l-LOG] #41 🐶💕 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-07)",
-  "title": "우기의 What's in my luggage (Feat. 룸투어) [l-LOG] #41 🐶💕 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-07)"
+  "title": "우기의 What's in my luggage (Feat. 룸투어) [l-LOG] #41 🐶💕 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-07)",
+  "duration": "00:09:18"
 },
 
 {
@@ -4177,7 +4555,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/hWMJY89qTsU/mqdefault.jpg",
   "alt": "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)",
-  "title": "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)"
+  "title": "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)",
+  "duration": "00:06:02"
 },
 
 {
@@ -4188,7 +4567,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/b0QjjQ8Ag3A/mqdefault.jpg",
   "alt": "태국 프로모션 비하인드 [I-TALK] #178 | (여자)아이들((G)I-DLE)ㅣSUB (2024-11-14)",
-  "title": "태국 프로모션 비하인드 [I-TALK] #178 | (여자)아이들((G)I-DLE)ㅣSUB (2024-11-14)"
+  "title": "태국 프로모션 비하인드 [I-TALK] #178 | (여자)아이들((G)I-DLE)ㅣSUB (2024-11-14)",
+  "duration": "00:18:42"
 },
 
 {
@@ -4199,7 +4579,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/a62yW5R_nDw/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
+  "duration": "00:17:24"
 },
 
 {
@@ -4210,7 +4591,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/Enu4vXAvMiA/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
+  "duration": "00:17:35"
 },
 
 {
@@ -4221,7 +4603,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/q9-O55X-mCY/mqdefault.jpg",
   "alt": "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)",
-  "title": "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)"
+  "title": "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)",
+  "duration": "00:06:56"
 },
 
 {
@@ -4232,7 +4615,8 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/QqcXotwxGtg/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
+  "duration": "00:13:54"
 },
 
 {
@@ -4243,7 +4627,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/NBkyet53xGQ/mqdefault.jpg",
   "alt": "우기의 중국 활동 비하인드 (Special stage & 광고 촬영) [I-TALK] #179 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-02)",
-  "title": "우기의 중국 활동 비하인드 (Special stage & 광고 촬영) [I-TALK] #179 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-02)"
+  "title": "우기의 중국 활동 비하인드 (Special stage & 광고 촬영) [I-TALK] #179 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-02)",
+  "duration": "00:14:52"
 },
 
 {
@@ -4254,7 +4639,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/PG79NvF8MoE/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
+  "duration": "00:18:51"
 },
 
 {
@@ -4265,7 +4651,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/LvhZgCAv7_M/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
-  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)"
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
+  "duration": "00:22:36"
 },
 
 {
@@ -4276,7 +4663,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/gL-ZqpdiJXo/mqdefault.jpg",
   "alt": "2024 KGMA 비하인드 [I-TALK] #180 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-13)",
-  "title": "2024 KGMA 비하인드 [I-TALK] #180 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-13)"
+  "title": "2024 KGMA 비하인드 [I-TALK] #180 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-13)",
+  "duration": "00:17:08"
 },
 
 {
@@ -4287,7 +4675,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/JzxMKt8Ulgo/mqdefault.jpg",
   "alt": "2024 MAMA AWARDS 비하인드 [I-TALK] #181 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-17)",
-  "title": "2024 MAMA AWARDS 비하인드 [I-TALK] #181 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-17)"
+  "title": "2024 MAMA AWARDS 비하인드 [I-TALK] #181 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-17)",
+  "duration": "00:15:26"
 },
 
 {
@@ -4298,7 +4687,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/TbtHV-Mcn9Q/mqdefault.jpg",
   "alt": "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)",
-  "title": "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)"
+  "title": "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)",
+  "duration": "00:15:16"
 },
 
 {
@@ -4309,7 +4699,8 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/-A3xiSG1gAA/mqdefault.jpg",
   "alt": "2024 멜론 뮤직 어워드 비하인드 [I-TALK] #182 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-27)",
-  "title": "2024 멜론 뮤직 어워드 비하인드 [I-TALK] #182 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-27)"
+  "title": "2024 멜론 뮤직 어워드 비하인드 [I-TALK] #182 | (여자)아이들((G)I-DLE)ㅣSUB (2024-12-27)",
+  "duration": "00:11:03"
 },
 
 {
@@ -4320,7 +4711,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/BLJIzLLdPYU/mqdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (2025-01-12)",
-  "title": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (2025-01-12)"
+  "title": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (2025-01-12)",
+  "duration": "00:02:05"
 },
 
 {
@@ -4331,7 +4723,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/kWLhZ6Tf4EE/mqdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] Audio Snippet (2025-01-15)",
-  "title": "민니(MINNIE) - 1st Mini Album [HER] Audio Snippet (2025-01-15)"
+  "title": "민니(MINNIE) - 1st Mini Album [HER] Audio Snippet (2025-01-15)",
+  "duration": "00:02:52"
 },
 
 {
@@ -4342,7 +4735,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/HbHSQiRExAM/mqdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' M/V Teaser 1 (2025-01-16)",
-  "title": "민니(MINNIE) - 'HER' M/V Teaser 1 (2025-01-16)"
+  "title": "민니(MINNIE) - 'HER' M/V Teaser 1 (2025-01-16)",
+  "duration": "00:00:12"
 },
 
 {
@@ -4353,7 +4747,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/iLFMj3OdKG8/mqdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' M/V Teaser 2 (2025-01-19)",
-  "title": "민니(MINNIE) - 'HER' M/V Teaser 2 (2025-01-19)"
+  "title": "민니(MINNIE) - 'HER' M/V Teaser 2 (2025-01-19)",
+  "duration": "00:00:17"
 },
 
 {
@@ -4364,7 +4759,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/9rGA5Zdlx9Y/mqdefault.jpg",
   "alt": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)",
-  "title": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)"
+  "title": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)",
+  "duration": "00:10:23"
 },
 
 {
@@ -4375,7 +4771,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ok4l4FWcvtw/mqdefault.jpg",
   "alt": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)",
-  "title": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)"
+  "title": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)",
+  "duration": "00:07:46"
 },
 
 {
@@ -4386,7 +4783,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/bF5nZw4fE_k/mqdefault.jpg",
   "alt": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)",
-  "title": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)"
+  "title": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)",
+  "duration": "00:18:39"
 },
 
 {
@@ -4397,7 +4795,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/KJ4-7DxXqeg/mqdefault.jpg",
   "alt": "2024 시상식 비하인드 PART 1 [I-TALK] #183 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-08)",
-  "title": "2024 시상식 비하인드 PART 1 [I-TALK] #183 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-08)"
+  "title": "2024 시상식 비하인드 PART 1 [I-TALK] #183 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-08)",
+  "duration": "00:15:15"
 },
 
 {
@@ -4408,7 +4807,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/00SlVIVDP4w/mqdefault.jpg",
   "alt": "2024 시상식 비하인드 PART 2 [I-TALK] #184 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-09)",
-  "title": "2024 시상식 비하인드 PART 2 [I-TALK] #184 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-09)"
+  "title": "2024 시상식 비하인드 PART 2 [I-TALK] #184 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-09)",
+  "duration": "00:19:38"
 },
 
 {
@@ -4419,7 +4819,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/E2O0DT1al8o/mqdefault.jpg",
   "alt": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)",
-  "title": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)"
+  "title": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)",
+  "duration": "00:11:41"
 },
 
 {
@@ -4430,7 +4831,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/QujC4QNhbhw/mqdefault.jpg",
   "alt": "제 39회 골든디스크 어워즈 비하인드 [I-TALK] #185 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-13)",
-  "title": "제 39회 골든디스크 어워즈 비하인드 [I-TALK] #185 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-13)"
+  "title": "제 39회 골든디스크 어워즈 비하인드 [I-TALK] #185 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-13)",
+  "duration": "00:15:10"
 },
 
 {
@@ -4441,7 +4843,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/r9SwEcxVdec/mqdefault.jpg",
   "alt": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)",
-  "title": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)"
+  "title": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)",
+  "duration": "00:08:53"
 },
 
 {
@@ -4452,7 +4855,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/kvLcWr-hQBA/mqdefault.jpg",
   "alt": "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)",
-  "title": "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)"
+  "title": "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)",
+  "duration": "00:05:09"
 },
 
 {
@@ -4463,7 +4867,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/M4SSAVNYCFQ/mqdefault.jpg",
   "alt": "2025 시즌 그리팅 비하인드 [I-TALK] #186 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-16)",
-  "title": "2025 시즌 그리팅 비하인드 [I-TALK] #186 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-16)"
+  "title": "2025 시즌 그리팅 비하인드 [I-TALK] #186 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-16)",
+  "duration": "00:19:56"
 },
 
 {
@@ -4474,7 +4879,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/GGoFWBbbpUE/mqdefault.jpg",
   "alt": "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)",
-  "title": "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)"
+  "title": "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)",
+  "duration": "00:07:07"
 },
 
 {
@@ -4485,7 +4891,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/QJskxdBfCjM/mqdefault.jpg",
   "alt": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)",
-  "title": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)"
+  "title": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)",
+  "duration": "00:17:11"
 },
 
 {
@@ -4496,7 +4903,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/lwsn7bBZ4yg/mqdefault.jpg",
   "alt": "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)",
-  "title": "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)"
+  "title": "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)",
+  "duration": "00:11:36"
 },
 
 {
@@ -4507,7 +4915,8 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/O0ddGU45ahE/mqdefault.jpg",
   "alt": "우기의 중국 절강위성 TV 연말 무대 비하인드 [I-TALK] #188 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-27)",
-  "title": "우기의 중국 절강위성 TV 연말 무대 비하인드 [I-TALK] #188 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-27)"
+  "title": "우기의 중국 절강위성 TV 연말 무대 비하인드 [I-TALK] #188 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-27)",
+  "duration": "00:13:27"
 },
 
 {
@@ -4518,7 +4927,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/EWn3u6LLRhM/mqdefault.jpg",
   "alt": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)",
-  "title": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)"
+  "title": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)",
+  "duration": "00:14:50"
 },
 
 {
@@ -4529,7 +4939,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/TezybDObkWo/mqdefault.jpg",
   "alt": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
-  "title": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)"
+  "title": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
+  "duration": "00:15:41"
 },
 
 {
@@ -4540,7 +4951,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/vd8j7PPF5UQ/mqdefault.jpg",
   "alt": "32주년 한터뮤직어워즈 2024 비하인드 [I-TALK] #189 | (여자)아이들((G)I-DLE)ㅣSUB (2025-03-08)",
-  "title": "32주년 한터뮤직어워즈 2024 비하인드 [I-TALK] #189 | (여자)아이들((G)I-DLE)ㅣSUB (2025-03-08)"
+  "title": "32주년 한터뮤직어워즈 2024 비하인드 [I-TALK] #189 | (여자)아이들((G)I-DLE)ㅣSUB (2025-03-08)",
+  "duration": "00:12:55"
 },
 
 {
@@ -4551,7 +4963,8 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Kx4gideWRvU/mqdefault.jpg",
   "alt": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)",
-  "title": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)"
+  "title": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)",
+  "duration": "00:21:54"
 },
 
 {
@@ -4562,7 +4975,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/XnFO4Kg-w10/mqdefault.jpg",
   "alt": "민니의 Miu Miu Fall/Winter 2025 Fashion Show 비하인드 [I-TALK] #190 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-03)",
-  "title": "민니의 Miu Miu Fall/Winter 2025 Fashion Show 비하인드 [I-TALK] #190 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-03)"
+  "title": "민니의 Miu Miu Fall/Winter 2025 Fashion Show 비하인드 [I-TALK] #190 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-03)",
+  "duration": "00:11:42"
 },
 
 {
@@ -4573,7 +4987,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/qR0uNdipgMk/mqdefault.jpg",
   "alt": "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)",
-  "title": "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)"
+  "title": "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)",
+  "duration": "00:04:39"
 },
 
 {
@@ -4584,7 +4999,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Ejh3je1MbFo/mqdefault.jpg",
   "alt": "민니의 Golden Wave in Bangkok 2025 비하인드 [I-TALK] #191 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-11)",
-  "title": "민니의 Golden Wave in Bangkok 2025 비하인드 [I-TALK] #191 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-11)"
+  "title": "민니의 Golden Wave in Bangkok 2025 비하인드 [I-TALK] #191 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-11)",
+  "duration": "00:12:21"
 },
 
 {
@@ -4595,7 +5011,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/SnbfsSJiwF8/mqdefault.jpg",
   "alt": "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)",
-  "title": "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)"
+  "title": "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)",
+  "duration": "00:04:38"
 },
 
 {
@@ -4606,7 +5023,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/8b82nUsmmrU/mqdefault.jpg",
   "alt": "우기의 Fendi FW25 Fashion Show 비하인드 [I-TALK] #192 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-25)",
-  "title": "우기의 Fendi FW25 Fashion Show 비하인드 [I-TALK] #192 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-25)"
+  "title": "우기의 Fendi FW25 Fashion Show 비하인드 [I-TALK] #192 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-25)",
+  "duration": "00:14:18"
 },
 
 {
@@ -4617,7 +5035,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/_MQaK1X2d0c/mqdefault.jpg",
   "alt": "The Performance 2025 & Love it! 비하인드 [I-TALK] #193 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-28)",
-  "title": "The Performance 2025 & Love it! 비하인드 [I-TALK] #193 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-28)"
+  "title": "The Performance 2025 & Love it! 비하인드 [I-TALK] #193 | (여자)아이들((G)I-DLE)ㅣSUB (2025-04-28)",
+  "duration": "00:10:46"
 },
 
 {
@@ -4628,7 +5047,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/OCYwFICly34/mqdefault.jpg",
   "alt": "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)",
-  "title": "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)"
+  "title": "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)",
+  "duration": "00:06:27"
 },
 
 {
@@ -4639,7 +5059,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/8AN66zZYLw8/mqdefault.jpg",
   "alt": "i-dle (아이들) 'for (G)' (2025-05-01)",
-  "title": "i-dle (아이들) 'for (G)' (2025-05-01)"
+  "title": "i-dle (아이들) 'for (G)' (2025-05-01)",
+  "duration": "00:01:53"
 },
 
 {
@@ -4650,7 +5071,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/G5rAbdThQ2o/mqdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer' (2025-05-04)",
-  "title": "i-dle (아이들) 'i-dentity Trailer' (2025-05-04)"
+  "title": "i-dle (아이들) 'i-dentity Trailer' (2025-05-04)",
+  "duration": "00:00:16"
 },
 
 {
@@ -4661,7 +5083,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/intLWpnYwp0/mqdefault.jpg",
   "alt": "슈화 - i-dle (아이들) 'i-dentity Trailer'ㅣSHUHUA (2025-05-04)",
-  "title": "슈화 - i-dle (아이들) 'i-dentity Trailer'ㅣSHUHUA (2025-05-04)"
+  "title": "슈화 - i-dle (아이들) 'i-dentity Trailer'ㅣSHUHUA (2025-05-04)",
+  "duration": "00:00:18"
 },
 
 {
@@ -4672,7 +5095,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/b2Tf4A_49Ak/mqdefault.jpg",
   "alt": "우기 - i-dle (아이들) 'i-dentity Trailer'ㅣYUQI (2025-05-04)",
-  "title": "우기 - i-dle (아이들) 'i-dentity Trailer'ㅣYUQI (2025-05-04)"
+  "title": "우기 - i-dle (아이들) 'i-dentity Trailer'ㅣYUQI (2025-05-04)",
+  "duration": "00:00:16"
 },
 
 {
@@ -4683,7 +5107,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/GIzYsGoeqkc/mqdefault.jpg",
   "alt": "소연 - i-dle (아이들) 'i-dentity Trailer'ㅣSOYEON (2025-05-04)",
-  "title": "소연 - i-dle (아이들) 'i-dentity Trailer'ㅣSOYEON (2025-05-04)"
+  "title": "소연 - i-dle (아이들) 'i-dentity Trailer'ㅣSOYEON (2025-05-04)",
+  "duration": "00:00:19"
 },
 
 {
@@ -4694,7 +5119,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/IR_GuZbEWRE/mqdefault.jpg",
   "alt": "민니 - i-dle (아이들) 'i-dentity Trailer'ㅣMINNIE (2025-05-04)",
-  "title": "민니 - i-dle (아이들) 'i-dentity Trailer'ㅣMINNIE (2025-05-04)"
+  "title": "민니 - i-dle (아이들) 'i-dentity Trailer'ㅣMINNIE (2025-05-04)",
+  "duration": "00:00:15"
 },
 
 {
@@ -4705,7 +5131,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/LPLI43Yz5QU/mqdefault.jpg",
   "alt": "미연 - i-dle (아이들) 'i-dentity Trailer'ㅣMIYEON (2025-05-04)",
-  "title": "미연 - i-dle (아이들) 'i-dentity Trailer'ㅣMIYEON (2025-05-04)"
+  "title": "미연 - i-dle (아이들) 'i-dentity Trailer'ㅣMIYEON (2025-05-04)",
+  "duration": "00:00:20"
 },
 
 {
@@ -4716,7 +5143,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/2fWmaepwVDk/mqdefault.jpg",
   "alt": "'for (G)' 촬영 비하인드 [i-talk] #194 | i-dle (아이들)ㅣSUB (2025-05-04)",
-  "title": "'for (G)' 촬영 비하인드 [i-talk] #194 | i-dle (아이들)ㅣSUB (2025-05-04)"
+  "title": "'for (G)' 촬영 비하인드 [i-talk] #194 | i-dle (아이들)ㅣSUB (2025-05-04)",
+  "duration": "00:07:00"
 },
 
 {
@@ -4727,7 +5155,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/fiRsc0NrAxQ/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' M/V Teaser (2025-05-07)",
-  "title": "i-dle (아이들) 'Girlfriend' M/V Teaser (2025-05-07)"
+  "title": "i-dle (아이들) 'Girlfriend' M/V Teaser (2025-05-07)",
+  "duration": "00:00:15"
 },
 
 {
@@ -4738,7 +5167,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/j2jM6qMdYFw/mqdefault.jpg",
   "alt": "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)",
-  "title": "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)"
+  "title": "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)",
+  "duration": "00:17:19"
 },
 
 {
@@ -4749,7 +5179,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/fAzEh21SXzQ/mqdefault.jpg",
   "alt": "'Girlfriend' M/V 촬영 비하인드 [i-talk] #196 | i-dle (아이들)ㅣSUB (2025-05-13)",
-  "title": "'Girlfriend' M/V 촬영 비하인드 [i-talk] #196 | i-dle (아이들)ㅣSUB (2025-05-13)"
+  "title": "'Girlfriend' M/V 촬영 비하인드 [i-talk] #196 | i-dle (아이들)ㅣSUB (2025-05-13)",
+  "duration": "00:22:15"
 },
 
 {
@@ -4760,7 +5191,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dqlbozzFt8g/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' M/V Teaser (on-air ver.) (2025-05-15)",
-  "title": "i-dle (아이들) 'Good Thing' M/V Teaser (on-air ver.) (2025-05-15)"
+  "title": "i-dle (아이들) 'Good Thing' M/V Teaser (on-air ver.) (2025-05-15)",
+  "duration": "00:00:19"
 },
 
 {
@@ -4771,7 +5203,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/kmeNJo5osnw/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' M/V Teaser (Line 1 ver.) (2025-05-15)",
-  "title": "i-dle (아이들) 'Good Thing' M/V Teaser (Line 1 ver.) (2025-05-15)"
+  "title": "i-dle (아이들) 'Good Thing' M/V Teaser (Line 1 ver.) (2025-05-15)",
+  "duration": "00:00:20"
 },
 
 {
@@ -4782,7 +5215,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/4QBVn5qG4pI/mqdefault.jpg",
   "alt": "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)",
-  "title": "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)"
+  "title": "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)",
+  "duration": "00:04:32"
 },
 
 {
@@ -4793,7 +5227,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/rnHFWKdFl2c/mqdefault.jpg",
   "alt": "'Good Thing' M/V 촬영 비하인드 PART 1 [i-talk] #197 | i-dle (아이들)ㅣSUB (2025-05-21)",
-  "title": "'Good Thing' M/V 촬영 비하인드 PART 1 [i-talk] #197 | i-dle (아이들)ㅣSUB (2025-05-21)"
+  "title": "'Good Thing' M/V 촬영 비하인드 PART 1 [i-talk] #197 | i-dle (아이들)ㅣSUB (2025-05-21)",
+  "duration": "00:16:42"
 },
 
 {
@@ -4804,7 +5239,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/gJmGdiCpjLU/mqdefault.jpg",
   "alt": "'Good Thing' M/V 촬영 비하인드 PART 2 [i-talk] #198 | i-dle (아이들)ㅣSUB (2025-05-22)",
-  "title": "'Good Thing' M/V 촬영 비하인드 PART 2 [i-talk] #198 | i-dle (아이들)ㅣSUB (2025-05-22)"
+  "title": "'Good Thing' M/V 촬영 비하인드 PART 2 [i-talk] #198 | i-dle (아이들)ㅣSUB (2025-05-22)",
+  "duration": "00:16:03"
 },
 
 {
@@ -4815,7 +5251,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/4MThNhG-dIg/mqdefault.jpg",
   "alt": "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)",
-  "title": "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)"
+  "title": "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)",
+  "duration": "00:09:22"
 },
 
 {
@@ -4826,7 +5263,8 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/_nnhV9iW_dE/mqdefault.jpg",
   "alt": "(G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)",
-  "title": "(G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)"
+  "title": "(G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)",
+  "duration": "00:13:45"
 },
 
 {
@@ -4837,7 +5275,8 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/XVKRymF-1aw/mqdefault.jpg",
   "alt": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
-  "title": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)"
+  "title": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
+  "duration": "00:05:01"
 },
 
 {
@@ -4848,8 +5287,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/_DnwJLFit0g/mqdefault.jpg",
   "alt": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)",
-  "title": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)"
+  "title": "민니의 FWD 홍콩 행사 비하인드 [i-talk] #200 | i-dle (아이들)ㅣSUB (2025-06-08)",
+  "duration": "00:11:23"
 },
+
 {
   "link": "https://youtu.be/KceEp8y5HC4",
   "category": "OFFICIAL_CLIPS",
@@ -4858,8 +5299,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/KceEp8y5HC4/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)",
-  "title": "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)"
+  "title": "i-dle (아이들) 'Girlfriend' Choreography Video (2025-06-02)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/5MrJBrR_sfo",
   "category": "OFFICIAL_CLIPS",
@@ -4868,8 +5311,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/5MrJBrR_sfo/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)",
-  "title": "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)"
+  "title": "i-dle (아이들) 'Good Thing' Choreography Practice Video (2025-05-26)",
+  "duration": "00:02:35"
 },
+
 {
   "link": "https://youtu.be/qDg3uR7exAU",
   "category": "OFFICIAL_CLIPS",
@@ -4878,8 +5323,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/qDg3uR7exAU/mqdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)",
-  "title": "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)"
+  "title": "민니(MINNIE) - 'HER' Choreography Practice Video (2025-01-27)",
+  "duration": "00:02:40"
 },
+
 {
   "link": "https://youtu.be/hLntT4a_O58",
   "category": "OFFICIAL_CLIPS",
@@ -4888,8 +5335,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/hLntT4a_O58/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video (2024-07-13)",
+  "duration": "00:02:55"
 },
+
 {
   "link": "https://youtu.be/dyFGwGFerAc",
   "category": "OFFICIAL_CLIPS",
@@ -4898,8 +5347,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/dyFGwGFerAc/mqdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
-  "title": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)"
+  "title": "우기(YUQI) - 'FREAK' Choreography Practice Video (2024-04-29)",
+  "duration": "00:02:54"
 },
+
 {
   "link": "https://youtu.be/J3TANTDWmTQ",
   "category": "OFFICIAL_CLIPS",
@@ -4908,8 +5359,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/J3TANTDWmTQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
+  "duration": "00:00:17"
 },
+
 {
   "link": "https://youtu.be/pKCaXYYwGjw",
   "category": "OFFICIAL_CLIPS",
@@ -4918,8 +5371,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/pKCaXYYwGjw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video (2023-05-21)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/R9UsmrVEWYY",
   "category": "OFFICIAL_CLIPS",
@@ -4928,8 +5383,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/R9UsmrVEWYY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) (2022-10-23)",
+  "duration": "00:03:02"
 },
+
 {
   "link": "https://youtu.be/Si5pQHRRH5w",
   "category": "OFFICIAL_CLIPS",
@@ -4938,8 +5395,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Si5pQHRRH5w/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) (2022-03-28)",
+  "duration": "00:02:47"
 },
+
 {
   "link": "https://youtu.be/CKSQjJDQTaQ",
   "category": "OFFICIAL_CLIPS",
@@ -4948,8 +5407,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/CKSQjJDQTaQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) (2022-03-24)",
+  "duration": "00:02:59"
 },
+
 {
   "link": "https://youtu.be/o0MM7TIpilE",
   "category": "OFFICIAL_CLIPS",
@@ -4958,8 +5419,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/o0MM7TIpilE/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
+  "duration": "00:02:59"
 },
+
 {
   "link": "https://youtu.be/6YGOq65MZpw",
   "category": "OFFICIAL_CLIPS",
@@ -4968,8 +5431,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/6YGOq65MZpw/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
+  "duration": "00:02:57"
 },
+
 {
   "link": "https://youtu.be/cwKYh2geaik",
   "category": "OFFICIAL_CLIPS",
@@ -4978,8 +5443,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/cwKYh2geaik/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video) (2021-01-19)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/KqE4UK5sfHA",
   "category": "OFFICIAL_CLIPS",
@@ -4988,8 +5455,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/KqE4UK5sfHA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video) (2020-04-20)",
+  "duration": "00:03:28"
 },
+
 {
   "link": "https://youtu.be/wLlKktf0ZWE",
   "category": "OFFICIAL_CLIPS",
@@ -4998,8 +5467,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/wLlKktf0ZWE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video) (2020-04-12)",
+  "duration": "00:03:23"
 },
+
 {
   "link": "https://youtu.be/FRYY-OxzRTU",
   "category": "OFFICIAL_CLIPS",
@@ -5008,8 +5479,10 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/FRYY-OxzRTU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)",
-  "title": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)"
+  "title": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video) (2019-11-27)",
+  "duration": "00:03:34"
 },
+
 {
   "link": "https://youtu.be/SBtF_e6XWnc",
   "category": "OFFICIAL_CLIPS",
@@ -5018,8 +5491,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/SBtF_e6XWnc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)",
-  "title": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)"
+  "title": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video) (2019-10-29)",
+  "duration": "00:03:46"
 },
+
 {
   "link": "https://youtu.be/PzSCnRCpM_c",
   "category": "OFFICIAL_CLIPS",
@@ -5028,8 +5503,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/PzSCnRCpM_c/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video) (2019-06-30)",
+  "duration": "00:03:30"
 },
+
 {
   "link": "https://youtu.be/rhBa2_-qw00",
   "category": "OFFICIAL_CLIPS",
@@ -5038,8 +5515,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/rhBa2_-qw00/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video) (2019-03-04)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/EGuuBE7xjBk",
   "category": "OFFICIAL_CLIPS",
@@ -5048,8 +5527,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/EGuuBE7xjBk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)",
-  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)"
+  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video) (2018-08-20)",
+  "duration": "00:03:33"
 },
+
 {
   "link": "https://youtu.be/Fhk4Qzj_QpM",
   "category": "OFFICIAL_CLIPS",
@@ -5058,9 +5539,11 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Fhk4Qzj_QpM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video) (2018-05-10)",
+  "duration": "00:03:25"
 },
-  {
+
+{
   "link": "https://youtu.be/twXUS3fqI74",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
@@ -5068,7 +5551,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/twXUS3fqI74/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)",
+  "duration": "00:03:16"
 },
 
 {
@@ -5079,7 +5563,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/TzepUKHa9lg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)",
-  "title": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)"
+  "title": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)",
+  "duration": "00:03:34"
 },
 
 {
@@ -5090,7 +5575,8 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/UR-1Tgx1MeA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)",
+  "duration": "00:03:17"
 },
 
 {
@@ -5101,7 +5587,8 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/CWrthwplNgc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)",
-  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)"
+  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)",
+  "duration": "00:03:25"
 },
 
 {
@@ -5112,7 +5599,8 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/sPzF8DZI5ZM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)",
+  "duration": "00:03:31"
 },
 
 {
@@ -5123,7 +5611,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/hGiePSHdRw8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)",
+  "duration": "00:03:20"
 },
 
 {
@@ -5134,7 +5623,8 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/miU4s4PUACY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
-  "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)"
+  "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
+  "duration": "00:03:19"
 },
 
 {
@@ -5145,9 +5635,11 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/y3yqSbJ2T0w/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)",
+  "duration": "00:02:53"
 },
-  {
+
+{
   "link": "https://youtu.be/4GB-VjoTLMs",
   "category": "OFFICIAL_CLIPS",
   "member": "민니",
@@ -5155,8 +5647,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/4GB-VjoTLMs/mqdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB (2025-01-26)",
-  "title": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB (2025-01-26)"
+  "title": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB (2025-01-26)",
+  "duration": "00:09:46"
 },
+
 {
   "link": "https://youtu.be/8B1z9u-p31s",
   "category": "OFFICIAL_CLIPS",
@@ -5165,8 +5659,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/8B1z9u-p31s/mqdefault.jpg",
   "alt": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)",
-  "title": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)"
+  "title": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)",
+  "duration": "00:15:35"
 },
+
 {
   "link": "https://youtu.be/tfet3q7ympE",
   "category": "OFFICIAL_CLIPS",
@@ -5175,8 +5671,10 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/mqdefault.jpg",
   "alt": "미연 - 곧 MY Angel 을 공개합니다. (2024-12-19)",
-  "title": "미연 - 곧 MY Angel 을 공개합니다. (2024-12-19)"
+  "title": "미연 - 곧 MY Angel 을 공개합니다. (2024-12-19)",
+  "duration": "00:00:22"
 },
+
 {
   "link": "https://youtu.be/deuX_x6ykRY",
   "category": "OFFICIAL_CLIPS",
@@ -5185,8 +5683,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/deuX_x6ykRY/mqdefault.jpg",
   "alt": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)",
-  "title": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)"
+  "title": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)",
+  "duration": "00:12:50"
 },
+
 {
   "link": "https://youtu.be/zBFM3Da6eBg",
   "category": "OFFICIAL_CLIPS",
@@ -5195,8 +5695,10 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/zBFM3Da6eBg/mqdefault.jpg",
   "alt": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)",
-  "title": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)"
+  "title": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)",
+  "duration": "00:02:39"
 },
+
 {
   "link": "https://youtu.be/0yJ7bMyGUCw",
   "category": "OFFICIAL_CLIPS",
@@ -5205,8 +5707,10 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/0yJ7bMyGUCw/mqdefault.jpg",
   "alt": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser (2024-09-22)",
-  "title": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser (2024-09-22)"
+  "title": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser (2024-09-22)",
+  "duration": "00:00:36"
 },
+
 {
   "link": "https://youtu.be/X9VwcBm-qKA",
   "category": "OFFICIAL_CLIPS",
@@ -5215,8 +5719,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/X9VwcBm-qKA/mqdefault.jpg",
   "alt": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)",
-  "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)"
+  "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)",
+  "duration": "00:00:46"
 },
+
 {
   "link": "https://youtu.be/M5EXpycSy3s",
   "category": "OFFICIAL_CLIPS",
@@ -5225,8 +5731,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/M5EXpycSy3s/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)",
+  "duration": "00:03:18"
 },
+
 {
   "link": "https://youtu.be/5G8UqkXhS0w",
   "category": "OFFICIAL_CLIPS",
@@ -5235,8 +5743,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/5G8UqkXhS0w/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
+  "duration": "00:05:48"
 },
+
 {
   "link": "https://youtu.be/pQpXPxBRzqE",
   "category": "OFFICIAL_CLIPS",
@@ -5245,8 +5755,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/pQpXPxBRzqE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)",
-  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)"
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN) (2024-07-09)",
+  "duration": "00:04:22"
 },
+
 {
   "link": "https://youtu.be/2rQBtMEB6Bs",
   "category": "OFFICIAL_CLIPS",
@@ -5255,8 +5767,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2rQBtMEB6Bs/mqdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
-  "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)"
+  "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
+  "duration": "00:00:31"
 },
+
 {
   "link": "https://youtu.be/Vc-XGZ3DbJE",
   "category": "OFFICIAL_CLIPS",
@@ -5265,8 +5779,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/Vc-XGZ3DbJE/mqdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)",
-  "title": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)"
+  "title": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)",
+  "duration": "00:13:37"
 },
+
 {
   "link": "https://youtu.be/QPZY2Ityh8A",
   "category": "OFFICIAL_CLIPS",
@@ -5275,8 +5791,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/QPZY2Ityh8A/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "duration": "00:02:56"
 },
+
 {
   "link": "https://youtu.be/z4jDoc9GKEc",
   "category": "OFFICIAL_CLIPS",
@@ -5285,8 +5803,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/z4jDoc9GKEc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/91J3FD5qTIY",
   "category": "OFFICIAL_CLIPS",
@@ -5295,8 +5815,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/91J3FD5qTIY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON (2024-05-31)",
+  "duration": "00:02:24"
 },
+
 {
   "link": "https://youtu.be/Zmncc6A2OOQ",
   "category": "OFFICIAL_CLIPS",
@@ -5305,8 +5827,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Zmncc6A2OOQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/6vQPTPbAPgY",
   "category": "OFFICIAL_CLIPS",
@@ -5315,8 +5839,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/6vQPTPbAPgY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/mJxWu_PrqLQ",
   "category": "OFFICIAL_CLIPS",
@@ -5325,8 +5851,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/mJxWu_PrqLQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/DrdwtIeT8Vk",
   "category": "OFFICIAL_CLIPS",
@@ -5335,8 +5863,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/DrdwtIeT8Vk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/TxDBjfijhIA",
   "category": "OFFICIAL_CLIPS",
@@ -5345,8 +5875,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/TxDBjfijhIA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:40"
 },
+
 {
   "link": "https://youtu.be/5iLFGN34GYc",
   "category": "OFFICIAL_CLIPS",
@@ -5355,8 +5887,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/5iLFGN34GYc/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/LquxAnFh2Hw",
   "category": "OFFICIAL_CLIPS",
@@ -5365,8 +5899,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/LquxAnFh2Hw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:42"
 },
+
 {
   "link": "https://youtu.be/XfyFeQBXbFA",
   "category": "OFFICIAL_CLIPS",
@@ -5375,8 +5911,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/XfyFeQBXbFA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY (2024-05-31)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/IkN4Ta1Fs94",
   "category": "OFFICIAL_CLIPS",
@@ -5385,8 +5923,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/IkN4Ta1Fs94/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY (2024-05-30)",
+  "duration": "00:02:56"
 },
+
 {
   "link": "https://youtu.be/WYA7TiSATbE",
   "category": "OFFICIAL_CLIPS",
@@ -5395,8 +5935,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/WYA7TiSATbE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY (2024-05-30)",
+  "duration": "00:02:42"
 },
+
 {
   "link": "https://youtu.be/8EsTc6Fsr4M",
   "category": "OFFICIAL_CLIPS",
@@ -5405,8 +5947,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/8EsTc6Fsr4M/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY (2024-05-30)",
+  "duration": "00:03:21"
 },
+
 {
   "link": "https://youtu.be/nAnuEnrK9Gs",
   "category": "OFFICIAL_CLIPS",
@@ -5415,8 +5959,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/nAnuEnrK9Gs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY (2024-05-30)",
+  "duration": "00:02:34"
 },
+
 {
   "link": "https://youtu.be/ZF2G464WaKI",
   "category": "OFFICIAL_CLIPS",
@@ -5425,8 +5971,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/ZF2G464WaKI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:02:39"
 },
+
 {
   "link": "https://youtu.be/SQTTslwrZUE",
   "category": "OFFICIAL_CLIPS",
@@ -5435,8 +5983,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/SQTTslwrZUE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:03:00"
 },
+
 {
   "link": "https://youtu.be/4-vCpfmMcN0",
   "category": "OFFICIAL_CLIPS",
@@ -5445,8 +5995,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/4-vCpfmMcN0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/1TShABJ0Y_A",
   "category": "OFFICIAL_CLIPS",
@@ -5455,8 +6007,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/1TShABJ0Y_A/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/yqjYHNmwxJI",
   "category": "OFFICIAL_CLIPS",
@@ -5465,8 +6019,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/yqjYHNmwxJI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/PEEmKcuJsCE",
   "category": "OFFICIAL_CLIPS",
@@ -5475,8 +6031,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/PEEmKcuJsCE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY (2024-05-30)",
+  "duration": "00:02:36"
 },
+
 {
   "link": "https://youtu.be/4BU7sPv7qM0",
   "category": "OFFICIAL_CLIPS",
@@ -5485,8 +6043,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/4BU7sPv7qM0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY (2024-05-26)",
+  "duration": "00:02:35"
 },
+
 {
   "link": "https://youtu.be/6lOH7_DUd14",
   "category": "OFFICIAL_CLIPS",
@@ -5495,8 +6055,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/6lOH7_DUd14/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY (2024-05-26)",
+  "duration": "00:02:40"
 },
+
 {
   "link": "https://youtu.be/PEkyyrO5SZ8",
   "category": "OFFICIAL_CLIPS",
@@ -5505,8 +6067,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/PEkyyrO5SZ8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY (2024-05-26)",
+  "duration": "00:02:44"
 },
+
 {
   "link": "https://youtu.be/lgTXNtoLiqU",
   "category": "OFFICIAL_CLIPS",
@@ -5515,8 +6079,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/lgTXNtoLiqU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY (2024-05-26)",
+  "duration": "00:02:56"
 },
+
 {
   "link": "https://youtu.be/sj8jWrOGmjM",
   "category": "OFFICIAL_CLIPS",
@@ -5525,8 +6091,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/sj8jWrOGmjM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY (2024-05-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY (2024-05-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY (2024-05-26)",
+  "duration": "00:02:05"
 },
+
 {
   "link": "https://youtu.be/izrjkPuhwQ8",
   "category": "OFFICIAL_CLIPS",
@@ -5535,8 +6103,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/izrjkPuhwQ8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY (2024-05-23)",
-  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY (2024-05-23)"
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY (2024-05-23)",
+  "duration": "00:02:42"
 },
+
 {
   "link": "https://youtu.be/X6vuf4JMVgk",
   "category": "OFFICIAL_CLIPS",
@@ -5545,8 +6115,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/X6vuf4JMVgk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY (2024-05-23)",
+  "duration": "00:02:57"
 },
+
 {
   "link": "https://youtu.be/3avr0zsWANM",
   "category": "OFFICIAL_CLIPS",
@@ -5555,8 +6127,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/3avr0zsWANM/mqdefault.jpg",
   "alt": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN) (2024-04-25)",
-  "title": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN) (2024-04-25)"
+  "title": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN) (2024-04-25)",
+  "duration": "00:08:30"
 },
+
 {
   "link": "https://youtu.be/--jLgCIDrC8",
   "category": "OFFICIAL_CLIPS",
@@ -5565,8 +6139,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/--jLgCIDrC8/mqdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)",
-  "title": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)"
+  "title": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN) (2024-04-23)",
+  "duration": "00:04:11"
 },
+
 {
   "link": "https://youtu.be/2C6f7r_Hqfs",
   "category": "OFFICIAL_CLIPS",
@@ -5575,8 +6151,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/2C6f7r_Hqfs/mqdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer (2024-04-08)",
-  "title": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer (2024-04-08)"
+  "title": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer (2024-04-08)",
+  "duration": "00:01:33"
 },
+
 {
   "link": "https://youtu.be/KvbdAYDljHM",
   "category": "OFFICIAL_CLIPS",
@@ -5585,8 +6163,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/KvbdAYDljHM/mqdefault.jpg",
   "alt": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)",
-  "title": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)"
+  "title": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)",
+  "duration": "00:00:45"
 },
+
 {
   "link": "https://youtu.be/vq3-lPqBX-o",
   "category": "OFFICIAL_CLIPS",
@@ -5595,8 +6175,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/vq3-lPqBX-o/mqdefault.jpg",
   "alt": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)",
-  "title": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)"
+  "title": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)",
+  "duration": "00:01:00"
 },
+
 {
   "link": "https://youtu.be/CA9jn8viiK4",
   "category": "OFFICIAL_CLIPS",
@@ -5605,8 +6187,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/CA9jn8viiK4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)",
-  "title": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)"
+  "title": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)",
+  "duration": "00:01:35"
 },
+
 {
   "link": "https://youtu.be/KWI_ThK1BMU",
   "category": "OFFICIAL_CLIPS",
@@ -5615,8 +6199,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/KWI_ThK1BMU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
+  "duration": "00:05:39"
 },
+
 {
   "link": "https://youtu.be/6SNUbo1G0JE",
   "category": "OFFICIAL_CLIPS",
@@ -5625,8 +6211,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/6SNUbo1G0JE/mqdefault.jpg",
   "alt": "미연 - 💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
-  "title": "미연 - 💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)"
+  "title": "미연 - 💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
+  "duration": "00:15:47"
 },
+
 {
   "link": "https://youtu.be/YP1NyGaa4uU",
   "category": "OFFICIAL_CLIPS",
@@ -5635,8 +6223,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/YP1NyGaa4uU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)"
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN) (2024-01-30)",
+  "duration": "00:03:54"
 },
+
 {
   "link": "https://youtu.be/IIhPuxpted8",
   "category": "OFFICIAL_CLIPS",
@@ -5645,8 +6235,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/IIhPuxpted8/mqdefault.jpg",
   "alt": "슈화 - 💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)",
-  "title": "슈화 - 💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)"
+  "title": "슈화 - 💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)",
+  "duration": "00:13:01"
 },
+
 {
   "link": "https://youtu.be/5RSIJdz9x_w",
   "category": "OFFICIAL_CLIPS",
@@ -5655,8 +6247,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/5RSIJdz9x_w/mqdefault.jpg",
   "alt": "민니 - 💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)",
-  "title": "민니 - 💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)"
+  "title": "민니 - 💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)",
+  "duration": "00:11:40"
 },
+
 {
   "link": "https://youtu.be/46Nr2DsHEYA",
   "category": "OFFICIAL_CLIPS",
@@ -5665,8 +6259,10 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/46Nr2DsHEYA/mqdefault.jpg",
   "alt": "우기 - 🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)",
-  "title": "우기 - 🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)"
+  "title": "우기 - 🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)",
+  "duration": "00:03:06"
 },
+
 {
   "link": "https://youtu.be/h22rV2yCpnc",
   "category": "OFFICIAL_CLIPS",
@@ -5675,8 +6271,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/h22rV2yCpnc/mqdefault.jpg",
   "alt": "소연 - 💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)",
-  "title": "소연 - 💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)"
+  "title": "소연 - 💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)",
+  "duration": "00:15:03"
 },
+
 {
   "link": "https://youtu.be/Nzs9Liewjo8",
   "category": "OFFICIAL_CLIPS",
@@ -5685,8 +6283,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/Nzs9Liewjo8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)",
-  "title": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)"
+  "title": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)",
+  "duration": "00:01:09"
 },
+
 {
   "link": "https://youtu.be/EJ-Gb-ljxdM",
   "category": "OFFICIAL_CLIPS",
@@ -5695,8 +6295,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/EJ-Gb-ljxdM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN) (2023-05-30)",
-  "title": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN) (2023-05-30)"
+  "title": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN) (2023-05-30)",
+  "duration": "00:11:05"
 },
+
 {
   "link": "https://youtu.be/PAh2PEsX65U",
   "category": "OFFICIAL_CLIPS",
@@ -5705,8 +6307,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/PAh2PEsX65U/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN) (2023-05-20)",
-  "title": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN) (2023-05-20)"
+  "title": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN) (2023-05-20)",
+  "duration": "00:07:09"
 },
+
 {
   "link": "https://youtu.be/a3R3KPgP5u4",
   "category": "OFFICIAL_CLIPS",
@@ -5715,8 +6319,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/a3R3KPgP5u4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
-  "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)"
+  "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
+  "duration": "00:44:21"
 },
+
 {
   "link": "https://youtu.be/NV-pwtijKWg",
   "category": "OFFICIAL_CLIPS",
@@ -5725,8 +6331,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/NV-pwtijKWg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)"
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN) (2023-05-16)",
+  "duration": "00:03:20"
 },
+
 {
   "link": "https://youtu.be/dFNyiyofGlE",
   "category": "OFFICIAL_CLIPS",
@@ -5735,8 +6343,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dFNyiyofGlE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)",
-  "title": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)"
+  "title": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)",
+  "duration": "00:09:31"
 },
+
 {
   "link": "https://youtu.be/gYDo7FOyz1Q",
   "category": "OFFICIAL_CLIPS",
@@ -5745,8 +6355,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/gYDo7FOyz1Q/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)",
+  "duration": "00:03:05"
 },
+
 {
   "link": "https://youtu.be/Gk80c8nSV0k",
   "category": "OFFICIAL_CLIPS",
@@ -5755,8 +6367,10 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/Gk80c8nSV0k/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)",
+  "duration": "00:04:15"
 },
+
 {
   "link": "https://youtu.be/AKAA4js2858",
   "category": "OFFICIAL_CLIPS",
@@ -5765,8 +6379,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/AKAA4js2858/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "duration": "00:02:41"
 },
+
 {
   "link": "https://youtu.be/xB8aJ5KVW1o",
   "category": "OFFICIAL_CLIPS",
@@ -5775,8 +6391,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/xB8aJ5KVW1o/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "duration": "00:03:30"
 },
+
 {
   "link": "https://youtu.be/bvNNoY4rH28",
   "category": "OFFICIAL_CLIPS",
@@ -5785,8 +6403,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/bvNNoY4rH28/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "duration": "00:03:21"
 },
+
 {
   "link": "https://youtu.be/7RuqX8NDMD8",
   "category": "OFFICIAL_CLIPS",
@@ -5795,8 +6415,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/7RuqX8NDMD8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "duration": "00:02:56"
 },
+
 {
   "link": "https://youtu.be/RI-rPp75kCg",
   "category": "OFFICIAL_CLIPS",
@@ -5805,8 +6427,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/RI-rPp75kCg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY (2022-10-28)",
+  "duration": "00:03:00"
 },
+
 {
   "link": "https://youtu.be/7ZJwXaL8mD4",
   "category": "OFFICIAL_CLIPS",
@@ -5815,8 +6439,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/7ZJwXaL8mD4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN) (2022-10-25)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN) (2022-10-25)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN) (2022-10-25)",
+  "duration": "00:05:24"
 },
+
 {
   "link": "https://youtu.be/a5MB1tkHMlE",
   "category": "OFFICIAL_CLIPS",
@@ -5825,8 +6451,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/a5MB1tkHMlE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
-  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)"
+  "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
+  "duration": "00:57:28"
 },
+
 {
   "link": "https://youtu.be/WjCYHBcNS08",
   "category": "OFFICIAL_CLIPS",
@@ -5835,8 +6463,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/WjCYHBcNS08/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)"
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법 (2022-10-18)",
+  "duration": "00:03:24"
 },
+
 {
   "link": "https://youtu.be/Fs8ILBls_2Y",
   "category": "OFFICIAL_CLIPS",
@@ -5845,8 +6475,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Fs8ILBls_2Y/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
+  "duration": "00:02:57"
 },
+
 {
   "link": "https://youtu.be/9Y8oSiV1FNM",
   "category": "OFFICIAL_CLIPS",
@@ -5855,8 +6487,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/9Y8oSiV1FNM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY (2022-10-09)",
+  "duration": "00:03:26"
 },
+
 {
   "link": "https://youtu.be/0IJcKyjy7P0",
   "category": "OFFICIAL_CLIPS",
@@ -5865,8 +6499,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/0IJcKyjy7P0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "duration": "00:02:43"
 },
+
 {
   "link": "https://youtu.be/xSKVz1QshaM",
   "category": "OFFICIAL_CLIPS",
@@ -5875,8 +6511,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/xSKVz1QshaM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+  "title": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "duration": "00:03:13"
 },
+
 {
   "link": "https://youtu.be/bzXXG9VaULI",
   "category": "OFFICIAL_CLIPS",
@@ -5885,8 +6523,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/bzXXG9VaULI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)"
+  "title": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY (2022-10-08)",
+  "duration": "00:03:39"
 },
+
 {
   "link": "https://youtu.be/v3XUlKoQIZQ",
   "category": "OFFICIAL_CLIPS",
@@ -5895,8 +6535,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/v3XUlKoQIZQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY (2022-10-07)",
+  "duration": "00:02:57"
 },
+
 {
   "link": "https://youtu.be/z9PHQWLkwj0",
   "category": "OFFICIAL_CLIPS",
@@ -5905,8 +6547,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/z9PHQWLkwj0/mqdefault.jpg",
   "alt": "(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide) (2022-06-20)",
-  "title": "(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide) (2022-06-20)"
+  "title": "(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide) (2022-06-20)",
+  "duration": "00:00:55"
 },
+
 {
   "link": "https://youtu.be/XsXyaXIv5lM",
   "category": "OFFICIAL_CLIPS",
@@ -5915,8 +6559,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/XsXyaXIv5lM/mqdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)",
-  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)"
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)",
+  "duration": "00:00:31"
 },
+
 {
   "link": "https://youtu.be/n7l5pRXQKoc",
   "category": "OFFICIAL_CLIPS",
@@ -5925,8 +6571,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/n7l5pRXQKoc/mqdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)",
-  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)"
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)",
+  "duration": "00:00:57"
 },
+
 {
   "link": "https://youtu.be/c3-dnBwM6O8",
   "category": "OFFICIAL_CLIPS",
@@ -5935,8 +6583,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/c3-dnBwM6O8/mqdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)",
-  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)"
+  "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)",
+  "duration": "00:01:03"
 },
+
 {
   "link": "https://youtu.be/QZOvAdQqbjk",
   "category": "OFFICIAL_CLIPS",
@@ -5945,8 +6595,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/QZOvAdQqbjk/mqdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)",
-  "title": "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)"
+  "title": "미연 (MIYEON) - 'Drive' 응원법 (2022-04-27)",
+  "duration": "00:03:47"
 },
+
 {
   "link": "https://youtu.be/uMl_cMm7o_E",
   "category": "OFFICIAL_CLIPS",
@@ -5955,8 +6607,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/uMl_cMm7o_E/mqdefault.jpg",
   "alt": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG) (2022-04-16)",
-  "title": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG) (2022-04-16)"
+  "title": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG) (2022-04-16)",
+  "duration": "00:06:08"
 },
+
 {
   "link": "https://youtu.be/wkTOHWQvGXQ",
   "category": "OFFICIAL_CLIPS",
@@ -5965,8 +6619,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/wkTOHWQvGXQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "duration": "00:03:00"
 },
+
 {
   "link": "https://youtu.be/pq_J-0d0z3M",
   "category": "OFFICIAL_CLIPS",
@@ -5975,8 +6631,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/pq_J-0d0z3M/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "duration": "00:03:01"
 },
+
 {
   "link": "https://youtu.be/pBzZvIiBvA4",
   "category": "OFFICIAL_CLIPS",
@@ -5985,8 +6643,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/pBzZvIiBvA4/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "duration": "00:03:00"
 },
+
 {
   "link": "https://youtu.be/foNBw_ubhf8",
   "category": "OFFICIAL_CLIPS",
@@ -5995,8 +6655,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/foNBw_ubhf8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "duration": "00:03:01"
 },
+
 {
   "link": "https://youtu.be/VsW8oXuCNUk",
   "category": "OFFICIAL_CLIPS",
@@ -6005,8 +6667,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/VsW8oXuCNUk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2022-03-16)",
+  "duration": "00:02:59"
 },
+
 {
   "link": "https://youtu.be/ax45oDJiQh0",
   "category": "OFFICIAL_CLIPS",
@@ -6015,8 +6679,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/ax45oDJiQh0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 (2022-03-16)",
+  "duration": "00:03:30"
 },
+
 {
   "link": "https://youtu.be/eqB57puP5vQ",
   "category": "OFFICIAL_CLIPS",
@@ -6025,8 +6691,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/eqB57puP5vQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)"
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
+  "duration": "00:02:56"
 },
+
 {
   "link": "https://youtu.be/CK422h0brGE",
   "category": "OFFICIAL_CLIPS",
@@ -6035,8 +6703,10 @@ const officialClipCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/CK422h0brGE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)",
-  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)"
+  "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)",
+  "duration": "00:01:07"
 },
+
 {
   "link": "https://youtu.be/lLiiq3_nABA",
   "category": "OFFICIAL_CLIPS",
@@ -6045,8 +6715,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/lLiiq3_nABA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU (ENG) (2022-02-19)",
-  "title": "(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU (ENG) (2022-02-19)"
+  "title": "(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU (ENG) (2022-02-19)",
+  "duration": "00:14:21"
 },
+
 {
   "link": "https://youtu.be/krzXdipQK2o",
   "category": "OFFICIAL_CLIPS",
@@ -6055,8 +6727,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/krzXdipQK2o/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 3 🙌 (ENG) (2022-02-12)",
-  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 3 🙌 (ENG) (2022-02-12)"
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 3 🙌 (ENG) (2022-02-12)",
+  "duration": "00:11:34"
 },
+
 {
   "link": "https://youtu.be/XspBCK9zNMM",
   "category": "OFFICIAL_CLIPS",
@@ -6065,8 +6739,10 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/XspBCK9zNMM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 집콕 🏠 (ENG) (2021-11-05)",
-  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 집콕 🏠 (ENG) (2021-11-05)"
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 집콕 🏠 (ENG) (2021-11-05)",
+  "duration": "00:11:52"
 },
+
 {
   "link": "https://youtu.be/2sFnGME_iGQ",
   "category": "OFFICIAL_CLIPS",
@@ -6075,8 +6751,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/2sFnGME_iGQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 2 🙌 (ENG) (2021-10-20)",
-  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 2 🙌 (ENG) (2021-10-20)"
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 Part 2 🙌 (ENG) (2021-10-20)",
+  "duration": "00:11:49"
 },
+
 {
   "link": "https://youtu.be/oAPm3_s68OI",
   "category": "OFFICIAL_CLIPS",
@@ -6085,8 +6763,10 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/oAPm3_s68OI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌 (ENG) (2021-09-15)",
-  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌 (ENG) (2021-09-15)"
+  "title": "(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌 (ENG) (2021-09-15)",
+  "duration": "00:13:59"
 },
+
 {
   "link": "https://youtu.be/wyNWtNSUqs4",
   "category": "OFFICIAL_CLIPS",
@@ -6095,8 +6775,10 @@ const officialClipCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/wyNWtNSUqs4/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)",
-  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)"
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법 (2021-07-07)",
+  "duration": "00:03:24"
 },
+
 {
   "link": "https://youtu.be/DXWE5FqdpGk",
   "category": "OFFICIAL_CLIPS",
@@ -6105,8 +6787,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/DXWE5FqdpGk/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
-  "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)"
+  "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
+  "duration": "00:07:13"
 },
+
 {
   "link": "https://youtu.be/6UXb3tDJg_Y",
   "category": "OFFICIAL_CLIPS",
@@ -6115,8 +6799,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/6UXb3tDJg_Y/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
-  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)"
+  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
+  "duration": "00:07:10"
 },
+
 {
   "link": "https://youtu.be/hr3np7viBPw",
   "category": "OFFICIAL_CLIPS",
@@ -6125,8 +6811,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/hr3np7viBPw/mqdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
-  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)"
+  "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
+  "duration": "00:10:38"
 },
+
 {
   "link": "https://youtu.be/d7LHCQ4qZXA",
   "category": "OFFICIAL_CLIPS",
@@ -6135,8 +6823,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/d7LHCQ4qZXA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)",
-  "title": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)"
+  "title": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)",
+  "duration": "00:00:41"
 },
+
 {
   "link": "https://youtu.be/2njcKe_wweU",
   "category": "OFFICIAL_CLIPS",
@@ -6145,8 +6835,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/2njcKe_wweU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
+  "duration": "00:03:23"
 },
+
 {
   "link": "https://youtu.be/Xv_s8WBurWU",
   "category": "OFFICIAL_CLIPS",
@@ -6155,8 +6847,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Xv_s8WBurWU/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/LlPS_LYhnTE",
   "category": "OFFICIAL_CLIPS",
@@ -6165,8 +6859,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/LlPS_LYhnTE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/nlLc9p8q75w",
   "category": "OFFICIAL_CLIPS",
@@ -6175,8 +6871,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/nlLc9p8q75w/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/SLsWLUNADtM",
   "category": "OFFICIAL_CLIPS",
@@ -6185,8 +6883,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/SLsWLUNADtM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/M-YQ_0GOa88",
   "category": "OFFICIAL_CLIPS",
@@ -6195,8 +6895,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/M-YQ_0GOa88/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/87zYoeoqFrM",
   "category": "OFFICIAL_CLIPS",
@@ -6205,8 +6907,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/87zYoeoqFrM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. (2021-01-13)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/cD47izQfxTs",
   "category": "OFFICIAL_CLIPS",
@@ -6215,8 +6919,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/cD47izQfxTs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법 (2021-01-12)",
+  "duration": "00:03:49"
 },
+
 {
   "link": "https://youtu.be/55TEB82zfVk",
   "category": "OFFICIAL_CLIPS",
@@ -6225,8 +6931,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/55TEB82zfVk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver. (2021-01-11)",
-  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver. (2021-01-11)"
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver. (2021-01-11)",
+  "duration": "00:03:22"
 },
+
 {
   "link": "https://youtu.be/i--O8Yhrc44",
   "category": "OFFICIAL_CLIPS",
@@ -6235,8 +6943,10 @@ const officialClipCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/i--O8Yhrc44/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG) (2021-01-01)",
-  "title": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG) (2021-01-01)"
+  "title": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG) (2021-01-01)",
+  "duration": "00:07:48"
 },
+
 {
   "link": "https://youtu.be/vu16GWI3WMQ",
   "category": "OFFICIAL_CLIPS",
@@ -6245,8 +6955,10 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/vu16GWI3WMQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶 (2020-12-22)",
-  "title": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶 (2020-12-22)"
+  "title": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶 (2020-12-22)",
+  "duration": "00:04:15"
 },
+
 {
   "link": "https://youtu.be/Kv_Cfa9b8FQ",
   "category": "OFFICIAL_CLIPS",
@@ -6255,8 +6967,10 @@ const officialClipCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Kv_Cfa9b8FQ/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
-  "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)"
+  "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
+  "duration": "00:00:56"
 },
+
 {
   "link": "https://youtu.be/k8HNMV5ubvE",
   "category": "OFFICIAL_CLIPS",
@@ -6265,8 +6979,10 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/k8HNMV5ubvE/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'MORE' 발매 기념 라이엇 게임즈 방문 VLOG (미연&소연) (2020-11-05)",
-  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'MORE' 발매 기념 라이엇 게임즈 방문 VLOG (미연&소연) (2020-11-05)"
+  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'MORE' 발매 기념 라이엇 게임즈 방문 VLOG (미연&소연) (2020-11-05)",
+  "duration": "00:07:47"
 },
+
 {
   "link": "https://youtu.be/4qkbnw79voA",
   "category": "OFFICIAL_CLIPS",
@@ -6275,8 +6991,10 @@ const officialClipCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/4qkbnw79voA/mqdefault.jpg",
   "alt": "CLC(씨엘씨) & (여자)아이들((G)I-DLE) - 외국인 라인 추석회동 V-LOG (ENG) (2020-10-21)",
-  "title": "CLC(씨엘씨) & (여자)아이들((G)I-DLE) - 외국인 라인 추석회동 V-LOG (ENG) (2020-10-21)"
+  "title": "CLC(씨엘씨) & (여자)아이들((G)I-DLE) - 외국인 라인 추석회동 V-LOG (ENG) (2020-10-21)",
+  "duration": "00:13:11"
 },
+
 {
   "link": "https://youtu.be/za4mpgQWs7c",
   "category": "OFFICIAL_CLIPS",
@@ -6285,8 +7003,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/za4mpgQWs7c/mqdefault.jpg",
   "alt": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
-  "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)"
+  "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
+  "duration": "00:00:46"
 },
+
 {
   "link": "https://youtu.be/aD-ZAhCVV-s",
   "category": "OFFICIAL_CLIPS",
@@ -6295,8 +7015,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/aD-ZAhCVV-s/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)",
+  "duration": "00:03:32"
 },
+
 {
   "link": "https://youtu.be/DPykR20ZxAo",
   "category": "OFFICIAL_CLIPS",
@@ -6305,8 +7027,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/DPykR20ZxAo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법 (2020-08-05)",
+  "duration": "00:04:01"
 },
+
 {
   "link": "https://youtu.be/H_HKE1mwzuo",
   "category": "OFFICIAL_CLIPS",
@@ -6315,8 +7039,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)"
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
+  "duration": "00:03:38"
 },
+
 {
   "link": "https://youtu.be/DgF3tjsujdY",
   "category": "OFFICIAL_CLIPS",
@@ -6325,8 +7051,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/DgF3tjsujdY/mqdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
-  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)"
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법 (2020-06-25)",
+  "duration": "00:04:06"
 },
+
 {
   "link": "https://youtu.be/brH6kAa9waA",
   "category": "OFFICIAL_CLIPS",
@@ -6335,8 +7063,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/brH6kAa9waA/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)",
+  "duration": "00:03:25"
 },
+
 {
   "link": "https://youtu.be/iG6KRfUE_hs",
   "category": "OFFICIAL_CLIPS",
@@ -6345,8 +7075,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/iG6KRfUE_hs/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)"
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법 (2020-04-08)",
+  "duration": "00:03:42"
 },
+
 {
   "link": "https://youtu.be/GQh88VtWoFs",
   "category": "OFFICIAL_CLIPS",
@@ -6355,8 +7087,10 @@ const officialClipCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/GQh88VtWoFs/mqdefault.jpg",
   "alt": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
-  "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)"
+  "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
+  "duration": "00:05:29"
 },
+
 {
   "link": "https://youtu.be/kMVY3GNNgBw",
   "category": "OFFICIAL_CLIPS",
@@ -6365,8 +7099,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/kMVY3GNNgBw/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
-  "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)"
+  "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
+  "duration": "00:12:14"
 },
+
 {
   "link": "https://youtu.be/Xc67HobtL68",
   "category": "OFFICIAL_CLIPS",
@@ -6375,8 +7111,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/Xc67HobtL68/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법 (2019-06-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법 (2019-06-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법 (2019-06-26)",
+  "duration": "00:04:07"
 },
+
 {
   "link": "https://youtu.be/-HPdxo3kNbg",
   "category": "OFFICIAL_CLIPS",
@@ -6385,8 +7123,10 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/-HPdxo3kNbg/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)",
-  "title": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)"
+  "title": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)",
+  "duration": "00:00:52"
 },
+
 {
   "link": "https://youtu.be/nLKPXoxPGfI",
   "category": "OFFICIAL_CLIPS",
@@ -6395,8 +7135,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/nLKPXoxPGfI/mqdefault.jpg",
   "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
-  "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)"
+  "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
+  "duration": "00:10:13"
 },
+
 {
   "link": "https://youtu.be/mtS__Me5KhM",
   "category": "OFFICIAL_CLIPS",
@@ -6405,8 +7147,10 @@ const officialClipCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/mtS__Me5KhM/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법 (2019-02-26)",
-  "title": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법 (2019-02-26)"
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법 (2019-02-26)",
+  "duration": "00:03:53"
 },
+
 {
   "link": "https://youtu.be/8b2DjJ5iVgI",
   "category": "OFFICIAL_CLIPS",
@@ -6415,8 +7159,10 @@ const officialClipCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/8b2DjJ5iVgI/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
-  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)"
+  "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
+  "duration": "00:10:35"
 },
+
 {
   "link": "https://youtu.be/ERK1jzLEDm0",
   "category": "OFFICIAL_CLIPS",
@@ -6425,8 +7171,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/ERK1jzLEDm0/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)",
+  "duration": "00:02:11"
 },
+
 {
   "link": "https://youtu.be/fAJi2ZAryNY",
   "category": "OFFICIAL_CLIPS",
@@ -6435,8 +7183,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/fAJi2ZAryNY/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)",
-  "title": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)"
+  "title": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)",
+  "duration": "00:01:24"
 },
+
 {
   "link": "https://youtu.be/ztWnrkpKPk8",
   "category": "OFFICIAL_CLIPS",
@@ -6445,8 +7195,10 @@ const officialClipCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/ztWnrkpKPk8/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA' (2018-08-11)",
-  "title": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA' (2018-08-11)"
+  "title": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA' (2018-08-11)",
+  "duration": "00:03:36"
 },
+
 {
   "link": "https://youtu.be/atdBi-yIDgk",
   "category": "OFFICIAL_CLIPS",
@@ -6455,8 +7207,10 @@ const officialClipCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/atdBi-yIDgk/mqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)",
-  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)"
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)",
+  "duration": "00:04:28"
 },
+
 {
   "link": "https://youtu.be/YHz9ABDyjmg",
   "category": "OFFICIAL_CLIPS",
@@ -6465,8 +7219,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/YHz9ABDyjmg/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON) (2018-04-26)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON) (2018-04-26)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON) (2018-04-26)",
+  "duration": "00:02:08"
 },
+
 {
   "link": "https://youtu.be/1woJTDD96iU",
   "category": "OFFICIAL_CLIPS",
@@ -6475,8 +7231,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/1woJTDD96iU/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE) (2018-04-26)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE) (2018-04-26)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE) (2018-04-26)",
+  "duration": "00:03:13"
 },
+
 {
   "link": "https://youtu.be/MkkbLKWx_GY",
   "category": "OFFICIAL_CLIPS",
@@ -6485,8 +7243,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/MkkbLKWx_GY/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI) (2018-04-26)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI) (2018-04-26)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI) (2018-04-26)",
+  "duration": "00:02:39"
 },
+
 {
   "link": "https://youtu.be/Dwi-oX-hRg8",
   "category": "OFFICIAL_CLIPS",
@@ -6495,8 +7255,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Dwi-oX-hRg8/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA) (2018-04-25)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA) (2018-04-25)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA) (2018-04-25)",
+  "duration": "00:02:21"
 },
+
 {
   "link": "https://youtu.be/lJfzlFJq3Ts",
   "category": "OFFICIAL_CLIPS",
@@ -6505,8 +7267,10 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/lJfzlFJq3Ts/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN) (2018-04-25)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN) (2018-04-25)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN) (2018-04-25)",
+  "duration": "00:02:26"
 },
+
 {
   "link": "https://youtu.be/6KvYHQqq5F8",
   "category": "OFFICIAL_CLIPS",
@@ -6515,9 +7279,11 @@ const officialClipCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/6KvYHQqq5F8/mqdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)",
-  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)"
+  "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON) (2018-04-25)",
+  "duration": "00:02:51"
 },
-  {
+
+{
   "link": "https://youtu.be/sYGLN6biYb0",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
@@ -6525,14 +7291,11 @@ const officialClipCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/sYGLN6biYb0/sddefault.jpg",
   "alt": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)",
-  "title": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)"
+  "title": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)",
+  "duration": "00:30:05"
 }
 
-  
 
-
-
-  
   ];
 
 // ✅ 전역 등록
