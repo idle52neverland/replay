@@ -321,10 +321,12 @@
 
 
 
-    window.onload = function () {
-      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
-      mainTitle.textContent = selectedCategory || "전체 영상";
-
+   window.onload = function () {
+  const waitForCards = () => {
+    if (typeof behindClipsCards === 'undefined') {
+      setTimeout(waitForCards, 100); // 카드 로딩 기다림
+    } else {
+      // 필터 UI 생성
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
       createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
@@ -335,7 +337,12 @@
       document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
       applyFilters();
-    };
+    }
+  };
+
+  waitForCards();
+};
+
   </script>
 </body>
 </html>
