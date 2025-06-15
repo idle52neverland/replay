@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>I-DLE 몰아보기</title>
+  <title>I-DLE 모라보기</title>
   <style>
     body {
       margin: 0;
@@ -193,7 +193,7 @@
 </head>
 <body>
   <div class="header-bar">
-    <div id="mainTitle">I-DLE 몰아보기</div>
+    <div id="mainTitle">I-DLE 모라보기</div>
   </div>
   <div class="category-section">
     <div class="category-line">
@@ -221,6 +221,7 @@
     <input type="text" id="searchInput" placeholder="Search all videos...">
     <button id="searchBtn" title="검색 실행">🔍</button>
   </div>
+  <div id="cardCount" style="text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc;"></div>
   <div class="card-container" id="allCards"></div>
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
@@ -249,6 +250,7 @@
       const searchInput = document.getElementById("searchInput");
       const resetSearchBtn = document.getElementById("resetSearchBtn");
       const searchBtn = document.getElementById("searchBtn");
+      const cardCountEl = document.getElementById("cardCount");
       let currentIndex = 0;
       const batchSize = 20;
       const all = [].concat(
@@ -273,14 +275,17 @@
       }
       all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
       let filtered = all;
+      function updateCardCount(count) {
+        cardCountEl.textContent = `총 ${count}개 영상`;
+      }
       function applySearch() {
         const keywords = searchInput.value
           .toLowerCase()
-          .replace(/[^\w가-힣]+/g, ' ')
+          .replace(/[^\w\uac00-\ud7af]+/g, ' ')
           .split(/\s+/)
           .filter(Boolean);
         filtered = all.filter(c => {
-          const combinedText = (c.title + " " + c.member).toLowerCase().replace(/[^\w가-힣]+/g, ' ');
+          const combinedText = (c.title + " " + c.member).toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ');
           return keywords.every(k => combinedText.includes(k));
         });
         currentIndex = 0;
@@ -311,6 +316,7 @@
         });
         currentIndex += batchSize;
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+        updateCardCount(cards.length);
       }
       renderCards(filtered);
       loadMoreBtn.addEventListener("click", (e) => {
