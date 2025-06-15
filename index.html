@@ -38,15 +38,14 @@
       gap: 14px;
     }
     .sns-icons img {
-      width: 22px;
-      height: 22px;
-      filter: brightness(0) invert(1);
-      transition: filter 0.2s;
-      cursor: pointer;
-    }
-    .sns-icons img:hover {
-      filter: brightness(0) invert(0.8);
-    }
+  width: 22px;
+  height: 22px;
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+.sns-icons img:hover {
+  opacity: 0.7;
+}
     @media (max-width: 768px) {
       .sns-icons {
         position: static;
