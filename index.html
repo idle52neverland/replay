@@ -29,23 +29,6 @@
       left: 50%;
       transform: translateX(-50%);
     }
-    .sns-icons {
-      position: absolute;
-      right: 30px;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      gap: 14px;
-    }
-    .sns-icons img {
-      width: 22px;
-      height: 22px;
-      transition: opacity 0.2s;
-      cursor: pointer;
-    }
-    .sns-icons img:hover {
-      opacity: 0.7;
-    }
     .category-section {
       display: flex;
       flex-wrap: wrap;
@@ -157,6 +140,18 @@
       text-overflow: ellipsis;
       box-sizing: content-box;
     }
+    @media screen and (max-width: 768px) {
+      .card-title {
+        font-size: 14px;
+        line-height: 1.2em;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+      }
+    }
     .button-wrapper {
       display: flex;
       justify-content: center;
@@ -164,8 +159,7 @@
       gap: 20px;
       margin: 60px auto 80px;
     }
-    #loadMoreBtn,
-    #scrollTopBtn {
+    #loadMoreBtn, #scrollTopBtn {
       background-color: #fff;
       color: #111;
       font-size: 14px;
@@ -181,18 +175,6 @@
       background-color: #ddd;
     }
     @media (max-width: 768px) {
-      .sns-icons {
-        display: none;
-      }
-      .header-bar {
-        flex-direction: column;
-        align-items: center;
-      }
-      #mainTitle {
-        position: static;
-        transform: none;
-        margin-bottom: 10px;
-      }
       .card-container {
         grid-template-columns: repeat(2, 1fr) !important;
         padding: 0 2px;
@@ -206,31 +188,12 @@
       .top-bar input {
         width: 140px;
       }
-      .button-wrapper {
-        flex-direction: row;
-        justify-content: center;
-        gap: 20px;
-        margin: 40px auto 60px;
-      }
-      #loadMoreBtn,
-      #scrollTopBtn {
-        width: 50px;
-        height: 50px;
-        font-size: 13px;
-      }
     }
   </style>
 </head>
 <body>
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
-    <div class="sns-icons">
-      <a href="https://youtube.com/@official_i_dle" target="_blank" title="YouTube"><img src="images/유튜브.jpg" alt="YouTube"></a>
-      <a href="https://tiktok.com/@official_i_dle" target="_blank" title="TikTok"><img src="images/틱톡.jpg" alt="TikTok"></a>
-      <a href="https://x.com/official_i_dle" target="_blank" title="X"><img src="images/엑스.jpg" alt="X"></a>
-      <a href="https://instagram.com/i_dle_official" target="_blank" title="Instagram"><img src="images/인스타그램.jpg" alt="Instagram"></a>
-      <a href="https://weverse.io/i-dle" target="_blank" title="Weverse"><img src="images/위버스.jpg" alt="Weverse"></a>
-    </div>
   </div>
   <div class="category-section">
     <div class="category-line">
