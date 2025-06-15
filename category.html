@@ -296,17 +296,16 @@
       const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
       const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent.padStart(2, '0'));
+      const months = Array.from(monthBtns).map(b => b.textContent);
       const members = Array.from(memberBtns).map(b => b.textContent);
 
       filtered = all.filter(card => {
-        if (card.category !== selectedCategory) return false;
+        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
         if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
         if (years.length && !years.includes(card.year)) return false;
         if (months.length) {
-          const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
-          const m = match ? match[1] : null;
-          if (!m || !months.includes(m)) return false;
+          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
+          if (!months.includes(m)) return false;
         }
         if (members.length && !members.some(m => card.member.includes(m))) return false;
         return true;
