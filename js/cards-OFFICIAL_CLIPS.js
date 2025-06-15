@@ -10,7 +10,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet (2018-04-29)",
   "duration": "00:01:46"
 },
-
 {
   "link": "https://youtu.be/H54rWc8laeE",
   "category": "OFFICIAL_CLIPS",
@@ -22,7 +21,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser (2018-04-30)",
   "duration": "00:00:29"
 },
-
 {
   "link": "https://youtu.be/mz-9otF_v00",
   "category": "OFFICIAL_CLIPS",
@@ -34,7 +32,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser (2018-04-30)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/398QLj8ZKmE",
   "category": "OFFICIAL_CLIPS",
@@ -58,7 +55,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser (2018-04-30)",
   "duration": "00:00:17"
 },
-
 {
   "link": "https://youtu.be/3w4ljZZ0iIA",
   "category": "OFFICIAL_CLIPS",
@@ -70,7 +66,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser (2018-04-30)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/Qw6Z4BbNbMc",
   "category": "OFFICIAL_CLIPS",
@@ -82,7 +77,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser (2018-04-30)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/5wn5ponH2XI",
   "category": "OFFICIAL_CLIPS",
@@ -94,7 +88,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser (2018-04-30)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/mIh0X4jGLcE",
   "category": "OFFICIAL_CLIPS",
@@ -106,7 +99,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #1 : 싱가포르 재킷 촬영 비하인드 (Part 1) (2018-05-03)",
   "duration": "00:09:35"
 },
-
 {
   "link": "https://youtu.be/WeFiRp0p2JA",
   "category": "OFFICIAL_CLIPS",
@@ -118,7 +110,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #2 : 싱가포르 재킷 촬영 비하인드 (Part 2) (2018-05-08)",
   "duration": "00:09:32"
 },
-
 {
   "link": "https://youtu.be/GOcJMC_JR7M",
   "category": "OFFICIAL_CLIPS",
@@ -130,7 +121,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #3 : 'LATATA' M/V 촬영 비하인드 (Part 1) (2018-05-16)",
   "duration": "00:16:17"
 },
-
 {
   "link": "https://youtu.be/O5pRVUqzAuA",
   "category": "OFFICIAL_CLIPS",
@@ -142,7 +132,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #4 : 'LATATA' M/V 촬영 비하인드 (Part 2) (2018-05-21)",
   "duration": "00:13:29"
 },
-
 {
   "link": "https://youtu.be/SUFzczU-ahU",
   "category": "OFFICIAL_CLIPS",
@@ -154,7 +143,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) -  I-TALK #5 : 'LATATA' 첫 주 비하인드 (Part 1) (2018-05-29)",
   "duration": "00:14:38"
 },
-
 {
   "link": "https://youtu.be/W2CqsPE5Gtw",
   "category": "OFFICIAL_CLIPS",
@@ -166,7 +154,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #6 : 'LATATA' 첫 주 비하인드 (Part 2) (2018-06-05)",
   "duration": "00:14:02"
 },
-
 {
   "link": "https://youtu.be/9zH2JuvaT8Y",
   "category": "OFFICIAL_CLIPS",
@@ -178,7 +165,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #7 : '1st Look' 첫 화보 현장 비하인드 (2018-06-18)",
   "duration": "00:13:00"
 },
-
 {
   "link": "https://youtu.be/BPKyBsqE7Lg",
   "category": "OFFICIAL_CLIPS",
@@ -190,7 +176,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #8 : 'LATATA' 마지막 주 비하인드 (Part 1) (2018-06-24)",
   "duration": "00:13:29"
 },
-
 {
   "link": "https://youtu.be/_tghpBwByM0",
   "category": "OFFICIAL_CLIPS",
@@ -202,7 +187,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #9 : 'LATATA' 마지막 주 비하인드 (Part 2) (2018-07-02)",
   "duration": "00:14:41"
 },
-
 {
   "link": "https://youtu.be/5t6XK3h-sTI",
   "category": "OFFICIAL_CLIPS",
@@ -214,7 +198,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #10 : 미공개 비하인드 (우기의 첫 개인 촬영) (2018-07-10)",
   "duration": "00:06:21"
 },
-
 {
   "link": "https://youtu.be/ch91ZeS0zEw",
   "category": "OFFICIAL_CLIPS",
@@ -226,7 +209,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #11 : 'MCOUNTDOWN in TAIPEI' 비하인드 (2018-07-18)",
   "duration": "00:13:16"
 },
-
 {
   "link": "https://youtu.be/vhkltG7Tb84",
   "category": "OFFICIAL_CLIPS",
@@ -238,7 +220,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #12 : 미공개 비하인드 (수진, 우기, 슈화의 싱가포르 비하인드) (2018-07-29)",
   "duration": "00:09:16"
 },
-
 {
   "link": "https://youtu.be/s_cd0CKZjL4",
   "category": "OFFICIAL_CLIPS",
@@ -250,7 +231,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser (2018-08-12)",
   "duration": "00:00:28"
 },
-
 {
   "link": "https://youtu.be/yFpYfOrGkdw",
   "category": "OFFICIAL_CLIPS",
@@ -262,7 +242,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #13 : '한(一)' M/V 촬영 비하인드 (Part 1) (2018-08-19)",
   "duration": "00:18:17"
 },
-
 {
   "link": "https://youtu.be/1RRPkd9toZw",
   "category": "OFFICIAL_CLIPS",
@@ -274,7 +253,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #14 : '한(一)' M/V 촬영 비하인드 (Part 2) (2018-08-28)",
   "duration": "00:18:55"
 },
-
 {
   "link": "https://youtu.be/kLs5rsrbamg",
   "category": "OFFICIAL_CLIPS",
@@ -286,7 +264,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #15 : '한(一)' 첫방 비하인드 (2018-09-06)",
   "duration": "00:17:10"
 },
-
 {
   "link": "https://youtu.be/p8WDE-tsKv8",
   "category": "OFFICIAL_CLIPS",
@@ -298,7 +275,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #16 : '한(一)' 막방 비하인드 (2018-09-17)",
   "duration": "00:18:19"
 },
-
 {
   "link": "https://youtu.be/_ttzcNoj1nQ",
   "category": "OFFICIAL_CLIPS",
@@ -310,7 +286,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #17 : 뉴욕 프로모션 비하인드 (2018-09-21)",
   "duration": "00:15:06"
 },
-
 {
   "link": "https://youtu.be/4G9MLumJLJI",
   "category": "OFFICIAL_CLIPS",
@@ -322,7 +297,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #18 : 2018 추석특집 아육대 비하인드 (2018-10-01)",
   "duration": "00:12:20"
 },
-
 {
   "link": "https://youtu.be/Ctq1jDzX34o",
   "category": "OFFICIAL_CLIPS",
@@ -334,7 +308,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #19 : '한(一)' 첫방 미공개 비하인드 (2018-10-08)",
   "duration": "00:08:31"
 },
-
 {
   "link": "https://youtu.be/3CY33hfnUy4",
   "category": "OFFICIAL_CLIPS",
@@ -346,7 +319,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #20 : 2018 MGA & 2018 AAA 비하인드 (2018-12-18)",
   "duration": "00:14:59"
 },
-
 {
   "link": "https://youtu.be/6GeXJH_QIrE",
   "category": "OFFICIAL_CLIPS",
@@ -358,7 +330,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #21 : 2018 MAMA & 2018 KPMA 비하인드 (2018-12-30)",
   "duration": "00:16:48"
 },
-
 {
   "link": "https://youtu.be/oD9pU98pizA",
   "category": "OFFICIAL_CLIPS",
@@ -370,7 +341,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #22 : 2018 가요대전 & 가요대축제 & 가요대제전 비하인드 (2019-01-13)",
   "duration": "00:19:47"
 },
-
 {
   "link": "https://youtu.be/6-GnSGXxWc8",
   "category": "OFFICIAL_CLIPS",
@@ -382,7 +352,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #23 : 2019 골든디스크 어워즈 비하인드 (2019-01-21)",
   "duration": "00:11:04"
 },
-
 {
   "link": "https://youtu.be/kGXLROgEnyw",
   "category": "OFFICIAL_CLIPS",
@@ -394,7 +363,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #24 : 2019 설특집 아육대 슈화 리듬체조 비하인드 (2019-02-09)",
   "duration": "00:10:02"
 },
-
 {
   "link": "https://youtu.be/RgZ7ohHwWZc",
   "category": "OFFICIAL_CLIPS",
@@ -406,7 +374,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #25 : 2019 설특집 아육대 계주 & 미연, 우기 볼링 비하인드 (2019-02-10)",
   "duration": "00:18:03"
 },
-
 {
   "link": "https://youtu.be/qBUY8lv5nJ4",
   "category": "OFFICIAL_CLIPS",
@@ -418,7 +385,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #26 : 2019 가온차트 뮤직 어워즈 비하인드 (2019-02-13)",
   "duration": "00:11:35"
 },
-
 {
   "link": "https://youtu.be/DJ2oZj8nyig",
   "category": "OFFICIAL_CLIPS",
@@ -430,7 +396,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film (2019-02-18)",
   "duration": "00:01:04"
 },
-
 {
   "link": "https://youtu.be/KtOC9LNIyBo",
   "category": "OFFICIAL_CLIPS",
@@ -442,7 +407,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet (2019-02-19)",
   "duration": "00:01:31"
 },
-
 {
   "link": "https://youtu.be/7bqewyz8_5s",
   "category": "OFFICIAL_CLIPS",
@@ -454,7 +418,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser (2019-02-20)",
   "duration": "00:00:18"
 },
-
 {
   "link": "https://youtu.be/4mtAWfuDcwo",
   "category": "OFFICIAL_CLIPS",
@@ -466,7 +429,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser (2019-02-20)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/HI7syzmCutA",
   "category": "OFFICIAL_CLIPS",
@@ -478,7 +440,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser (2019-02-21)",
   "duration": "00:00:15"
 },
-
 {
   "link": "https://youtu.be/9khosHZ7YLo",
   "category": "OFFICIAL_CLIPS",
@@ -490,7 +451,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser (2019-02-21)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/FHhOwtQ85Ow",
   "category": "OFFICIAL_CLIPS",
@@ -502,7 +462,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser (2019-02-22)",
   "duration": "00:00:16"
 },
-
 {
   "link": "https://youtu.be/3Yjln4kr84Y",
   "category": "OFFICIAL_CLIPS",
@@ -514,7 +473,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser (2019-02-22)",
   "duration": "00:00:17"
 },
-
 {
   "link": "https://youtu.be/M12zfy-IZLA",
   "category": "OFFICIAL_CLIPS",
@@ -526,7 +484,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser (2019-02-24)",
   "duration": "00:00:26"
 },
-
 {
   "link": "https://youtu.be/b5LqwD78OVs",
   "category": "OFFICIAL_CLIPS",
@@ -538,7 +495,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #27 : \"I made\" 재킷 촬영 비하인드 (2019-02-24)",
   "duration": "00:15:43"
 },
-
 {
   "link": "https://youtu.be/wukHr2r2wVw",
   "category": "OFFICIAL_CLIPS",
@@ -550,7 +506,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #28 : 'Senorita' M/V 촬영 비하인드 (Part 1) (2019-03-10)",
   "duration": "00:11:20"
 },
-
 {
   "link": "https://youtu.be/7ku_kVxCQrs",
   "category": "OFFICIAL_CLIPS",
@@ -562,7 +517,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #29 : 'Senorita' M/V 촬영 비하인드 (Part 2) (2019-03-17)",
   "duration": "00:13:22"
 },
-
 {
   "link": "https://youtu.be/IyVT0FcCXlc",
   "category": "OFFICIAL_CLIPS",
@@ -574,7 +528,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #30 : 'Senorita' 첫방 비하인드 (Part 1) (2019-03-25)",
   "duration": "00:12:26"
 },
-
 {
   "link": "https://youtu.be/BUF5N54Wnw0",
   "category": "OFFICIAL_CLIPS",
@@ -586,7 +539,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #31 : 'Senorita' 첫방 비하인드 (Part 2) (2019-03-30)",
   "duration": "00:11:21"
 },
-
 {
   "link": "https://youtu.be/e7C91J_JQSQ",
   "category": "OFFICIAL_CLIPS",
@@ -598,7 +550,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #32 : 'Senorita' 막방 비하인드 (2019-04-08)",
   "duration": "00:17:38"
 },
-
 {
   "link": "https://youtu.be/IOHMP3f-Zsg",
   "category": "OFFICIAL_CLIPS",
@@ -610,7 +561,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #33 : 1주년 기념 데뷔 쇼케이스 비하인드 (2019-05-02)",
   "duration": "00:11:17"
 },
-
 {
   "link": "https://youtu.be/--jnauMUngI",
   "category": "OFFICIAL_CLIPS",
@@ -7293,6 +7243,17 @@ const officialClipCards = [
   "alt": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)",
   "title": "'Good Thing' 음악방송 비하인드 PART 1 [i-talk] #201 | i-dle (아이들)ㅣSUB (2025-06-14)",
   "duration": "00:30:05"
+},
+  {
+  "link": "https://youtu.be/j193YQslaSs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:07:52",
+  "thumbnail": "https://i.ytimg.com/vi/j193YQslaSs/hqdefault.jpg",
+  "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)",
+  "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)"
 }
 
 
