@@ -286,7 +286,7 @@
       });
     }
 
-   function applyFilters() {
+  function applyFilters() {
   const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
   const keyword = document.getElementById("searchInput").value.toLowerCase();
   const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
@@ -298,20 +298,18 @@
   const members = Array.from(memberBtns).map(b => b.textContent);
 
   filtered = all.filter(card => {
-    // ✅ category 대소문자 비교 문제 해결
     if ((card.category || "").toUpperCase() !== selectedCategory.toUpperCase()) return false;
-    
     if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
-    
     if (years.length && !years.includes(card.year)) return false;
 
+    // ✅ 안전하게 수정된 부분
     if (months.length) {
-      const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-      if (!months.includes(m)) return false;
+      const match = card.title.match(/\d{4}-(\d{2})-\d{2}/);
+      const m = match ? match[1] : null;
+      if (!m || !months.includes(m)) return false;
     }
 
     if (members.length && !members.some(m => card.member.includes(m))) return false;
-
     return true;
   });
 
@@ -320,6 +318,7 @@
   filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
   renderCards(filtered);
 }
+
 
 
     window.onload = function () {
