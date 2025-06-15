@@ -204,7 +204,6 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 모든 카드 스크립트 연결 -->
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-RECORDING_BEHIND.js"></script>
   <script src="js/cards-OFFICIAL_CLIPS.js"></script>
@@ -219,44 +218,67 @@
   <script src="js/cards-FANCAM.js"></script>
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
-
   <script>
-    const allCards = document.getElementById('allCards');
-    const all = [].concat(
-      typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-      typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-      typeof officialClipCards !== 'undefined' ? officialClipCards : [],
-      typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
-      typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-      typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
-      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-      typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-      typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-      typeof interviewCards !== 'undefined' ? interviewCards : [],
-      typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-      typeof fancamCards !== 'undefined' ? fancamCards : [],
-      typeof shortsCards !== 'undefined' ? shortsCards : [],
-      typeof etcCards !== 'undefined' ? etcCards : []
-    );
+    // 필터 버튼 초기화 로직
+    function createFilterButtons(containerId, items) {
+      const filterContainer = document.getElementById(containerId);
+      filterContainer.innerHTML = '';
+      items.forEach(item => {
+        const btn = document.createElement("button");
+        btn.textContent = item;
+        btn.className = "category-btn";
+        btn.onclick = () => {
+          btn.classList.toggle("active");
+          applyFilters();
+        };
+        filterContainer.appendChild(btn);
+      });
+    }
 
-    all.forEach(data => {
-      const card = document.createElement("a");
-      card.className = "card";
-      card.href = data.link;
-      card.target = "_blank";
+    function applyFilters() {
+      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+      const keyword = document.getElementById("searchInput").value.toLowerCase();
+      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
-      const durationHTML = data.duration ? `<div class="duration-label">${data.duration}</div>` : '';
+      const years = Array.from(yearBtns).map(b => b.textContent);
+      const months = Array.from(monthBtns).map(b => b.textContent);
+      const members = Array.from(memberBtns).map(b => b.textContent);
 
-      card.innerHTML = `
-        <div class="thumbnail-wrapper">
-          <img src="${data.thumbnail}" alt="${data.title}" loading="lazy">
-          ${durationHTML}
-        </div>
-        <div class="card-title">${data.title}</div>
-      `;
+      filtered = all.filter(card => {
+        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+        if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
+        if (years.length && !years.includes(card.year)) return false;
+        if (months.length) {
+          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
+          if (!months.includes(m)) return false;
+        }
+        if (members.length && !members.some(m => card.member.includes(m))) return false;
+        return true;
+      });
 
-      allCards.appendChild(card);
-    });
+      currentIndex = 0;
+      container.innerHTML = '';
+      renderCards(filtered);
+    }
+
+    window.onload = function () {
+      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+      mainTitle.textContent = selectedCategory || "전체 영상";
+
+      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+      createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
+      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
+
+      document.getElementById("searchBtn").onclick = applyFilters;
+      document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
+      document.getElementById("resetSearchBtn").onclick = () => location.reload();
+      scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+
+      renderCards(filtered);
+      loadMoreBtn.onclick = () => renderCards(filtered);
+    };
   </script>
 </body>
 </html>
