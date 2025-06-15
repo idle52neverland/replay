@@ -9597,6 +9597,17 @@ const mediaContentsCards = [
   "alt": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
   "title": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
   "duration": "00:03:50"
+},
+  {
+  "link": "https://youtu.be/H2YHkKQfkKM",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/H2YHkKQfkKM/sddefault.jpg",
+  "alt": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
+  "title": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
+  "duration": "00:11:16"
 }
 
 ];
