@@ -126,13 +126,15 @@
       padding: 2px 4px;
       border-radius: 3px;
     }
+    /* 카드 내 제목 스타일 - PC용 폰트 크기만 키움 */
     .card-title {
-      font-size: 13px;
-      line-height: 18px;
-      height: 72px;
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 22px;
+      height: 88px;
       padding: 6px;
-      color: #fff;
-      background-color: #222;
+      color: #000;
+      background-color: transparent;
       overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 4;
@@ -140,10 +142,13 @@
       text-overflow: ellipsis;
       box-sizing: content-box;
     }
+
+    /* 모바일에서 카드 제목 처리 - 수정 금지 */
     @media screen and (max-width: 768px) {
       .card-title {
-        font-size: 14px;
-        line-height: 1.2em;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 1.3em;
         display: -webkit-box;
         -webkit-line-clamp: 4;
         -webkit-box-orient: vertical;
