@@ -3200,6 +3200,17 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/QHFE7VoGSSw/hqdefault.jpg",
   "alt": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)",
   "title": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)"
+},
+  {
+  "link": "https://youtu.be/UQ883uYqKxM",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연, 민니",
+  "year": "2021",
+  "month": "12",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/UQ883uYqKxM/hqdefault.jpg",
+  "alt": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)",
+  "title": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)"
 }
 
 
