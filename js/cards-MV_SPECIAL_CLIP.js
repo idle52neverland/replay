@@ -1066,6 +1066,17 @@ const mvSpecialClipCards = [
   "alt": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "title": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "duration": "00:02:56"
+},
+  {
+  "link": "https://youtu.be/nqBnrY6GrtY",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "우기",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
+  "alt": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
+  "title": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
 }
 
 
