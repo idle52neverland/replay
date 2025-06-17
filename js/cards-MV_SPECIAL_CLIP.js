@@ -55,8 +55,8 @@ const mvSpecialClipCards = [
   "year": "2019",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
-  "alt": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "title": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "alt": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "title": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
   "duration": "00:03:14"
 },
 
