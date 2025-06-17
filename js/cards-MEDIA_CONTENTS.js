@@ -9608,6 +9608,17 @@ const mediaContentsCards = [
   "alt": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
   "title": "미연-(ENG) 넌 왜, 나 안 좋아했어? | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 08 예상치 못한 (2021-02-19)",
   "duration": "00:11:16"
+},
+  {
+  "link": "https://youtu.be/UZqqSpDfHkg",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:26:33",
+  "thumbnail": "https://i.ytimg.com/vi/UZqqSpDfHkg/hqdefault.jpg",
+  "alt": "＂제가 더 열심히 할게요✨＂ 아픈 팽현숙을 위해 댄스부터 요리까지 폭풍 서포트하는 미연｜대결! 팽봉팽봉｜JTBC (2025-06-14)",
+  "title": "＂제가 더 열심히 할게요✨＂ 아픈 팽현숙을 위해 댄스부터 요리까지 폭풍 서포트하는 미연｜대결! 팽봉팽봉｜JTBC (2025-06-14)"
 }
 
 ];
