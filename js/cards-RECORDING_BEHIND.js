@@ -398,12 +398,12 @@ const recordingBehindCards = [
 {
   "link": "https://youtu.be/pdUV1R2ZObs",
   "category": "RECORDING_BEHIND",
-  "member": "소연, 미연, 민니, 우기, 슈화",
+  "member": "아이들",
   "year": "2025",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/pdUV1R2ZObs/maxresdefault.jpg",
-  "alt": "소연 - [나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
-  "title": "소연 - [나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
+  "alt": "[나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
+  "title": "[나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
   "duration": "00:01:06"
 },
 
