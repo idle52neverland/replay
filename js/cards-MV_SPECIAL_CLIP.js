@@ -1110,6 +1110,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
   "alt": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
   "title": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
+},
+  {
+  "link": "https://youtu.be/1XIi9ofX2kE",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "우기",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:03:49",
+  "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
+  "alt": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
+  "title": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
 }
 
 
