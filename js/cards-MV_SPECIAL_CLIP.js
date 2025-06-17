@@ -1121,6 +1121,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
   "alt": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
   "title": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
+},
+  {
+  "link": "https://youtu.be/eA2QBBM8s8s",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/eA2QBBM8s8s/sddefault.jpg",
+  "alt": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
+  "title": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
+  "duration": "00:03:09"
 }
 
 
