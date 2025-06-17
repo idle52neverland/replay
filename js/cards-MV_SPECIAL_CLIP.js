@@ -31,8 +31,8 @@ const mvSpecialClipCards = [
   "year": "2018",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
-  "alt": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "title": "소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "alt": "(미연, 소연) - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "title": "(미연, 소연) - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
   "duration": "00:03:23"
 },
 
