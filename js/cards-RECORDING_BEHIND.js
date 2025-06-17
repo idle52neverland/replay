@@ -515,17 +515,16 @@ const recordingBehindCards = [
   "duration": "00:04:10"
 },
 {
-  "link": "https://youtu.be/zwZg-ocBEuU",
+  "link": "https://youtu.be/s_CQvOpX9FY",
   "category": "RECORDING_BEHIND",
   "member": "소연",
   "year": "2024",
-  "month": "10",
-  "duration": "00:24:05",
-  "thumbnail": "https://i.ytimg.com/vi/zwZg-ocBEuU/sddefault.jpg",
-  "alt": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
-  "title": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
+  "month": "09",
+  "duration": "00:31:31",
+  "thumbnail": "https://i.ytimg.com/vi/s_CQvOpX9FY/sddefault.jpg",
+  "alt": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind (2024-09-26)",
+  "title": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind (2024-09-26)"
 }
-
 
 
 
