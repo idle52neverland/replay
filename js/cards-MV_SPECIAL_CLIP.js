@@ -1075,8 +1075,19 @@ const mvSpecialClipCards = [
   "month": "06",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
-  "alt": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
-  "title": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
+  "alt": "(Prod.YUQI)  NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
+  "title": "(Prod.YUQI)  NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
+},
+  {
+  "link": "https://youtu.be/uWT79Qq52sU",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
+  "alt": "(Prod.SOYEON)  Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
+  "title": "(Prod.SOYEON)  Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
 }
 
 
