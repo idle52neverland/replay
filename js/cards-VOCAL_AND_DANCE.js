@@ -1356,18 +1356,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/eA2QBBM8s8s",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연",
-  "year": "2021",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/eA2QBBM8s8s/sddefault.jpg",
-  "alt": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
-  "title": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
-  "duration": "00:03:09"
-},
-
-{
   "link": "https://youtu.be/UQ883uYqKxM",
   "category": "VOCAL_AND_DANCE",
   "member": "미연, 민니",
