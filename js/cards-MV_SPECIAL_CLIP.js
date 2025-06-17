@@ -31,8 +31,8 @@ const mvSpecialClipCards = [
   "year": "2018",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
-  "alt": "(미연, 소연) - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "title": "(미연, 소연) - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "alt": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "title": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
   "duration": "00:03:23"
 },
 
@@ -55,8 +55,8 @@ const mvSpecialClipCards = [
   "year": "2019",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
-  "alt": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "title": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "alt": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "title": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
   "duration": "00:03:14"
 },
 
@@ -163,8 +163,8 @@ const mvSpecialClipCards = [
   "year": "2020",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
-  "alt": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "title": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "alt": "< Feat. SOYEON > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "title": "< Feat. SOYEON > ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
   "duration": "00:03:23"
 },
 
@@ -631,8 +631,8 @@ const mvSpecialClipCards = [
   "year": "2023",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "alt": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
   "duration": "00:03:33"
 },
 
@@ -643,8 +643,8 @@ const mvSpecialClipCards = [
   "year": "2023",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/N68rwFjyinI/maxresdefault.jpg",
-  "alt": "소연 - [MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
-  "title": "소연 - [MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
+  "alt": "[MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
+  "title": "[MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
   "duration": "00:02:49"
 },
 
@@ -1099,6 +1099,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
   "alt": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)",
   "title": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)"
+},
+  {
+  "link": "https://youtu.be/en4BDQgflG0",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
+  "alt": "< Written by SOYEON > (김남주) 'Bird' MV (2020-09-07)",
+  "title": "< Written by SOYEON > (김남주) 'Bird' MV (2020-09-07)"
 }
 
 
