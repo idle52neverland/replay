@@ -524,6 +524,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/s_CQvOpX9FY/sddefault.jpg",
   "alt": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind (2024-09-26)",
   "title": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind (2024-09-26)"
+},
+  {
+  "link": "https://youtu.be/vQvPnv1ADkk",
+  "category": "RECORDING_BEHIND",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:13:12",
+  "thumbnail": "https://i.ytimg.com/vi/vQvPnv1ADkk/mqdefault.jpg",
+  "alt": "i-dle (아이들) 'Chain' Recording BehindㅣSUB (2025-06-17)",
+  "title": "i-dle (아이들) 'Chain' Recording BehindㅣSUB (2025-06-17)"
 }
 
 
