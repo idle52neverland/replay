@@ -705,7 +705,19 @@ const etcCards = [
   "alt": "유연이 말하는 아이들(i-dle) 전소연 SBN 🖤(2025-05-31)",
   "title": "유연이 말하는 아이들(i-dle) 전소연 SBN 🖤(2025-05-31)",
   "duration": "00:00:55"
+},
+  {
+  "link": "https://youtu.be/zwZg-ocBEuU",
+  "category": "ETC",
+  "member": "소연",
+  "year": "2024",
+  "month": "10",
+  "duration": "00:24:05",
+  "thumbnail": "https://i.ytimg.com/vi/zwZg-ocBEuU/sddefault.jpg",
+  "alt": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드",
+  "title": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드"
 }
+  
 
   ];
 
