@@ -163,8 +163,8 @@ const mvSpecialClipCards = [
   "year": "2020",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
-  "alt": "< Feat. SOYEON > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "title": "< Feat. SOYEON > ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "alt": "< < Feat. SOYEON > > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "title": "< < Feat. SOYEON > >‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
   "duration": "00:03:23"
 },
 
@@ -631,8 +631,8 @@ const mvSpecialClipCards = [
   "year": "2023",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "alt": "< < Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "< <Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
   "duration": "00:03:33"
 },
 
@@ -1086,8 +1086,8 @@ const mvSpecialClipCards = [
   "month": "06",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
-  "title": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
+  "alt": "< < Prod.SOYEON > >Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
+  "title": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
 },
   {
   "link": "https://youtu.be/AlirzLFEHUI",
@@ -1097,8 +1097,8 @@ const mvSpecialClipCards = [
   "month": "09",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
-  "alt": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)",
-  "title": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)"
+  "alt": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)",
+  "title": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)"
 },
   {
   "link": "https://youtu.be/en4BDQgflG0",
@@ -1108,8 +1108,8 @@ const mvSpecialClipCards = [
   "month": "09",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
-  "alt": "< Written by SOYEON > (김남주) 'Bird' MV (2020-09-07)",
-  "title": "< Written by SOYEON > (김남주) 'Bird' MV (2020-09-07)"
+  "alt": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
+  "title": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
 }
 
 
