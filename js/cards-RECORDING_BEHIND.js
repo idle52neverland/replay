@@ -513,6 +513,17 @@ const recordingBehindCards = [
   "alt": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
   "title": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
   "duration": "00:04:10"
+},
+  {
+  "link": "https://youtu.be/s_CQvOpX9FY",
+  "category": "RECORDING_BEHIND",
+  "member": "소연",
+  "year": "2024",
+  "month": "09",
+  "duration": "00:31:31",
+  "thumbnail": "https://i.ytimg.com/vi/s_CQvOpX9FY/sddefault.jpg",
+  "alt": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind",
+  "title": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind"
 }
 
 
