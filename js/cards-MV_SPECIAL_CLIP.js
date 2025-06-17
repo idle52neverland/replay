@@ -631,8 +631,8 @@ const mvSpecialClipCards = [
   "year": "2023",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "< < Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "< <Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "alt": "< < Feat. MINNIE > >로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "< <Feat. MINNIE > >로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
   "duration": "00:03:33"
 },
 
@@ -1075,8 +1075,8 @@ const mvSpecialClipCards = [
   "month": "06",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
-  "alt": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
-  "title": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
+  "alt": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
+  "title": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
 },
   {
   "link": "https://youtu.be/uWT79Qq52sU",
@@ -1086,7 +1086,7 @@ const mvSpecialClipCards = [
   "month": "06",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "< < Prod.SOYEON > >Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
+  "alt": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
   "title": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
 },
   {
