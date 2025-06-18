@@ -25,18 +25,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/UOxkGD8qRB4",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연, 미연",
-  "year": "2018",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
-  "alt": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "title": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "duration": "00:03:23"
-},
-
-{
   "link": "https://youtu.be/2cevbhEqQF4",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -46,18 +34,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' Official Music Video (2019-02-26)",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' Official Music Video (2019-02-26)",
   "duration": "00:03:45"
-},
-
-{
-  "link": "https://youtu.be/_E5JtAcc3cY",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2019",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
-  "alt": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "title": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "duration": "00:03:14"
 },
 
 {
@@ -121,18 +97,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/sVZpHFXcFJw",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2019",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/sVZpHFXcFJw/maxresdefault.jpg",
-  "alt": "소연 - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends (2019-11-10)",
-  "title": "소연 - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends (2019-11-10)",
-  "duration": "00:03:19"
-},
-
-{
   "link": "https://youtu.be/om3n2ni8luE",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -154,18 +118,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
   "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
   "duration": "00:03:27"
-},
-
-{
-  "link": "https://youtu.be/4VmLuWDkHYQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2020",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
-  "alt": "< < Feat. SOYEON > > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "title": "< < Feat. SOYEON > >‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "duration": "00:03:23"
 },
 
 {
@@ -286,18 +238,6 @@ const mvSpecialClipCards = [
   "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover) (2021-09-23)",
   "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover) (2021-09-23)",
   "duration": "00:03:24"
-},
-
-{
-  "link": "https://youtu.be/Lx4ka2qBY_A",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2021",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/maxresdefault.jpg",
-  "alt": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
-  "title": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
-  "duration": "00:04:16"
 },
 
 {
@@ -589,18 +529,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/bKLTsAy9ig4",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2023",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/bKLTsAy9ig4/maxresdefault.jpg",
-  "alt": "[MV] SOYEON ((G)I-DLE) X MOONO (소연 ((여자)아이들) X 무너) _ I'm OK(아무너케) (2023-08-23)",
-  "title": "[MV] SOYEON ((G)I-DLE) X MOONO (소연 ((여자)아이들) X 무너) _ I'm OK(아무너케) (2023-08-23)",
-  "duration": "00:03:51"
-},
-
-{
   "link": "https://youtu.be/Zi2kJvHwk1k",
   "category": "MV_SPECIAL_CLIP",
   "member": "우기",
@@ -622,30 +550,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'I Want That' Official Music Video (2023-10-06)",
   "title": "(여자)아이들((G)I-DLE) - 'I Want That' Official Music Video (2023-10-06)",
   "duration": "00:03:33"
-},
-
-{
-  "link": "https://youtu.be/NL-uanxNldk",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2023",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "< < Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "< <Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "duration": "00:03:33"
-},
-
-{
-  "link": "https://youtu.be/N68rwFjyinI",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2023",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/N68rwFjyinI/maxresdefault.jpg",
-  "alt": "[MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
-  "title": "[MV] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' (2023-11-16)",
-  "duration": "00:02:49"
 },
 
 {
@@ -925,18 +829,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/8OfUx3yY_B8",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "미연",
-  "year": "2024",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/8OfUx3yY_B8/maxresdefault.jpg",
-  "alt": "MIYEON(미연) LOVIN’ MY STAY MV | Experience Macao Limited Edition (2024-09-17)",
-  "title": "MIYEON(미연) LOVIN’ MY STAY MV | Experience Macao Limited Edition (2024-09-17)",
-  "duration": "00:02:04"
-},
-
-{
   "link": "https://youtu.be/Ubz6C2t_FFM",
   "category": "MV_SPECIAL_CLIP",
   "member": "우기",
@@ -996,17 +888,6 @@ const mvSpecialClipCards = [
   "duration": "00:02:50"
 },
 
-{
-  "link": "https://youtu.be/ZlpxcCiCCP4",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "슈화",
-  "year": "2025",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/ZlpxcCiCCP4/maxresdefault.jpg",
-  "alt": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
-  "title": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
-  "duration": "00:04:38"
-},
 
 {
   "link": "https://youtu.be/-pKYsndlSXE",
@@ -1066,73 +947,9 @@ const mvSpecialClipCards = [
   "alt": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "title": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "duration": "00:02:56"
-},
-  {
-  "link": "https://youtu.be/nqBnrY6GrtY",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2025",
-  "month": "06",
-  "duration": "00:03:27",
-  "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
-  "alt": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
-  "title": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
-},
-  {
-  "link": "https://youtu.be/uWT79Qq52sU",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2025",
-  "month": "06",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
-  "title": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
-},
-  {
-  "link": "https://youtu.be/AlirzLFEHUI",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2024",
-  "month": "09",
-  "duration": "00:03:16",
-  "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
-  "alt": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)",
-  "title": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)"
-},
-  {
-  "link": "https://youtu.be/en4BDQgflG0",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2020",
-  "month": "09",
-  "duration": "00:03:06",
-  "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
-  "alt": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
-  "title": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
-},
-  {
-  "link": "https://youtu.be/1XIi9ofX2kE",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2023",
-  "month": "06",
-  "duration": "00:03:49",
-  "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
-  "alt": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
-  "title": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
-},
-  {
-  "link": "https://youtu.be/eA2QBBM8s8s",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연",
-  "year": "2021",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/eA2QBBM8s8s/sddefault.jpg",
-  "alt": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
-  "title": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love (2021-11-21)",
-  "duration": "00:03:09"
 }
+
+
 
 
 ];
