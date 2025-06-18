@@ -378,7 +378,8 @@ const specialReleasesCards = [
   "title": "Anne-Marie, 민니 ((여자)아이들) - Expectations (2023-03-09)"
 }
 
+  
 
-
+  ];
 // ✅ 전역 등록
 window.specialReleasesCards = specialReleasesCards;
