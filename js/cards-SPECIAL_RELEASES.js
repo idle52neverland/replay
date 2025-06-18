@@ -343,7 +343,340 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/jrt4iWhofPA/mqdefault.jpg",
   "alt": "Anne-Marie, 민니 ((여자)아이들) - Expectations (2023-03-09)",
   "title": "Anne-Marie, 민니 ((여자)아이들) - Expectations (2023-03-09)"
+},
+  {
+  "link": "https://youtu.be/qIyXFwnGy_I",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2021",
+  "month": "12",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/maxresdefault.jpg",
+  "alt": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
+  "title": "<  Feat. SOYEON  > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
+},
+{
+  "link": "https://youtu.be/rsgyQYs4C8A",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2022",
+  "month": "06",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/rsgyQYs4C8A/maxresdefault.jpg",
+  "alt": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2 (2022-06-21)",
+  "title": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2 (2022-06-21)"
+},
+{
+  "link": "https://youtu.be/KR5CtMLuiqQ",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2018",
+  "month": "09",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/KR5CtMLuiqQ/mqdefault.jpg",
+  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' MV (2018-09-28)",
+  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' MV (2018-09-28)"
+},
+{
+  "link": "https://youtu.be/Q8ERCF_AgIo",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2016",
+  "month": "08",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/Q8ERCF_AgIo/hqdefault.jpg",
+  "alt": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)",
+  "title": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)"
+},
+{
+  "link": "https://youtu.be/q5EcE3zTmJc",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2022",
+  "month": "04",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/q5EcE3zTmJc/mqdefault.jpg",
+  "alt": "지금부터, 쇼타임! — 전소연 \"FREAK SHOW\" Official VideoㅣFrom Now On, Showtime! (2022-04-25)",
+  "title": "지금부터, 쇼타임! — 전소연 \"FREAK SHOW\" Official VideoㅣFrom Now On, Showtime! (2022-04-25)"
+},
+{
+  "link": "https://youtu.be/4On_fj1ccks",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:02:26",
+  "thumbnail": "https://i.ytimg.com/vi/4On_fj1ccks/mqdefault.jpg",
+  "alt": "< < Prod. SOYEON > > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
+  "title": "< < Prod. SOYEON > >[ENG] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
+},
+{
+  "link": "https://youtu.be/ZvhpjERxJlQ",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2019",
+  "month": "01",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/ZvhpjERxJlQ/hqdefault.jpg",
+  "alt": "< < Written by SOYEON > > [MV] CLC _ No (2019-01-30)",
+  "title": "< < Written by SOYEON > > [MV] CLC _ No (2019-01-30)"
+},
+{
+  "link": "https://youtu.be/lZ2R-LKOevo",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2023",
+  "month": "12",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/lZ2R-LKOevo/mqdefault.jpg",
+  "alt": "도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)",
+  "title": "도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)"
+},
+{
+  "link": "https://youtu.be/ifh4n6eRAXU",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2019",
+  "month": "01",
+  "duration": "00:03:59",
+  "thumbnail": "https://i.ytimg.com/vi/ifh4n6eRAXU/sddefault.jpg",
+  "alt": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)",
+  "title": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
+},
+{
+  "link": "https://youtu.be/qIyXFwnGy_I",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2021",
+  "month": "12",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/hqdefault.jpg",
+  "alt": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
+  "title": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
+},
+{
+  "link": "https://youtu.be/3J_Ev390Q9Q",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:03:54",
+  "thumbnail": "https://i.ytimg.com/vi/3J_Ev390Q9Q/sddefault.jpg",
+  "alt": "[MV] 민니 ((여자)아이들) - Answer I SBS 나의 완벽한 비서 (Love Scout) OST Part.7 #나의완벽한비서 #LOVESCOUT #SBSCatch (2025-01-25)",
+  "title": "[MV] 민니 ((여자)아이들) - Answer I SBS 나의 완벽한 비서 (Love Scout) OST Part.7 #나의완벽한비서 #LOVESCOUT #SBSCatch (2025-01-25)"
+},
+{
+  "link": "https://youtu.be/wcXVSOIDF4k",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2025",
+  "month": "04",
+  "duration": "00:03:53",
+  "thumbnail": "https://i.ytimg.com/vi/wcXVSOIDF4k/mqdefault.jpg",
+  "alt": "[MaumC Official Audio] 민니 ((여자)아이들｜숨 (2025-04-26)",
+  "title": "[MaumC Official Audio] 민니 ((여자)아이들｜숨 (2025-04-26)"
+},
+{
+  "link": "https://youtu.be/602Esq9_2G0",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연, 민니",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/602Esq9_2G0/maxresdefault.jpg",
+  "alt": "[MV] 미연,민니 ((여자)아이들) - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)] (2020-10-15)",
+  "title": "[MV] 미연,민니 ((여자)아이들) - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)] (2020-10-15)"
+},
+{
+  "link": "https://youtu.be/dy3GaMa-j_c",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/dy3GaMa-j_c/maxresdefault.jpg",
+  "alt": "X-RATED - PINK YOUR MOMENT [Official Music Video] (2023-04-26)",
+  "title": "X-RATED - PINK YOUR MOMENT [Official Music Video] (2023-04-26)"
+},
+{
+  "link": "https://youtu.be/-kVhMnKuk_A",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2019",
+  "month": "10",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/-kVhMnKuk_A/mqdefault.jpg",
+  "alt": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)",
+  "title": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)"
+},
+{
+  "link": "https://youtu.be/FB2KQampTG4",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연, 우기",
+  "year": "2023",
+  "month": "09",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/FB2KQampTG4/mqdefault.jpg",
+  "alt": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 (2023-09-05)",
+  "title": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 (2023-09-05)"
+},
+{
+  "link": "https://youtu.be/vJ_prp7S-sA",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/vJ_prp7S-sA/hqdefault.jpg",
+  "alt": "LAS(라스)_봄노래 (Feat. 미연 ((여자)아이들) | Spring Song | (G)I-DLE MIYEON | 스페셜클립 | Special Clip | 가사 | LIVE (2023-04-08)",
+  "title": "LAS(라스)_봄노래 (Feat. 미연 ((여자)아이들) | Spring Song | (G)I-DLE MIYEON | 스페셜클립 | Special Clip | 가사 | LIVE (2023-04-08)"
+},
+{
+  "link": "https://youtu.be/l3pXHJTmpqU",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2021",
+  "month": "10",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg",
+  "alt": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)",
+  "title": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)"
+},
+{
+  "link": "https://youtu.be/gpzGUTDe-CE",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2021",
+  "month": "10",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/gpzGUTDe-CE/hqdefault.jpg",
+  "alt": "Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)",
+  "title": "Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)"
+},
+{
+  "link": "https://youtu.be/dr1w5rju6uM",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2024",
+  "month": "10",
+  "duration": "00:04:10",
+  "thumbnail": "https://i.ytimg.com/vi/dr1w5rju6uM/mqdefault.jpg",
+  "alt": "[스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)",
+  "title": "[스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)"
+},
+{
+  "link": "https://youtu.be/U4AefkQrpnA",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2023",
+  "month": "12",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/U4AefkQrpnA/mqdefault.jpg",
+  "alt": "Milestone",
+  "title": "Milestone"
+},
+{
+  "link": "https://youtu.be/9p51YpIa0Ss",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연, 우기",
+  "year": "2023",
+  "month": "02",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/9p51YpIa0Ss/hqdefault.jpg",
+  "alt": "[연애대전 OST Part 1] 미연 (MIYEON), 우기 (YUQI)  of ((여자)아이들) - Sweet Dream MV",
+  "title": "[연애대전 OST Part 1] 미연 (MIYEON), 우기 (YUQI)  of ((여자)아이들) - Sweet Dream MV"
+},
+{
+  "link": "https://youtu.be/fkfeTUGFq6E",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/fkfeTUGFq6E/sddefault.jpg",
+  "alt": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' Special Clip",
+  "title": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' Special Clip"
+},
+{
+  "link": "https://youtu.be/_UwS-Iox8gw",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2025",
+  "month": "04",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/_UwS-Iox8gw/mqdefault.jpg",
+  "alt": "우기 - FENDI (FENDI)",
+  "title": "우기 - FENDI (FENDI)"
+},
+{
+  "link": "https://youtu.be/Dpopp6cgN58",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2024",
+  "month": "10",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/Dpopp6cgN58/sddefault.jpg",
+  "alt": "우기 - 내일이 찾아오면 (Acoustic Ver.) (From 강매강 OST) MV",
+  "title": "우기 - 내일이 찾아오면 (Acoustic Ver.) (From 강매강 OST) MV"
+},
+{
+  "link": "https://youtu.be/KsEywqDtVZw",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2024",
+  "month": "06",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/KsEywqDtVZw/mqdefault.jpg",
+  "alt": "우기- Making Waves (The Song of the TV Series Wo Yao Ni Feng Qu)",
+  "title": "우기- Making Waves (The Song of the TV Series Wo Yao Ni Feng Qu)"
+},
+{
+  "link": "https://youtu.be/4xycl7eFNmE",
+  "category": "SPECIAL_RELEASES",
+  "member": "민니",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:02:06",
+  "thumbnail": "https://i.ytimg.com/vi/4xycl7eFNmE/mqdefault.jpg",
+  "alt": "“민니- Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
+  "title": "“민니- Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
+},
+{
+  "link": "https://youtu.be/8yM26c7RpB4",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/8yM26c7RpB4/sddefault.jpg",
+  "alt": "[MV] 우기 ((여자)아이들) - 연극 [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST Special Track)]",
+  "title": "[MV] 우기 ((여자)아이들) - 연극 [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST Special Track)]"
+},
+{
+  "link": "https://youtu.be/rO1ANdXvdTg",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2023",
+  "month": "12",
+  "duration": "00:02:18",
+  "thumbnail": "https://i.ytimg.com/vi/rO1ANdXvdTg/mqdefault.jpg",
+  "alt": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
+  "title": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
+},
+{
+  "link": "https://youtu.be/WF4YckoL5Qg",
+  "category": "SPECIAL_RELEASES",
+  "member": "우기",
+  "year": "2023",
+  "month": "11",
+  "duration": "00:04:20",
+  "thumbnail": "https://i.ytimg.com/vi/WF4YckoL5Qg/mqdefault.jpg",
+  "alt": "Black Space",
+  "title": "우기- Black Space"
 }
+
+
+
 
   
 
