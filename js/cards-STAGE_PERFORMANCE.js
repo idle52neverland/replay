@@ -2646,8 +2646,8 @@ const stagePerformanceCards = [
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/SCu2WNw2joo/maxresdefault.jpg",
-  "alt": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 201231 방송 (2020-12-31)",
-  "title": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 201231 방송 (2020-12-31)",
+  "alt": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 가요대제전 (2020-12-31)",
+  "title": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 가요대제전 (2020-12-31)",
   "duration": "00:02:44"
 },
 
@@ -2658,8 +2658,8 @@ const stagePerformanceCards = [
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/mQftiLy7hsI/maxresdefault.jpg",
-  "alt": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 201231 방송 (2020-12-31)",
-  "title": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 201231 방송 (2020-12-31)",
+  "alt": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 가요대제전 (2020-12-31)",
+  "title": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 가요대제전 (2020-12-31)",
   "duration": "00:04:16"
 },
 
@@ -2670,8 +2670,8 @@ const stagePerformanceCards = [
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/jPrah1CDOo0/maxresdefault.jpg",
-  "alt": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 201231 방송 (2020-12-31)",
-  "title": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 201231 방송 (2020-12-31)",
+  "alt": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 가요대제전 (2020-12-31)",
+  "title": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 가요대제전 (2020-12-31)",
   "duration": "00:03:09"
 },
 
@@ -2682,8 +2682,8 @@ const stagePerformanceCards = [
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Fpx1xuzWE0M/maxresdefault.jpg",
-  "alt": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 201231 방송 (2020-12-31)",
-  "title": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 201231 방송 (2020-12-31)",
+  "alt": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 가요대제전 (2020-12-31)",
+  "title": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 가요대제전 (2020-12-31)",
   "duration": "00:01:18"
 },
 
