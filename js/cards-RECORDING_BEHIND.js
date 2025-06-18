@@ -554,6 +554,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/aCHXSOMiZII/mqdefault.jpg",
   "alt": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific (2023-03-13)",
   "title": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific (2023-03-13)"
+},
+  {
+  "link": "https://youtu.be/RwmNUJFSX2E",
+  "category": "RECORDING_BEHIND",
+  "member": "우기",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:03:49",
+  "thumbnail": "https://i.ytimg.com/vi/RwmNUJFSX2E/hqdefault.jpg",
+  "alt": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]",
+  "title": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]"
 }
 
   ];
