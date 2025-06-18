@@ -3434,12 +3434,12 @@ const stagePerformanceCards = [
 {
   "link": "https://youtu.be/WFkZjTCxVPc",
   "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
+  "member": "소연",
   "year": "2019",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/WFkZjTCxVPc/sddefault.jpg",
-  "alt": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
-  "title": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
+  "alt": "소연 - GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
+  "title": "소연 - GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
   "duration": "00:03:39"
 },
 
