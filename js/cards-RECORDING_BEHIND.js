@@ -532,6 +532,17 @@ const recordingBehindCards = [
   "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
   "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
   "duration": "00:03:27"
+},
+  {
+  "link": "https://youtu.be/6aYHbuAscVI",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2023",
+  "month": "11",
+  "duration": "00:05:32",
+  "thumbnail": "https://i.ytimg.com/vi/6aYHbuAscVI/sddefault.jpg",
+  "alt": "[엘소드] 리티아 테마곡 \"Milestone\" 메이킹 필름 with (여자)아이들 미연 (2023-11-23)",
+  "title": "[엘소드] 리티아 테마곡 \"Milestone\" 메이킹 필름 with (여자)아이들 미연 (2023-11-23)"
 }
 
 
