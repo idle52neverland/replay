@@ -552,10 +552,9 @@ const recordingBehindCards = [
   "month": "03",
   "duration": "00:01:15",
   "thumbnail": "https://i.ytimg.com/vi/aCHXSOMiZII/mqdefault.jpg",
-  "alt": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific",
-  "title": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific"
+  "alt": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific (2023-03-13)",
+  "title": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific (2023-03-13)"
 }
-
 
   ];
 
