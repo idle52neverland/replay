@@ -335,17 +335,6 @@ const recordingBehindCards = [
   "duration": "00:14:40"
 },
 
-{
-  "link": "https://youtu.be/3Ccu3CjsPZo",
-  "category": "RECORDING_BEHIND",
-  "member": "미연",
-  "year": "2024",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/3Ccu3CjsPZo/maxresdefault.jpg",
-  "alt": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
-  "title": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
-  "duration": "00:04:36"
-},
 
 {
   "link": "https://youtu.be/HKzKcnEx9Bk",
@@ -357,18 +346,6 @@ const recordingBehindCards = [
   "alt": "민니(MINNIE) - 'HER' Recording BehindㅣSUB (2025-02-01)",
   "title": "민니(MINNIE) - 'HER' Recording BehindㅣSUB (2025-02-01)",
   "duration": "00:15:18"
-},
-
-{
-  "link": "https://youtu.be/8V2SpdoRxTk",
-  "category": "RECORDING_BEHIND",
-  "member": "미연",
-  "year": "2025",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/8V2SpdoRxTk/maxresdefault.jpg",
-  "alt": "[MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)",
-  "title": "[MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)",
-  "duration": "00:04:17"
 },
 
 {
@@ -384,18 +361,6 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://youtu.be/OAISVzre8QQ",
-  "category": "RECORDING_BEHIND",
-  "member": "민니",
-  "year": "2025",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/OAISVzre8QQ/maxresdefault.jpg",
-  "alt": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
-  "title": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
-  "duration": "00:04:13"
-},
-
-{
   "link": "https://youtu.be/pdUV1R2ZObs",
   "category": "RECORDING_BEHIND",
   "member": "아이들",
@@ -405,18 +370,6 @@ const recordingBehindCards = [
   "alt": "[나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
   "title": "[나 혼자만 레벨업:ARISE] (여자)아이들 콜라보 기념 영상 편지 (2025-04-12)",
   "duration": "00:01:06"
-},
-
-{
-  "link": "https://youtu.be/HxROxHdBQ2g",
-  "category": "RECORDING_BEHIND",
-  "member": "미연",
-  "year": "2025",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/HxROxHdBQ2g/maxresdefault.jpg",
-  "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
-  "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
-  "duration": "00:03:27"
 },
 
 {
@@ -504,17 +457,6 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://youtu.be/_lQxaYmt0DQ",
-  "category": "RECORDING_BEHIND",
-  "member": "민니",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/_lQxaYmt0DQ/maxresdefault.jpg",
-  "alt": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
-  "title": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
-  "duration": "00:04:10"
-},
-{
   "link": "https://youtu.be/s_CQvOpX9FY",
   "category": "RECORDING_BEHIND",
   "member": "소연",
@@ -535,8 +477,62 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/vQvPnv1ADkk/mqdefault.jpg",
   "alt": "i-dle (아이들) 'Chain' Recording BehindㅣSUB (2025-06-17)",
   "title": "i-dle (아이들) 'Chain' Recording BehindㅣSUB (2025-06-17)"
-}
-
+},
+  {
+  "link": "https://youtu.be/8V2SpdoRxTk",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2025",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/8V2SpdoRxTk/maxresdefault.jpg",
+  "alt": "[MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)",
+  "title": "[MV] MIYEON ((G)I-DLE))(미연 ((여자)아이들)) _ Red Moon(적월) (2025-02-12)",
+  "duration": "00:04:17"
+},
+{
+  "link": "https://youtu.be/3Ccu3CjsPZo",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2024",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/3Ccu3CjsPZo/maxresdefault.jpg",
+  "alt": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
+  "title": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
+  "duration": "00:04:36"
+},
+{
+  "link": "https://youtu.be/OAISVzre8QQ",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2025",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/OAISVzre8QQ/maxresdefault.jpg",
+  "alt": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
+  "title": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
+  "duration": "00:04:13"
+},
+{
+  "link": "https://youtu.be/_lQxaYmt0DQ",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2024",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/_lQxaYmt0DQ/maxresdefault.jpg",
+  "alt": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
+  "title": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
+  "duration": "00:04:10"
+},
+{
+  "link": "https://youtu.be/HxROxHdBQ2g",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2025",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/HxROxHdBQ2g/maxresdefault.jpg",
+  "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
+  "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
+  "duration": "00:03:27"
+},
 
 
   ];
