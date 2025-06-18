@@ -12,18 +12,6 @@ const interviewCards = [
 },
 
 {
-  "link": "https://youtu.be/B-UdZ9a7rH4",
-  "category": "INTERVIEW",
-  "member": "소연",
-  "year": "2016",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/B-UdZ9a7rH4/sddefault.jpg",
-  "alt": "언프리티랩스타3 X miadidas 디지털 프로모션 영상 (2016-10-07)",
-  "title": "언프리티랩스타3 X miadidas 디지털 프로모션 영상 (2016-10-07)",
-  "duration": "00:00:58"
-},
-
-{
   "link": "https://youtu.be/LpANo-YD4-E",
   "category": "INTERVIEW",
   "member": "소연",
