@@ -202,17 +202,6 @@ const specialReleasesCards = [
   "duration": "00:04:10"
 },
 {
-  "link": "https://youtu.be/3Ccu3CjsPZo",
-  "category": "SPECIAL_RELEASES",
-  "member": "미연",
-  "year": "2024",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/3Ccu3CjsPZo/maxresdefault.jpg",
-  "alt": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
-  "title": "[making] 미연 ((여자)아이들) - 기도 (2024-11-13)",
-  "duration": "00:04:36"
-},
-{
   "link": "https://youtu.be/pPLX4Y37dD0",
   "category": "SPECIAL_RELEASES",
   "member": "민니",
@@ -343,28 +332,6 @@ const specialReleasesCards = [
   "alt": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
   "title": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI) (2025-03-21)",
   "duration": "00:04:13"
-},
-{
-  "link": "https://youtu.be/_lQxaYmt0DQ",
-  "category": "SPECIAL_RELEASES",
-  "member": "민니",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/_lQxaYmt0DQ/maxresdefault.jpg",
-  "alt": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
-  "title": "[선재 업고 튀어 OST Part 3] 민니 ((여자)아이들) (MINNIE) - 꿈결같아서 (Like A Dream) MV (2024-04-17)",
-  "duration": "00:04:10"
-},
-{
-  "link": "https://youtu.be/HxROxHdBQ2g",
-  "category": "SPECIAL_RELEASES",
-  "member": "미연",
-  "year": "2025",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/HxROxHdBQ2g/maxresdefault.jpg",
-  "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
-  "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
-  "duration": "00:03:27"
 },
 {
   "link": "https://youtu.be/jrt4iWhofPA",
