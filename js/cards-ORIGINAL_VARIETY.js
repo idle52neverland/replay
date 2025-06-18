@@ -180,30 +180,6 @@ const originalVarietyCards = [
 },
 
 {
-  "link": "https://youtu.be/SFOn_LFg8Do",
-  "category": "ORIGINAL_VARIETY",
-  "member": "아이들",
-  "year": "2023",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/SFOn_LFg8Do/sddefault.jpg",
-  "alt": "🥰(여자)아이들 취급주의 시즌1,2 몰아보기🥰ㅣ미연,민니,소연,우기,슈화 (2023-01-01)",
-  "title": "🥰(여자)아이들 취급주의 시즌1,2 몰아보기🥰ㅣ미연,민니,소연,우기,슈화 (2023-01-01)",
-  "duration": "03:49:15"
-},
-
-{
-  "link": "https://youtu.be/H67a3Mbmjok",
-  "category": "ORIGINAL_VARIETY",
-  "member": "아이들",
-  "year": "2022",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/H67a3Mbmjok/sddefault.jpg",
-  "alt": "🥰(여자)아이들 유출금지 한방에 몰아보기ㅣ미연,민니,소연,우기,슈화🥰 (2022-04-23)",
-  "title": "🥰(여자)아이들 유출금지 한방에 몰아보기ㅣ미연,민니,소연,우기,슈화🥰 (2022-04-23)",
-  "duration": "00:57:57"
-},
-
-{
   "link": "https://youtu.be/MYGW1hTnp9o",
   "category": "ORIGINAL_VARIETY",
   "member": "아이들",
