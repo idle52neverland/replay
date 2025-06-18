@@ -10974,8 +10974,8 @@ const stagePerformanceCards = [
   "year": "2018",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/p9oDlvOV3qs/maxresdefault.jpg",
-  "alt": "POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
-  "title": "POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
+  "alt": "미연,소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
+  "title": "미연,소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
   "duration": "00:03:52"
 }
 
