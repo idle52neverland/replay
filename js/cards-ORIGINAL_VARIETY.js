@@ -441,6 +441,245 @@ const originalVarietyCards = [
   "alt": "아이들 언어 능력, 어디까지 올라가는 거예요? [네맘대로 아이들] EP. 2 | i-dle (아이들)ㅣSUB (2025-06-12)",
   "title": "아이들 언어 능력, 어디까지 올라가는 거예요? [네맘대로 아이들] EP. 2 | i-dle (아이들)ㅣSUB (2025-06-12)",
   "duration": "00:21:26"
+},
+  {
+  "link": "https://youtu.be/cHdtMzIGVeY",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "06",
+  "duration": "00:27:41",
+  "thumbnail": "https://i.ytimg.com/vi/cHdtMzIGVeY/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.1 (2022-06-23)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.1 (2022-06-23)"
+},
+
+{
+  "link": "https://youtu.be/n7z0y9rntug",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "06",
+  "duration": "00:30:57",
+  "thumbnail": "https://i.ytimg.com/vi/n7z0y9rntug/mqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.2 (2022-06-30)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.2 (2022-06-30)"
+},
+
+{
+  "link": "https://youtu.be/Q8hx7ivQZNI",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:29:01",
+  "thumbnail": "https://i.ytimg.com/vi/Q8hx7ivQZNI/mqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 (2022-07-07)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 (2022-07-07)"
+},
+
+{
+  "link": "https://youtu.be/H9DdJL73eD8",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/H9DdJL73eD8/sddefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind (2022-07-12)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind (2022-07-12)"
+},
+
+{
+  "link": "https://youtu.be/7DrSDGbS_iE",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:32:05",
+  "thumbnail": "https://i.ytimg.com/vi/7DrSDGbS_iE/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 (2022-07-14)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 (2022-07-14)"
+},
+
+{
+  "link": "https://youtu.be/ASJlcRmvz6c",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/ASJlcRmvz6c/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind (2022-07-19)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind (2022-07-19)"
+},
+
+{
+  "link": "https://youtu.be/t81p5JxJPVo",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:34:27",
+  "thumbnail": "https://i.ytimg.com/vi/t81p5JxJPVo/mqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 (2022-07-21)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 (2022-07-21)"
+},
+
+{
+  "link": "https://youtu.be/0zyIqbyz6zM",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:04:55",
+  "thumbnail": "https://i.ytimg.com/vi/0zyIqbyz6zM/sddefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind (2022-07-26)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind (2022-07-26)"
+},
+
+{
+  "link": "https://youtu.be/1rTlSErNfzM",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "09",
+  "duration": "00:28:07",
+  "thumbnail": "https://i.ytimg.com/vi/1rTlSErNfzM/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.1 (2022-09-22)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.1 (2022-09-22)"
+},
+
+{
+  "link": "https://youtu.be/WVwCF8NDAPk",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/WVwCF8NDAPk/sddefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 Behind  (2022-10-28)",
+  "title": "(여자)아이들 외 취급주의 시즌2 Behind  (2022-10-28)"
+},
+
+{
+  "link": "https://youtu.be/QZGXnGH2hA8",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "09",
+  "duration": "00:25:27",
+  "thumbnail": "https://i.ytimg.com/vi/QZGXnGH2hA8/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.2 (2022-09-29)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.2 (2022-09-29)"
+},
+
+{
+  "link": "https://youtu.be/Y-WAKb5frs0",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:26:36",
+  "thumbnail": "https://i.ytimg.com/vi/Y-WAKb5frs0/mqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.3 (2022-10-06)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.3 (2022-10-06)"
+},
+
+{
+  "link": "https://youtu.be/-EUwuAGZBBs",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:24:58",
+  "thumbnail": "https://i.ytimg.com/vi/-EUwuAGZBBs/sddefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.4 (2022-10-13)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.4 (2022-10-13)"
+},
+
+{
+  "link": "https://youtu.be/xrKH2_vSOm8",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:26:48",
+  "thumbnail": "https://i.ytimg.com/vi/xrKH2_vSOm8/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.5 (2022-10-20)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.5 (2022-10-20)"
+},
+
+{
+  "link": "https://youtu.be/4tcDGRZ2MIo",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:29:23",
+  "thumbnail": "https://i.ytimg.com/vi/4tcDGRZ2MIo/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.6 (2022-10-27)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.6 (2022-10-27)"
+},
+
+{
+  "link": "https://youtu.be/hJ0iu7dxrEw",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "09",
+  "duration": "01:13:08",
+  "thumbnail": "https://i.ytimg.com/vi/hJ0iu7dxrEw/sddefault.jpg",
+  "alt": "방해금지모드+ (FULL VER.) (2022-09-14)",
+  "title": "방해금지모드+ (FULL VER.) (2022-09-14)"
+},
+
+{
+  "link": "https://youtu.be/pKMLtR2PlJc",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "09",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg",
+  "alt": "방해금지모드+ BEHIND (2022-09-15)",
+  "title": "방해금지모드+ BEHIND (2022-09-15) "
+},
+
+{
+  "link": "https://youtu.be/H39jJFQmFYE",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "01:22:27",
+  "thumbnail": "https://i.ytimg.com/vi/H39jJFQmFYE/sddefault.jpg",
+  "alt": "꿀로그잼：네버버 예술 학교 (FULL VER.) (2022-05-25)",
+  "title": "꿀로그잼：네버버 예술 학교 (FULL VER.) (2022-05-25)"
+},
+
+{
+  "link": "https://youtu.be/-4e-b6krd84",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:04:30",
+  "thumbnail": "https://i.ytimg.com/vi/-4e-b6krd84/sddefault.jpg",
+  "alt": "꿀로그잼：네버버 예술 학교 BEHIND (2022-05-26)",
+  "title": " 꿀로그잼：네버버 예술 학교 BEHIND (2022-05-26)"
+},
+
+{
+  "link": "https://youtu.be/8vTni3DzoDg",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:48:10",
+  "thumbnail": "https://i.ytimg.com/vi/8vTni3DzoDg/maxresdefault.jpg",
+  "alt": "SSAP DANCE (FULL VER.) (2021-02-12)",
+  "title": "SSAP DANCE (FULL VER.) (2021-02-12)"
 }
 
 
