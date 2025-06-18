@@ -564,18 +564,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/WFkZjTCxVPc",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "year": "2019",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/WFkZjTCxVPc/sddefault.jpg",
-  "alt": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
-  "title": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
-  "duration": "00:03:39"
-},
-
-{
   "link": "https://youtu.be/34agc9QaV5U",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
