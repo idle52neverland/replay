@@ -532,7 +532,7 @@ const recordingBehindCards = [
   "alt": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
   "title": "미연(MIYEON), Jike Junyi - 'Glow Up' SPECIAL CLIP (2025-04-17)",
   "duration": "00:03:27"
-},
+}
 
 
   ];
