@@ -9619,6 +9619,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/UZqqSpDfHkg/hqdefault.jpg",
   "alt": "＂제가 더 열심히 할게요✨＂ 아픈 팽현숙을 위해 댄스부터 요리까지 폭풍 서포트하는 미연｜대결! 팽봉팽봉｜JTBC (2025-06-14)",
   "title": "＂제가 더 열심히 할게요✨＂ 아픈 팽현숙을 위해 댄스부터 요리까지 폭풍 서포트하는 미연｜대결! 팽봉팽봉｜JTBC (2025-06-14)"
+},
+  {
+  "link": "https://youtu.be/QWpnWIrSko8",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/QWpnWIrSko8/sddefault.jpg",
+  "alt": "[선공개] 아무도 모르게 똥 먹기 vs 똥 안 먹었는데 먹었다고 소문나기 | 추라이추라이 EP18 #추라이추라이 #넷플릭스 #추성훈 #김재중 #아이들 #민니 #미연 (2025-06-16)",
+  "title": "[선공개] 아무도 모르게 똥 먹기 vs 똥 안 먹었는데 먹었다고 소문나기 | 추라이추라이 EP18 #추라이추라이 #넷플릭스 #추성훈 #김재중 #아이들 #민니 #미연 (2025-06-16)"
 }
 
 ];
