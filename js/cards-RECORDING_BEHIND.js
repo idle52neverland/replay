@@ -543,6 +543,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/6aYHbuAscVI/sddefault.jpg",
   "alt": "[엘소드] 리티아 테마곡 \"Milestone\" 메이킹 필름 with (여자)아이들 미연 (2023-11-23)",
   "title": "[엘소드] 리티아 테마곡 \"Milestone\" 메이킹 필름 with (여자)아이들 미연 (2023-11-23)"
+},
+  {
+  "link": "https://youtu.be/aCHXSOMiZII",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2023",
+  "month": "03",
+  "duration": "00:01:15",
+  "thumbnail": "https://i.ytimg.com/vi/aCHXSOMiZII/mqdefault.jpg",
+  "alt": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific",
+  "title": "“민니- Making Waves” - Making of // VALORANT Champions Tour Pacific"
 }
 
 
