@@ -102,8 +102,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/lxchJGvOT48/maxresdefault.jpg",
-  "alt": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | JTBC 250107 방송 (2025-01-06)",
-  "title": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | JTBC 250107 방송 (2025-01-06)",
+  "alt": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | Golden Disc Awards (2025-01-07)",
+  "title": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ | Golden Disc Awards (2025-01-07)",
   "duration": "00:04:37"
 },
 
@@ -126,8 +126,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/yOQVKhBEHI4/maxresdefault.jpg",
-  "alt": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | JTBC 250106 방송 (2025-01-05)",
-  "title": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | JTBC 250106 방송 (2025-01-05)",
+  "alt": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | Golden Disc Awards (2025-01-06)",
+  "title": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ | Golden Disc Awards (2025-01-06)",
   "duration": "00:07:19"
 },
 
@@ -1014,8 +1014,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/S02z8EzbkpA/maxresdefault.jpg",
-  "alt": "(G)I-DLE Performance at Golden Disc Awards 2023✨ (2023-05-18)",
-  "title": "(G)I-DLE Performance at Golden Disc Awards 2023✨ (2023-05-18)",
+  "alt": "(G)I-DLE Performance at Golden Disc Awards 2023✨골든디스크 어워즈 (2023-05-18)",
+  "title": "(G)I-DLE Performance at Golden Disc Awards 2023✨골든디스크 어워즈 (2023-05-18)",
   "duration": "00:07:09"
 },
 
@@ -1110,8 +1110,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/6OnDlsmEIXw/maxresdefault.jpg",
-  "alt": "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜JTBC 230107 방송 (2023-01-07)",
-  "title": "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜JTBC 230107 방송 (2023-01-07)",
+  "alt": "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜Golden Disc Awards (2023-01-07)",
+  "title": "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜Golden Disc Awards (2023-01-07)",
   "duration": "00:06:57"
 },
 
@@ -1122,8 +1122,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Njr105AHYbQ/maxresdefault.jpg",
-  "alt": "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜JTBC 230107 방송 (2023-01-07)",
-  "title": "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜JTBC 230107 방송 (2023-01-07)",
+  "alt": "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜Golden Disc Awards (2023-01-07)",
+  "title": "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪｜Golden Disc Awards (2023-01-07)",
   "duration": "00:02:59"
 },
 
@@ -2076,18 +2076,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/Jh4QFaPmdss",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/Jh4QFaPmdss/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video (2022-03-14)",
-  "duration": "00:03:18"
-},
-
-{
   "link": "https://youtu.be/2eIj4WNpss0",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -2414,7 +2402,7 @@ const stagePerformanceCards = [
 {
   "link": "https://youtu.be/XmrEXhLq244",
   "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
+  "member": "미연, 민니, 우기",
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/XmrEXhLq244/maxresdefault.jpg",
@@ -2622,8 +2610,8 @@ const stagePerformanceCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/0eZpPPVRMHE/maxresdefault.jpg",
-  "alt": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜JTBC 210110 방송 (2021-01-10)",
-  "title": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜JTBC 210110 방송 (2021-01-10)",
+  "alt": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜Golden Disc Awards (2021-01-10)",
+  "title": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪｜Golden Disc Awards (2021-01-10)",
   "duration": "00:03:46"
 },
 
@@ -2634,8 +2622,8 @@ const stagePerformanceCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/EMxUmV3ls8w/maxresdefault.jpg",
-  "alt": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ (2021-01-06)",
-  "title": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ (2021-01-06)",
+  "alt": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ Golden Disc Awards (2021-01-06)",
+  "title": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ Golden Disc Awards (2021-01-06)",
   "duration": "00:04:59"
 },
 
@@ -5502,8 +5490,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/4LJs9fSjMA0/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (Christmas Ver.)♬ (2024-12-25)",
-  "title": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (Christmas Ver.)♬ (2024-12-25)",
+  "alt": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (2024 가요대전 Christmas Ver.)♬ Gayo Daejeon (2024-12-25)",
+  "title": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (2024 가요대전 Christmas Ver.)♬ Gayo Daejeon (2024-12-25)",
   "duration": "00:05:35"
 },
 
@@ -8018,12 +8006,12 @@ const stagePerformanceCards = [
 {
   "link": "https://youtu.be/PDFSaNnhABo",
   "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
+  "member": "미연",
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/PDFSaNnhABo/maxresdefault.jpg",
-  "alt": "[가요대제전 4K 직캠] 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2022-01-02)",
-  "title": "[가요대제전 4K 직캠] 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2022-01-02)",
+  "alt": "[가요대제전 4K 직캠] 미연 - 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2022-01-02)",
+  "title": "[가요대제전 4K 직캠] 미연 - 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2022-01-02)",
   "duration": "00:03:24"
 },
 
@@ -8042,12 +8030,12 @@ const stagePerformanceCards = [
 {
   "link": "https://youtu.be/cfJVQrrOanc",
   "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
+  "member": "민니",
   "year": "2021",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/cfJVQrrOanc/maxresdefault.jpg",
-  "alt": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
-  "title": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
+  "alt": "[2021 가요대전 4K] 민니- 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
+  "title": "[2021 가요대전 4K] 민니- 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
   "duration": "00:04:03"
 },
 
