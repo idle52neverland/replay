@@ -443,17 +443,7 @@ const specialReleasesCards = [
   "alt": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)",
   "title": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
 },
-{
-  "link": "https://youtu.be/qIyXFwnGy_I",
-  "category": "SPECIAL_RELEASES",
-  "member": "소연",
-  "year": "2021",
-  "month": "12",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/hqdefault.jpg",
-  "alt": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
-  "title": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
-},
+
 {
   "link": "https://youtu.be/3J_Ev390Q9Q",
   "category": "SPECIAL_RELEASES",
