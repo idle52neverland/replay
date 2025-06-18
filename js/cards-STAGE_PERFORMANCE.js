@@ -6,8 +6,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/8jvEbfNYpSI/maxresdefault.jpg",
-  "alt": "'최초 공개' i-dle (아이들) - Good Thing #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
-  "title": "'최초 공개' i-dle (아이들) - Good Thing #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
+  "alt": "'최초 공개' i-dle (아이들) - Good Thing #[엠카운트다운/MCOUNTDOWN] EP.889 | Mnet (2025-05-22)",
+  "title": "'최초 공개' i-dle (아이들) - Good Thing #[엠카운트다운/MCOUNTDOWN] EP.889 | Mnet (2025-05-22)",
   "duration": "00:03:59"
 },
 
@@ -18,8 +18,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/XBOVWdRh_i4/maxresdefault.jpg",
-  "alt": "'최초 공개' i-dle (아이들) - Girlfriend #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
-  "title": "'최초 공개' i-dle (아이들) - Girlfriend #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
+  "alt": "'최초 공개' i-dle (아이들) - Girlfriend #[엠카운트다운/MCOUNTDOWN] EP.889 | Mnet (2025-05-22)",
+  "title": "'최초 공개' i-dle (아이들) - Girlfriend #[엠카운트다운/MCOUNTDOWN] EP.889 | Mnet (2025-05-22)",
   "duration": "00:03:07"
 },
 
@@ -66,8 +66,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/7oDFUj0QClM/maxresdefault.jpg",
-  "alt": "[2024 MBC 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER), MBC 250129 방송 (2025-01-29)",
-  "title": "[2024 MBC 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER), MBC 250129 방송 (2025-01-29)",
+  "alt": "[2024 MBC 가요대제전/GayoDaejejeon]  소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER) (2025-01-29)",
+  "title": "[2024 MBC 가요대제전/GayoDaejejeon] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER) (2025-01-29)",
   "duration": "00:02:28"
 },
 
@@ -78,8 +78,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/J78pcWY_dWQ/maxresdefault.jpg",
-  "alt": "[2024 MBC 가요대제전] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)",
-  "title": "[2024 MBC 가요대제전] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)",
+  "alt": "[2024 MBC 가요대제전/GayoDaejejeon] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)",
+  "title": "[2024 MBC 가요대제전/GayoDaejejeon] (여자)아이들 - 라타타 ((G)I-DLE - LATATA), MBC 250129 방송 (2025-01-29)",
   "duration": "00:01:24"
 },
 
@@ -114,8 +114,8 @@ const stagePerformanceCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/dEBPXEcYQAw/maxresdefault.jpg",
-  "alt": "소연 - (G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #MBCWORLD (2025-01-06)",
-  "title": "소연 - (G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #MBCWORLD (2025-01-06)",
+  "alt": "소연 - (G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #[가요대제전/GayoDaejejeon](2025-01-06)",
+  "title": "MBC 가요대제전 / 소연 - (G)I-DLE: Year-End Stage Highlights on MBC Music Festival🔥#GIDLE #Soyeon #[가요대제전/GayoDaejejeon](2025-01-06)",
   "duration": "00:16:56"
 },
 
@@ -138,8 +138,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/VReN0nfs1jM/maxresdefault.jpg",
-  "alt": "(여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞ (2024-12-21)",
-  "title": "(여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞ (2024-12-21)",
+  "alt": "(여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞SBS 연기대상 (2024-12-21)",
+  "title": "(여자)아이들, 배우들과 함께 즐기는 무대 ＜Super Lady×나는 아픈 건 딱 질색이니까＞SBS 연기대상 (2024-12-21)",
   "duration": "00:04:08"
 },
 
@@ -150,8 +150,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/1ernZvy8wCM/maxresdefault.jpg",
-  "alt": "INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
-  "title": "INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
+  "alt": "INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌|KBS Song Festival] (2024-12-20)",
+  "title": "INTRO + Revenge + Super Lady - (여자)아이들 [2024 KBS 가요대축제 글로벌 페스티벌|KBS Song Festival] (2024-12-20)",
   "duration": "00:04:42"
 },
 
@@ -162,8 +162,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/fndkyhCZDmI/maxresdefault.jpg",
-  "alt": "길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
-  "title": "길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송 (2024-12-20)",
+  "alt": "길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌||KBS Song Festival] (2024-12-20)",
+  "title": "길 (원곡: god) - 미연 & 정원 & 제이 & 리즈 & 성호 [2024 KBS 가요대축제 글로벌 페스티벌||KBS Song Festival] (2024-12-20)",
   "duration": "00:04:28"
 },
 
@@ -210,8 +210,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4VBhJGzHcyc/maxresdefault.jpg",
-  "alt": "(G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
-  "title": "(G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
+  "alt": "(G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN/Show! MusicCore | (2024-07-17)",
+  "title": "(G)I-DLE ((여자)아이들) – 나는 아픈 건 딱 질색이니까 | 쇼! 음악중심 in JAPAN/Show! MusicCore | (2024-07-17)",
   "duration": "00:02:44"
 },
 
@@ -222,8 +222,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ncC4pDKd6j4/maxresdefault.jpg",
-  "alt": "(G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
-  "title": "(G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN | MBC240717방송 (2024-07-26)",
+  "alt": "(G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN/Show! MusicCore]  (2024-07-17)",
+  "title": "(G)I-DLE ((여자)아이들) – Intro + Super Lady | 쇼! 음악중심 in JAPAN/Show! MusicCore] (2024-07-17)",
   "duration": "00:03:14"
 },
 
@@ -246,8 +246,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/K2BKH9qcSv4/maxresdefault.jpg",
-  "alt": "(여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.853 | Mnet 240718 방송 (2024-07-18)",
-  "title": "(여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.853 | Mnet 240718 방송 (2024-07-18)",
+  "alt": "(여자)아이들 - 클락션 (Klaxon) #엠카운트다운/MCOUNTDOWN EP.853 | Mnet 240718 방송 (2024-07-18)",
+  "title": "(여자)아이들 - 클락션 (Klaxon) #엠카운트다운/MCOUNTDOWN EP.853 | Mnet 240718 방송 (2024-07-18)",
   "duration": "00:03:03"
 },
 
@@ -258,8 +258,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ja-nt_5WH8A/maxresdefault.jpg",
-  "alt": "[MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  "alt": "[MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | #엠카운트다운/MCOUNTDOWN (2024-07-18)",
+  "title": "[MPD직캠] (여자)아이들 직캠 4K '클락션 (Klaxon)' ((G)I-DLE FanCam) | #엠카운트다운/MCOUNTDOWN (2024-07-18)",
   "duration": "00:03:13"
 },
 
@@ -270,8 +270,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/pJw06lWf_CU/maxresdefault.jpg",
-  "alt": "(G)I-DLE ((여자)아이들) -  Intro + Super Lady | Show! MusicCore | MBC240717방송 (2024-07-18)",
-  "title": "(G)I-DLE ((여자)아이들) -  Intro + Super Lady | Show! MusicCore | MBC240717방송 (2024-07-18)",
+  "alt": "(G)I-DLE ((여자)아이들) -  Intro + Super Lady |[쇼! 음악중심/Show! MusicCore] (2024-07-17)",
+  "title": "(G)I-DLE ((여자)아이들) -  Intro + Super Lady | [쇼! 음악중심/Show! MusicCore] (2024-07-17)",
   "duration": "00:03:15"
 },
 
@@ -282,8 +282,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/bbmoDGNY3eU/maxresdefault.jpg",
-  "alt": "[MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
-  "title": "[MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  "alt": "[MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | [엠카운트다운/MCOUNTDOWN](2024-07-18)",
+  "title": "[MPD직캠] 미연X성한빈 직캠 8K 'Perhaps Love (사랑인가요)' (SUNG HAN BIN X MIYEON FanCam) | [엠카운트다운/MCOUNTDOWN] (2024-07-18)",
   "duration": "00:03:17"
 },
 
@@ -294,8 +294,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/r10t7535z0o/maxresdefault.jpg",
-  "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | [엠카운트다운/MCOUNTDOWN](2024-07-18)",
+  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Perhaps Love (사랑인가요)' ((G)I-DLE MIYEON FanCam) | [엠카운트다운/MCOUNTDOWN] (2024-07-18)",
   "duration": "00:03:23"
 },
 
@@ -306,8 +306,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/uZRlAMCbA_w/maxresdefault.jpg",
-  "alt": "[안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│@SBS Inkigayo 240714 (2024-07-14)",
-  "title": "[안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│@SBS Inkigayo 240714 (2024-07-14)",
+  "alt": "[안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│[인기가요/Inkigayo] (2024-07-14)",
+  "title": "[안방1열 풀캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' FullCam)│[인기가요/Inkigayo] (2024-07-14)",
   "duration": "00:03:12"
 },
 
@@ -318,8 +318,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/47j_T2XnhEU/maxresdefault.jpg",
-  "alt": "[K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) @MusicBank 240712 (2024-07-12)",
-  "title": "[K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) @MusicBank 240712 (2024-07-12)",
+  "alt": "[K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) [뮤직뱅크/Music Bank] (2024-07-12)",
+  "title": "[K-Choreo 8K] (여자)아이들 직캠 '클락션 (Klaxon)' ((G)I-DLE Choreography) [뮤직뱅크/Music Bank] (2024-07-12)",
   "duration": "00:03:19"
 },
 
@@ -330,8 +330,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/VaM-57VmAbk/maxresdefault.jpg",
-  "alt": "'최초 공개' (여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)",
-  "title": "'최초 공개' (여자)아이들 - 클락션 (Klaxon) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)",
+  "alt": "'최초 공개' (여자)아이들 - 클락션 (Klaxon) #[엠카운트다운/MCOUNTDOWN] EP.852 (2024-07-11)",
+  "title": "'최초 공개' (여자)아이들 - 클락션 (Klaxon) #[엠카운트다운/MCOUNTDOWN] EP.852 (2024-07-11)",
   "duration": "00:04:37"
 },
 
@@ -342,8 +342,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/DSud7-5sA04/maxresdefault.jpg",
-  "alt": "[MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "alt": "[MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @엠카운트다운/MCOUNTDOWN (2024-07-11)",
+  "title": "[MPD직캠] (여자)아이들 직캠 8K '클락션 (Klaxon)' ((G)I-DLE FanCam) | @엠카운트다운/MCOUNTDOWN (2024-07-11)",
   "duration": "00:03:17"
 },
 
@@ -366,8 +366,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/r--p1Vu6rfM/maxresdefault.jpg",
-  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | JTBC 240504 방송 (2024-05-04)",
-  "title": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | JTBC 240504 방송 (2024-05-04)",
+  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | Golden Disc Awards (2024-05-04)",
+  "title": "골든디스크 / [골든 웨이브] (G)I-DLE ((여자)아이들) - 'TOMBOY' ♪ | Golden Disc Awards (2024-05-04)",
   "duration": "00:02:58"
 },
 
@@ -378,8 +378,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/zTtV88p9bqw/maxresdefault.jpg",
-  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | JTBC 240504 방송 (2024-05-04)",
-  "title": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | JTBC 240504 방송 (2024-05-04)",
+  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | Golden Disc Awards (2024-05-04)",
+  "title": "골든디스크 / [골든 웨이브] (G)I-DLE ((여자)아이들) - 'MY BAG' ♪ | Golden Disc Awards (2024-05-04)",
   "duration": "00:02:43"
 },
 
@@ -390,8 +390,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/RSemP8bshH4/maxresdefault.jpg",
-  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | JTBC 240504 방송 (2024-05-04)",
-  "title": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | JTBC 240504 방송 (2024-05-04)",
+  "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | Golden Disc Awards (2024-05-04)",
+  "title": "골든디스크 / [골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ | Golden Disc Awards (2024-05-04)",
   "duration": "00:03:44"
 },
 
@@ -402,8 +402,8 @@ const stagePerformanceCards = [
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/t4i1n0Dz2yE/maxresdefault.jpg",
-  "alt": "우기 ((여자)아이들) - FREAK #엠카운트다운 EP.841 | Mnet 240502 방송 (2024-05-02)",
-  "title": "우기 ((여자)아이들) - FREAK #엠카운트다운 EP.841 | Mnet 240502 방송 (2024-05-02)",
+  "alt": "우기 ((여자)아이들) - FREAK #엠카운트다운/MCOUNTDOWN EP.841 | Mnet 240502 방송 (2024-05-02)",
+  "title": "우기 ((여자)아이들) - FREAK #엠카운트다운/MCOUNTDOWN EP.841 | Mnet 240502 방송 (2024-05-02)",
   "duration": "00:02:54"
 },
 
@@ -426,8 +426,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/XJqQzfniLYE/maxresdefault.jpg",
-  "alt": "[2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), MBC 231231 방송 (2023-12-31)",
-  "title": "[2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), MBC 231231 방송 (2023-12-31)",
+  "alt": "[2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), GayoDaejejeon (2023-12-31)",
+  "title": "[2023 MBC 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White), GayoDaejejeon (2023-12-31)",
   "duration": "00:03:41"
 },
 
@@ -438,8 +438,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/pLIlAzpDduA/maxresdefault.jpg",
-  "alt": "[2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), MBC 231231 방송 (2023-12-31)",
-  "title": "[2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), MBC 231231 방송 (2023-12-31)",
+  "alt": "[2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), GayoDaejejeon (2023-12-31)",
+  "title": "[2023 MBC 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크  (Dynamicduo X SOYEON - Smoke), GayoDaejejeon (2023-12-31)",
   "duration": "00:02:47"
 },
 
@@ -486,8 +486,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/UYXYXnroJH0/maxresdefault.jpg",
-  "alt": "[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (2023-06-16)",
-  "title": "[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (2023-06-16)",
+  "alt": "[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | 쇼! 음악중심/Show! MusicCore (2023-06-16)",
+  "title": "[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | 쇼! 음악중심/Show! MusicCore (2023-06-16)",
   "duration": "00:03:02"
 },
 
@@ -498,8 +498,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/o7o5hnDPCb4/maxresdefault.jpg",
-  "alt": "'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운 EP.800 | Mnet 230608 방송 (2023-06-08)",
-  "title": "'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운 EP.800 | Mnet 230608 방송 (2023-06-08)",
+  "alt": "'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운/MCOUNTDOWN EP.800 (2023-06-08)",
+  "title": "'SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG #엠카운트다운/MCOUNTDOWN EP.800 (2023-06-08)",
   "duration": "00:02:37"
 },
 
@@ -522,8 +522,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/JFa8aKqumJ0/maxresdefault.jpg",
-  "alt": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
-  "title": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  "alt": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | [쇼! 음악중심/Show! MusicCore] (2023-06-03)",
+  "title": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | [쇼! 음악중심/Show! MusicCore] (2023-06-03)",
   "duration": "00:03:08"
 },
 
@@ -534,8 +534,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/7G0ahokjOzg/maxresdefault.jpg",
-  "alt": "[쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송 (2023-06-03)",
-  "title": "[쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송 (2023-06-03)",
+  "alt": "[쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), Show! MusicCore (2023-06-03)",
+  "title": "[쇼! 음악중심 미방분] 6월 1주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), Show! MusicCore (2023-06-03)",
   "duration": "00:03:45"
 },
 
@@ -546,8 +546,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/cBmPs8hFMms/maxresdefault.jpg",
-  "alt": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
-  "title": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  "alt": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | 쇼! 음악중심/Show! MusicCore (2023-06-03)",
+  "title": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | [쇼! 음악중심/Show! MusicCore (2023-06-03)",
   "duration": "00:04:31"
 },
 
@@ -558,8 +558,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/-u3qzFjLe0w/maxresdefault.jpg",
-  "alt": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230603방송 (2023-06-03)",
-  "title": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230603방송 (2023-06-03)",
+  "alt": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | 쇼! 음악중심/Show! MusicCore (2023-06-03)",
+  "title": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | 쇼! 음악중심/Show! MusicCore (2023-06-03)",
   "duration": "00:02:54"
 },
 
@@ -582,8 +582,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/UhD8-HYw13A/maxresdefault.jpg",
-  "alt": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.6.1 (2023-06-01)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.6.1 (2023-06-01)",
+  "alt": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @엠카운트다운/MCOUNTDOWN (2023-06-01)",
+  "title": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @엠카운트다운/MCOUNTDOWN (2023-06-01)",
   "duration": "00:03:04"
 },
 
@@ -594,8 +594,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/zyi9UeBkdfc/maxresdefault.jpg",
-  "alt": "(여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.799 | Mnet 230601 방송 (2023-06-01)",
-  "title": "(여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.799 | Mnet 230601 방송 (2023-06-01)",
+  "alt": "(여자)아이들 - 퀸카 (Queencard) #엠카운트다운/MCOUNTDOWN EP.799 Mnet (2023-06-01)",
+  "title": "(여자)아이들 - 퀸카 (Queencard) #엠카운트다운/MCOUNTDOWN EP.799 Mnet (2023-06-01)",
   "duration": "00:02:50"
 },
 
@@ -606,8 +606,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/9NhiLpyqPg8/maxresdefault.jpg",
-  "alt": "[EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.798 (2023-05-29)",
-  "title": "[EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.798 (2023-05-29)",
+  "alt": "[EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운/MCOUNTDOWN EP.798 (2023-05-29)",
+  "title": "[EN/JP] 5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) #엠카운트다운/MCOUNTDOWN EP.798 (2023-05-29)",
   "duration": "00:04:53"
 },
 
@@ -618,8 +618,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/bDGEH-eQdBI/maxresdefault.jpg",
-  "alt": "[덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언┃EP.476 (2023-05-29)",
-  "title": "[덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언┃EP.476 (2023-05-29)",
+  "alt": "[덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언/Show Champion EP.476 (2023-05-29)",
+  "title": "[덕질캡처용♥CLEAN] (여자)아이들 - 퀸카 ((G)I-DLE - Queencard) l #쇼챔피언/Show Champion EP.476 (2023-05-29)",
   "duration": "00:03:30"
 },
 
@@ -654,8 +654,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/x25kWhjvaks/maxresdefault.jpg",
-  "alt": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230528 (2023-05-28)",
-  "title": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230528 (2023-05-28)",
+  "alt": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@인기가요/Inkigayo (2023-05-28)",
+  "title": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@인기가요/Inkigayo (2023-05-28)",
   "duration": "00:03:19"
 },
 
@@ -666,8 +666,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/LArjJdrbC10/maxresdefault.jpg",
-  "alt": "[쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (2023-05-27)",
-  "title": "[쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (2023-05-27)",
+  "alt": "[쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), Show! MusicCore(2023-05-27)",
+  "title": "[쇼! 음악중심 미방분] 5월 4주차 1위 앵콜 무대! (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), Show! MusicCore (2023-05-27)",
   "duration": "00:03:53"
 },
 
@@ -678,8 +678,8 @@ const stagePerformanceCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/0L_Lb9gA4hk/maxresdefault.jpg",
-  "alt": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
-  "title": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  "alt": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | 쇼! 음악중심/Show! MusicCore (2023-05-27)",
+  "title": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | 쇼! 음악중심/Show! MusicCore (2023-05-27)",
   "duration": "00:03:14"
 },
 
@@ -691,7 +691,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/rksWFuRwXyU/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
-  "title": "[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC (2023-05-27)",
   "duration": "00:03:57"
 },
 
@@ -703,7 +703,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Etb85FjfJRI/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230527방송 (2023-05-27)",
-  "title": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230527방송 (2023-05-27)",
+  "title": "쇼! 음악중심 / (G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC (2023-05-27)",
   "duration": "00:02:56"
 },
 
@@ -715,7 +715,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/HEe1L6yHU1Q/maxresdefault.jpg",
   "alt": "[인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)",
-  "title": "[인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)",
+  "title": "Inkigayo / [인기가요대신가드림] 월 화 수 목 금 토 일 미모가 쉬지 않는 퀸카🎀 (여자)아이들 사전녹화 비하인드🎥🎬 (2023-05-27)",
   "duration": "00:07:29"
 },
 
@@ -751,7 +751,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/JCO8clSAZlQ/maxresdefault.jpg",
   "alt": "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230526 (2023-05-26)",
-  "title": "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230526 (2023-05-26)",
+  "title": "뮤직뱅크 / Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230526 (2023-05-26)",
   "duration": "00:03:04"
 },
 
@@ -775,7 +775,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/D-IuceGbnO8/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
-  "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
   "duration": "00:04:30"
 },
 
@@ -787,7 +787,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/LnCPhPXoU-M/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.25 (2023-05-25)",
   "duration": "00:02:58"
 },
 
@@ -799,7 +799,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/EdpeJVdEzec/maxresdefault.jpg",
   "alt": "'1위' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송 (2023-05-25)",
-  "title": "'1위' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송 (2023-05-25)",
+  "title": "MCOUNTDOWN / '1위' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송 (2023-05-25)",
   "duration": "00:03:02"
 },
 
@@ -811,7 +811,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Jv-PJdAv8bw/maxresdefault.jpg",
   "alt": "[단독샷캠4K] (여자)아이들 '퀸카' 단독샷 별도녹화│(G)I-DLE 'Queencard' ONE TAKE STAGE @SBS Inkigayo 230521 (2023-05-25)",
-  "title": "[단독샷캠4K] (여자)아이들 '퀸카' 단독샷 별도녹화│(G)I-DLE 'Queencard' ONE TAKE STAGE @SBS Inkigayo 230521 (2023-05-25)",
+  "title": "인기가요 / [단독샷캠4K] (여자)아이들 '퀸카' 단독샷 별도녹화│(G)I-DLE 'Queencard' ONE TAKE STAGE @SBS Inkigayo 230521 (2023-05-25)",
   "duration": "00:03:00"
 },
 
@@ -835,7 +835,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/8uGe8vnJpSs/maxresdefault.jpg",
   "alt": "[쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. l Show Champion l EP.476 (2023-05-24)",
-  "title": "[쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. l Show Champion l EP.476 (2023-05-24)",
+  "title": "쇼챔피언 / [쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. l Show Champion l EP.476 (2023-05-24)",
   "duration": "00:03:25"
 },
 
@@ -847,7 +847,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/DVknvQ-vklI/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (2023-05-24)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (2023-05-24)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (2023-05-24)",
   "duration": "00:03:24"
 },
 
@@ -859,7 +859,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/i0BNsV3mtHc/maxresdefault.jpg",
   "alt": "[COMEBACK] (여자)아이들 ((G)I-DLE) - Queencard (퀸카) l Show Champion l EP.476 (2023-05-24)",
-  "title": "[COMEBACK] (여자)아이들 ((G)I-DLE) - Queencard (퀸카) l Show Champion l EP.476 (2023-05-24)",
+  "title": "쇼챔피언 / [COMEBACK] (여자)아이들 ((G)I-DLE) - Queencard (퀸카) l Show Champion l EP.476 (2023-05-24)",
   "duration": "00:03:39"
 },
 
@@ -871,7 +871,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/hFG6wnBrecg/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 230523] (2023-05-24)",
-  "title": "(G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 230523] (2023-05-24)",
+  "title": "더쇼 / (G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 230523] (2023-05-24)",
   "duration": "00:04:53"
 },
 
@@ -883,7 +883,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/qX8q9638Psw/maxresdefault.jpg",
   "alt": "(G)I-DLE, ((여자)아이들), THE SHOW CHOICE! [THE SHOW 230523] (2023-05-23)",
-  "title": "(G)I-DLE, ((여자)아이들), THE SHOW CHOICE! [THE SHOW 230523] (2023-05-23)",
+  "title": "더쇼 / (G)I-DLE, ((여자)아이들), THE SHOW CHOICE! [THE SHOW 230523] (2023-05-23)",
   "duration": "00:04:17"
 },
 
@@ -895,7 +895,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/8gSoQFnmlbs/maxresdefault.jpg",
   "alt": "(G)I-DLE, Queencard ((여자)아이들, 퀸카) [THE SHOW 230523] (2023-05-23)",
-  "title": "(G)I-DLE, Queencard ((여자)아이들, 퀸카) [THE SHOW 230523] (2023-05-23)",
+  "title": "더쇼 / (G)I-DLE, Queencard ((여자)아이들, 퀸카) [THE SHOW 230523] (2023-05-23)",
   "duration": "00:03:28"
 },
 
@@ -919,7 +919,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/mPVjLQROmCU/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230521 (2023-05-21)",
-  "title": "[안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230521 (2023-05-21)",
+  "title": "인기가요 / [안방1열 풀캠4K] (여자)아이들 '퀸카' ((G)I-DLE 'Queencard' FullCam)│@SBS Inkigayo 230521 (2023-05-21)",
   "duration": "00:03:08"
 },
 
@@ -931,7 +931,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/eVl-rnILdvY/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230520방송 (2023-05-20)",
-  "title": "[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230520방송 (2023-05-20)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC (2023-05-20)",
   "duration": "00:03:09"
 },
 
@@ -943,7 +943,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-mkuPvg45Ug/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230520방송 (2023-05-20)",
-  "title": "(G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC230520방송 (2023-05-20)",
+  "title": "쇼! 음악중심 / (G)I-DLE ((여자)아이들) - Queencard (퀸카) | Show! MusicCore | MBC (2023-05-20)",
   "duration": "00:02:54"
 },
 
@@ -991,7 +991,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/RWXyNCP2PfA/maxresdefault.jpg",
   "alt": "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230519 (2023-05-19)",
-  "title": "Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230519 (2023-05-19)",
+  "title": "뮤직뱅크 / Queencard - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 230519 (2023-05-19)",
   "duration": "00:03:08"
 },
 
@@ -1003,7 +1003,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/T-E9wr2iI_Q/maxresdefault.jpg",
   "alt": "'최초 공개' (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
-  "title": "'최초 공개' (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
+  "title": "MCOUNTDOWN / '최초 공개' (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
   "duration": "00:03:12"
 },
 
@@ -1027,7 +1027,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/aXaU6ZFOLlk/maxresdefault.jpg",
   "alt": "'최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
-  "title": "'최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
+  "title": "MCOUNTDOWN / '최초 공개' (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
   "duration": "00:03:56"
 },
 
@@ -1039,7 +1039,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/keSrzyAH7j8/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K '퀸카 (Queencard)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
   "duration": "00:03:19"
 },
 
@@ -1051,7 +1051,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Mb5a7oO_XnQ/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K 'Allergy' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K 'Allergy' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K 'Allergy' ((G)I-DLE FanCam) | @MCOUNTDOWN_2023.5.18 (2023-05-18)",
   "duration": "00:03:02"
 },
 
@@ -1087,7 +1087,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/tXSn9Xbt8ds/maxresdefault.jpg",
   "alt": "[(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)",
-  "title": "[(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)",
   "duration": "00:03:23"
 },
 
@@ -1159,7 +1159,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/7HkS3JiCJC4/maxresdefault.jpg",
   "alt": "[가요대제전] LEE MUJIN X MIYEON – Dangerously(이무진 X 미연 - 덴져러슬리) FanCam | MBCMusicFestival | MBC221231방송 (2022-12-31)",
-  "title": "[가요대제전] LEE MUJIN X MIYEON – Dangerously(이무진 X 미연 - 덴져러슬리) FanCam | MBCMusicFestival | MBC221231방송 (2022-12-31)",
+  "title": "[가요대제전] LEE MUJIN X MIYEON – Dangerously(이무진 X 미연 - 덴져러슬리) FanCam | MBCMusicFestival | MBC (2022-12-31)",
   "duration": "00:03:58"
 },
 
@@ -1171,7 +1171,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/OHS1PYKoGuQ/maxresdefault.jpg",
   "alt": "[2022 MBC 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP), MBC 221231 방송 (2022-12-31)",
-  "title": "[2022 MBC 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP), MBC 221231 방송 (2022-12-31)",
+  "title": "GayoDaejejeon / [2022 MBC 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP), MBC 221231 방송 (2022-12-31)",
   "duration": "00:03:19"
 },
 
@@ -1183,7 +1183,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Dk89OHRhcP0/maxresdefault.jpg",
   "alt": "[2022 MBC 가요대제전] 미연 ((여자)아이들) x 이무진 - 댄저러슬리 (MIYEON x Lee Mu-jin - Dangerously), MBC 221231 방송 (2022-12-31)",
-  "title": "[2022 MBC 가요대제전] 미연 ((여자)아이들) x 이무진 - 댄저러슬리 (MIYEON x Lee Mu-jin - Dangerously), MBC 221231 방송 (2022-12-31)",
+  "title": "GayoDaejejeon / [2022 MBC 가요대제전] 미연 ((여자)아이들) x 이무진 - 댄저러슬리 (MIYEON x Lee Mu-jin - Dangerously), MBC 221231 방송 (2022-12-31)",
   "duration": "00:03:23"
 },
 
@@ -1207,7 +1207,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/yrkSpFg6Mek/maxresdefault.jpg",
   "alt": "[2022 가요대전 4K] (여자)아이들 'VILLAIN DIES + TOMBOY' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 221224 (2022-12-24)",
-  "title": "[2022 가요대전 4K] (여자)아이들 'VILLAIN DIES + TOMBOY' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 221224 (2022-12-24)",
+  "title": "SBS 가요대전 / [2022 가요대전 4K] (여자)아이들 'VILLAIN DIES + TOMBOY' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 221224 (2022-12-24)",
   "duration": "00:06:32"
 },
 
@@ -1255,7 +1255,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/0MFZpkoAzwc/maxresdefault.jpg",
   "alt": "미연 (유원미) - Festival (원곡 : 엄정화) [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
-  "title": "미연 (유원미) - Festival (원곡 : 엄정화) [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  "title": "KBS Song Festival / 미연 (유원미) - Festival (원곡 : 엄정화) [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
   "duration": "00:01:41"
 },
 
@@ -1267,7 +1267,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/XkdQ5VeQKDw/maxresdefault.jpg",
   "alt": "Nxde - (G)I-DLE ((여자)아이들 | ジーアイドゥル)  [2022 KBS Song Festival] | KBS WORLD TV 221216 (2022-12-16)",
-  "title": "Nxde - (G)I-DLE ((여자)아이들 | ジーアイドゥル)  [2022 KBS Song Festival] | KBS WORLD TV 221216 (2022-12-16)",
+  "title": "KBS 가요대축제 / Nxde - (G)I-DLE ((여자)아이들 | ジーアイドゥル)  [2022 KBS Song Festival] | KBS WORLD TV 221216 (2022-12-16)",
   "duration": "00:03:42"
 },
 
@@ -1279,7 +1279,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/R8ay15Tf0Yw/hqdefault.jpg",
   "alt": "(여자)아이들 ((G)I-DLE) - Nxde [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
-  "title": "(여자)아이들 ((G)I-DLE) - Nxde [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  "title": "KBS Song Festival / (여자)아이들 ((G)I-DLE) - Nxde [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
   "duration": "00:03:42"
 },
 
@@ -1291,7 +1291,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/yz5zd4o_2YI/maxresdefault.jpg",
   "alt": "Y2K Girls (우기X윤X리즈) - 헤어진 후에 (원곡: Y2K)  [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
-  "title": "Y2K Girls (우기X윤X리즈) - 헤어진 후에 (원곡: Y2K)  [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
+  "title": "KBS Song Festival / Y2K Girls (우기X윤X리즈) - 헤어진 후에 (원곡: Y2K)  [2022 KBS 가요대축제] | KBS 221216 방송 (2022-12-16)",
   "duration": "00:03:37"
 },
 
@@ -1411,7 +1411,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Ti2GcCxG-os/maxresdefault.jpg",
   "alt": "[쇼! 음악중심 미방분] 10월 5주차 1위 앵콜 무대! (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송 (2022-10-29)",
-  "title": "[쇼! 음악중심 미방분] 10월 5주차 1위 앵콜 무대! (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송 (2022-10-29)",
+  "title": "Show! MusicCore / [쇼! 음악중심 미방분] 10월 5주차 1위 앵콜 무대! (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송 (2022-10-29)",
   "duration": "00:05:37"
 },
 
@@ -1423,7 +1423,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/il-PqSWL91Y/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / (G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:07"
 },
 
@@ -1435,7 +1435,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/BWc5AjaGJDA/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE((여자)아이들) – Nxde(누드) 1위 직캠 FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE((여자)아이들) – Nxde(누드) 1위 직캠 FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE((여자)아이들) – Nxde(누드) 1위 직캠 FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:06:08"
 },
 
@@ -1447,7 +1447,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/aug3VXipyQg/maxresdefault.jpg",
   "alt": "[4K] (여자)아이들 - 'Nxde' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) @MusicBank 221028 (2022-10-28)",
-  "title": "[4K] (여자)아이들 - 'Nxde' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) @MusicBank 221028 (2022-10-28)",
+  "title": "Music Bank / [4K] (여자)아이들 - 'Nxde' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) @MusicBank 221028 (2022-10-28)",
   "duration": "00:05:09"
 },
 
@@ -1471,7 +1471,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/UwK1kJIctf0/maxresdefault.jpg",
   "alt": "[단독샷캠4K] (여자)아이들 'Nxde' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE @SBS Inkigayo 221023 (2022-10-27)",
-  "title": "[단독샷캠4K] (여자)아이들 'Nxde' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE @SBS Inkigayo 221023 (2022-10-27)",
+  "title": "인기가요 / [단독샷캠4K] (여자)아이들 'Nxde' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE @SBS Inkigayo 221023 (2022-10-27)",
   "duration": "00:03:20"
 },
 
@@ -1483,7 +1483,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/maxresdefault.jpg",
   "alt": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
-  "title": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
   "duration": "00:03:17"
 },
 
@@ -1495,7 +1495,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NqoKT-V0vKE/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들)THE SHOW CHOICE! [THE SHOW 221025] (2022-10-25)",
-  "title": "(G)I-DLE ((여자)아이들)THE SHOW CHOICE! [THE SHOW 221025] (2022-10-25)",
+  "title": "더쇼 / (G)I-DLE ((여자)아이들)THE SHOW CHOICE! [THE SHOW 221025] (2022-10-25)",
   "duration": "00:04:01"
 },
 
@@ -1507,7 +1507,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ZW4b7N55s04/maxresdefault.jpg",
   "alt": "(G)I-DLE, Nxde ((여자)아이들, Nxde)[THE SHOW 221025] (2022-10-25)",
-  "title": "(G)I-DLE, Nxde ((여자)아이들, Nxde)[THE SHOW 221025] (2022-10-25)",
+  "title": "더쇼 / (G)I-DLE, Nxde ((여자)아이들, Nxde)[THE SHOW 221025] (2022-10-25)",
   "duration": "00:03:21"
 },
 
@@ -1531,7 +1531,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/6od6kt0hSzA/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221022방송 (2022-10-22)",
-  "title": "(G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC221022방송 (2022-10-22)",
+  "title": "쇼! 음악중심 / (G)I-DLE((여자)아이들) - Nxde | Show! MusicCore | MBC (2022-10-22)",
   "duration": "00:03:06"
 },
 
@@ -1555,7 +1555,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/q7jzIvOI2Pk/maxresdefault.jpg",
   "alt": "'최초 공개' 상상 그 이상★ '(여자)아이들'의 'Nxde' 무대 #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
-  "title": "'최초 공개' 상상 그 이상★ '(여자)아이들'의 'Nxde' 무대 #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
+  "title": "MCOUNTDOWN / '최초 공개' 상상 그 이상★ '(여자)아이들'의 'Nxde' 무대 #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
   "duration": "00:05:15"
 },
 
@@ -1567,7 +1567,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/-goAEVhIV9o/maxresdefault.jpg",
   "alt": "'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
-  "title": "'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
+  "title": "MCOUNTDOWN / 'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.775 | Mnet 221020 방송 (2022-10-20)",
   "duration": "00:00:56"
 },
 
@@ -1615,7 +1615,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/UrLOOr1Fz8o/maxresdefault.jpg",
   "alt": "소연 - [JEON SOYEON - BEAM BEAM] Summer Special | #엠카운트다운 EP.766 | Mnet 220818 방송 (2022-08-18)",
-  "title": "소연 - [JEON SOYEON - BEAM BEAM] Summer Special | #엠카운트다운 EP.766 | Mnet 220818 방송 (2022-08-18)",
+  "title": "MCOUNTDOWN / 소연 - [JEON SOYEON - BEAM BEAM] Summer Special | #엠카운트다운 EP.766 | Mnet 220818 방송 (2022-08-18)",
   "duration": "00:02:53"
 },
 
@@ -1663,7 +1663,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/ZuaYjANJIMg/maxresdefault.jpg",
   "alt": "[원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433 (2022-05-11)",
-  "title": "[원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433 (2022-05-11)",
+  "title": "Show Champion / [원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433 (2022-05-11)",
   "duration": "00:05:02"
 },
 
@@ -1675,7 +1675,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/pWC_nMWhyKo/maxresdefault.jpg",
   "alt": "[입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433 (2022-05-11)",
-  "title": "[입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433 (2022-05-11)",
+  "title": "쇼챔피언 / [입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433 (2022-05-11)",
   "duration": "00:05:01"
 },
 
@@ -1687,7 +1687,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/h0E1lHn8Bw0/maxresdefault.jpg",
   "alt": "[SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모) | Show Champion | EP.432 (2022-05-04)",
-  "title": "[SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모) | Show Champion | EP.432 (2022-05-04)",
+  "title": "쇼챔피언 / [SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모) | Show Champion | EP.432 (2022-05-04)",
   "duration": "00:04:15"
 },
 
@@ -1699,7 +1699,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/UziVITwbXbE/maxresdefault.jpg",
   "alt": "미연 - [MIYEON ((G)I-DLE) - TE AMO] Hot Debut Stage | #엠카운트다운 EP.750 | Mnet 220428 방송 (2022-04-28)",
-  "title": "미연 - [MIYEON ((G)I-DLE) - TE AMO] Hot Debut Stage | #엠카운트다운 EP.750 | Mnet 220428 방송 (2022-04-28)",
+  "title": "MCOUNTDOWN / 미연 - [MIYEON ((G)I-DLE) - TE AMO] Hot Debut Stage | #엠카운트다운 EP.750 | Mnet 220428 방송 (2022-04-28)",
   "duration": "00:04:29"
 },
 
@@ -1711,7 +1711,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Jnp-4170RbY/maxresdefault.jpg",
   "alt": "[EN/JP] 3월 마지막 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.746 (2022-04-04)",
-  "title": "[EN/JP] 3월 마지막 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.746 (2022-04-04)",
+  "title": "MCOUNTDOWN / [EN/JP] 3월 마지막 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.746 (2022-04-04)",
   "duration": "00:05:36"
 },
 
@@ -1759,7 +1759,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/IdATUzGAKUQ/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.31 (2022-03-31)",
-  "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.31 (2022-03-31)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.31 (2022-03-31)",
   "duration": "00:05:02"
 },
 
@@ -1771,7 +1771,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/bzj37ogNCZ4/maxresdefault.jpg",
   "alt": "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.746 | Mnet 220331 방송 (2022-03-31)",
-  "title": "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.746 | Mnet 220331 방송 (2022-03-31)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - TOMBOY] #엠카운트다운 EP.746 | Mnet 220331 방송 (2022-03-31)",
   "duration": "00:03:05"
 },
 
@@ -1783,7 +1783,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/ebYASru2TcA/maxresdefault.jpg",
   "alt": "[EN/JP] 3월 넷째 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.745 (2022-03-28)",
-  "title": "[EN/JP] 3월 넷째 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.745 (2022-03-28)",
+  "title": "MCOUNTDOWN / [EN/JP] 3월 넷째 주 1위 '(여자)아이들'의 'TOMBOY' 앵콜 무대! (Full ver.) #엠카운트다운 EP.745 (2022-03-28)",
   "duration": "00:06:53"
 },
 
@@ -1819,7 +1819,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Qs3271cvRsk/maxresdefault.jpg",
   "alt": "[쇼! 음악중심 미방분] 3월 4주차 1위 앵콜 무대! (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
-  "title": "[쇼! 음악중심 미방분] 3월 4주차 1위 앵콜 무대! (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
+  "title": "Show! MusicCore / [쇼! 음악중심 미방분] 3월 4주차 1위 앵콜 무대! (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
   "duration": "00:04:38"
 },
 
@@ -1843,7 +1843,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/RF83eRDe6s4/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
-  "title": "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220326 방송 (2022-03-26)",
   "duration": "00:03:05"
 },
 
@@ -1867,7 +1867,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/FUtPNTVC4QE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'TOMBOY' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:05:20"
 },
 
@@ -1879,7 +1879,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/SIc0HAubWlc/maxresdefault.jpg",
   "alt": "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.745 | Mnet 220324 방송 (2022-03-24)",
-  "title": "[(G)I-DLE - TOMBOY] #엠카운트다운 EP.745 | Mnet 220324 방송 (2022-03-24)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - TOMBOY] #엠카운트다운 EP.745 | Mnet 220324 방송 (2022-03-24)",
   "duration": "00:03:04"
 },
 
@@ -1891,7 +1891,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/A1DlH-6Ko5w/maxresdefault.jpg",
   "alt": "[단독샷캠4K] (여자)아이들 'TOMBOY' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE│@SBS Inkigayo_2022.03.20. (2022-03-24)",
-  "title": "[단독샷캠4K] (여자)아이들 'TOMBOY' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE│@SBS Inkigayo_2022.03.20. (2022-03-24)",
+  "title": "인기가요 / [단독샷캠4K] (여자)아이들 'TOMBOY' 단독샷 별도녹화│(G)I-DLE ONE TAKE STAGE│@SBS Inkigayo_2022.03.20. (2022-03-24)",
   "duration": "00:03:12"
 },
 
@@ -1915,7 +1915,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/XmKe499TrQE/maxresdefault.jpg",
   "alt": "[COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | Show Champion | EP.427 (2022-03-23)",
-  "title": "[COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | Show Champion | EP.427 (2022-03-23)",
+  "title": "쇼챔피언 / [COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) | Show Champion | EP.427 (2022-03-23)",
   "duration": "00:03:11"
 },
 
@@ -1927,7 +1927,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Uyfga8Bx25g/maxresdefault.jpg",
   "alt": "[MC석 인터뷰] (여자)아이들이 알려주는 TOMBOY가 되는 법♭ | Show Champion | EP.427 (2022-03-23)",
-  "title": "[MC석 인터뷰] (여자)아이들이 알려주는 TOMBOY가 되는 법♭ | Show Champion | EP.427 (2022-03-23)",
+  "title": "쇼챔피언 / [MC석 인터뷰] (여자)아이들이 알려주는 TOMBOY가 되는 법♭ | Show Champion | EP.427 (2022-03-23)",
   "duration": "00:02:41"
 },
 
@@ -1939,7 +1939,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/7WQZuljWEa0/maxresdefault.jpg",
   "alt": "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 220322] (2022-03-22)",
-  "title": "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 220322] (2022-03-22)",
+  "title": "더쇼 / (G)I-DLE, THE SHOW CHOICE! [THE SHOW 220322] (2022-03-22)",
   "duration": "00:03:51"
 },
 
@@ -1951,7 +1951,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/bZyjXkwF57w/maxresdefault.jpg",
   "alt": "(G)I-DLE, TOMBOY ((여자)아이들, TOMBOY) [THE SHOW 220322] (2022-03-22)",
-  "title": "(G)I-DLE, TOMBOY ((여자)아이들, TOMBOY) [THE SHOW 220322] (2022-03-22)",
+  "title": "더쇼 / (G)I-DLE, TOMBOY ((여자)아이들, TOMBOY) [THE SHOW 220322] (2022-03-22)",
   "duration": "00:03:06"
 },
 
@@ -1975,7 +1975,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/wp69Vy5eTr4/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220319 방송 (2022-03-19)",
-  "title": "[쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220319 방송 (2022-03-19)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 - 톰보이 ((G)I-DLE - TOMBOY), MBC 220319 방송 (2022-03-19)",
   "duration": "00:03:05"
 },
 
@@ -1987,7 +1987,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/hWaTFNFnttU/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들 ジー・アイドゥル) - TOMBOY (Music Bank) | KBS WORLD TV 220318 (2022-03-18)",
-  "title": "(G)I-DLE ((여자)아이들 ジー・アイドゥル) - TOMBOY (Music Bank) | KBS WORLD TV 220318 (2022-03-18)",
+  "title": "뮤직뱅크 / (G)I-DLE ((여자)아이들 ジー・アイドゥル) - TOMBOY (Music Bank) | KBS WORLD TV 220318 (2022-03-18)",
   "duration": "00:03:11"
 },
 
@@ -2023,7 +2023,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/8fvwz16egNg/maxresdefault.jpg",
   "alt": "[(G)I-DLE - TOMBOY] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
-  "title": "[(G)I-DLE - TOMBOY] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - TOMBOY] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
   "duration": "00:06:16"
 },
 
@@ -2035,7 +2035,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-UhV_Ou0jgA/maxresdefault.jpg",
   "alt": "[(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
-  "title": "[(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
   "duration": "00:02:53"
 },
 
@@ -2047,7 +2047,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-TXu4rjxsbs/maxresdefault.jpg",
   "alt": "[‘COMEBACK INTERVIEW’ with (G)I-DLE] #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
-  "title": "[‘COMEBACK INTERVIEW’ with (G)I-DLE] #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
+  "title": "MCOUNTDOWN / [‘COMEBACK INTERVIEW’ with (G)I-DLE] #엠카운트다운 EP.744 | Mnet 220317 방송 (2022-03-17)",
   "duration": "00:03:35"
 },
 
@@ -2083,7 +2083,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/2eIj4WNpss0/maxresdefault.jpg",
   "alt": "[(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743 (2022-03-10)",
-  "title": "[(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743 (2022-03-10)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743 (2022-03-10)",
   "duration": "00:04:29"
 },
 
@@ -2107,7 +2107,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/JoL4andzqBE/maxresdefault.jpg",
   "alt": "소연 - [JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738 (2022-02-03)",
-  "title": "소연 - [JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738 (2022-02-03)",
+  "title": "MCOUNTDOWN / 소연 - [JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738 (2022-02-03)",
   "duration": "00:02:54"
 },
 
@@ -2131,7 +2131,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/CLk5WobfLpQ/maxresdefault.jpg",
   "alt": "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FaceCam)│@SBS Gayo Daejeon_2021.12.25. (2022-01-03)",
-  "title": "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FaceCam)│@SBS Gayo Daejeon_2021.12.25. (2022-01-03)",
+  "title": "SBS 가요대전 / [2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FaceCam)│@SBS Gayo Daejeon_2021.12.25. (2022-01-03)",
   "duration": "00:03:50"
 },
 
@@ -2143,7 +2143,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/e-X9VOOPw7s/maxresdefault.jpg",
   "alt": "[2021 MBC 가요대제전] 첫사랑즈 (미연 X 김민주 X 예지 X 유진,원영) - 첫 사랑니 (Rum Pum Pum Pum), MBC 211231 방송 (2021-12-31)",
-  "title": "[2021 MBC 가요대제전] 첫사랑즈 (미연 X 김민주 X 예지 X 유진,원영) - 첫 사랑니 (Rum Pum Pum Pum), MBC 211231 방송 (2021-12-31)",
+  "title": "GayoDaejejeon / [2021 MBC 가요대제전] 첫사랑즈 (미연 X 김민주 X 예지 X 유진,원영) - 첫 사랑니 (Rum Pum Pum Pum), MBC 211231 방송 (2021-12-31)",
   "duration": "00:03:30"
 },
 
@@ -2155,7 +2155,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/_PvXndBg2Tc/maxresdefault.jpg",
   "alt": "[2021 MBC 가요대제전] 아이키 X 전소연 X 방과후 설렘 - Same Same Different, MBC 211231 방송 (2021-12-31)",
-  "title": "[2021 MBC 가요대제전] 아이키 X 전소연 X 방과후 설렘 - Same Same Different, MBC 211231 방송 (2021-12-31)",
+  "title": "GayoDaejejeon / [2021 MBC 가요대제전] 아이키 X 전소연 X 방과후 설렘 - Same Same Different, MBC 211231 방송 (2021-12-31)",
   "duration": "00:03:32"
 },
 
@@ -2167,7 +2167,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/jQNEiHzIcX4/maxresdefault.jpg",
   "alt": "민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’ㅣ2021 SBS 가요대전(2021sbsgayo)ㅣSBS ENTER. (2021-12-25)",
-  "title": "민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’ㅣ2021 SBS 가요대전(2021sbsgayo)ㅣSBS ENTER. (2021-12-25)",
+  "title": "Gayo Daejeon / 민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’ㅣ2021 SBS 가요대전(2021sbsgayo)ㅣSBS ENTER. (2021-12-25)",
   "duration": "00:03:23"
 },
 
@@ -2191,7 +2191,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/ob8YmFnyf0w/maxresdefault.jpg",
   "alt": "소연 - [JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송 (2021-08-19)",
-  "title": "소연 - [JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송 (2021-08-19)",
+  "title": "MCOUNTDOWN / 소연 - [JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송 (2021-08-19)",
   "duration": "00:02:54"
 },
 
@@ -2203,7 +2203,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/HwwUTemjpK0/maxresdefault.jpg",
   "alt": "(G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN | KBS 181031 방송 (2021-08-06)",
-  "title": "(G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN | KBS 181031 방송 (2021-08-06)",
+  "title": "뮤직뱅크 / (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN | KBS 181031 방송 (2021-08-06)",
   "duration": "00:03:40"
 },
 
@@ -2215,7 +2215,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/BOVn3btc3YA/maxresdefault.jpg",
   "alt": "[ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719 (2021-08-02)",
-  "title": "[ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719 (2021-08-02)",
+  "title": "MCOUNTDOWN / [ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719 (2021-08-02)",
   "duration": "00:04:44"
 },
 
@@ -2251,7 +2251,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/XrdRWeadebI/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 1위 앵콜 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam No.1 Encore) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
-  "title": "[MPD직캠] 전소연 1위 앵콜 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam No.1 Encore) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 1위 앵콜 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam No.1 Encore) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
   "duration": "00:04:13"
 },
 
@@ -2263,7 +2263,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/uU2uTJKz5pQ/maxresdefault.jpg",
   "alt": "소연 - [JEON SOYEON - BEAM BEAM] KPOP TV Show |  #엠카운트다운 EP.719 | Mnet 210729 방송 (2021-07-29)",
-  "title": "소연 - [JEON SOYEON - BEAM BEAM] KPOP TV Show |  #엠카운트다운 EP.719 | Mnet 210729 방송 (2021-07-29)",
+  "title": "MCOUNTDOWN / 소연 - [JEON SOYEON - BEAM BEAM] KPOP TV Show |  #엠카운트다운 EP.719 | Mnet 210729 방송 (2021-07-29)",
   "duration": "00:02:55"
 },
 
@@ -2275,7 +2275,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/e5pcbYFsGew/maxresdefault.jpg",
   "alt": "[Show Champion] [쇼챔 서머 프로모션] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.403 (2021-07-28)",
-  "title": "[Show Champion] [쇼챔 서머 프로모션] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.403 (2021-07-28)",
+  "title": "쇼챔피언 / [Show Champion] [쇼챔 서머 프로모션] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.403 (2021-07-28)",
   "duration": "00:03:30"
 },
 
@@ -2299,7 +2299,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Lm3PFCwrhro/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210717 방송 (2021-07-17)",
-  "title": "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210717 방송 (2021-07-17)",
+  "title": "Show! MusicCore / [쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210717 방송 (2021-07-17)",
   "duration": "00:02:51"
 },
 
@@ -2323,7 +2323,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/e7y8k5mCx8s/maxresdefault.jpg",
   "alt": "[Show Champion] [COMEBACK] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM) l EP.401 (2021-07-14)",
-  "title": "[Show Champion] [COMEBACK] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM) l EP.401 (2021-07-14)",
+  "title": "쇼챔피언 / [Show Champion] [COMEBACK] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM) l EP.401 (2021-07-14)",
   "duration": "00:03:00"
 },
 
@@ -2335,7 +2335,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dgZGsZLMTg8/maxresdefault.jpg",
   "alt": "JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713] (2021-07-13)",
-  "title": "JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713] (2021-07-13)",
+  "title": "더쇼 / JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713] (2021-07-13)",
   "duration": "00:03:03"
 },
 
@@ -2359,7 +2359,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4eH0yrYn5Pw/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210710 방송 (2021-07-10)",
-  "title": "[쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210710 방송 (2021-07-10)",
+  "title": "Show! MusicCore / [쇼! 음악중심] 전소연 - 삠삠 (JEON SOYEON - BEAM BEAM), MBC 210710 방송 (2021-07-10)",
   "duration": "00:02:54"
 },
 
@@ -2395,7 +2395,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/TN0PfhFOnjo/maxresdefault.jpg",
   "alt": "소연 - [JEON SOYEON - BEAM BEAM] Solo Debut Stage | #엠카운트다운 EP.717 | Mnet 210708 방송 (2021-07-08)",
-  "title": "소연 - [JEON SOYEON - BEAM BEAM] Solo Debut Stage | #엠카운트다운 EP.717 | Mnet 210708 방송 (2021-07-08)",
+  "title": "MCOUNTDOWN / 소연 - [JEON SOYEON - BEAM BEAM] Solo Debut Stage | #엠카운트다운 EP.717 | Mnet 210708 방송 (2021-07-08)",
   "duration": "00:03:02"
 },
 
@@ -2419,7 +2419,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/5V7svvL8_l0/maxresdefault.jpg",
   "alt": "[Show Champion] [쇼챔 설 특집] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.383 (2021-02-10)",
-  "title": "[Show Champion] [쇼챔 설 특집] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.383 (2021-02-10)",
+  "title": "쇼챔피언 / [Show Champion] [쇼챔 설 특집] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.383 (2021-02-10)",
   "duration": "00:03:20"
 },
 
@@ -2455,7 +2455,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/rdd10el_KSE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
   "duration": "00:03:39"
 },
 
@@ -2467,7 +2467,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/SwiZ3PmhRhY/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들), THE SHOW CHOICE! [THE SHOW 210126] (2021-01-26)",
-  "title": "(G)I-DLE((여자)아이들), THE SHOW CHOICE! [THE SHOW 210126] (2021-01-26)",
+  "title": "더쇼 / (G)I-DLE((여자)아이들), THE SHOW CHOICE! [THE SHOW 210126] (2021-01-26)",
   "duration": "00:03:52"
 },
 
@@ -2479,7 +2479,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/3iwgW5imLQM/maxresdefault.jpg",
   "alt": "(G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126] (2021-01-26)",
-  "title": "(G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126] (2021-01-26)",
+  "title": "더쇼 / (G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126] (2021-01-26)",
   "duration": "00:03:27"
 },
 
@@ -2491,7 +2491,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/QPaT9EQFVko/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:32"
 },
 
@@ -2515,7 +2515,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/p6OLP4reWwY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
   "duration": "00:03:36"
 },
 
@@ -2527,7 +2527,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/jnKLC58AtM0/maxresdefault.jpg",
   "alt": "[(G)I-DLE - HWAA] KPOP TV Show | #엠카운트다운 | M COUNTDOWN EP.695 | Mnet 210121 방송 (2021-01-21)",
-  "title": "[(G)I-DLE - HWAA] KPOP TV Show | #엠카운트다운 | M COUNTDOWN EP.695 | Mnet 210121 방송 (2021-01-21)",
+  "title": "MCOUNTDOWN / [(G)I-DLE - HWAA] KPOP TV Show | #엠카운트다운 | M COUNTDOWN EP.695 | Mnet 210121 방송 (2021-01-21)",
   "duration": "00:03:26"
 },
 
@@ -2539,7 +2539,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/jJ5ML_CQSFY/maxresdefault.jpg",
   "alt": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381 (2021-01-20)",
-  "title": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381 (2021-01-20)",
+  "title": "쇼챔피언 / [Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381 (2021-01-20)",
   "duration": "00:02:30"
 },
 
@@ -2551,7 +2551,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/xGx2yb-uLf4/maxresdefault.jpg",
   "alt": "[Show Champion] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381 (2021-01-20)",
-  "title": "[Show Champion] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381 (2021-01-20)",
+  "title": "쇼챔피언 / [Show Champion] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381 (2021-01-20)",
   "duration": "00:03:53"
 },
 
@@ -2563,7 +2563,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/l1KD-ElwSxY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:03:36"
 },
 
@@ -2575,7 +2575,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/RfoYjjUn_d0/maxresdefault.jpg",
   "alt": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
-  "title": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  "title": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC (2021-01-16)",
   "duration": "00:03:18"
 },
 
@@ -2635,7 +2635,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/SCu2WNw2joo/maxresdefault.jpg",
   "alt": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 가요대제전 (2020-12-31)",
-  "title": "효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 가요대제전 (2020-12-31)",
+  "title": "GayoDaejejeon / 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너, MBC 가요대제전 (2020-12-31)",
   "duration": "00:02:44"
 },
 
@@ -2647,7 +2647,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/mQftiLy7hsI/maxresdefault.jpg",
   "alt": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 가요대제전 (2020-12-31)",
-  "title": "(여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 가요대제전 (2020-12-31)",
+  "title": "GayoDaejejeon / (여자)아이들 - Oh my god ((G)I-DLE - Oh my god), MBC 가요대제전 (2020-12-31)",
   "duration": "00:04:16"
 },
 
@@ -2659,7 +2659,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/jPrah1CDOo0/maxresdefault.jpg",
   "alt": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 가요대제전 (2020-12-31)",
-  "title": "수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 가요대제전 (2020-12-31)",
+  "title": "GayoDaejejeon / 수진&소연((여자)아이들) X 유리&민주(아이즈원) X 예지&류진(ITZY) - Reflection, MBC 가요대제전 (2020-12-31)",
   "duration": "00:03:09"
 },
 
@@ -2671,7 +2671,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Fpx1xuzWE0M/maxresdefault.jpg",
   "alt": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 가요대제전 (2020-12-31)",
-  "title": "영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 가요대제전 (2020-12-31)",
+  "title": "GayoDaejejeon / 영훈(더보이즈) X 우기((여자)아이들) X 필릭스(Stray Kids) - 여름 안에서, MBC 가요대제전 (2020-12-31)",
   "duration": "00:01:18"
 },
 
@@ -2683,7 +2683,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/4XdcoZuzAnc/maxresdefault.jpg",
   "alt": "미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
-  "title": "미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
+  "title": "Gayo Daejeon / 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
   "duration": "00:01:57"
 },
 
@@ -2695,7 +2695,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Mr5ddZQMC4E/maxresdefault.jpg",
   "alt": "(여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
-  "title": "(여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
+  "title": "Gayo Daejeon / (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
   "duration": "00:04:03"
 },
 
@@ -2731,7 +2731,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/kvbzh9Iu4YI/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들 | ジーアイドゥル) - INTRO + Oh my god (2020 KBS Song Festival) I KBS WORLD TV 201218 (2020-12-18)",
-  "title": "(G)I-DLE((여자)아이들 | ジーアイドゥル) - INTRO + Oh my god (2020 KBS Song Festival) I KBS WORLD TV 201218 (2020-12-18)",
+  "title": "KBS 가요대축제 / (G)I-DLE((여자)아이들 | ジーアイドゥル) - INTRO + Oh my god (2020 KBS Song Festival) I KBS WORLD TV 201218 (2020-12-18)",
   "duration": "00:04:46"
 },
 
@@ -2815,7 +2815,7 @@ const stagePerformanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/eVQ2Kt7g4NY/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 덤디덤디 ((G)I-DLE -DUMDi DUMDi) (음.소.거♪ ver.) l EP.380 (2020-11-25)",
-  "title": "[Show Champion] (여자)아이들 - 덤디덤디 ((G)I-DLE -DUMDi DUMDi) (음.소.거♪ ver.) l EP.380 (2020-11-25)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 덤디덤디 ((G)I-DLE -DUMDi DUMDi) (음.소.거♪ ver.) l EP.380 (2020-11-25)",
   "duration": "00:06:28"
 },
 
@@ -2827,7 +2827,7 @@ const stagePerformanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/P-UOPdWRyEs/maxresdefault.jpg",
   "alt": "[쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송 (2020-11-07)",
-  "title": "[쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송 (2020-11-07)",
+  "title": "Show! MusicCore / [쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송 (2020-11-07)",
   "duration": "00:02:06"
 },
 
@@ -2839,7 +2839,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/jvvxVEhxPBk/maxresdefault.jpg",
   "alt": "[Show Champion] [쇼챔 시네마 특집] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.376 (2020-10-28)",
-  "title": "[Show Champion] [쇼챔 시네마 특집] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.376 (2020-10-28)",
+  "title": "쇼챔피언 / [Show Champion] [쇼챔 시네마 특집] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.376 (2020-10-28)",
   "duration": "00:03:29"
 },
 
@@ -2887,7 +2887,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/sO-vBd4sLso/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200822 (2020-08-22)",
-  "title": "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200822 (2020-08-22)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200822 (2020-08-22)",
   "duration": "00:03:30"
 },
 
@@ -2911,7 +2911,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/tkGGF3_b4Ms/maxresdefault.jpg",
   "alt": "(G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.21] (2020-08-21)",
-  "title": "(G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.21] (2020-08-21)",
+  "title": "뮤직뱅크 / (G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.21] (2020-08-21)",
   "duration": "00:03:34"
 },
 
@@ -2959,7 +2959,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/vPVFMVTNmFo/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200815 (2020-08-15)",
-  "title": "[쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200815 (2020-08-15)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -덤디덤디 ((G)I-DLE -DUMDi DUMDi) 20200815 (2020-08-15)",
   "duration": "00:03:31"
 },
 
@@ -2983,7 +2983,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/M8bEpz_9RVw/maxresdefault.jpg",
   "alt": "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.14] (2020-08-14)",
-  "title": "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.14] (2020-08-14)",
+  "title": "뮤직뱅크 / (G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / 2020.08.14] (2020-08-14)",
   "duration": "00:03:51"
 },
 
@@ -3007,7 +3007,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/j3q2AgJk0c0/maxresdefault.jpg",
   "alt": "[Show Champion] [COMEBACK] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.366 (2020-08-12)",
-  "title": "[Show Champion] [COMEBACK] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.366 (2020-08-12)",
+  "title": "쇼챔피언 / [Show Champion] [COMEBACK] (여자)아이들 - 덤디덤디 ((G)I-DLE - DUMDi DUMDi) l EP.366 (2020-08-12)",
   "duration": "00:03:37"
 },
 
@@ -3019,7 +3019,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/T9Zu7tTz2dM/maxresdefault.jpg",
   "alt": "(G)I-DLE, DUMDi DUMDi ((여자)아이들, 덤디덤디) [THE SHOW 200811] (2020-08-11)",
-  "title": "(G)I-DLE, DUMDi DUMDi ((여자)아이들, 덤디덤디) [THE SHOW 200811] (2020-08-11)",
+  "title": "더쇼 / (G)I-DLE, DUMDi DUMDi ((여자)아이들, 덤디덤디) [THE SHOW 200811] (2020-08-11)",
   "duration": "00:03:40"
 },
 
@@ -3067,7 +3067,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/JMf7Qm9bj8A/maxresdefault.jpg",
   "alt": "(G)I-DLE - Oh my god [Music Bank / 2020.06.26] (2020-06-26)",
-  "title": "(G)I-DLE - Oh my god [Music Bank / 2020.06.26] (2020-06-26)",
+  "title": "뮤직뱅크 / (G)I-DLE - Oh my god [Music Bank / 2020.06.26] (2020-06-26)",
   "duration": "00:04:23"
 },
 
@@ -3079,7 +3079,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Nj6E9BI171k/maxresdefault.jpg",
   "alt": "[Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE  - Oh my god) l EP.354 (2020-05-20)",
-  "title": "[Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE  - Oh my god) l EP.354 (2020-05-20)",
+  "title": "쇼챔피언 / [Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE  - Oh my god) l EP.354 (2020-05-20)",
   "duration": "00:03:19"
 },
 
@@ -3103,7 +3103,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-m1IJhT_x4k/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -사랑해 , ('(G)I-DLE' -Luv U) 20200502 (2020-05-02)",
-  "title": "[쇼! 음악중심] (여자)아이들 -사랑해 , ('(G)I-DLE' -Luv U) 20200502 (2020-05-02)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -사랑해 , ('(G)I-DLE' -Luv U) 20200502 (2020-05-02)",
   "duration": "00:03:44"
 },
 
@@ -3127,7 +3127,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/OWKU_nU7--8/maxresdefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / 2020.05.01] (2020-05-01)",
-  "title": "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / 2020.05.01] (2020-05-01)",
+  "title": "뮤직뱅크 / (G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / 2020.05.01] (2020-05-01)",
   "duration": "00:03:53"
 },
 
@@ -3151,7 +3151,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/QMGL8SGczqo/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U) l EP.351 (2020-04-29)",
-  "title": "[Show Champion] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U) l EP.351 (2020-04-29)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 사랑해 ((G)I-DLE - Luv U) l EP.351 (2020-04-29)",
   "duration": "00:03:47"
 },
 
@@ -3175,7 +3175,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/fW9WCiTkeSA/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200425 (2020-04-25)",
-  "title": "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200425 (2020-04-25)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200425 (2020-04-25)",
   "duration": "00:03:17"
 },
 
@@ -3199,7 +3199,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/1lOBrDUR43w/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)",
-  "title": "[Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)",
   "duration": "00:03:53"
 },
 
@@ -3211,7 +3211,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/zWAQD9ZA3k8/maxresdefault.jpg",
   "alt": "(G)I-DLE, Oh my god [THE SHOW 200421] (2020-04-21)",
-  "title": "(G)I-DLE, Oh my god [THE SHOW 200421] (2020-04-21)",
+  "title": "더쇼 / (G)I-DLE, Oh my god [THE SHOW 200421] (2020-04-21)",
   "duration": "00:03:22"
 },
 
@@ -3223,7 +3223,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/4VsItlFntOU/maxresdefault.jpg",
   "alt": "[앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 (Close-up ver.) ((G)I-DLE Encore Fancam) | 좋은 건 크게 봐야죠❤ (2020-04-20)",
-  "title": "[앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 (Close-up ver.) ((G)I-DLE Encore Fancam) | 좋은 건 크게 봐야죠❤ (2020-04-20)",
+  "title": "Inkigayo / [앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 (Close-up ver.) ((G)I-DLE Encore Fancam) | 좋은 건 크게 봐야죠❤ (2020-04-20)",
   "duration": "00:05:04"
 },
 
@@ -3247,7 +3247,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/_cPP80dRAcQ/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200418 (2020-04-18)",
-  "title": "[쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200418 (2020-04-18)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -오 마이 갓 , ('(G)I-DLE' -Oh my god) 20200418 (2020-04-18)",
   "duration": "00:03:21"
 },
 
@@ -3259,7 +3259,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/VO9WQbJWfvg/maxresdefault.jpg",
   "alt": "(여자)아이들 'Oh my god'  뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 200417 (2020-04-17)",
-  "title": "(여자)아이들 'Oh my god'  뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 200417 (2020-04-17)",
+  "title": "Music Bank / (여자)아이들 'Oh my god'  뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 200417 (2020-04-17)",
   "duration": "00:05:54"
 },
 
@@ -3295,7 +3295,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/GchXYKKrO-w/maxresdefault.jpg",
   "alt": "[쇼! 음악중심] (여자)아이들 -인트로(블랙ver) + 오 마이 갓 ((G)I-DLE) -Intro(black ver.) + Oh my god) 20200411 (2020-04-11)",
-  "title": "[쇼! 음악중심] (여자)아이들 -인트로(블랙ver) + 오 마이 갓 ((G)I-DLE) -Intro(black ver.) + Oh my god) 20200411 (2020-04-11)",
+  "title": "Show! MusicCore / [쇼! 음악중심] (여자)아이들 -인트로(블랙ver) + 오 마이 갓 ((G)I-DLE) -Intro(black ver.) + Oh my god) 20200411 (2020-04-11)",
   "duration": "00:04:22"
 },
 
@@ -3355,7 +3355,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/9lRKMgtyb1g/maxresdefault.jpg",
   "alt": "[Show Champion] [핵심 쏙! 특집] (여자)아이들 - Senorita ((G)I-DLE - Senorita) l EP.345 (2020-03-11)",
-  "title": "[Show Champion] [핵심 쏙! 특집] (여자)아이들 - Senorita ((G)I-DLE - Senorita) l EP.345 (2020-03-11)",
+  "title": "쇼챔피언 / [Show Champion] [핵심 쏙! 특집] (여자)아이들 - Senorita ((G)I-DLE - Senorita) l EP.345 (2020-03-11)",
   "duration": "00:03:47"
 },
 
@@ -3391,7 +3391,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Th2NdWZDPKE/maxresdefault.jpg",
   "alt": "[2019 MBC 가요대제전:The Live] (여자)아이들 X ITZY - Diva + dance performance (2019-12-31)",
-  "title": "[2019 MBC 가요대제전:The Live] (여자)아이들 X ITZY - Diva + dance performance (2019-12-31)",
+  "title": "GayoDaejejeon / [2019 MBC 가요대제전:The Live] (여자)아이들 X ITZY - Diva + dance performance (2019-12-31)",
   "duration": "00:03:01"
 },
 
@@ -3403,7 +3403,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/8O-3rWafjMk/maxresdefault.jpg",
   "alt": "[2019 MBC 가요대제전:The Live] (여자)아이들 - LION(((G)I-DLE) - LION) (2019-12-31)",
-  "title": "[2019 MBC 가요대제전:The Live] (여자)아이들 - LION(((G)I-DLE) - LION) (2019-12-31)",
+  "title": "GayoDaejejeon / [2019 MBC 가요대제전:The Live] (여자)아이들 - LION(((G)I-DLE) - LION) (2019-12-31)",
   "duration": "00:04:07"
 },
 
@@ -3487,7 +3487,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4JKaVpZY0dc/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.19] (2019-07-19)",
-  "title": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.19] (2019-07-19)",
+  "title": "뮤직뱅크 / (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.19] (2019-07-19)",
   "duration": "00:03:24"
 },
 
@@ -3511,7 +3511,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Q4Cl4zgBwLg/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.325 (TWN) (2019-07-17)",
-  "title": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.325 (TWN) (2019-07-17)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.325 (TWN) (2019-07-17)",
   "duration": "00:03:27"
 },
 
@@ -3523,7 +3523,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ilpAUJ5Hepk/maxresdefault.jpg",
   "alt": "(G)I-DLE, Uh-Oh [THE SHOW 190716] (2019-07-16)",
-  "title": "(G)I-DLE, Uh-Oh [THE SHOW 190716] (2019-07-16)",
+  "title": "더쇼 / (G)I-DLE, Uh-Oh [THE SHOW 190716] (2019-07-16)",
   "duration": "00:03:30"
 },
 
@@ -3547,7 +3547,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/aRO9rOPDToQ/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / 2019.07.12] (2019-07-15)",
-  "title": "(G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / 2019.07.12] (2019-07-15)",
+  "title": "뮤직뱅크 / (G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / 2019.07.12] (2019-07-15)",
   "duration": "00:03:26"
 },
 
@@ -3595,7 +3595,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/T19ywGGbd-w/maxresdefault.jpg",
   "alt": "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190709] 60P (2019-07-11)",
-  "title": "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190709] 60P (2019-07-11)",
+  "title": "더쇼 / (G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190709] 60P (2019-07-11)",
   "duration": "00:03:51"
 },
 
@@ -3607,7 +3607,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/D42Tj_VnqRU/maxresdefault.jpg",
   "alt": "(G)I-DLE, Uh-Oh [THE SHOW 190709] (2019-07-09)",
-  "title": "(G)I-DLE, Uh-Oh [THE SHOW 190709] (2019-07-09)",
+  "title": "더쇼 / (G)I-DLE, Uh-Oh [THE SHOW 190709] (2019-07-09)",
   "duration": "00:03:44"
 },
 
@@ -3631,7 +3631,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/hA3ToXVdCrw/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.05] (2019-07-05)",
-  "title": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.05] (2019-07-05)",
+  "title": "뮤직뱅크 / (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.07.05] (2019-07-05)",
   "duration": "00:03:27"
 },
 
@@ -3655,7 +3655,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Q6UJ7eBgnk8/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.323 (ENG/TWN) (2019-07-03)",
-  "title": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.323 (ENG/TWN) (2019-07-03)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.323 (ENG/TWN) (2019-07-03)",
   "duration": "00:03:26"
 },
 
@@ -3667,7 +3667,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Yu-YqJVQrPI/maxresdefault.jpg",
   "alt": "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 190702] (2019-07-02)",
-  "title": "(G)I-DLE, THE SHOW CHOICE! [THE SHOW 190702] (2019-07-02)",
+  "title": "더쇼 / (G)I-DLE, THE SHOW CHOICE! [THE SHOW 190702] (2019-07-02)",
   "duration": "00:03:40"
 },
 
@@ -3679,7 +3679,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/WG2VJgSmKTk/maxresdefault.jpg",
   "alt": "(G)I-DLE, Uh-Oh [THE SHOW 190702] (2019-07-02)",
-  "title": "(G)I-DLE, Uh-Oh [THE SHOW 190702] (2019-07-02)",
+  "title": "더쇼 / (G)I-DLE, Uh-Oh [THE SHOW 190702] (2019-07-02)",
   "duration": "00:03:50"
 },
 
@@ -3703,7 +3703,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/rUrXD2PZ2AM/maxresdefault.jpg",
   "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.06.28] (2019-06-28)",
-  "title": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.06.28] (2019-06-28)",
+  "title": "뮤직뱅크 / (G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / 2019.06.28] (2019-06-28)",
   "duration": "00:03:46"
 },
 
@@ -3727,7 +3727,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/aXumrr0B-2A/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)",
-  "title": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE  - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)",
   "duration": "00:03:48"
 },
 
@@ -3739,7 +3739,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Ya_EvdWtPEw/maxresdefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 - Senorita[Music Bank/2019.03.29] (2019-04-01)",
-  "title": "(G)I-DLE (여자)아이들 - Senorita[Music Bank/2019.03.29] (2019-04-01)",
+  "title": "뮤직뱅크 / (G)I-DLE (여자)아이들 - Senorita[Music Bank/2019.03.29] (2019-04-01)",
   "duration": "00:03:16"
 },
 
@@ -3763,7 +3763,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/5tt0LXywox0/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.308 (2019-03-20)",
-  "title": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.308 (2019-03-20)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.308 (2019-03-20)",
   "duration": "00:03:19"
 },
 
@@ -3811,7 +3811,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/sYE7J9oLyVk/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)",
-  "title": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)",
   "duration": "00:03:19"
 },
 
@@ -3823,7 +3823,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Il8weyn0EfI/maxresdefault.jpg",
   "alt": "(G)I-DLE, Señorita [THE SHOW 190312] (2019-03-12)",
-  "title": "(G)I-DLE, Señorita [THE SHOW 190312] (2019-03-12)",
+  "title": "더쇼 / (G)I-DLE, Señorita [THE SHOW 190312] (2019-03-12)",
   "duration": "00:03:21"
 },
 
@@ -3835,7 +3835,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/xVtMPmSRSMQ/maxresdefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 - Senorita [Music Bank/2019.03.08] (2019-03-11)",
-  "title": "(G)I-DLE (여자)아이들 - Senorita [Music Bank/2019.03.08] (2019-03-11)",
+  "title": "뮤직뱅크 / (G)I-DLE (여자)아이들 - Senorita [Music Bank/2019.03.08] (2019-03-11)",
   "duration": "00:03:17"
 },
 
@@ -3883,7 +3883,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/94BeTnryYZI/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)",
-  "title": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)",
   "duration": "00:03:35"
 },
 
@@ -3895,7 +3895,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/AjGJMXRhjAw/maxresdefault.jpg",
   "alt": "(G)I-DLE, Señorita [THE SHOW 190305] (2019-03-05)",
-  "title": "(G)I-DLE, Señorita [THE SHOW 190305] (2019-03-05)",
+  "title": "더쇼 / (G)I-DLE, Señorita [THE SHOW 190305] (2019-03-05)",
   "duration": "00:03:29"
 },
 
@@ -3907,7 +3907,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/fH9CrFTROOY/maxresdefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 - Senorita [Music Bank COME BACK/2019.03.01] (2019-03-04)",
-  "title": "(G)I-DLE (여자)아이들 - Senorita [Music Bank COME BACK/2019.03.01] (2019-03-04)",
+  "title": "뮤직뱅크 / (G)I-DLE (여자)아이들 - Senorita [Music Bank COME BACK/2019.03.01] (2019-03-04)",
   "duration": "00:03:58"
 },
 
@@ -3955,7 +3955,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/dce9SYhd6rg/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)",
-  "title": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)",
   "duration": "00:03:55"
 },
 
@@ -3979,7 +3979,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/iESof_jwfRo/maxresdefault.jpg",
   "alt": "[2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)",
-  "title": "[2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)",
+  "title": "Gayo Daejeon / [2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)",
   "duration": "00:02:01"
 },
 
@@ -4063,7 +4063,7 @@ const stagePerformanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/imoV6KCZTJY/maxresdefault.jpg",
   "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.09.07] (2018-09-11)",
-  "title": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.09.07] (2018-09-11)",
+  "title": "뮤직뱅크 / (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.09.07] (2018-09-11)",
   "duration": "00:03:24"
 },
 
@@ -4123,7 +4123,7 @@ const stagePerformanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/ZBteR4VaRqw/maxresdefault.jpg",
   "alt": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)",
-  "title": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)",
+  "title": "Show Champion / 저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)",
   "duration": "00:05:39"
 },
 
@@ -4135,7 +4135,7 @@ const stagePerformanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/vxiY2OZrA8k/maxresdefault.jpg",
   "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.08.31] (2018-09-05)",
-  "title": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.08.31] (2018-09-05)",
+  "title": "뮤직뱅크 / (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / 2018.08.31] (2018-09-05)",
   "duration": "00:03:27"
 },
 
@@ -4147,7 +4147,7 @@ const stagePerformanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/nzsfh7aG0C0/hqdefault.jpg",
   "alt": "(G)I-DLE, HANN [THE SHOW 180904] (2018-09-04)",
-  "title": "(G)I-DLE, HANN [THE SHOW 180904] (2018-09-04)",
+  "title": "더쇼 / (G)I-DLE, HANN [THE SHOW 180904] (2018-09-04)",
   "duration": "00:03:26"
 },
 
@@ -4183,7 +4183,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/_3OEVLyUmbQ/maxresdefault.jpg",
   "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / 2018.08.24] (2018-08-28)",
-  "title": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / 2018.08.24] (2018-08-28)",
+  "title": "뮤직뱅크 / (G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / 2018.08.24] (2018-08-28)",
   "duration": "00:03:27"
 },
 
@@ -4207,7 +4207,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/Pie4ma-sovE/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.281 (2018-08-22)",
-  "title": "[Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.281 (2018-08-22)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.281 (2018-08-22)",
   "duration": "00:03:33"
 },
 
@@ -4231,7 +4231,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/LaPfiyFHA54/maxresdefault.jpg",
   "alt": "(G)I-DLE, HANN [THE SHOW 180821] (2018-08-21)",
-  "title": "(G)I-DLE, HANN [THE SHOW 180821] (2018-08-21)",
+  "title": "더쇼 / (G)I-DLE, HANN [THE SHOW 180821] (2018-08-21)",
   "duration": "00:03:37"
 },
 
@@ -4327,7 +4327,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/aSfdjfbRC_0/hqdefault.jpg",
   "alt": "(G)I-DLE, LATATA [THE SHOW 180605] (2018-06-15)",
-  "title": "(G)I-DLE, LATATA [THE SHOW 180605] (2018-06-15)",
+  "title": "더쇼 / (G)I-DLE, LATATA [THE SHOW 180605] (2018-06-15)",
   "duration": "00:03:22"
 },
 
@@ -4339,7 +4339,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/SkPQWXX1tqE/hqdefault.jpg",
   "alt": "(G)I-DLE, LATATA [THE SHOW 180529] (2018-06-15)",
-  "title": "(G)I-DLE, LATATA [THE SHOW 180529] (2018-06-15)",
+  "title": "더쇼 / (G)I-DLE, LATATA [THE SHOW 180529] (2018-06-15)",
   "duration": "00:03:23"
 },
 
@@ -4351,7 +4351,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/9-CZApa34SA/hqdefault.jpg",
   "alt": "(G)I-DLE, LATATA [THE SHOW 180522] (2018-06-15)",
-  "title": "(G)I-DLE, LATATA [THE SHOW 180522] (2018-06-15)",
+  "title": "더쇼 / (G)I-DLE, LATATA [THE SHOW 180522] (2018-06-15)",
   "duration": "00:03:33"
 },
 
@@ -4399,7 +4399,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/jybc5w6X_Pk/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)",
-  "title": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)",
   "duration": "00:04:25"
 },
 
@@ -4471,7 +4471,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/E9UYVt0I-as/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
-  "title": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
   "duration": "00:04:25"
 },
 
@@ -4519,7 +4519,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/A3UTiA7myF0/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)",
-  "title": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)",
+  "title": "쇼챔피언 / [Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)",
   "duration": "00:04:32"
 },
 
@@ -4543,7 +4543,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/kqSeOjaApI8/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / 2018.05.04] (2018-05-09)",
-  "title": "(G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / 2018.05.04] (2018-05-09)",
+  "title": "뮤직뱅크 / (G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / 2018.05.04] (2018-05-09)",
   "duration": "00:03:30"
 },
 
@@ -4591,7 +4591,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Good Thing #엠카운트다운 EP.890 | Mnet 250529 방송 (2025-05-29)",
-  "title": "i-dle (아이들) - Good Thing #엠카운트다운 EP.890 | Mnet 250529 방송 (2025-05-29)",
+  "title": "MCOUNTDOWN / i-dle (아이들) - Good Thing #엠카운트다운 EP.890 | Mnet 250529 방송 (2025-05-29)",
   "duration": "00:02:49"
 },
 
@@ -4603,7 +4603,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/pzU_iWjynWY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 아이들 슈화 'Good Thing' (i-dle SHUHUA FanCam) @SBS Inkigayo 250525 (2025-05-26)",
-  "title": "[안방1열 직캠4K] 아이들 슈화 'Good Thing' (i-dle SHUHUA FanCam) @SBS Inkigayo 250525 (2025-05-26)",
+  "title": "인기가요 / [안방1열 직캠4K] 아이들 슈화 'Good Thing' (i-dle SHUHUA FanCam) @SBS Inkigayo 250525 (2025-05-26)",
   "duration": "00:03:06"
 },
 
@@ -4615,7 +4615,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/U2Fg-kPZ_qY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 아이들 우기 'Good Thing' (i-dle YUQI FanCam) @SBS Inkigayo 250525 (2025-05-26)",
-  "title": "[안방1열 직캠4K] 아이들 우기 'Good Thing' (i-dle YUQI FanCam) @SBS Inkigayo 250525 (2025-05-26)",
+  "title": "인기가요 / [안방1열 직캠4K] 아이들 우기 'Good Thing' (i-dle YUQI FanCam) @SBS Inkigayo 250525 (2025-05-26)",
   "duration": "00:03:42"
 },
 
@@ -4627,7 +4627,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/qweuP9qj1os/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 아이들 소연 'Good Thing' (i-dle SOYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
-  "title": "[안방1열 직캠4K] 아이들 소연 'Good Thing' (i-dle SOYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
+  "title": "인기가요 / [안방1열 직캠4K] 아이들 소연 'Good Thing' (i-dle SOYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
   "duration": "00:03:31"
 },
 
@@ -4639,7 +4639,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/QIgzDwSWHio/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 아이들 민니 'Good Thing' (i-dle MINNIE FanCam) @SBS Inkigayo 250525 (2025-05-26)",
-  "title": "[안방1열 직캠4K] 아이들 민니 'Good Thing' (i-dle MINNIE FanCam) @SBS Inkigayo 250525 (2025-05-26)",
+  "title": "인기가요 / [안방1열 직캠4K] 아이들 민니 'Good Thing' (i-dle MINNIE FanCam) @SBS Inkigayo 250525 (2025-05-26)",
   "duration": "00:03:06"
 },
 
@@ -4651,7 +4651,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/PUENpWlm9c0/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 아이들 미연 'Good Thing' (i-dle MIYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
-  "title": "[안방1열 직캠4K] 아이들 미연 'Good Thing' (i-dle MIYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
+  "title": "인기가요 / [안방1열 직캠4K] 아이들 미연 'Good Thing' (i-dle MIYEON FanCam) @SBS Inkigayo 250525 (2025-05-26)",
   "duration": "00:03:13"
 },
 
@@ -4699,7 +4699,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/HtnvvX9GUJU/maxresdefault.jpg",
   "alt": "[#음중직캠] i-dle SHUHUA (아이들 슈화) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중직캠] i-dle SHUHUA (아이들 슈화) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중직캠] i-dle SHUHUA (아이들 슈화) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:03"
 },
 
@@ -4711,7 +4711,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/OvAQGhn5dJs/maxresdefault.jpg",
   "alt": "[#음중직캠] i-dle YUQI (아이들 우기) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중직캠] i-dle YUQI (아이들 우기) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중직캠] i-dle YUQI (아이들 우기) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:02"
 },
 
@@ -4723,7 +4723,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/BJrdXIKv4EI/maxresdefault.jpg",
   "alt": "[#음중직캠] i-dle SOYEON (아이들 소연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중직캠] i-dle SOYEON (아이들 소연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중직캠] i-dle SOYEON (아이들 소연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:02"
 },
 
@@ -4735,7 +4735,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-2RdGYEuHUc/maxresdefault.jpg",
   "alt": "[#음중직캠] i-dle MINNIE (아이들 민니) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중직캠] i-dle MINNIE (아이들 민니) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중직캠] i-dle MINNIE (아이들 민니) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:04"
 },
 
@@ -4747,7 +4747,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/6utPqvw5Bu4/maxresdefault.jpg",
   "alt": "[#음중직캠] i-dle MIYEON (아이들 미연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중직캠] i-dle MIYEON (아이들 미연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중직캠] i-dle MIYEON (아이들 미연) – Good Thing FanCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:08"
 },
 
@@ -4759,7 +4759,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/6pVnuGHA-_w/maxresdefault.jpg",
   "alt": "[#음중풀캠8K] i-dle (아이들) – Good Thing FullCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
-  "title": "[#음중풀캠8K] i-dle (아이들) – Good Thing FullCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
+  "title": "Show! MusicCore / [#음중풀캠8K] i-dle (아이들) – Good Thing FullCam | 쇼! 음악중심 | MBC250524 (2025-05-24)",
   "duration": "00:03:18"
 },
 
@@ -4771,7 +4771,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/vr73VuO3JCw/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Good Thing | Show! MusicCore | MBC250524방송 (2025-05-24)",
-  "title": "i-dle (아이들) - Good Thing | Show! MusicCore | MBC250524방송 (2025-05-24)",
+  "title": "쇼! 음악중심 / i-dle (아이들) - Good Thing | Show! MusicCore | MBC (2025-05-24)",
   "duration": "00:03:16"
 },
 
@@ -4783,7 +4783,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/H2JtF2ZcHQk/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Girlfriend | Show! MusicCore | MBC250524방송 (2025-05-24)",
-  "title": "i-dle (아이들) - Girlfriend | Show! MusicCore | MBC250524방송 (2025-05-24)",
+  "title": "쇼! 음악중심 / i-dle (아이들) - Girlfriend | Show! MusicCore | MBC (2025-05-24)",
   "duration": "00:02:44"
 },
 
@@ -4879,7 +4879,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/lgDo7ZUoyZ8/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 직캠 8K 'Good Thing' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 직캠 8K 'Good Thing' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 직캠 8K 'Good Thing' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:02:54"
 },
 
@@ -4891,7 +4891,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dqh1NV0briA/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 우기 직캠 4K 'Good Thing' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 우기 직캠 4K 'Good Thing' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 우기 직캠 4K 'Good Thing' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:08"
 },
 
@@ -4903,7 +4903,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Ipm63N7rBDs/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 슈화 직캠 4K 'Good Thing' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 슈화 직캠 4K 'Good Thing' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 슈화 직캠 4K 'Good Thing' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:04"
 },
 
@@ -4915,7 +4915,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/rw_-R5DabU0/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 소연 직캠 4K 'Good Thing' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 소연 직캠 4K 'Good Thing' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 소연 직캠 4K 'Good Thing' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:10"
 },
 
@@ -4927,7 +4927,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/cTmfYOlilQA/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 민니 직캠 4K 'Good Thing' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 민니 직캠 4K 'Good Thing' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 민니 직캠 4K 'Good Thing' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:03"
 },
 
@@ -4939,7 +4939,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/V_Cz-uB5l-s/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 미연 직캠 4K 'Good Thing' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 미연 직캠 4K 'Good Thing' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 미연 직캠 4K 'Good Thing' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:04"
 },
 
@@ -4951,7 +4951,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/RsoL_clzS4Q/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 직캠 8K 'Girlfriend' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 직캠 8K 'Girlfriend' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 직캠 8K 'Girlfriend' (i-dle FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:06"
 },
 
@@ -4963,7 +4963,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/yA5HQZzAZIk/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 민니 직캠 4K 'Girlfriend' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 민니 직캠 4K 'Girlfriend' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 민니 직캠 4K 'Girlfriend' (i-dle MINNIE FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:18"
 },
 
@@ -4975,7 +4975,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/53UKev3cbzo/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 우기 직캠 4K 'Girlfriend' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 우기 직캠 4K 'Girlfriend' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 우기 직캠 4K 'Girlfriend' (i-dle YUQI FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:14"
 },
 
@@ -4987,7 +4987,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Kt7JRZ0lbOc/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 슈화 직캠 4K 'Girlfriend' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 슈화 직캠 4K 'Girlfriend' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 슈화 직캠 4K 'Girlfriend' (i-dle SHUHUA FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:18"
 },
 
@@ -4999,7 +4999,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/LZ41c9AhBxM/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 소연 직캠 4K 'Girlfriend' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 소연 직캠 4K 'Girlfriend' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 소연 직캠 4K 'Girlfriend' (i-dle SOYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:17"
 },
 
@@ -5011,7 +5011,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/AEpo4O-r6lk/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 미연 직캠 4K 'Girlfriend' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
-  "title": "[MPD직캠] 아이들 미연 직캠 4K 'Girlfriend' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
+  "title": "엠카운트다운 / [MPD직캠] 아이들 미연 직캠 4K 'Girlfriend' (i-dle MIYEON FanCam) | @MCOUNTDOWN_2025.5.22 (2025-05-22)",
   "duration": "00:03:18"
 },
 
@@ -5095,7 +5095,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/Kg_5TA8uQ-c/maxresdefault.jpg",
   "alt": "[페이스캠4K] 민니 'HER' (MINNIE FaceCam) @SBS Inkigayo 250202 (2025-02-04)",
-  "title": "[페이스캠4K] 민니 'HER' (MINNIE FaceCam) @SBS Inkigayo 250202 (2025-02-04)",
+  "title": "인기가요 / [페이스캠4K] 민니 'HER' (MINNIE FaceCam) @SBS Inkigayo 250202 (2025-02-04)",
   "duration": "00:02:57"
 },
 
@@ -5107,7 +5107,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/dJeKhKZ_0C4/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-03)",
-  "title": "[안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-03)",
+  "title": "인기가요 / [안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-03)",
   "duration": "00:02:58"
 },
 
@@ -5119,7 +5119,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/3RGSD0mcuVE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 민니 'HER' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-03)",
-  "title": "[안방1열 직캠4K] 민니 'HER' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-03)",
+  "title": "인기가요 / [안방1열 직캠4K] 민니 'HER' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-03)",
   "duration": "00:03:23"
 },
 
@@ -5131,7 +5131,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HsClEGai9j8/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 민니 'Cherry Sky' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-02)",
-  "title": "[안방1열 직캠4K] 민니 'Cherry Sky' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-02)",
+  "title": "인기가요 / [안방1열 직캠4K] 민니 'Cherry Sky' (MINNIE FanCam) @SBS Inkigayo 250202 (2025-02-02)",
   "duration": "00:03:44"
 },
 
@@ -5143,7 +5143,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/5mqEHe_E548/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] 민니 'Cherry Sky' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-02)",
-  "title": "[안방1열 풀캠4K] 민니 'Cherry Sky' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-02)",
+  "title": "인기가요 / [안방1열 풀캠4K] 민니 'Cherry Sky' (MINNIE FullCam) @SBS Inkigayo 250202 (2025-02-02)",
   "duration": "00:03:08"
 },
 
@@ -5155,7 +5155,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/GPsj_HSAEdM/maxresdefault.jpg",
   "alt": "[가요대제전 #최애직캠] (여자)아이들 슈화 ((G)I-DLE SHUHUA) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
-  "title": "[가요대제전 #최애직캠] (여자)아이들 슈화 ((G)I-DLE SHUHUA) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
+  "title": "MBC 가요대제전 / [가요대제전 #최애직캠] (여자)아이들 슈화 ((G)I-DLE SHUHUA) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
   "duration": "00:06:12"
 },
 
@@ -5167,7 +5167,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/qHmUaM8tb5g/maxresdefault.jpg",
   "alt": "[가요대제전 #최애직캠] (여자)아이들 우기 ((G)I-DLE YUQI) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
-  "title": "[가요대제전 #최애직캠] (여자)아이들 우기 ((G)I-DLE YUQI) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
+  "title": "MBC 가요대제전 / [가요대제전 #최애직캠] (여자)아이들 우기 ((G)I-DLE YUQI) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
   "duration": "00:06:05"
 },
 
@@ -5179,7 +5179,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/F_4ihQ7CcFQ/maxresdefault.jpg",
   "alt": "[가요대제전 #최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
-  "title": "[가요대제전 #최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
+  "title": "MBC 가요대제전 / [가요대제전 #최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland | GayoDaejejeon2024 | MBC250130 (2025-01-31)",
   "duration": "00:05:46"
 },
 
@@ -5191,7 +5191,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/EhQNBNPLyiw/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들–Super Lady + Neverland ((G)I-DLE Fullcam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들–Super Lady + Neverland ((G)I-DLE Fullcam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들–Super Lady + Neverland ((G)I-DLE Fullcam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:05:59"
 },
 
@@ -5203,7 +5203,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/wa4_wFNu1jo/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들 슈화–Super Lady +Neverland 직캠 ((G)I-DLE SHUHUA Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들 슈화–Super Lady +Neverland 직캠 ((G)I-DLE SHUHUA Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들 슈화–Super Lady +Neverland 직캠 ((G)I-DLE SHUHUA Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:05:40"
 },
 
@@ -5215,7 +5215,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/lb4ZTu2bLBI/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들 우기–Super Lady +Neverland 직캠 ((G)I-DLE YUQI Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들 우기–Super Lady +Neverland 직캠 ((G)I-DLE YUQI Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들 우기–Super Lady +Neverland 직캠 ((G)I-DLE YUQI Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:06:19"
 },
 
@@ -5227,7 +5227,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/GOhtXDiJNh8/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들 소연–Super Lady +Neverland 직캠 ((G)I-DLE SOYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들 소연–Super Lady +Neverland 직캠 ((G)I-DLE SOYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들 소연–Super Lady +Neverland 직캠 ((G)I-DLE SOYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:05:41"
 },
 
@@ -5239,7 +5239,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/4NOzDr5w98A/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들 민니–Super Lady +Neverland 직캠 ((G)I-DLE MINNIE Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들 민니–Super Lady +Neverland 직캠 ((G)I-DLE MINNIE Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들 민니–Super Lady +Neverland 직캠 ((G)I-DLE MINNIE Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:05:54"
 },
 
@@ -5251,7 +5251,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/X2eUrWADmGI/maxresdefault.jpg",
   "alt": "[가요대제전] (여자)아이들 미연–Super Lady +Neverland 직캠 ((G)I-DLE MIYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
-  "title": "[가요대제전] (여자)아이들 미연–Super Lady +Neverland 직캠 ((G)I-DLE MIYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
+  "title": "MBC 가요대제전 / [가요대제전] (여자)아이들 미연–Super Lady +Neverland 직캠 ((G)I-DLE MIYEON Fancam) | GayoDaejejeon2024 | MBC250130 (2025-01-30)",
   "duration": "00:06:17"
 },
 
@@ -5263,7 +5263,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/-sW4e_DK_Eo/maxresdefault.jpg",
   "alt": "[2024 MBC 가요대제전] (여자)아이들 - 슈퍼 레이디 + 네버랜드 ((G)I-DLE - Super Lady + Neverland), MBC 250130 방송 (2025-01-30)",
-  "title": "[2024 MBC 가요대제전] (여자)아이들 - 슈퍼 레이디 + 네버랜드 ((G)I-DLE - Super Lady + Neverland), MBC 250130 방송 (2025-01-30)",
+  "title": "GayoDaejejeon / [2024 MBC 가요대제전] (여자)아이들 - 슈퍼 레이디 + 네버랜드 ((G)I-DLE - Super Lady + Neverland), MBC 250130 방송 (2025-01-30)",
   "duration": "00:05:53"
 },
 
@@ -5383,7 +5383,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/9JP6SEYXpb4/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250126 (2025-01-26)",
-  "title": "[안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250126 (2025-01-26)",
+  "title": "인기가요 / [안방1열 풀캠4K] 민니 'HER' (MINNIE FullCam) @SBS Inkigayo 250126 (2025-01-26)",
   "duration": "00:03:11"
 },
 
@@ -5407,7 +5407,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/jJLpkR1gS1c/maxresdefault.jpg",
   "alt": "[#음중풀캠8K] MINNIE (민니) – HER FullCam | 쇼! 음악중심 | MBC250125 (2025-01-25)",
-  "title": "[#음중풀캠8K] MINNIE (민니) – HER FullCam | 쇼! 음악중심 | MBC250125 (2025-01-25)",
+  "title": "Show! MusicCore / [#음중풀캠8K] MINNIE (민니) – HER FullCam | 쇼! 음악중심 | MBC250125 (2025-01-25)",
   "duration": "00:03:04"
 },
 
@@ -5419,7 +5419,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/LyZOFESshgg/maxresdefault.jpg",
   "alt": "MINNIE (민니((여자)아이들)) - HER | Show! MusicCore | MBC250125방송 (2025-01-25)",
-  "title": "MINNIE (민니((여자)아이들)) - HER | Show! MusicCore | MBC250125방송 (2025-01-25)",
+  "title": "쇼! 음악중심 / MINNIE (민니((여자)아이들)) - HER | Show! MusicCore | MBC (2025-01-25)",
   "duration": "00:02:40"
 },
 
@@ -5431,7 +5431,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/XFMk6t-iXnk/maxresdefault.jpg",
   "alt": "[MPD직캠] 민니 직캠 4K 'HER' (Horizontal Ver.) (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
-  "title": "[MPD직캠] 민니 직캠 4K 'HER' (Horizontal Ver.) (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
+  "title": "엠카운트다운 / [MPD직캠] 민니 직캠 4K 'HER' (Horizontal Ver.) (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
   "duration": "00:03:02"
 },
 
@@ -5443,7 +5443,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/PBuA5I4djvk/maxresdefault.jpg",
   "alt": "[입덕직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-24)",
-  "title": "[입덕직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-24)",
+  "title": "엠카운트다운 / [입덕직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-24)",
   "duration": "00:05:44"
 },
 
@@ -5455,7 +5455,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/SXX2kx3BR5U/maxresdefault.jpg",
   "alt": "'최초 공개' 민니 ((여자)아이들) - HER #엠카운트다운 EP.872 | Mnet 250123 방송 (2025-01-23)",
-  "title": "'최초 공개' 민니 ((여자)아이들) - HER #엠카운트다운 EP.872 | Mnet 250123 방송 (2025-01-23)",
+  "title": "MCOUNTDOWN / '최초 공개' 민니 ((여자)아이들) - HER #엠카운트다운 EP.872 | Mnet 250123 방송 (2025-01-23)",
   "duration": "00:03:42"
 },
 
@@ -5467,7 +5467,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ED3iooTbkaA/maxresdefault.jpg",
   "alt": "[MPD직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
-  "title": "[MPD직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
+  "title": "엠카운트다운 / [MPD직캠] 민니 직캠 4K 'HER' (MINNIE FanCam) | @MCOUNTDOWN_2025.1.23 (2025-01-23)",
   "duration": "00:03:04"
 },
 
@@ -5479,7 +5479,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/IOdpH50s1Wo/maxresdefault.jpg",
   "alt": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 241225 (2024-12-26)",
-  "title": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 241225 (2024-12-26)",
+  "title": "SBS 가요대전 / [2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)│@SBS Gayo Daejeon 241225 (2024-12-26)",
   "duration": "00:05:41"
 },
 
@@ -5491,7 +5491,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/4LJs9fSjMA0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (2024 가요대전 Christmas Ver.)♬ Gayo Daejeon (2024-12-25)",
-  "title": "(여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (2024 가요대전 Christmas Ver.)♬ Gayo Daejeon (2024-12-25)",
+  "title": "SBS 가요대전 / (여자)아이들((G)I-DLE) - Wife+클락션 (Klaxon) (2024 가요대전 Christmas Ver.)♬ Gayo Daejeon (2024-12-25)",
   "duration": "00:05:35"
 },
 
@@ -5695,7 +5695,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/yiiRX8BuOdk/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-22)",
-  "title": "[입덕직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-22)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-22)",
   "duration": "00:03:18"
 },
 
@@ -5707,7 +5707,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/akQGTBsSk0U/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC240720방송 (2024-07-20)",
-  "title": "[#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC240720방송 (2024-07-20)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC (2024-07-20)",
   "duration": "00:03:23"
 },
 
@@ -5719,7 +5719,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/bvlOFh3ZdEg/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC240720방송 (2024-07-20)",
-  "title": "(G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC240720방송 (2024-07-20)",
+  "title": "쇼! 음악중심 / (G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC (2024-07-20)",
   "duration": "00:03:01"
 },
 
@@ -5731,7 +5731,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/fQnXQd-zVzw/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC240720방송 (2024-07-20)",
-  "title": "[#음중직캠] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC240720방송 (2024-07-20)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC (2024-07-20)",
   "duration": "00:03:11"
 },
 
@@ -5743,7 +5743,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Z7nYcqnTPVI/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
   "duration": "00:03:13"
 },
 
@@ -5755,7 +5755,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/kTXAdMI0H7A/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.18 (2024-07-18)",
   "duration": "00:03:13"
 },
 
@@ -5767,7 +5767,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/lW88ytjeqmU/maxresdefault.jpg",
   "alt": "[항공캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' Sky Cam)│@SBS Inkigayo 240714 (2024-07-18)",
-  "title": "[항공캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' Sky Cam)│@SBS Inkigayo 240714 (2024-07-18)",
+  "title": "인기가요 / [항공캠4K] (여자)아이들 '클락션' ((G)I-DLE 'Klaxon' Sky Cam)│@SBS Inkigayo 240714 (2024-07-18)",
   "duration": "00:03:12"
 },
 
@@ -5791,7 +5791,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/kwd7bbMqnz8/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC240713방송 (2024-07-13)",
-  "title": "(G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC240713방송 (2024-07-13)",
+  "title": "쇼! 음악중심 / (G)I-DLE ((여자)아이들) - Klaxon | Show! MusicCore | MBC (2024-07-13)",
   "duration": "00:03:06"
 },
 
@@ -5815,7 +5815,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/pF_tT9KATrE/maxresdefault.jpg",
   "alt": "[#최애직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) – Klaxon  | 쇼! 음악중심 | MBC240713방송 (2024-07-16)",
-  "title": "[#최애직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) – Klaxon  | 쇼! 음악중심 | MBC240713방송 (2024-07-16)",
+  "title": "Show! MusicCore / [#최애직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) – Klaxon  | 쇼! 음악중심 | MBC  (2024-07-13)",
   "duration": "00:03:51"
 },
 
@@ -5827,7 +5827,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/C2LxznoD3eg/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 '클락션 ' ((G)I-DLE YUQI 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
-  "title": "[페이스캠4K] (여자)아이들 우기 '클락션 ' ((G)I-DLE YUQI 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 '클락션 ' ((G)I-DLE YUQI 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
   "duration": "00:04:06"
 },
 
@@ -5839,7 +5839,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/me6529NyUX8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 슈화 '클락션 ' ((G)I-DLE SHUHUA 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
-  "title": "[페이스캠4K] (여자)아이들 슈화 '클락션 ' ((G)I-DLE SHUHUA 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 슈화 '클락션 ' ((G)I-DLE SHUHUA 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
   "duration": "00:03:38"
 },
 
@@ -5851,7 +5851,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/V85DqvRAdO0/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 '클락션 ' ((G)I-DLE MINNIE 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
-  "title": "[페이스캠4K] (여자)아이들 민니 '클락션 ' ((G)I-DLE MINNIE 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 '클락션 ' ((G)I-DLE MINNIE 'Klaxon' FaceCam) @SBS Inkigayo 240714 (2024-07-16)",
   "duration": "00:03:43"
 },
 
@@ -5863,7 +5863,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ISyxhSzn9KU/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 '클락션' ((G)I-DLE SHUHUA 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 '클락션' ((G)I-DLE SHUHUA 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 '클락션' ((G)I-DLE SHUHUA 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:03:21"
 },
 
@@ -5875,7 +5875,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/_FsnbiKWK_I/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 '클락션' ((G)I-DLE YUQI 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 '클락션' ((G)I-DLE YUQI 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 '클락션' ((G)I-DLE YUQI 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:03:53"
 },
 
@@ -5887,7 +5887,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/kQTn2aGsjqI/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 '클락션' ((G)I-DLE SOYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 '클락션' ((G)I-DLE SOYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 '클락션' ((G)I-DLE SOYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:03:27"
 },
 
@@ -5899,7 +5899,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/XrC_OSq2OGw/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 '클락션' ((G)I-DLE MINNIE 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 '클락션' ((G)I-DLE MINNIE 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 '클락션' ((G)I-DLE MINNIE 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:04:30"
 },
 
@@ -5911,7 +5911,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/sXimW6S0zGs/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 '클락션' ((G)I-DLE MIYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 '클락션' ((G)I-DLE MIYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 '클락션' ((G)I-DLE MIYEON 'Klaxon' FanCam) @SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:03:23"
 },
 
@@ -5923,7 +5923,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/8QSgwUj_0ps/maxresdefault.jpg",
   "alt": "[단독샷캠4K] (여자)아이들 '클락션' 단독샷 별도녹화│(G)I-DLE 'Klaxon' ONE TAKE STAGE│@SBS Inkigayo 240714 (2024-07-15)",
-  "title": "[단독샷캠4K] (여자)아이들 '클락션' 단독샷 별도녹화│(G)I-DLE 'Klaxon' ONE TAKE STAGE│@SBS Inkigayo 240714 (2024-07-15)",
+  "title": "인기가요 / [단독샷캠4K] (여자)아이들 '클락션' 단독샷 별도녹화│(G)I-DLE 'Klaxon' ONE TAKE STAGE│@SBS Inkigayo 240714 (2024-07-15)",
   "duration": "00:02:57"
 },
 
@@ -5935,7 +5935,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ukdsYA6n9xc/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) - Klaxon| 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) - Klaxon| 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE SHUHUA ((여자)아이들 슈화) - Klaxon| 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:22"
 },
 
@@ -5947,7 +5947,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/kvp2otN99bY/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE YUQI ((여자)아이들 우기) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠] (G)I-DLE YUQI ((여자)아이들 우기) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE YUQI ((여자)아이들 우기) – Klaxon | 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:29"
 },
 
@@ -5959,7 +5959,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Xi0nxtF07nI/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE SOYEON ((여자)아이들 소연) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠] (G)I-DLE SOYEON ((여자)아이들 소연) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE SOYEON ((여자)아이들 소연) – Klaxon | 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:24"
 },
 
@@ -5971,7 +5971,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/f8upfsDdQtI/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE MINNIE ((여자)아이들 민니) - Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠] (G)I-DLE MINNIE ((여자)아이들 민니) - Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE MINNIE ((여자)아이들 민니) - Klaxon | 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:20"
 },
 
@@ -5983,7 +5983,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ukSGwxdbfg8/maxresdefault.jpg",
   "alt": "[#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:31"
 },
 
@@ -5995,7 +5995,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Hf9XbOKmjUk/maxresdefault.jpg",
   "alt": "[#음중직캠8K] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
-  "title": "[#음중직캠8K] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC240713방송 (2024-07-13)",
+  "title": "Show! MusicCore / [#음중직캠8K] (G)I-DLE ((여자)아이들) – Klaxon | 쇼! 음악중심 | MBC (2024-07-13)",
   "duration": "00:03:32"
 },
 
@@ -6067,7 +6067,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/iYifuxo0MFc/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
   "duration": "00:03:29"
 },
 
@@ -6079,7 +6079,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ppkl43a2J9s/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '클락션 (Klaxon)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
   "duration": "00:03:29"
 },
 
@@ -6091,7 +6091,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/-LC-HRsSroE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
   "duration": "00:03:29"
 },
 
@@ -6103,7 +6103,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/atNrBr66NII/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
   "duration": "00:03:29"
 },
 
@@ -6115,7 +6115,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ofOlYlsbCSo/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '클락션 (Klaxon)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2024.7.11 (2024-07-11)",
   "duration": "00:03:24"
 },
 
@@ -6127,7 +6127,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/-gbKXVGXxJ8/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FullCam)│@SBS Inkigayo 240428 (2024-04-28)",
-  "title": "[안방1열 풀캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FullCam)│@SBS Inkigayo 240428 (2024-04-28)",
+  "title": "인기가요 / [안방1열 풀캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FullCam)│@SBS Inkigayo 240428 (2024-04-28)",
   "duration": "00:03:07"
 },
 
@@ -6139,7 +6139,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/tmOeAljakSc/maxresdefault.jpg",
   "alt": "[예능연구소] YUQI (우기) – FREAK 풀캠 | 쇼! 음악중심 | MBC240427방송 (2024-04-27)",
-  "title": "[예능연구소] YUQI (우기) – FREAK 풀캠 | 쇼! 음악중심 | MBC240427방송 (2024-04-27)",
+  "title": "Show! MusicCore / [예능연구소] YUQI (우기) – FREAK 풀캠 | 쇼! 음악중심 | MBC (2024-04-27)",
   "duration": "00:03:22"
 },
 
@@ -6151,7 +6151,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/ZYh387OqFEQ/maxresdefault.jpg",
   "alt": "[MPD직캠] 우기 직캠 8K 'FREAK' (Horizontal Ver.) (YUQI FanCam) | @MCOUNTDOWN_2024.4.25 (2024-04-25)",
-  "title": "[MPD직캠] 우기 직캠 8K 'FREAK' (Horizontal Ver.) (YUQI FanCam) | @MCOUNTDOWN_2024.4.25 (2024-04-25)",
+  "title": "엠카운트다운 / [MPD직캠] 우기 직캠 8K 'FREAK' (Horizontal Ver.) (YUQI FanCam) | @MCOUNTDOWN_2024.4.25 (2024-04-25)",
   "duration": "00:03:10"
 },
 
@@ -6163,7 +6163,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/vUokhppGpN4/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE FanCam) @SBS Inkigayo 240428 (2024-04-29)",
-  "title": "[안방1열 직캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE FanCam) @SBS Inkigayo 240428 (2024-04-29)",
+  "title": "인기가요 / [안방1열 직캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE FanCam) @SBS Inkigayo 240428 (2024-04-29)",
   "duration": "00:03:08"
 },
 
@@ -6175,7 +6175,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Q4WDtyZqGDI/maxresdefault.jpg",
   "alt": "[페이스캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FaceCam) @SBS Inkigayo 240428 (2024-04-30)",
-  "title": "[페이스캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FaceCam) @SBS Inkigayo 240428 (2024-04-30)",
+  "title": "인기가요 / [페이스캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) FaceCam) @SBS Inkigayo 240428 (2024-04-30)",
   "duration": "00:03:27"
 },
 
@@ -6187,7 +6187,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/0K_LvWDHFkY/maxresdefault.jpg",
   "alt": "[항공캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) Sky Cam)│@SBS Inkigayo 240428 (2024-05-02)",
-  "title": "[항공캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) Sky Cam)│@SBS Inkigayo 240428 (2024-05-02)",
+  "title": "인기가요 / [항공캠4K] 우기 ((여자)아이들) 'FREAK' (YUQI ((G)I-DLE) Sky Cam)│@SBS Inkigayo 240428 (2024-05-02)",
   "duration": "00:03:11"
 },
 
@@ -6199,7 +6199,7 @@ const stagePerformanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/73RWKAN6WrQ/maxresdefault.jpg",
   "alt": "'SPECIAL STAGE' 미연 ((여자)아이들) - 마음이 닿는 법 #엠카운트다운 EP.823 | Mnet 231116 방송 (2023-11-16)",
-  "title": "'SPECIAL STAGE' 미연 ((여자)아이들) - 마음이 닿는 법 #엠카운트다운 EP.823 | Mnet 231116 방송 (2023-11-16)",
+  "title": "MCOUNTDOWN / 'SPECIAL STAGE' 미연 ((여자)아이들) - 마음이 닿는 법 #엠카운트다운 EP.823 | Mnet 231116 방송 (2023-11-16)",
   "duration": "00:03:33"
 },
 
@@ -6211,7 +6211,7 @@ const stagePerformanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/9fRngxQA4xM/maxresdefault.jpg",
   "alt": "[#최애직캠] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (2022-11-07)",
-  "title": "[#최애직캠] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (2022-11-07)",
+  "title": "쇼! 음악중심 / [#최애직캠] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) Close-up Cam | Show! MusicCore | MBC  (2022-10-29)",
   "duration": "00:03:20"
 },
 
@@ -6223,7 +6223,7 @@ const stagePerformanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/dRgeCc5e0KE/maxresdefault.jpg",
   "alt": "[#최애직캠] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (2022-11-07)",
-  "title": "[#최애직캠] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (2022-11-07)",
+  "title": "쇼! 음악중심 / [#최애직캠] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC  (2022-10-29)",
   "duration": "00:03:27"
 },
 
@@ -6319,7 +6319,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ZuQAJC8cKWE/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:15"
 },
 
@@ -6331,7 +6331,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/GYZzgVECn5o/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE YUQI - Nxde((여자)아이들 우기 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE YUQI - Nxde((여자)아이들 우기 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE YUQI - Nxde((여자)아이들 우기 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:20"
 },
 
@@ -6343,7 +6343,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/JH9JpBkLDgo/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE SOYEON - Nxde((여자)아이들 소연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE SOYEON - Nxde((여자)아이들 소연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE SOYEON - Nxde((여자)아이들 소연 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:21"
 },
 
@@ -6355,7 +6355,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/qpfnc5CfJO8/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:20"
 },
 
@@ -6367,7 +6367,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/4Dz6gW7kNE4/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE MIYEON - Nxde((여자)아이들 미연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE MIYEON - Nxde((여자)아이들 미연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE MIYEON - Nxde((여자)아이들 미연 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:14"
 },
 
@@ -6379,7 +6379,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/H2-gx6gaWnw/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE – Nxde((여자)아이들 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
-  "title": "[예능연구소] (G)I-DLE – Nxde((여자)아이들 - 누드) FanCam | Show! MusicCore | MBC221029방송 (2022-10-29)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE – Nxde((여자)아이들 - 누드) FanCam | Show! MusicCore | MBC (2022-10-29)",
   "duration": "00:03:16"
 },
 
@@ -6391,7 +6391,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ANLAEX68PYs/maxresdefault.jpg",
   "alt": "[항공캠4K] (여자)아이들 'Nxde' ((G)I-DLE Sky Cam) @SBS Inkigayo 221023 (2022-10-27)",
-  "title": "[항공캠4K] (여자)아이들 'Nxde' ((G)I-DLE Sky Cam) @SBS Inkigayo 221023 (2022-10-27)",
+  "title": "인기가요 / [항공캠4K] (여자)아이들 'Nxde' ((G)I-DLE Sky Cam) @SBS Inkigayo 221023 (2022-10-27)",
   "duration": "00:03:22"
 },
 
@@ -6403,7 +6403,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/34Xo0F9h9S0/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE SHUHUA - Nxde ((여자)아이들 슈화 - 누드) | Show Champion | EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE SHUHUA - Nxde ((여자)아이들 슈화 - 누드) | Show Champion | EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE SHUHUA - Nxde ((여자)아이들 슈화 - 누드) | Show Champion | EP.455 (2022-10-26)",
   "duration": "00:03:14"
 },
 
@@ -6415,7 +6415,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/XPIcuqQWNQ0/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE YUQI - Nxde ((여자)아이들 우기 - 누드) | Show Champion | EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE YUQI - Nxde ((여자)아이들 우기 - 누드) | Show Champion | EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE YUQI - Nxde ((여자)아이들 우기 - 누드) | Show Champion | EP.455 (2022-10-26)",
   "duration": "00:03:14"
 },
 
@@ -6427,7 +6427,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Rzc-dTGplno/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE SOYEON - Nxde ((여자)아이들 소연 - 누드) | Show Champion | EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE SOYEON - Nxde ((여자)아이들 소연 - 누드) | Show Champion | EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE SOYEON - Nxde ((여자)아이들 소연 - 누드) | Show Champion | EP.455 (2022-10-26)",
   "duration": "00:03:07"
 },
 
@@ -6439,7 +6439,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/G2hH38uD_EM/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE MINNIE - Nxde ((여자)아이들 민니 - 누드) | Show Champion | EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE MINNIE - Nxde ((여자)아이들 민니 - 누드) | Show Champion | EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE MINNIE - Nxde ((여자)아이들 민니 - 누드) | Show Champion | EP.455 (2022-10-26)",
   "duration": "00:03:07"
 },
 
@@ -6451,7 +6451,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/LrZuZZjjWqQ/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE MIYEON - Nxde ((여자)아이들 미연 - 누드) | Show Champion | EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE MIYEON - Nxde ((여자)아이들 미연 - 누드) | Show Champion | EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE MIYEON - Nxde ((여자)아이들 미연 - 누드) | Show Champion | EP.455 (2022-10-26)",
   "duration": "00:03:14"
 },
 
@@ -6463,7 +6463,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/rfuqisz7-UA/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455 (2022-10-26)",
   "duration": "00:03:14"
 },
 
@@ -6475,7 +6475,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/jthzgd-2fgU/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 221025] (2022-10-26)",
-  "title": "(G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 221025] (2022-10-26)",
+  "title": "더쇼 / (G)I-DLE ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 221025] (2022-10-26)",
   "duration": "00:05:15"
 },
 
@@ -6487,7 +6487,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ZDN5Rh6gfrE/maxresdefault.jpg",
   "alt": "[사운드 360°] 뮤직뱅크,(여자)아이들((G)I-DLE)  'Nxde' 🎼Sound Remastered🎧 공간음향 Ver. ㅣKBS 221021 방송 (2022-10-25)",
-  "title": "[사운드 360°] 뮤직뱅크,(여자)아이들((G)I-DLE)  'Nxde' 🎼Sound Remastered🎧 공간음향 Ver. ㅣKBS 221021 방송 (2022-10-25)",
+  "title": "Music Bank / [사운드 360°] 뮤직뱅크,(여자)아이들((G)I-DLE)  'Nxde' 🎼Sound Remastered🎧 공간음향 Ver. ㅣKBS 221021 방송 (2022-10-25)",
   "duration": "00:03:18"
 },
 
@@ -6499,7 +6499,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/KxeBp1KauVg/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
-  "title": "[페이스캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
   "duration": "00:03:44"
 },
 
@@ -6511,7 +6511,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/yWF_mfUaMz8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
-  "title": "[페이스캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
   "duration": "00:03:43"
 },
 
@@ -6523,7 +6523,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/uQuZ-0dqH3s/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
-  "title": "[페이스캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
   "duration": "00:04:04"
 },
 
@@ -6535,7 +6535,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/GKeqWZHacFw/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
-  "title": "[페이스캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
   "duration": "00:04:02"
 },
 
@@ -6547,7 +6547,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/EMKjQRlm3tg/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
-  "title": "[페이스캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FaceCam) @SBS Inkigayo 221023 (2022-10-24)",
   "duration": "00:03:53"
 },
 
@@ -6559,7 +6559,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/7WGWZXDit1M/maxresdefault.jpg",
   "alt": "[#최애직캠] (G)I-DLE SHUHUA - Nxde(여자아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221022방송 (2022-10-24)",
-  "title": "[#최애직캠] (G)I-DLE SHUHUA - Nxde(여자아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221022방송 (2022-10-24)",
+  "title": "쇼! 음악중심 / [#최애직캠] (G)I-DLE SHUHUA - Nxde(여자아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC  (2022-10-22)",
   "duration": "00:03:12"
 },
 
@@ -6571,7 +6571,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/wsVxlzWuLyg/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FanCam) @SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FanCam) @SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 'Nxde' ((G)I-DLE SHUHUA FanCam) @SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:03:59"
 },
 
@@ -6583,7 +6583,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ijtNy1N_uaI/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FanCam) @SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FanCam) @SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'Nxde' ((G)I-DLE YUQI FanCam) @SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:04:08"
 },
 
@@ -6595,7 +6595,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/4l0XuEEHXtI/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 'Nxde' ((G)I-DLE SOYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:04:13"
 },
 
@@ -6607,7 +6607,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/XPGtMGG6TqI/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 'Nxde' ((G)I-DLE MIYEON FanCam) @SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:04:20"
 },
 
@@ -6619,7 +6619,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/rX0eNVqEn10/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FanCam) @SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FanCam) @SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 'Nxde' ((G)I-DLE MINNIE FanCam) @SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:03:54"
 },
 
@@ -6631,7 +6631,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/3RYZpR9n40A/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] (여자)아이들 'Nxde' ((G)I-DLE FullCam)│@SBS Inkigayo 221023 (2022-10-23)",
-  "title": "[안방1열 풀캠4K] (여자)아이들 'Nxde' ((G)I-DLE FullCam)│@SBS Inkigayo 221023 (2022-10-23)",
+  "title": "인기가요 / [안방1열 풀캠4K] (여자)아이들 'Nxde' ((G)I-DLE FullCam)│@SBS Inkigayo 221023 (2022-10-23)",
   "duration": "00:03:57"
 },
 
@@ -6643,7 +6643,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/DGDVoRVPASc/maxresdefault.jpg",
   "alt": "[예능연구소] (G)I-DLE – Nxde(#여자아이들 - 누드) FanCam | Show! MusicCore | MBC221022방송 (2022-10-22)",
-  "title": "[예능연구소] (G)I-DLE – Nxde(#여자아이들 - 누드) FanCam | Show! MusicCore | MBC221022방송 (2022-10-22)",
+  "title": "쇼! 음악중심 / [예능연구소] (G)I-DLE – Nxde(#여자아이들 - 누드) FanCam | Show! MusicCore | MBC (2022-10-22)",
   "duration": "00:03:24"
 },
 
@@ -6799,7 +6799,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/qG01SREZvlw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K 'Nxde' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K 'Nxde' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K 'Nxde' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:48"
 },
 
@@ -6811,7 +6811,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/XdRgMJIHyWw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'Nxde' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'Nxde' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K 'Nxde' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:31"
 },
 
@@ -6823,7 +6823,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Jd_Yh2caQEE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K 'Nxde' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K 'Nxde' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K 'Nxde' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:43"
 },
 
@@ -6835,7 +6835,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/GKugY-AA-4E/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K 'Nxde' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K 'Nxde' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K 'Nxde' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:42"
 },
 
@@ -6847,7 +6847,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/HYy92aathtk/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K 'Nxde' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K 'Nxde' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K 'Nxde' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:29"
 },
 
@@ -6859,7 +6859,7 @@ const stagePerformanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/orIGgsSqxIY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Nxde' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Nxde' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K 'Nxde' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.10.20 (2022-10-20)",
   "duration": "00:03:48"
 },
 
@@ -6871,7 +6871,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/nWHukxUBGpc/maxresdefault.jpg",
   "alt": "[페이스캠4K] 미연 'Drive' (MIYEON FaceCam)│@SBS Inkigayo_2022.05.01. (2022-05-02)",
-  "title": "[페이스캠4K] 미연 'Drive' (MIYEON FaceCam)│@SBS Inkigayo_2022.05.01. (2022-05-02)",
+  "title": "인기가요 / [페이스캠4K] 미연 'Drive' (MIYEON FaceCam)│@SBS Inkigayo_2022.05.01. (2022-05-02)",
   "duration": "00:04:04"
 },
 
@@ -6919,7 +6919,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/gJae5bTf8T8/maxresdefault.jpg",
   "alt": "[입덕직캠] 미연 직캠 4K 'TE AMO' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-05-02)",
-  "title": "[입덕직캠] 미연 직캠 4K 'TE AMO' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-05-02)",
+  "title": "엠카운트다운 / [입덕직캠] 미연 직캠 4K 'TE AMO' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-05-02)",
   "duration": "00:04:35"
 },
 
@@ -6931,7 +6931,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Ey5wnDm-jlQ/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 미연 'Drive' (MIYEON FanCam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
-  "title": "[안방1열 직캠4K] 미연 'Drive' (MIYEON FanCam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
+  "title": "인기가요 / [안방1열 직캠4K] 미연 'Drive' (MIYEON FanCam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
   "duration": "00:03:54"
 },
 
@@ -6943,7 +6943,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/YdM0Uh_-Xfo/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 미연 'Drive' 풀캠 (MIYEON Full Cam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
-  "title": "[안방1열 직캠4K] 미연 'Drive' 풀캠 (MIYEON Full Cam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
+  "title": "인기가요 / [안방1열 직캠4K] 미연 'Drive' 풀캠 (MIYEON Full Cam)│@SBS Inkigayo_2022.05.01. (2022-05-01)",
   "duration": "00:03:39"
 },
 
@@ -6955,7 +6955,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/f4THB6F8C1s/maxresdefault.jpg",
   "alt": "[예능연구소 4K] 미연 세로캠 ‘Drive’ (MIYEON FanCam) @Show! MusicCore 220430 (2022-04-30)",
-  "title": "[예능연구소 4K] 미연 세로캠 ‘Drive’ (MIYEON FanCam) @Show! MusicCore 220430 (2022-04-30)",
+  "title": "쇼! 음악중심 / [예능연구소 4K] 미연 세로캠 ‘Drive’ (MIYEON FanCam) @Show! MusicCore 220430 (2022-04-30)",
   "duration": "00:03:29"
 },
 
@@ -6979,7 +6979,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/in97c_fIi7o/maxresdefault.jpg",
   "alt": "[입덕직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-30)",
-  "title": "[입덕직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-30)",
+  "title": "엠카운트다운 / [입덕직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-30)",
   "duration": "00:03:49"
 },
 
@@ -7003,7 +7003,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/1jc3VHdKrqg/maxresdefault.jpg",
   "alt": "[MPD직캠] 미연 직캠 8K 'Drive' (Horizontal Ver.) (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
-  "title": "[MPD직캠] 미연 직캠 8K 'Drive' (Horizontal Ver.) (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
+  "title": "엠카운트다운 / [MPD직캠] 미연 직캠 8K 'Drive' (Horizontal Ver.) (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
   "duration": "00:03:43"
 },
 
@@ -7015,7 +7015,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/UfMvqPtzs28/maxresdefault.jpg",
   "alt": "[MPD직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
-  "title": "[MPD직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
+  "title": "엠카운트다운 / [MPD직캠] 미연 직캠 4K 'Drive' (MIYEON FanCam) | @MCOUNTDOWN_2022.4.28 (2022-04-28)",
   "duration": "00:03:42"
 },
 
@@ -7027,7 +7027,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/n6z09U0tLyA/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:11"
 },
 
@@ -7039,7 +7039,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/XRGWsLaKqBI/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:19"
 },
 
@@ -7051,7 +7051,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/CA3Xq3_6OvY/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:16"
 },
 
@@ -7063,7 +7063,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/CTLwHjPCjGQ/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:15"
 },
 
@@ -7075,7 +7075,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Ft4J7cWe3Ew/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:13"
 },
 
@@ -7087,7 +7087,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/annHlNGHQMw/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.04.03. (2022-04-04)",
   "duration": "00:03:15"
 },
 
@@ -7195,7 +7195,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/ekyyG3bnsGU/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
   "duration": "00:03:19"
 },
 
@@ -7207,7 +7207,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/XfBnoNc2vgA/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
   "duration": "00:03:15"
 },
 
@@ -7219,7 +7219,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/OG7tHq-7CYw/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
   "duration": "00:03:15"
 },
 
@@ -7231,7 +7231,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/UeXmj-_zfiA/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
   "duration": "00:03:15"
 },
 
@@ -7243,7 +7243,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/OWo3nQOfAZE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.27. (2022-03-28)",
   "duration": "00:03:14"
 },
 
@@ -7255,7 +7255,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Xd3gcicfE7w/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.27. (2022-03-27)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.27. (2022-03-27)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'TOMBOY' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.27. (2022-03-27)",
   "duration": "00:03:11"
 },
 
@@ -7339,7 +7339,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/lIP0Xs4uVlQ/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
-  "title": "[입덕직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
   "duration": "00:03:20"
 },
 
@@ -7351,7 +7351,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/_4oBTgAWcsM/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
-  "title": "[입덕직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-26)",
   "duration": "00:03:18"
 },
 
@@ -7435,7 +7435,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/N3bpPuNlzMY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:18"
 },
 
@@ -7447,7 +7447,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/dqbw9anzD-g/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:11"
 },
 
@@ -7459,7 +7459,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/kTDojXZxwZg/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:11"
 },
 
@@ -7471,7 +7471,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/py-TP2Wbj2E/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:13"
 },
 
@@ -7483,7 +7483,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/vOcg5gOLEsc/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:11"
 },
 
@@ -7495,7 +7495,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/TxFWmen_XPc/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.24 (2022-03-24)",
   "duration": "00:03:11"
 },
 
@@ -7507,7 +7507,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Krtw1sKKUPo/maxresdefault.jpg",
   "alt": "[항공캠4K] (여자)아이들 'TOMBOY' ((G)I-DLE Sky Cam)│@SBS Inkigayo_2022.03.20. (2022-03-24)",
-  "title": "[항공캠4K] (여자)아이들 'TOMBOY' ((G)I-DLE Sky Cam)│@SBS Inkigayo_2022.03.20. (2022-03-24)",
+  "title": "인기가요 / [항공캠4K] (여자)아이들 'TOMBOY' ((G)I-DLE Sky Cam)│@SBS Inkigayo_2022.03.20. (2022-03-24)",
   "duration": "00:03:13"
 },
 
@@ -7519,7 +7519,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/sPSCM-5AMOI/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.427 (2022-03-23)",
-  "title": "[쇼챔직캠 4K] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.427 (2022-03-23)",
+  "title": "쇼챔피언 / [쇼챔직캠 4K] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.427 (2022-03-23)",
   "duration": "00:03:10"
 },
 
@@ -7531,7 +7531,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/tmcQp28GYD8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
-  "title": "[페이스캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
   "duration": "00:03:28"
 },
 
@@ -7543,7 +7543,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/xfoWcOlHkVI/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
-  "title": "[페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
   "duration": "00:03:22"
 },
 
@@ -7555,7 +7555,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/SZ1P47nCpGU/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
-  "title": "[페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
   "duration": "00:03:46"
 },
 
@@ -7567,7 +7567,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/5Rfk_wF9kZ8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
-  "title": "[페이스캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
   "duration": "00:03:39"
 },
 
@@ -7579,7 +7579,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-3HFq5YqGsw/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
-  "title": "[페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FaceCam)│@SBS Inkigayo_2022.03.20. (2022-03-21)",
   "duration": "00:03:36"
 },
 
@@ -7591,7 +7591,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/XHgj4aaVd74/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-21)",
-  "title": "[입덕직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-21)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-21)",
   "duration": "00:03:06"
 },
 
@@ -7603,7 +7603,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/g0xxrh_-Gr8/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 'TOMBOY' ((G)I-DLE MIYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
   "duration": "00:03:45"
 },
 
@@ -7615,7 +7615,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/fneS0MeT6uE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
   "duration": "00:03:26"
 },
 
@@ -7627,7 +7627,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/IB-7o-f1Nlk/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'TOMBOY' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
   "duration": "00:03:45"
 },
 
@@ -7639,7 +7639,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/SKm9UqvJQh4/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 'TOMBOY' ((G)I-DLE SOYEON FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
   "duration": "00:03:54"
 },
 
@@ -7651,7 +7651,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/JHWfejTa_vw/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FanCam)│@SBS Inkigayo_2022.03.20 (2022-03-20)",
   "duration": "00:03:42"
 },
 
@@ -7663,7 +7663,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/G8jT7UVJvyc/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'TOMBOY ' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.20. (2022-03-20)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'TOMBOY ' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.20. (2022-03-20)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'TOMBOY ' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2022.03.20. (2022-03-20)",
   "duration": "00:03:17"
 },
 
@@ -7735,7 +7735,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/r-zheDO3pII/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
-  "title": "[입덕직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
   "duration": "00:03:16"
 },
 
@@ -7747,7 +7747,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Hgk3JZaYhHk/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-19)",
   "duration": "00:03:15"
 },
 
@@ -7831,7 +7831,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/3OMUAS30ke4/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K 'TOMBOY' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:11"
 },
 
@@ -7843,7 +7843,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/rEYKUapNu0M/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K 'TOMBOY' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:12"
 },
 
@@ -7855,7 +7855,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Yt4LiuwejJs/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K 'TOMBOY' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:12"
 },
 
@@ -7867,7 +7867,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/vDxU0HyTyXo/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K 'TOMBOY' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:12"
 },
 
@@ -7879,7 +7879,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/xqqLCVP436o/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K 'TOMBOY' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:08"
 },
 
@@ -7891,7 +7891,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/OxT96802rbs/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K 'TOMBOY' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:03:12"
 },
 
@@ -7903,7 +7903,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/dhfeb640CQ0/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 8K 'MY BAG' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 직캠 8K 'MY BAG' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 8K 'MY BAG' ((G)I-DLE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:58"
 },
 
@@ -7915,7 +7915,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/UD8qpxPCyjY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'MY BAG' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'MY BAG' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K 'MY BAG' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:57"
 },
 
@@ -7927,7 +7927,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/7fWge1xoGOM/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K 'MY BAG' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K 'MY BAG' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K 'MY BAG' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:57"
 },
 
@@ -7939,7 +7939,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/-rLxLLoCbUI/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K 'MY BAG' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:57"
 },
 
@@ -7951,7 +7951,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Gcoo0mzuL9c/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K 'MY BAG' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K 'MY BAG' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K 'MY BAG' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:57"
 },
 
@@ -7963,7 +7963,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/1jwGZKl0AY8/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'MY BAG' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'MY BAG' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K 'MY BAG' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2022.3.17 (2022-03-17)",
   "duration": "00:02:57"
 },
 
@@ -8023,7 +8023,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/0e4Nwr3zHf0/maxresdefault.jpg",
   "alt": "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FanCam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-26)",
-  "title": "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FanCam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-26)",
+  "title": "SBS 가요대전 / [2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FanCam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-26)",
   "duration": "00:04:37"
 },
 
@@ -8035,7 +8035,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/cfJVQrrOanc/maxresdefault.jpg",
   "alt": "[2021 가요대전 4K] 민니- 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
-  "title": "[2021 가요대전 4K] 민니- 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
+  "title": "SBS 가요대전 / [2021 가요대전 4K] 민니- 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)│@SBS Gayo Daejeon_2021.12.25. (2021-12-25)",
   "duration": "00:04:03"
 },
 
@@ -8047,7 +8047,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/3Jk7LM7oRh4/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
-  "title": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
   "duration": "00:03:06"
 },
 
@@ -8059,7 +8059,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/tlSXAk07fr8/maxresdefault.jpg",
   "alt": "[MPD직캠] WOODZ & 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’ (WOODZ&MIYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
-  "title": "[MPD직캠] WOODZ & 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’ (WOODZ&MIYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
+  "title": "엠카운트다운 / [MPD직캠] WOODZ & 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’ (WOODZ&MIYEON FanCam) | @MCOUNTDOWN_2021.7.29 (2021-07-29)",
   "duration": "00:03:37"
 },
 
@@ -8071,7 +8071,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/fzh6rgFRDdw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’((G)I-DLE MIYEON FanCam)|@MCOUNTDOWN_2021.7.29 (2021-07-29)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’((G)I-DLE MIYEON FanCam)|@MCOUNTDOWN_2021.7.29 (2021-07-29)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K ‘아틀란티스 소녀(Atlantis Princess)’((G)I-DLE MIYEON FanCam)|@MCOUNTDOWN_2021.7.29 (2021-07-29)",
   "duration": "00:03:38"
 },
 
@@ -8095,7 +8095,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/rVfVjp4gms8/maxresdefault.jpg",
   "alt": "[단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.18. (2021-07-22)",
-  "title": "[단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.18. (2021-07-22)",
+  "title": "인기가요 / [단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.18. (2021-07-22)",
   "duration": "00:03:07"
 },
 
@@ -8107,7 +8107,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4P3o5CapQXo/maxresdefault.jpg",
   "alt": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.18. (2021-07-22)",
-  "title": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.18. (2021-07-22)",
+  "title": "인기가요 / [항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.18. (2021-07-22)",
   "duration": "00:03:08"
 },
 
@@ -8119,7 +8119,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/gBqWrV9p0UQ/maxresdefault.jpg",
   "alt": "[페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.18. (2021-07-19)",
-  "title": "[페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.18. (2021-07-19)",
+  "title": "인기가요 / [페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.18. (2021-07-19)",
   "duration": "00:03:22"
 },
 
@@ -8131,7 +8131,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Lhh9a3XVsgI/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
-  "title": "[안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
+  "title": "인기가요 / [안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
   "duration": "00:03:22"
 },
 
@@ -8143,7 +8143,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/oRFJhP8gJTs/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
-  "title": "[안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
+  "title": "인기가요 / [안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.18. (2021-07-18)",
   "duration": "00:03:22"
 },
 
@@ -8203,7 +8203,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dR9V2nrRZDA/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
-  "title": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
   "duration": "00:03:07"
 },
 
@@ -8215,7 +8215,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/N6_qVU-bgLQ/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
-  "title": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.15 (2021-07-15)",
   "duration": "00:03:07"
 },
 
@@ -8239,7 +8239,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/_VGT5jnlN6E/maxresdefault.jpg",
   "alt": "[단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.11. (2021-07-15)",
-  "title": "[단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.11. (2021-07-15)",
+  "title": "인기가요 / [단독샷캠] 전소연 '삠삠' 단독샷 별도녹화│JEON SOYEON 'BEAM BEAM' ONE TAKE STAGE│@SBS Inkigayo_2021.07.11. (2021-07-15)",
   "duration": "00:03:14"
 },
 
@@ -8251,7 +8251,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2H6qwlWA01g/maxresdefault.jpg",
   "alt": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.11. (2021-07-15)",
-  "title": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.11. (2021-07-15)",
+  "title": "인기가요 / [항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.11. (2021-07-15)",
   "duration": "00:03:14"
 },
 
@@ -8263,7 +8263,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/-jysuVJOuj0/maxresdefault.jpg",
   "alt": "JEON SOYEON(전소연), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 210713] (2021-07-14)",
-  "title": "JEON SOYEON(전소연), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 210713] (2021-07-14)",
+  "title": "더쇼 / JEON SOYEON(전소연), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 210713] (2021-07-14)",
   "duration": "00:03:09"
 },
 
@@ -8275,7 +8275,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/KrDoPeDi6qI/maxresdefault.jpg",
   "alt": "JEON SOYEON(전소연), THE SHOW CHOICE! [THE SHOW 210713] (2021-07-13)",
-  "title": "JEON SOYEON(전소연), THE SHOW CHOICE! [THE SHOW 210713] (2021-07-13)",
+  "title": "더쇼 / JEON SOYEON(전소연), THE SHOW CHOICE! [THE SHOW 210713] (2021-07-13)",
   "duration": "00:03:14"
 },
 
@@ -8287,7 +8287,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/vNaEhBY4nmw/maxresdefault.jpg",
   "alt": "[페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.11. (2021-07-12)",
-  "title": "[페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.11. (2021-07-12)",
+  "title": "인기가요 / [페이스캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FaceCam)│@SBS Inkigayo_2021.07.11. (2021-07-12)",
   "duration": "00:03:18"
 },
 
@@ -8299,7 +8299,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ujQ4u4v1afA/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
-  "title": "[안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
+  "title": "인기가요 / [안방1열 직캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' FanCam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
   "duration": "00:03:12"
 },
 
@@ -8311,7 +8311,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dExKJvs2Zv0/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
-  "title": "[안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
+  "title": "인기가요 / [안방1열 직캠4K] 전소연 '삠삠' 풀캠 (JEON SOYEON 'BEAM BEAM' Full Cam)│@SBS Inkigayo_2021.07.11. (2021-07-11)",
   "duration": "00:03:14"
 },
 
@@ -8323,7 +8323,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/OhMdPLTZY6o/maxresdefault.jpg",
   "alt": "[입덕직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-11)",
-  "title": "[입덕직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-11)",
+  "title": "엠카운트다운 / [입덕직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-11)",
   "duration": "00:03:12"
 },
 
@@ -8371,7 +8371,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ydxe4vRQKFs/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
-  "title": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
   "duration": "00:03:11"
 },
 
@@ -8383,7 +8383,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ZDa16ygngHg/maxresdefault.jpg",
   "alt": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
-  "title": "[MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
+  "title": "엠카운트다운 / [MPD직캠] 전소연 직캠 4K '삠삠 (BEAM BEAM)' (Horizontal Ver.) (JEON SOYEON FanCam) | @MCOUNTDOWN_2021.7.8 (2021-07-08)",
   "duration": "00:03:10"
 },
 
@@ -8395,7 +8395,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/JD0bqPZ3nXc/maxresdefault.jpg",
   "alt": "[MPD직캠] 스토리지 M 직캠 4K '다시 만난 세계(Into The New World)' (STORAGE M FanCam) | @MCOUNTDOWN_2021.2.25 (2021-02-25)",
-  "title": "[MPD직캠] 스토리지 M 직캠 4K '다시 만난 세계(Into The New World)' (STORAGE M FanCam) | @MCOUNTDOWN_2021.2.25 (2021-02-25)",
+  "title": "엠카운트다운 / [MPD직캠] 스토리지 M 직캠 4K '다시 만난 세계(Into The New World)' (STORAGE M FanCam) | @MCOUNTDOWN_2021.2.25 (2021-02-25)",
   "duration": "00:04:01"
 },
 
@@ -8407,7 +8407,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HOwxLMIiZIQ/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN (2021-02-25)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN (2021-02-25)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN (2021-02-25)",
   "duration": "00:04:00"
 },
 
@@ -8419,7 +8419,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/9iYvl-7TtRw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN (2021-02-25)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN (2021-02-25)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN (2021-02-25)",
   "duration": "00:04:00"
 },
 
@@ -8431,7 +8431,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/zVFDJjulH1w/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN (2021-02-25)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN (2021-02-25)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '다시 만난 세계(Into The New World)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN (2021-02-25)",
   "duration": "00:04:11"
 },
 
@@ -8443,7 +8443,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/W7unlFzQYHc/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 'Dream' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-23)",
-  "title": "[입덕직캠] (여자)아이들 미연 'Dream' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-23)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 'Dream' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-23)",
   "duration": "00:02:56"
 },
 
@@ -8455,7 +8455,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/cAKdadi30MA/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Dream' (MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K 'Dream' (MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K 'Dream' (MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
   "duration": "00:03:32"
 },
 
@@ -8467,7 +8467,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/F6lZDW-PMiY/maxresdefault.jpg",
   "alt": "미연 - [NAM YOON SU X MIYEON - Dream] Special Stage |#엠카운트다운 | M COUNTDOWN EP.698 | Mnet 210218 방송 (2021-02-18)",
-  "title": "미연 - [NAM YOON SU X MIYEON - Dream] Special Stage |#엠카운트다운 | M COUNTDOWN EP.698 | Mnet 210218 방송 (2021-02-18)",
+  "title": "MCOUNTDOWN / 미연 - [NAM YOON SU X MIYEON - Dream] Special Stage |#엠카운트다운 | M COUNTDOWN EP.698 | Mnet 210218 방송 (2021-02-18)",
   "duration": "00:02:33"
 },
 
@@ -8479,7 +8479,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/T2Xm0G8cuzs/maxresdefault.jpg",
   "alt": "[MPD직캠] 남윤수X미연 직캠 4K 'Dream' (NAM YOON SU X MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
-  "title": "[MPD직캠] 남윤수X미연 직캠 4K 'Dream' (NAM YOON SU X MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
+  "title": "엠카운트다운 / [MPD직캠] 남윤수X미연 직캠 4K 'Dream' (NAM YOON SU X MIYEON FanCam) | @MCOUNTDOWN_2021.2.18 (2021-02-18)",
   "duration": "00:02:33"
 },
 
@@ -8491,7 +8491,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/wQS-NJcvPNY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
   "duration": "00:03:35"
 },
 
@@ -8503,7 +8503,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HvtTrfePwds/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
-  "title": "[페이스캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.31. (2021-02-02)",
   "duration": "00:03:31"
 },
 
@@ -8515,7 +8515,7 @@ const stagePerformanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/-Me3TQc86Oc/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.31. (2021-02-01)",
-  "title": "[안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.31. (2021-02-01)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 '화(火花)' 풀캠 ((G)I-DLE 'HWAA' Full Cam)│@SBS Inkigayo_2021.01.31. (2021-02-01)",
   "duration": "00:03:33"
 },
 
@@ -8551,7 +8551,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/n6GKD7qZDqM/maxresdefault.jpg",
   "alt": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210130방송 (2021-01-30)",
-  "title": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210130방송 (2021-01-30)",
+  "title": "[예능연구소 4K] (여자)아이들 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC (2021-01-30)",
   "duration": "00:03:23"
 },
 
@@ -8563,7 +8563,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/zFEy-B0jblU/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-29)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-29)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-29)",
   "duration": "00:03:35"
 },
 
@@ -8611,7 +8611,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/eWIX8W7_K78/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
-  "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
   "duration": "00:04:53"
 },
 
@@ -8623,7 +8623,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/6guSVSoin0A/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.28 (2021-01-28)",
   "duration": "00:03:33"
 },
 
@@ -8635,7 +8635,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/dbWQGz9WT_c/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-27)",
-  "title": "[입덕직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-27)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-27)",
   "duration": "00:03:35"
 },
 
@@ -8647,7 +8647,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Z8ztpd-nob4/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:33"
 },
 
@@ -8659,7 +8659,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Y_gqPLlr87w/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:33"
 },
 
@@ -8671,7 +8671,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/TYIOlvhi8ow/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:40"
 },
 
@@ -8683,7 +8683,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/4XVWgVugyJU/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[페이스캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:37"
 },
 
@@ -8695,7 +8695,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/t0tZNDQMnzk/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[페이스캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:33"
 },
 
@@ -8707,7 +8707,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/-_an8fHIBm4/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
-  "title": "[페이스캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.24. (2021-01-25)",
   "duration": "00:03:33"
 },
 
@@ -8719,7 +8719,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/RHShI15Yipc/maxresdefault.jpg",
   "alt": "[ENG] 1월 셋째 주 1위 '(여자)아이들'의 '화(火花)' 앵콜 무대! (Full ver.) #엠카운트다운 | M COUNTDOWN EP.695 (2021-01-25)",
-  "title": "[ENG] 1월 셋째 주 1위 '(여자)아이들'의 '화(火花)' 앵콜 무대! (Full ver.) #엠카운트다운 | M COUNTDOWN EP.695 (2021-01-25)",
+  "title": "MCOUNTDOWN / [ENG] 1월 셋째 주 1위 '(여자)아이들'의 '화(火花)' 앵콜 무대! (Full ver.) #엠카운트다운 | M COUNTDOWN EP.695 (2021-01-25)",
   "duration": "00:05:33"
 },
 
@@ -8731,7 +8731,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/FB-73cFYFWQ/maxresdefault.jpg",
   "alt": "[예능연구소 4K] (여자)아이들 1위 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210123방송 (2021-01-23)",
-  "title": "[예능연구소 4K] (여자)아이들 1위 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC210123방송 (2021-01-23)",
+  "title": "[예능연구소 4K] (여자)아이들 1위 직캠 '화(火花)(HWAA)' ((G)I-DLE FanCam) @Show!MusicCore MBC (2021-01-23)",
   "duration": "00:04:17"
 },
 
@@ -8755,7 +8755,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/cKnPL6R6O60/maxresdefault.jpg",
   "alt": "[4K] (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122 (2021-01-22)",
-  "title": "[4K] (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122 (2021-01-22)",
+  "title": "Music Bank / [4K] (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122 (2021-01-22)",
   "duration": "00:04:49"
 },
 
@@ -8767,7 +8767,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/VSUVEXibpxc/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
   "duration": "00:03:18"
 },
 
@@ -8779,7 +8779,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/qk7wQ-_cLfo/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
   "duration": "00:03:18"
 },
 
@@ -8791,7 +8791,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/GmY24rSHiOg/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
   "duration": "00:03:18"
 },
 
@@ -8803,7 +8803,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/9FUIy9UBDPU/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #쇼챔피언 l EP.381 (2021-01-22)",
   "duration": "00:03:18"
 },
 
@@ -8827,7 +8827,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/qF7nj2PEhIk/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.21 (2021-01-21)",
   "duration": "00:03:31"
 },
 
@@ -8839,7 +8839,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/SS4sn09LjT4/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.17. (2021-01-19)",
-  "title": "[페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.17. (2021-01-19)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FaceCam)│@SBS Inkigayo_2021.01.17. (2021-01-19)",
   "duration": "00:03:44"
 },
 
@@ -8863,7 +8863,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/phdc_2jy5S4/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 '화(火花)' ((G)I-DLE Shuhua 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:03:53"
 },
 
@@ -8875,7 +8875,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/yyl23sQutz0/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 '화(火花)' ((G)I-DLE Yuqi 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:03:32"
 },
 
@@ -8887,7 +8887,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/WX6y9r8uCJY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 수진 '화(火花)' ((G)I-DLE Soojin 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:03:54"
 },
 
@@ -8899,7 +8899,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Tmhotrj3xjE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 '화(火花)' ((G)I-DLE Soyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:03:54"
 },
 
@@ -8911,7 +8911,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Ray3QFxcb-E/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 '화(火花)' ((G)I-DLE Minnie 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:04:11"
 },
 
@@ -8923,7 +8923,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/2-vcQ0F_C-8/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 '화(火花)' ((G)I-DLE Miyeon 'HWAA' FanCam)│@SBS Inkigayo_2021.01.17. (2021-01-17)",
   "duration": "00:04:06"
 },
 
@@ -8935,7 +8935,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/jmvWsqFT8oo/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-17)",
-  "title": "[입덕직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-17)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-17)",
   "duration": "00:03:36"
 },
 
@@ -8947,7 +8947,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ClHGGGvbW0E/maxresdefault.jpg",
   "alt": "[예능연구소] (여자)아이들 민니 직캠 '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
-  "title": "[예능연구소] (여자)아이들 민니 직캠 '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  "title": "[예능연구소] (여자)아이들 민니 직캠 '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) @Show!MusicCore MBC (2021-01-16)",
   "duration": "00:03:20"
 },
 
@@ -8959,7 +8959,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/Iufj-2r_rdQ/maxresdefault.jpg",
   "alt": "[예능연구소] (여자)아이들 소연 직캠 '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
-  "title": "[예능연구소] (여자)아이들 소연 직캠 '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  "title": "[예능연구소] (여자)아이들 소연 직캠 '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) @Show!MusicCore MBC (2021-01-16)",
   "duration": "00:03:19"
 },
 
@@ -8971,7 +8971,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/-SJWReKDCIU/maxresdefault.jpg",
   "alt": "[예능연구소] (여자)아이들 슈화 직캠 '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
-  "title": "[예능연구소] (여자)아이들 슈화 직캠 '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  "title": "[예능연구소] (여자)아이들 슈화 직캠 '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam) @Show!MusicCore MBC (2021-01-16)",
   "duration": "00:03:20"
 },
 
@@ -8983,7 +8983,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/27w_BZZEA1M/maxresdefault.jpg",
   "alt": "[예능연구소] (여자)아이들 우기 직캠 '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
-  "title": "[예능연구소] (여자)아이들 우기 직캠 '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) @Show!MusicCore MBC210116방송 (2021-01-16)",
+  "title": "[예능연구소] (여자)아이들 우기 직캠 '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) @Show!MusicCore MBC (2021-01-16)",
   "duration": "00:03:21"
 },
 
@@ -9067,7 +9067,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/0OpTiplY624/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K '화(火花)(HWAA)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:30"
 },
 
@@ -9079,7 +9079,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/XQPFvjMJeNg/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 수진 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 수진 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 수진 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:31"
 },
 
@@ -9091,7 +9091,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/lTb7-uGdRV0/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:19"
 },
 
@@ -9103,7 +9103,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/1iPaGy98npo/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '화(火花)(HWAA)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:31"
 },
 
@@ -9115,7 +9115,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/48RHUiM8eCw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '화(火花)(HWAA)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:31"
 },
 
@@ -9127,7 +9127,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/-ybp03SGQvM/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:31"
 },
 
@@ -9139,7 +9139,7 @@ const stagePerformanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ABPX2gcnWYY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA  FanCam) | @MCOUNTDOWN_2021.1.14 (2021-01-14)",
   "duration": "00:03:31"
 },
 
@@ -9163,7 +9163,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/D67AqGE4rRU/maxresdefault.jpg",
   "alt": "뉴·영훈·상연·기현·유주·미연·우기, 함께 부른 ‘나의 노래’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
-  "title": "뉴·영훈·상연·기현·유주·미연·우기, 함께 부른 ‘나의 노래’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
+  "title": "Gayo Daejeon / 뉴·영훈·상연·기현·유주·미연·우기, 함께 부른 ‘나의 노래’ㅣ2020 SBS 가요대전 in DAEGU(sbs 2020 K-Pop Awards)ㅣSBS ENTER. (2020-12-25)",
   "duration": "00:02:12"
 },
 
@@ -9307,7 +9307,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/G1HwNUf4ouA/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
-  "title": "[페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
   "duration": "00:03:50"
 },
 
@@ -9319,7 +9319,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/3uE6fIlGBU8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
-  "title": "[페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.23. (2020-08-24)",
   "duration": "00:03:46"
 },
 
@@ -9331,7 +9331,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/KtHy8Cx-JeI/maxresdefault.jpg",
   "alt": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN (2020-08-24)",
-  "title": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN (2020-08-24)",
+  "title": "엠카운트다운 / [ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN (2020-08-24)",
   "duration": "00:05:43"
 },
 
@@ -9427,7 +9427,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/gjov4VAn-oM/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.16. (2020-08-18)",
-  "title": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.16. (2020-08-18)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.16. (2020-08-18)",
   "duration": "00:03:47"
 },
 
@@ -9439,7 +9439,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/5JcOUkbqGbI/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-18)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-18)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-18)",
   "duration": "00:03:47"
 },
 
@@ -9463,7 +9463,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/VOxgDgjgA7g/maxresdefault.jpg",
   "alt": "[앵콜CAM] (여자)아이들 '덤디덤디’ 인기가요 1위 앵콜 직캠 ((G)I-DLE 'DUMDi DUMDi' Encore Fancam) (2020-08-16)",
-  "title": "[앵콜CAM] (여자)아이들 '덤디덤디’ 인기가요 1위 앵콜 직캠 ((G)I-DLE 'DUMDi DUMDi' Encore Fancam) (2020-08-16)",
+  "title": "Inkigayo / [앵콜CAM] (여자)아이들 '덤디덤디’ 인기가요 1위 앵콜 직캠 ((G)I-DLE 'DUMDi DUMDi' Encore Fancam) (2020-08-16)",
   "duration": "00:04:46"
 },
 
@@ -9499,7 +9499,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/orcH1Ywi2RE/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
   "duration": "00:03:34"
 },
 
@@ -9511,7 +9511,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/ZwHjERmiZb8/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
   "duration": "00:03:34"
 },
 
@@ -9523,7 +9523,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/AfxEpIBYU1g/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
   "duration": "00:03:34"
 },
 
@@ -9583,7 +9583,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/APvekk1Wxjs/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 1위 앵콜 직캠 4K 덤디덤디(DUMDi DUMDi) ((G)I-DLE  No.1 Encore) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
-  "title": "[MPD직캠] (여자)아이들 직캠 1위 앵콜 직캠 4K 덤디덤디(DUMDi DUMDi) ((G)I-DLE  No.1 Encore) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 1위 앵콜 직캠 4K 덤디덤디(DUMDi DUMDi) ((G)I-DLE  No.1 Encore) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
   "duration": "00:04:44"
 },
 
@@ -9595,7 +9595,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/yVZE7tEK_VM/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
   "duration": "00:03:50"
 },
 
@@ -9607,7 +9607,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/GSDHaCpXRAQ/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
   "duration": "00:04:01"
 },
 
@@ -9619,7 +9619,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/D89_9VYIieE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.13 (2020-08-13)",
   "duration": "00:03:50"
 },
 
@@ -9631,7 +9631,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/yDBUNpXdEwM/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
-  "title": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
   "duration": "00:03:48"
 },
 
@@ -9643,7 +9643,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/frKklH77O34/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
-  "title": "[페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
   "duration": "00:03:58"
 },
 
@@ -9655,7 +9655,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/O3cPUXwWL54/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 수진 '덤디덤디' ((G)I-DLE SOOJIN 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
-  "title": "[페이스캠4K] (여자)아이들 수진 '덤디덤디' ((G)I-DLE SOOJIN 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 수진 '덤디덤디' ((G)I-DLE SOOJIN 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
   "duration": "00:03:48"
 },
 
@@ -9667,7 +9667,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/Ex0FV3lkINE/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
-  "title": "[페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_2020.08.09. (2020-08-10)",
   "duration": "00:03:49"
 },
 
@@ -9679,7 +9679,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/XmYkE3KM4FA/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 '덤디덤디' ((G)I-DLE MIYEON 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
   "duration": "00:03:47"
 },
 
@@ -9691,7 +9691,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/OuZQnpk-S7g/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 '덤디덤디' ((G)I-DLE YUQI 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
   "duration": "00:03:48"
 },
 
@@ -9703,7 +9703,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/L1EW5IuO0b0/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FanCam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
   "duration": "00:03:47"
 },
 
@@ -9715,7 +9715,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/tH5nEteD62c/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 '덤디덤디' 풀캠 ((G)I-DLE 'DUMDi DUMDi' Full Cam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
-  "title": "[안방1열 직캠4K] (여자)아이들 '덤디덤디' 풀캠 ((G)I-DLE 'DUMDi DUMDi' Full Cam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 '덤디덤디' 풀캠 ((G)I-DLE 'DUMDi DUMDi' Full Cam)│@SBS Inkigayo_2020.08.09. (2020-08-09)",
   "duration": "00:03:49"
 },
 
@@ -9727,7 +9727,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/ZWoewBn1Gu4/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 수진 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
-  "title": "[입덕직캠] (여자)아이들 수진 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 수진 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
   "duration": "00:03:51"
 },
 
@@ -9739,7 +9739,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/SkERwRWByhc/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
-  "title": "[입덕직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-08)",
   "duration": "00:03:50"
 },
 
@@ -9751,7 +9751,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/5QMzDfAvRCg/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
   "duration": "00:03:57"
 },
 
@@ -9763,7 +9763,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/9r4VBEt9irI/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
   "duration": "00:03:46"
 },
 
@@ -9775,7 +9775,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/b379CA0AdPI/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
   "duration": "00:03:46"
 },
 
@@ -9787,7 +9787,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/XKntBzwY5ZI/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
   "duration": "00:03:46"
 },
 
@@ -9799,7 +9799,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/KQOZxhZhBYc/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.8.6 (2020-08-06)",
   "duration": "00:03:46"
 },
 
@@ -9835,7 +9835,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/WmAomCWXlbE/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 슈화 직캠 4K ‘사랑해(Luv U)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.30 (2020-05-06)",
-  "title": "[입덕직캠] (여자)아이들 슈화 직캠 4K ‘사랑해(Luv U)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.30 (2020-05-06)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 슈화 직캠 4K ‘사랑해(Luv U)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.30 (2020-05-06)",
   "duration": "00:03:58"
 },
 
@@ -9871,7 +9871,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/YrMpr34mr4k/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
   "duration": "00:04:12"
 },
 
@@ -9883,7 +9883,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/s266skkYLp0/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
   "duration": "00:03:57"
 },
 
@@ -9895,7 +9895,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/bbgOs4mLet8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
-  "title": "[페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
   "duration": "00:04:13"
 },
 
@@ -9907,7 +9907,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Hk8mv2K7T-I/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
-  "title": "[페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
   "duration": "00:04:00"
 },
 
@@ -9919,7 +9919,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-9Be9EtRXvk/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 슈화 '사랑해' ((G)I-DLE SHUHUA 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
-  "title": "[페이스캠4K] (여자)아이들 슈화 '사랑해' ((G)I-DLE SHUHUA 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 슈화 '사랑해' ((G)I-DLE SHUHUA 'Luv U' FaceCam)│@SBS Inkigayo_2020.5.3 (2020-05-04)",
   "duration": "00:03:49"
 },
 
@@ -9931,7 +9931,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/hU5267NmCS0/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
   "duration": "00:03:41"
 },
 
@@ -9943,7 +9943,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/rtm8dDd4myg/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
   "duration": "00:03:41"
 },
 
@@ -10027,7 +10027,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/VcUbczhRQZQ/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K '사랑해(Luv U)’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K '사랑해(Luv U)’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K '사랑해(Luv U)’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
   "duration": "00:03:50"
 },
 
@@ -10039,7 +10039,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/SuHo9-GhXFw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
   "duration": "00:03:50"
 },
 
@@ -10051,7 +10051,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/tgMdlJLSOy4/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
   "duration": "00:03:52"
 },
 
@@ -10063,7 +10063,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/-sG4GjqqX1A/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K '사랑해(Luv U)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K '사랑해(Luv U)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K '사랑해(Luv U)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
   "duration": "00:03:50"
 },
 
@@ -10075,7 +10075,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/4TAPStx-isA/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 소연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
-  "title": "[MPD직캠] (여자)아이들 소연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 소연 직캠 4K '사랑해(Luv U)’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.30 (2020-04-30)",
   "duration": "00:03:50"
 },
 
@@ -10087,7 +10087,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/d_1AhUySuow/maxresdefault.jpg",
   "alt": "(G)I-DLE, Luv U [THE SHOW 200428] (2020-04-28)",
-  "title": "(G)I-DLE, Luv U [THE SHOW 200428] (2020-04-28)",
+  "title": "더쇼 / (G)I-DLE, Luv U [THE SHOW 200428] (2020-04-28)",
   "duration": "00:03:41"
 },
 
@@ -10099,7 +10099,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/TWMlWnapEuc/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2020.4.26 (2020-04-28)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2020.4.26 (2020-04-28)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_2020.4.26 (2020-04-28)",
   "duration": "00:03:31"
 },
 
@@ -10123,7 +10123,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/o5H4yUemAqU/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
   "duration": "00:03:23"
 },
 
@@ -10135,7 +10135,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/OzoD6QRvTh4/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
   "duration": "00:03:23"
 },
 
@@ -10147,7 +10147,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/hDLCQoIxALE/sddefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
   "duration": "00:03:23"
 },
 
@@ -10159,7 +10159,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/acTgK7n3-ZY/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-  "title": "[쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
+  "title": "Show Champion / [쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
   "duration": "00:03:51"
 },
 
@@ -10183,7 +10183,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/RtEOxC-o-UA/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'Oh my god’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.23 (2020-04-23)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 4K 'Oh my god’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.23 (2020-04-23)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 4K 'Oh my god’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.4.23 (2020-04-23)",
   "duration": "00:03:35"
 },
 
@@ -10195,7 +10195,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/cE-InnUtDNw/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.19 (2020-04-21)",
-  "title": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.19 (2020-04-21)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.19 (2020-04-21)",
   "duration": "00:03:36"
 },
 
@@ -10219,7 +10219,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Pi0drTfYRVU/maxresdefault.jpg",
   "alt": "[앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | 여자아이들 인기가요 첫 1위 축하해❤ (2020-04-19)",
-  "title": "[앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | 여자아이들 인기가요 첫 1위 축하해❤ (2020-04-19)",
+  "title": "Inkigayo / [앵콜CAM] (여자)아이들 'Oh my god’ 인기가요 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) | 여자아이들 인기가요 첫 1위 축하해❤ (2020-04-19)",
   "duration": "00:05:07"
 },
 
@@ -10231,7 +10231,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/zbSncBHObVE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
   "duration": "00:03:40"
 },
 
@@ -10243,7 +10243,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/fxYp5QJSc4g/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
   "duration": "00:03:43"
 },
 
@@ -10255,7 +10255,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/5UqW86HorJk/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.19 (2020-04-19)",
   "duration": "00:03:43"
 },
 
@@ -10291,7 +10291,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/JwqKrCaIoJ8/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
-  "title": "[페이스캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
   "duration": "00:04:35"
 },
 
@@ -10303,7 +10303,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/hjn9CrZxzvs/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
-  "title": "[페이스캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-16)",
   "duration": "00:04:34"
 },
 
@@ -10315,7 +10315,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/iM1k0zsVUzU/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 소연 직캠 4K 'Oh my god’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
-  "title": "[입덕직캠] (여자)아이들 소연 직캠 4K 'Oh my god’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 소연 직캠 4K 'Oh my god’ ((G)I-DLE SOYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
   "duration": "00:03:35"
 },
 
@@ -10327,7 +10327,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/NgsOhbvehE4/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 우기 직캠 4K 'Oh my god’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
-  "title": "[입덕직캠] (여자)아이들 우기 직캠 4K 'Oh my god’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 우기 직캠 4K 'Oh my god’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
   "duration": "00:03:35"
 },
 
@@ -10339,7 +10339,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/ASfuZ6-WLzk/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K 'Oh my god’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K 'Oh my god’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K 'Oh my god’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-14)",
   "duration": "00:03:33"
 },
 
@@ -10351,7 +10351,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/zQIodDxup8o/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
-  "title": "[페이스캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
   "duration": "00:04:35"
 },
 
@@ -10363,7 +10363,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/z6ItXwz3V68/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
-  "title": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
   "duration": "00:04:55"
 },
 
@@ -10375,7 +10375,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/BnoliQcQoD0/maxresdefault.jpg",
   "alt": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
-  "title": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
+  "title": "인기가요 / [페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2020.4.12 (2020-04-13)",
   "duration": "00:05:26"
 },
 
@@ -10411,7 +10411,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/xXS5LZkdAPA/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:36"
 },
 
@@ -10423,7 +10423,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/fqt1EbrxfjM/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:36"
 },
 
@@ -10435,7 +10435,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/bUs2EWpCZ_g/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:37"
 },
 
@@ -10447,7 +10447,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/YSwSEPZE_1E/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:17"
 },
 
@@ -10459,7 +10459,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/5NbwUQhk1iY/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:36"
 },
 
@@ -10471,7 +10471,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/-HaTj9K730U/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:36"
 },
 
@@ -10483,7 +10483,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/3dB_jpF5MaE/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_2020.4.12 (2020-04-12)",
   "duration": "00:04:37"
 },
 
@@ -10507,7 +10507,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/qiJDsIS3EcE/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K 'INTRO+Oh my god’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K 'INTRO+Oh my god’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K 'INTRO+Oh my god’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
   "duration": "00:04:39"
 },
 
@@ -10519,7 +10519,7 @@ const stagePerformanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/rH_90r4xAkU/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K 'Oh my god’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K 'Oh my god’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K 'Oh my god’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2020.4.9 (2020-04-09)",
   "duration": "00:03:34"
 },
 
@@ -10567,7 +10567,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/QI1HqYjHNMk/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'Uh-Oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)ㅣ@SBS Inkigayo_2019.7.21 (2019-07-21)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'Uh-Oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)ㅣ@SBS Inkigayo_2019.7.21 (2019-07-21)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'Uh-Oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)ㅣ@SBS Inkigayo_2019.7.21 (2019-07-21)",
   "duration": "00:03:29"
 },
 
@@ -10591,7 +10591,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/-R3yG-aTeUw/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.18 (2019-07-18)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.18 (2019-07-18)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.18 (2019-07-18)",
   "duration": "00:03:42"
 },
 
@@ -10603,7 +10603,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/BVp_re1JI6E/maxresdefault.jpg",
   "alt": "[안방1열 직캠4K] (여자)아이들 'Uh-oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)│@SBS Inkigayo_2019.7.7 (2019-07-07)",
-  "title": "[안방1열 직캠4K] (여자)아이들 'Uh-oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)│@SBS Inkigayo_2019.7.7 (2019-07-07)",
+  "title": "인기가요 / [안방1열 직캠4K] (여자)아이들 'Uh-oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)│@SBS Inkigayo_2019.7.7 (2019-07-07)",
   "duration": "00:03:44"
 },
 
@@ -10615,7 +10615,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/0l9rESXUDC4/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 슈화 직캠 4K ‘Uh-Oh’ ((G)I-DLE SHUHUA) FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-06)",
-  "title": "[입덕직캠] (여자)아이들 슈화 직캠 4K ‘Uh-Oh’ ((G)I-DLE SHUHUA) FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-06)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 슈화 직캠 4K ‘Uh-Oh’ ((G)I-DLE SHUHUA) FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-06)",
   "duration": "00:03:41"
 },
 
@@ -10627,7 +10627,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ZTsGTGjQc_M/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
   "duration": "00:03:39"
 },
 
@@ -10639,7 +10639,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Jq2fHQA_F8o/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.7.4 (2019-07-04)",
   "duration": "00:03:39"
 },
 
@@ -10651,7 +10651,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/wxYdon7kOCQ/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K 'Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-04)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K 'Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-04)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K 'Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-04)",
   "duration": "00:03:56"
 },
 
@@ -10675,7 +10675,7 @@ const stagePerformanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Gt7kJ8S-IVY/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 수진 직캠 4K 'Uh-Oh’ ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-01)",
-  "title": "[입덕직캠] (여자)아이들 수진 직캠 4K 'Uh-Oh’ ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-01)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 수진 직캠 4K 'Uh-Oh’ ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2019.6.27 (2019-07-01)",
   "duration": "00:03:56"
 },
 
@@ -10687,7 +10687,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/t8v5lNcMX0Q/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K ‘Uh-Oh’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
   "duration": "00:03:55"
 },
 
@@ -10699,7 +10699,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/51bcXANtUiY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
-  "title": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
   "duration": "00:03:55"
 },
 
@@ -10711,7 +10711,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/OiA2nd2zJe0/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
   "duration": "00:03:55"
 },
 
@@ -10723,7 +10723,7 @@ const stagePerformanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/bO-5TJhcGgA/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 민니 직캠 4K ‘Uh-Oh’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
-  "title": "[MPD직캠] (여자)아이들 민니 직캠 4K ‘Uh-Oh’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 민니 직캠 4K ‘Uh-Oh’ ((G)I-DLE MINNIE FanCam) | @MCOUNTDOWN_2019.6.27 (2019-06-27)",
   "duration": "00:03:55"
 },
 
@@ -10747,7 +10747,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/js4t9a-3hm4/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K ‘Senorita’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.3.21 (2019-03-21)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K ‘Senorita’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.3.21 (2019-03-21)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K ‘Senorita’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.3.21 (2019-03-21)",
   "duration": "00:03:20"
 },
 
@@ -10759,7 +10759,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/8zM-QaIK7og/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 미연 직캠 4K ‘Senorita’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
-  "title": "[입덕직캠] (여자)아이들 미연 직캠 4K ‘Senorita’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 미연 직캠 4K ‘Senorita’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
   "duration": "00:03:22"
 },
 
@@ -10771,7 +10771,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/wy1xZaeJId0/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 수진 직캠 4K ‘Senorita’ ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
-  "title": "[입덕직캠] (여자)아이들 수진 직캠 4K ‘Senorita’ ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 수진 직캠 4K ‘Senorita’ ((G)I-DLE SOOJIN FanCam) | @MCOUNTDOWN_2019.3.14 (2019-03-20)",
   "duration": "00:03:24"
 },
 
@@ -10783,7 +10783,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/dmVx6wLTQ9E/maxresdefault.jpg",
   "alt": "[입덕직캠] (여자)아이들 우기 직캠 4K ‘Senorita’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2019.3.7 (2019-03-15)",
-  "title": "[입덕직캠] (여자)아이들 우기 직캠 4K ‘Senorita’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2019.3.7 (2019-03-15)",
+  "title": "엠카운트다운 / [입덕직캠] (여자)아이들 우기 직캠 4K ‘Senorita’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2019.3.7 (2019-03-15)",
   "duration": "00:03:23"
 },
 
@@ -10795,7 +10795,7 @@ const stagePerformanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/oBCcUoPdax4/maxresdefault.jpg",
   "alt": "[MPD직캠(Mirrored)] (여자)아이들 거울모드 직캠 '한(-)(HANN)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.8.23 (2019-03-06)",
-  "title": "[MPD직캠(Mirrored)] (여자)아이들 거울모드 직캠 '한(-)(HANN)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.8.23 (2019-03-06)",
+  "title": "엠카운트다운 / [MPD직캠(Mirrored)] (여자)아이들 거울모드 직캠 '한(-)(HANN)' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.8.23 (2019-03-06)",
   "duration": "00:03:28"
 },
 
@@ -10807,7 +10807,7 @@ const stagePerformanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/GrPaQ_sgZkY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '한(-)(HANN)' ( (G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.9.6 (2018-09-06)",
-  "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '한(-)(HANN)' ( (G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.9.6 (2018-09-06)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '한(-)(HANN)' ( (G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.9.6 (2018-09-06)",
   "duration": "00:05:15"
 },
 
@@ -10819,7 +10819,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/0nwlhVPbAyk/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 슈화 직캠 ‘한(-)(HANN)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
-  "title": "[MPD직캠] (여자)아이들 슈화 직캠 ‘한(-)(HANN)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 슈화 직캠 ‘한(-)(HANN)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
   "duration": "00:03:28"
 },
 
@@ -10831,7 +10831,7 @@ const stagePerformanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/GXnlL1Q4diY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 ‘한(-)(HANN)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 ‘한(-)(HANN)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 ‘한(-)(HANN)’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2018.8.23 (2018-08-23)",
   "duration": "00:03:28"
 },
 
@@ -10855,7 +10855,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/nLCKdqYzeqM/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 수진 직캠 'LATATA' ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2018.5.24 (2018-05-24)",
-  "title": "[MPD직캠] (여자)아이들 수진 직캠 'LATATA' ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2018.5.24 (2018-05-24)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 수진 직캠 'LATATA' ((G)I-DLE SOO JIN FanCam) | @MCOUNTDOWN_2018.5.24 (2018-05-24)",
   "duration": "00:03:22"
 },
 
@@ -10867,7 +10867,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/A2jeCnwSq6M/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 우기 직캠 'LATATA' ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
-  "title": "[MPD직캠] (여자)아이들 우기 직캠 'LATATA' ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 우기 직캠 'LATATA' ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
   "duration": "00:03:59"
 },
 
@@ -10879,7 +10879,7 @@ const stagePerformanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/YIxMvxblD5s/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 직캠 4K 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
-  "title": "[MPD직캠] (여자)아이들 직캠 4K 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
+  "title": "엠카운트다운 / [MPD직캠] (여자)아이들 직캠 4K 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.5.3 (2018-05-03)",
   "duration": "00:03:58"
 },
 
@@ -10915,7 +10915,7 @@ const stagePerformanceCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/UJJM3xlxiV8/maxresdefault.jpg",
   "alt": "'누가 뭐 겁나' 5음절로 심장 박살내는 (여자)아이들 수진 레전드 무대 모음집♥ 점점 더 잘하면 나는 어떠케해..앓다 죽을 서수진 | #다시보는_MCOUNTDOWN #Diggle (2019-12-12)",
-  "title": "'누가 뭐 겁나' 5음절로 심장 박살내는 (여자)아이들 수진 레전드 무대 모음집♥ 점점 더 잘하면 나는 어떠케해..앓다 죽을 서수진 | #다시보는_MCOUNTDOWN #Diggle (2019-12-12)",
+  "title": "엠카운트다운 / '누가 뭐 겁나' 5음절로 심장 박살내는 (여자)아이들 수진 레전드 무대 모음집♥ 점점 더 잘하면 나는 어떠케해..앓다 죽을 서수진 | #다시보는_MCOUNTDOWN #Diggle (2019-12-12)",
   "duration": "00:03:41"
 },
 
