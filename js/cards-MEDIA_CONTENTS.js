@@ -9630,6 +9630,125 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/QWpnWIrSko8/sddefault.jpg",
   "alt": "[선공개] 아무도 모르게 똥 먹기 vs 똥 안 먹었는데 먹었다고 소문나기 | 추라이추라이 EP18 #추라이추라이 #넷플릭스 #추성훈 #김재중 #아이들 #민니 #미연 (2025-06-16)",
   "title": "[선공개] 아무도 모르게 똥 먹기 vs 똥 안 먹었는데 먹었다고 소문나기 | 추라이추라이 EP18 #추라이추라이 #넷플릭스 #추성훈 #김재중 #아이들 #민니 #미연 (2025-06-16)"
+},
+  {
+  "link": "https://youtu.be/H7HhwK_hfEM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:05:47",
+  "thumbnail": "https://i.ytimg.com/vi/H7HhwK_hfEM/sddefault.jpg",
+  "alt": "아이돌Pick크닉 EP.15_BEHIND",
+  "title": "아이돌Pick크닉 EP.15_BEHIND"
+},
+
+{
+  "link": "https://youtu.be/pjsMdmsB9JQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:48:16",
+  "thumbnail": "https://i.ytimg.com/vi/pjsMdmsB9JQ/mqdefault.jpg",
+  "alt": "아이돌Pick크닉 EP.15",
+  "title": "아이돌Pick크닉 EP.15"
+},
+
+{
+  "link": "https://youtu.be/IzoXYqn-hls",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:05:58",
+  "thumbnail": "https://i.ytimg.com/vi/IzoXYqn-hls/mqdefault.jpg",
+  "alt": "아이돌Pick크닉 EP.14 BEHIND",
+  "title": "아이돌Pick크닉 EP.14 BEHIND"
+},
+
+{
+  "link": "https://youtu.be/c3WiETLbcXE",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:48:46",
+  "thumbnail": "https://i.ytimg.com/vi/c3WiETLbcXE/mqdefault.jpg",
+  "alt": "아이돌Pick크닉 EP.14",
+  "title": "아이돌Pick크닉 EP.14"
+},
+
+{
+  "link": "https://youtu.be/76y9xI0z0K0",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:08:54",
+  "thumbnail": "https://i.ytimg.com/vi/76y9xI0z0K0/mqdefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들  BEHIND",
+  "title": "아이돌워크숍 (여자)아이들  BEHIND"
+},
+
+{
+  "link": "https://youtu.be/nwWRFgLpRHw",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:16:17",
+  "thumbnail": "https://i.ytimg.com/vi/nwWRFgLpRHw/mqdefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들 EP.5",
+  "title": "아이돌워크숍 (여자)아이들 EP.5"
+},
+
+{
+  "link": "https://youtu.be/HIbzB4OI-As",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:16:29",
+  "thumbnail": "https://i.ytimg.com/vi/HIbzB4OI-As/sddefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들 EP.4",
+  "title": "아이돌워크숍 (여자)아이들 EP.4"
+},
+
+{
+  "link": "https://youtu.be/NJkNzpI7UaU",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:16:14",
+  "thumbnail": "https://i.ytimg.com/vi/NJkNzpI7UaU/sddefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들 EP.3",
+  "title": "아이돌워크숍 (여자)아이들 EP.3"
+},
+
+{
+  "link": "https://youtu.be/qwrmX4xKIrs",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:14:57",
+  "thumbnail": "https://i.ytimg.com/vi/qwrmX4xKIrs/maxresdefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들 EP.2",
+  "title": "아이돌워크숍 (여자)아이들 EP.2"
+},
+
+{
+  "link": "https://youtu.be/v5te6UYk2rM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:16:17",
+  "thumbnail": "https://i.ytimg.com/vi/v5te6UYk2rM/sddefault.jpg",
+  "alt": "아이돌워크숍 (여자)아이들 EP.1",
+  "title": "아이돌워크숍 (여자)아이들 EP.1"
 }
 
 ];
