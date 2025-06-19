@@ -9688,7 +9688,7 @@ const mediaContentsCards = [
   "duration": "00:08:54",
   "thumbnail": "https://i.ytimg.com/vi/76y9xI0z0K0/mqdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들  BEHIND",
-  "title": "아이돌워크숍 (여자)아이들  BEHIND"
+  "title": "(주)아이돌워크숍 (여자)아이들  BEHIND"
 },
 
 {
@@ -9700,7 +9700,7 @@ const mediaContentsCards = [
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/nwWRFgLpRHw/mqdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.5",
-  "title": "아이돌워크숍 (여자)아이들 EP.5"
+  "title": "(주)아이돌워크숍 (여자)아이들 EP.5"
 },
 
 {
@@ -9712,7 +9712,7 @@ const mediaContentsCards = [
   "duration": "00:16:29",
   "thumbnail": "https://i.ytimg.com/vi/HIbzB4OI-As/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.4",
-  "title": "아이돌워크숍 (여자)아이들 EP.4"
+  "title": "(주)아이돌워크숍 (여자)아이들 EP.4"
 },
 
 {
@@ -9724,7 +9724,7 @@ const mediaContentsCards = [
   "duration": "00:16:14",
   "thumbnail": "https://i.ytimg.com/vi/NJkNzpI7UaU/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.3",
-  "title": "아이돌워크숍 (여자)아이들 EP.3"
+  "title": "(주)아이돌워크숍 (여자)아이들 EP.3"
 },
 
 {
@@ -9736,7 +9736,7 @@ const mediaContentsCards = [
   "duration": "00:14:57",
   "thumbnail": "https://i.ytimg.com/vi/qwrmX4xKIrs/maxresdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.2",
-  "title": "아이돌워크숍 (여자)아이들 EP.2"
+  "title": "(주)아이돌워크숍 (여자)아이들 EP.2"
 },
 
 {
@@ -9748,7 +9748,7 @@ const mediaContentsCards = [
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/v5te6UYk2rM/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.1",
-  "title": "아이돌워크숍 (여자)아이들 EP.1"
+  "title": "(주)아이돌워크숍 (여자)아이들 EP.1"
 }
 
 ];
