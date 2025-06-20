@@ -62,6 +62,8 @@
   flex-wrap: wrap;
 }
 
+/* 기존 .top-bar는 유지 */
+
 .search-wrapper {
   position: relative;
 }
@@ -86,25 +88,25 @@
   font-size: 16px;
 }
 
-.search-wrapper input {
-  padding: 12px 40px 12px 16px;
-  border-radius: 24px;
+/* 이거 꼭 넣어줘야 기존 버튼들이 깨지지 않아 */
+.top-bar button:not(#searchBtn) {
+  background-color: #fff;
   border: none;
-  width: 260px;
-  font-size: 16px;
+  border-radius: 50%;
+  padding: 6px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
 }
 
-.search-wrapper button {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  font-size: 16px;
+.top-bar button:not(#searchBtn) img {
+  width: 24px;
+  height: 24px;
 }
+
     .card-container {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
