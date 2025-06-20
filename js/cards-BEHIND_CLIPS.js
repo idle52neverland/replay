@@ -1965,7 +1965,19 @@ const behindClipsCards = [
   "alt": "[#직캠보고서🔍] #아이들 #idle 네버랜드랑 아이들이랑 무슨 사이야~💜 음중 사전녹화 비하인드⏯️ (ENG/JPN sub) (2025-06-08)",
   "title": "[#직캠보고서🔍] #아이들 #idle 네버랜드랑 아이들이랑 무슨 사이야~💜 음중 사전녹화 비하인드⏯️ (ENG/JPN sub) (2025-06-08)",
   "duration": "00:07:36"
+},
+  {
+  "link": "https://youtu.be/75_XXHiAG4U",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/75_XXHiAG4U/mqdefault.jpg",
+  "alt": "[B:MY BOYZ] MC 미연이 함께하는 글로벌 보이그룹 오디션, 곧 시작합니다! (2025-06-18)",
+  "title": "[B:MY BOYZ] MC 미연이 함께하는 글로벌 보이그룹 오디션, 곧 시작합니다! (2025-06-18)"
 }
+
 
 
 ];
