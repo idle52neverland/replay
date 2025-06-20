@@ -18,8 +18,8 @@ const specialReleasesCards = [
   "year": "2019",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
-  "alt": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "title": "< < Feat. SOYEON > > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "alt": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "title": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
   "duration": "00:03:14"
 },
 {
@@ -40,8 +40,8 @@ const specialReleasesCards = [
   "year": "2020",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
-  "alt": "< < Feat. SOYEON > > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "title": "< < Feat. SOYEON > >‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "alt": "<  Feat. SOYEON  > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "title": "< Feat. SOYEON > ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
   "duration": "00:03:23"
 },
 {
@@ -73,8 +73,8 @@ const specialReleasesCards = [
   "year": "2023",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "< < Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "< <Feat. MINNIE > > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "alt": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
   "duration": "00:03:33"
 },
 {
@@ -119,8 +119,8 @@ const specialReleasesCards = [
   "month": "06",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
-  "alt": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
-  "title": "< < Prod.YUQI > > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
+  "alt": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
+  "title": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
 },
   {
   "link": "https://youtu.be/uWT79Qq52sU",
@@ -130,8 +130,8 @@ const specialReleasesCards = [
   "month": "06",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
-  "title": "< < Prod.SOYEON > > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
+  "alt": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
+  "title": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
 },
   {
   "link": "https://youtu.be/AlirzLFEHUI",
@@ -141,8 +141,8 @@ const specialReleasesCards = [
   "month": "09",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
-  "alt": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)",
-  "title": "< < Prod.SOYEON > > QWER '내 이름 맑음' Official MV (2024-09-23)"
+  "alt": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)",
+  "title": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)"
 },
   {
   "link": "https://youtu.be/en4BDQgflG0",
@@ -152,8 +152,8 @@ const specialReleasesCards = [
   "month": "09",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
-  "alt": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
-  "title": "< < Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
+  "alt": "< Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
+  "title": "< Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
 },
 
   {
@@ -164,8 +164,8 @@ const specialReleasesCards = [
   "month": "06",
   "duration": "00:03:49",
   "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
-  "alt": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
-  "title": "< < Feat. YUQI > > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
+  "alt": "< Feat. YUQI > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
+  "title": "< Feat. YUQI > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
 },
 
   {
@@ -407,8 +407,8 @@ const specialReleasesCards = [
   "month": "01",
   "duration": "00:02:26",
   "thumbnail": "https://i.ytimg.com/vi/4On_fj1ccks/mqdefault.jpg",
-  "alt": "< < Prod. SOYEON > > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
-  "title": "< < Prod. SOYEON > >[ENG] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
+  "alt": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
+  "title": "< Prod. SOYEON >[ENG] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
 },
 {
   "link": "https://youtu.be/ZvhpjERxJlQ",
@@ -418,8 +418,8 @@ const specialReleasesCards = [
   "month": "01",
   "duration": "00:03:04",
   "thumbnail": "https://i.ytimg.com/vi/ZvhpjERxJlQ/hqdefault.jpg",
-  "alt": "< < Written by SOYEON > > [MV] CLC _ No (2019-01-30)",
-  "title": "< < Written by SOYEON > > [MV] CLC _ No (2019-01-30)"
+  "alt": "< Written by SOYEON > [MV] CLC _ No (2019-01-30)",
+  "title": "< Written by SOYEON > [MV] CLC _ No (2019-01-30)"
 },
 {
   "link": "https://youtu.be/lZ2R-LKOevo",
@@ -628,8 +628,8 @@ const specialReleasesCards = [
   "month": "05",
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/4xycl7eFNmE/mqdefault.jpg",
-  "alt": "“민니- Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
-  "title": "“민니- Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
+  "alt": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
+  "title": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
 },
 {
   "link": "https://youtu.be/8yM26c7RpB4",
