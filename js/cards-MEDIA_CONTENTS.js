@@ -10147,7 +10147,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Mm5JoAF6wTw/sddefault.jpg",
   "alt": "[전참시 미방분] 들망진창 완전체 아이들 (i-dle) 포토타임 (2025-05-17)",
-  "title": "[전참시 미방분] 들망진창 완전체 아이들 (i-dle) 포토타임 (2025-05-17)",
+  "title": "[전참시 미방분] 들망진창 완전체 아이들 (i-dle) 포토타임 |전지적 참견 시점| (2025-05-17)",
   "duration": "00:02:15"
 },
 
@@ -10202,7 +10202,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/khZTXMEu-A0",
   "category": "MEDIA_CONTENTS",
-  "member": "민니, 우기",
+  "member": "아이들",
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/khZTXMEu-A0/sddefault.jpg",
@@ -10218,32 +10218,32 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/RugCavy2gXM/sddefault.jpg",
-  "alt": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle (2025-05-18)",
-  "title": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle (2025-05-17)",
+  "alt": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩 |전지적 참견 시점| (2025-05-18)",
+  "title": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩 |전지적 참견 시점| (2025-05-17)",
   "duration": "00:17:29"
 },
 
 {
   "link": "https://youtu.be/NS5YovKgcco",
   "category": "MEDIA_CONTENTS",
-  "member": "민니",
+  "member": "아이들",
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/NS5YovKgcco/sddefault.jpg",
-  "alt": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle (2025-05-17)",
-  "title": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle (2025-05-17)",
+  "alt": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들|전지적 참견 시점|(2025-05-17)",
+  "title": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들|전지적 참견 시점| (2025-05-17)",
   "duration": "00:18:07"
 },
 
 {
   "link": "https://youtu.be/dVkhHSIbc08",
   "category": "MEDIA_CONTENTS",
-  "member": "민니, 우기",
+  "member": "아이들",
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dVkhHSIbc08/sddefault.jpg",
-  "alt": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 #전지적참견시점 #아이들 #idle (2025-05-17)",
-  "title": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 #전지적참견시점 #아이들 #idle (2025-05-17)",
+  "alt": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 |전지적 참견 시점| (2025-05-17)",
+  "title": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 |전지적 참견 시점| (2025-05-17)",
   "duration": "00:15:34"
 },
 
@@ -10254,8 +10254,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/unBP1SynDcA/sddefault.jpg",
-  "alt": "[전참시 미방분]  환승이별 vs 잠수이별? 다섯 개의 i가 모여 네버엔딩 아이들(i-dle) 밸런스 게임! (2025-05-20)",
-  "title": "[전참시 미방분]  환승이별 vs 잠수이별? 다섯 개의 i가 모여 네버엔딩 아이들(i-dle) 밸런스 게임! (2025-05-20)",
+  "alt": "[전참시 미방분]  환승이별 vs 잠수이별? 다섯 개의 i가 모여 네버엔딩 아이들(i-dle) 밸런스 게임!|전지적 참견 시점| (2025-05-20)",
+  "title": "[전참시 미방분]  환승이별 vs 잠수이별? 다섯 개의 i가 모여 네버엔딩 아이들(i-dle) 밸런스 게임!|전지적 참견 시점| (2025-05-20)",
   "duration": "00:03:43"
 },
 
@@ -10338,8 +10338,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/IHgVv65TPuA/sddefault.jpg",
-  "alt": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop #전참시 #우기 (2025-05-22)",
-  "title": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop #전참시 #우기 (2025-05-22)",
+  "alt": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점| (2025-05-22)",
+  "title": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점| (2025-05-22)",
   "duration": "00:01:05"
 },
 
@@ -10530,8 +10530,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/ZWiX7ljJ4mc/sddefault.jpg",
-  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 #아이들 ((2025-05-17)",
-  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 #아이들 (2025-05-17)",
+  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| ((2025-05-17)",
+  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| (2025-05-17)",
   "duration": "01:30:46"
 },
 
@@ -11337,6 +11337,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/uEQXvSJek6Y/sddefault.jpg",
   "alt": "여왕에서 디바로 돌아온 (여자)아이들의 신곡 무대💗 〈Super Lady〉♪ | 아는 형님 419회  (2024-02-03)",
   "title": "여왕에서 디바로 돌아온 (여자)아이들의 신곡 무대💗 〈Super Lady〉♪ | 아는 형님 419회 (2024-02-03)"
+},
+  {
+  "link": "https://youtu.be/gV92lk--HI4",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기, 슈화",
+  "year": "2024",
+  "month": "08",
+  "duration": "00:24:34",
+  "thumbnail": "https://i.ytimg.com/vi/gV92lk--HI4/sddefault.jpg",
+  "alt": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)",
+  "title": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)"
 }
 
 ];
