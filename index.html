@@ -160,16 +160,16 @@
       text-overflow: ellipsis;
       box-sizing: content-box;
     }
- .card-meta {
+.card-meta {
   font-size: 11px;
-  color: #aaa;
+  color: #ccc; /* ✅ 더 밝게 */
   display: flex;
-  justify-content: center;
+  justify-content: space-between; /* ✅ 왼쪽-오른쪽 정렬 */
   gap: 10px;
   padding: 2px 6px 4px;
-  opacity: 0.7;
-  flex-wrap: wrap;
-  text-align: center;
+  opacity: 0.85;
+  flex-wrap: nowrap;  /* ✅ 한 줄로 고정 */
+  text-align: left;
 }
 
     .button-wrapper {
@@ -229,13 +229,12 @@
 
   @media screen and (max-width: 768px) {
   .card-meta {
-    display: flex;
-    flex-direction: column;
+    flex-direction: row;         /* ✅ 세로 → 가로로 유지 */
+    justify-content: space-between;
     align-items: center;
-    gap: 0;
-    padding: 2px 6px 4px;
-    line-height: 1.2;
+    text-align: left;
   }
+}
 
   .meta-category {
     display: block;
