@@ -565,6 +565,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/RwmNUJFSX2E/hqdefault.jpg",
   "alt": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]",
   "title": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]"
+},
+  {
+  "link": "https://youtu.be/MAcsBbKPMtE",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:06:00",
+  "thumbnail": "https://i.ytimg.com/vi/MAcsBbKPMtE/hqdefault.jpg",
+  "alt": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)",
+  "title": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)"
 }
 
   ];
