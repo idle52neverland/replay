@@ -355,8 +355,8 @@ const mediaContentsCards = [
   "month": "03",
   "duration": "00:08:22",
   "thumbnail": "https://i.ytimg.com/vi/EQIvyhYxV6c/sddefault.jpg",
-  "alt": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC 190312 방송 외 (2019-03-12)",
-  "title": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC 190312 방송 외 (2019-03-12)"
+  "alt": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC (2019-03-12)",
+  "title": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC (2019-03-12)"
 },
 
 {
@@ -367,8 +367,8 @@ const mediaContentsCards = [
   "month": "03",
   "duration": "00:08:33",
   "thumbnail": "https://i.ytimg.com/vi/bwiAoJCf9Sw/mqdefault.jpg",
-  "alt": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC 190312 방송 외 (2019-03-12)",
-  "title": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC 190312 방송 외 (2019-03-12)"
+  "alt": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC (2019-03-12)",
+  "title": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC (2019-03-12)"
 },
 
 {
@@ -391,8 +391,8 @@ const mediaContentsCards = [
   "month": "04",
   "duration": "00:10:07",
   "thumbnail": "https://i.ytimg.com/vi/1yi8o563V9g/sddefault.jpg",
-  "alt": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
-  "title": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+  "alt": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC (2019-04-16)",
+  "title": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC (2019-04-16)"
 },
 
 {
@@ -403,8 +403,8 @@ const mediaContentsCards = [
   "month": "04",
   "duration": "00:17:39",
   "thumbnail": "https://i.ytimg.com/vi/gOyAE_tBhu8/sddefault.jpg",
-  "alt": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
-  "title": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+  "alt": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC (2019-04-16)",
+  "title": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC (2019-04-16)"
 },
 
 {
@@ -415,8 +415,8 @@ const mediaContentsCards = [
   "month": "04",
   "duration": "00:10:03",
   "thumbnail": "https://i.ytimg.com/vi/JC6E8cs6grc/sddefault.jpg",
-  "alt": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
-  "title": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+  "alt": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC (2019-04-16)",
+  "title": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC (2019-04-16)"
 },
 
 {
@@ -2778,8 +2778,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/gawEULCUd18/sddefault.jpg",
-  "alt": "Mnet TMI NEWS [선공개] ※폭소주의※ 우기&미연&민니의 독창적 여름 푸드 송♪ ｜오늘 저녁 8시 본방송 200805 EP.53",
-  "title": "Mnet TMI NEWS [선공개] ※폭소주의※ 우기&미연&민니의 독창적 여름 푸드 송♪ ｜오늘 저녁 8시 본방송 200805 EP.53 (2020-08-05)",
+  "alt": "Mnet TMI NEWS [선공개] ※폭소주의※ 우기&미연&민니의 독창적 여름 푸드 송♪ EP.53",
+  "title": "Mnet TMI NEWS [선공개] ※폭소주의※ 우기&미연&민니의 독창적 여름 푸드 송♪ EP.53 (2020-08-05)",
   "duration": "00:01:10"
 },
 
@@ -2791,8 +2791,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:05",
   "thumbnail": "https://i.ytimg.com/vi/E-hmPopOkoE/mqdefault.jpg",
-  "alt": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 200805 EP.53 (2020-08-05)",
-  "title": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 200805 EP.53 (2020-08-05)"
+  "alt": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 EP.53 (2020-08-05)"
 },
 
 {
@@ -2803,8 +2803,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:00",
   "thumbnail": "https://i.ytimg.com/vi/VludHIxspyI/hqdefault.jpg",
-  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? 200805 EP.53 (2020-08-05)",
-  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? 200805 EP.53 (2020-08-05)"
+  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? EP.53 (2020-08-05)"
 },
 
 {
@@ -2815,8 +2815,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:24",
   "thumbnail": "https://i.ytimg.com/vi/ZNUZTNgzUHM/hqdefault.jpg",
-  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) 200805 EP.53 (2020-08-05)",
-  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) 200805 EP.53 (2020-08-05)"
+  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) EP.53 (2020-08-05)"
 },
 
 {
@@ -2827,8 +2827,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/M14Qsk45YGE/maxresdefault.jpg",
-  "alt": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) 200805 EP.53 (2020-08-05)",
-  "title": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) 200805 EP.53 (2020-08-05)"
+  "alt": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) EP.53 (2020-08-05)"
 },
 
 {
@@ -2839,8 +2839,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/5X9zwNcoClo/maxresdefault.jpg",
-  "alt": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! 200805 EP.53 (2020-08-05)",
-  "title": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! 200805 EP.53 (2020-08-05)"
+  "alt": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! EP.53 (2020-08-05)"
 },
 
 {
@@ -2851,8 +2851,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:06",
   "thumbnail": "https://i.ytimg.com/vi/JopzVK4Szbk/mqdefault.jpg",
-  "alt": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ 200805 EP.53 (2020-08-05)",
-  "title": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ 200805 EP.53 (2020-08-05)"
+  "alt": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ EP.53 (2020-08-05)"
 },
 
 {
@@ -2863,8 +2863,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:50",
   "thumbnail": "https://i.ytimg.com/vi/eOrvO8o2k-0/mqdefault.jpg",
-  "alt": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! 200805 EP.53 (2020-08-05)",
-  "title": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! 200805 EP.53 (2020-08-05)"
+  "alt": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! EP.53 (2020-08-05)"
 },
 
 {
@@ -2875,8 +2875,8 @@ const mediaContentsCards = [
   "month": "08",
   "duration": "00:01:14",
   "thumbnail": "https://i.ytimg.com/vi/4CZKNOEqT_Y/sddefault.jpg",
-  "alt": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! 200805 EP.53 (2020-08-05)",
-  "title": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! 200805 EP.53 (2020-08-05)"
+  "alt": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! EP.53 (2020-08-05)"
 },
 
 {
@@ -3103,8 +3103,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:47",
   "thumbnail": "https://i.ytimg.com/vi/kwJLge3ALWM/mqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3115,8 +3115,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:01:27",
   "thumbnail": "https://i.ytimg.com/vi/QdJPD6Mjlzw/mqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3127,8 +3127,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:17",
   "thumbnail": "https://i.ytimg.com/vi/2klT62iu3pU/mqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC (2020-09-25)"
 },
 
 {
@@ -3139,8 +3139,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:52",
   "thumbnail": "https://i.ytimg.com/vi/AJ05hZ1kej8/hqdefault.jpg",
-  "alt": "＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "＂<패널-미연,민니,소연,우기> 야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "＂<패널-미연,민니,소연,우기> 야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3151,8 +3151,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:03:38",
   "thumbnail": "https://i.ytimg.com/vi/lJRp6i8JX9A/sddefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3163,8 +3163,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:00",
   "thumbnail": "https://i.ytimg.com/vi/bqueA4tsx8I/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC (2020-09-25)"
 },
 
 {
@@ -3175,8 +3175,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:23",
   "thumbnail": "https://i.ytimg.com/vi/5mtPyNFuCKQ/sddefault.jpg",
-  "alt": "김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC 200925 방송 (2020-09-25)"
+  "alt": "김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC (2020-09-25)"
 },
 
 {
@@ -3187,8 +3187,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:30",
   "thumbnail": "https://i.ytimg.com/vi/VzVJKqXv_TY/maxresdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3199,8 +3199,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:02",
   "thumbnail": "https://i.ytimg.com/vi/_QCvM9V5ebI/sddefault.jpg",
-  "alt": "＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "＂<패널-미연,민니,소연,우기> 저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "＂<패널-미연,민니,소연,우기> 저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3211,8 +3211,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/1Qot8k8HEQc/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3223,8 +3223,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/8OZrdHo6Vws/mqdefault.jpg",
-  "alt": "찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3235,8 +3235,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:01:14",
   "thumbnail": "https://i.ytimg.com/vi/lP4XyjOFkiM/mqdefault.jpg",
-  "alt": "두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3247,8 +3247,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:16",
   "thumbnail": "https://i.ytimg.com/vi/Egal3Ugjwo4/hqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3259,8 +3259,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:38",
   "thumbnail": "https://i.ytimg.com/vi/hl5yWvpLTdk/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3271,8 +3271,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/qYvnMdL90Hg/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC (2020-09-25)"
 },
 
 {
@@ -3283,8 +3283,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:11",
   "thumbnail": "https://i.ytimg.com/vi/nB0JZLYchPE/sddefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3295,8 +3295,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:01:41",
   "thumbnail": "https://i.ytimg.com/vi/WyiRw4es7Tk/mqdefault.jpg",
-  "alt": "[미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3307,8 +3307,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:01:28",
   "thumbnail": "https://i.ytimg.com/vi/LGrliLCKqb4/sddefault.jpg",
-  "alt": "[미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC (2020-09-25)"
 },
 
 {
@@ -3319,8 +3319,8 @@ const mediaContentsCards = [
   "month": "09",
   "duration": "00:02:10",
   "thumbnail": "https://i.ytimg.com/vi/S9xXFGoDem8/sddefault.jpg",
-  "alt": "[미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
-  "title": "<패널-미연,민니,소연,우기> [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+  "alt": "[미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC (2020-09-25)"
 },
 
 {
@@ -3366,8 +3366,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ZGgRnyZPbcM/sddefault.jpg",
-  "alt": "[2020 아이돌 멍멍 선수권 대회] [5조 예선전] 여자아이들 슈화 X 하쿠의 찰떡 호흡으로 완주♨ MBC 201002 방송",
-  "title": "[2020 아이돌 멍멍 선수권 대회] [5조 예선전] 여자아이들 슈화 X 하쿠의 찰떡 호흡으로 완주♨ MBC 201002 방송 (2020-10-02)",
+  "alt": "[2020 아이돌 멍멍 선수권 대회] [5조 예선전] 여자아이들 슈화 X 하쿠의 찰떡 호흡으로 완주♨ MBC",
+  "title": "[2020 아이돌 멍멍 선수권 대회] [5조 예선전] 여자아이들 슈화 X 하쿠의 찰떡 호흡으로 완주♨ MBC (2020-10-02)",
   "duration": "00:02:10"
 },
 
@@ -3450,8 +3450,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/0N8plAbdN2w/sddefault.jpg",
-  "alt": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송",
-  "title": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)",
+  "alt": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC",
+  "title": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC (2020-10-31)",
   "duration": "00:02:47"
 },
 
@@ -3462,8 +3462,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/-VLquFsP3pU/sddefault.jpg",
-  "alt": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송",
-  "title": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)",
+  "alt": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC",
+  "title": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC (2020-10-31)",
   "duration": "00:02:34"
 },
 
@@ -3474,8 +3474,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/5YGUHKzIvqg/sddefault.jpg",
-  "alt": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC 201101 방송",
-  "title": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC 201101 방송 (2020-11-01)",
+  "alt": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC",
+  "title": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC (2020-11-01)",
   "duration": "00:03:03"
 },
 
@@ -3486,8 +3486,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/iTuWmm6dAY4/sddefault.jpg",
-  "alt": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC 201101 방송",
-  "title": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC 201101 방송 (2020-11-01)",
+  "alt": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC",
+  "title": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC (2020-11-01)",
   "duration": "00:04:04"
 },
 
@@ -3618,8 +3618,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/5z71ZqrChJA/sddefault.jpg",
-  "alt": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI |  | 복면가왕 #TVPP | MBC 201101 방송",
-  "title": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI |  | 복면가왕 #TVPP | MBC 201101 방송 (2020-11-06)",
+  "alt": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI |  | 복면가왕 #TVPP",
+  "title": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI |  | 복면가왕 #TVPP (2020-11-01)",
   "duration": "00:05:34"
 },
 
@@ -3894,8 +3894,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/iQwndstgjQE/sddefault.jpg",
-  "alt": "현주엽과 식성이 똑같은 (여자)아이들 리더 소연★ 채소는 안 먹어요...^^ [사장님 귀는 당나귀 귀/Boss in the Mirror] | KBS 201220 방송 (2020-12-20)",
-  "title": "현주엽과 식성이 똑같은 (여자)아이들 리더 소연★ 채소는 안 먹어요...^^ [사장님 귀는 당나귀 귀/Boss in the Mirror] | KBS 201220 방송 (2020-12-20)",
+  "alt": "현주엽과 식성이 똑같은 (여자)아이들 리더 소연★ 채소는 안 먹어요...^^ [사장님 귀는 당나귀 귀/Boss in the Mirror] (2020-12-20)",
+  "title": "현주엽과 식성이 똑같은 (여자)아이들 리더 소연★ 채소는 안 먹어요...^^ [사장님 귀는 당나귀 귀/Boss in the Mirror] (2020-12-20)",
   "duration": "00:01:03"
 },
 
@@ -4014,8 +4014,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/stVV5UFAwaE/sddefault.jpg",
-  "alt": "작사, 작곡, 프로듀싱 완벽 그 자체★ 만능형 아이돌♥ 소연 (ft. 의성어 천재) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
-  "title": "작사, 작곡, 프로듀싱 완벽 그 자체★ 만능형 아이돌♥ 소연 (ft. 의성어 천재) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
+  "alt": "작사, 작곡, 프로듀싱 완벽 그 자체★ 만능형 아이돌♥ 소연 (ft. 의성어 천재) [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-01-15)",
+  "title": "작사, 작곡, 프로듀싱 완벽 그 자체★ 만능형 아이돌♥ 소연 (ft. 의성어 천재) [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-01-15)",
   "duration": "00:02:11"
 },
 
@@ -4038,8 +4038,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/sGbYKS2YjCc/sddefault.jpg",
-  "alt": "[스타★봐야지][ENG] 너무 귀여워서 화(火花)나네.. 우기(YUQI)의 귀엽고 야무진 순간들 모음♥ㅣ아는형님ㅣ201031 방송 외 (2021-01-16)",
-  "title": "[스타★봐야지][ENG] 너무 귀여워서 화(火花)나네.. 우기(YUQI)의 귀엽고 야무진 순간들 모음♥ㅣ아는형님ㅣ201031 방송 외 (2021-01-16)",
+  "alt": "[스타★봐야지][ENG] 너무 귀여워서 화(火花)나네.. 우기(YUQI)의 귀엽고 야무진 순간들 모음♥ㅣ아는형님ㅣ (2020-10-31)",
+  "title": "[스타★봐야지][ENG] 너무 귀여워서 화(火花)나네.. 우기(YUQI)의 귀엽고 야무진 순간들 모음♥ㅣ아는형님ㅣ (2020-10-31)",
   "duration": "00:12:38"
 },
 
@@ -4050,8 +4050,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/qKadA2hr01Y/sddefault.jpg",
-  "alt": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송",
-  "title": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-18)",
+  "alt": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS ",
+  "title": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS (2021-01-15)",
   "duration": "00:03:19"
 },
 
@@ -4698,8 +4698,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/w6osFRgF9gg/sddefault.jpg",
-  "alt": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬, MBC 210221 방송",
-  "title": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬, MBC 210221 방송 (2021-02-21)",
+  "alt": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬",
+  "title": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬ | 복면가왕 | (2021-02-21)",
   "duration": "00:02:07"
 },
 
@@ -4710,8 +4710,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/nI9f3p-B3JA/sddefault.jpg",
-  "alt": "'꼬막' VS '바지락'의 1라운드 무대 - 눈, MBC 210221 방송",
-  "title": "꼬막' VS '바지락'의 1라운드 무대 - 눈, MBC 210221 방송 (2021-02-21)",
+  "alt": "'꼬막' VS '바지락'의 1라운드 무대 - 눈",
+  "title": "꼬막' VS '바지락'의 1라운드 무대 - 눈 | 복면가왕 | (2021-02-21)",
   "duration": "00:03:11"
 },
 
@@ -4794,8 +4794,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/bDOQCacpnug/sddefault.jpg",
-  "alt": "'꼬막' 2라운드 무대 - D (HALF MOON), MBC 210228 방송",
-  "title": "'민니- 꼬막' 2라운드 무대 - D (HALF MOON), MBC 210228 방송 (2021-02-28)",
+  "alt": "'꼬막' 2라운드 무대 - D (HALF MOON), MBC",
+  "title": "'민니- 꼬막' 2라운드 무대 - D (HALF MOON) | 복면가왕 | (2021-02-28)",
   "duration": "00:03:10"
 },
 
@@ -4806,8 +4806,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/uIDi4kk6CVY/sddefault.jpg",
-  "alt": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!, MBC 210228 방송",
-  "title": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!, MBC 210228 방송 (2021-02-28)",
+  "alt": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!",
+  "title": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니! | 복면가왕 | (2021-02-28)",
   "duration": "00:02:43"
 },
 
@@ -4914,8 +4914,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/exWD4Pf-N0w/sddefault.jpg",
-  "alt": "무대에서 한국어 노래를 부르기 위해 열심히 노력했던 민니👏🏻 JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
-  "title": "무대에서 한국어 노래를 부르기 위해 열심히 노력했던 민니👏🏻 JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
+  "alt": "무대에서 한국어 노래를 부르기 위해 열심히 노력했던 민니👏🏻 JTBC 팩추얼(JTBC FACTUAL) (2021-05-01)",
+  "title": "무대에서 한국어 노래를 부르기 위해 열심히 노력했던 민니👏🏻 JTBC 팩추얼(JTBC FACTUAL) (2021-05-01)",
   "duration": "00:03:03"
 },
 
@@ -5019,11 +5019,11 @@ const mediaContentsCards = [
   "link": "https://youtu.be/M1zZUa_Y0I4",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
-  "year": "2021",
-  "month": "07",
+  "year": "2019",
+  "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/M1zZUa_Y0I4/sddefault.jpg",
-  "alt": "【분량체크】 초능력 얻은 전소연🔮 불사조가 되다🔥 이번 앨범 Windy 컨셉이 야채🥒 편식이라며? 야채가 싫다고 했던 소연이 | 라디오스타 | TVPP | MBC 191030 방송 (2021-07-05)",
-  "title": "【분량체크】 초능력 얻은 전소연🔮 불사조가 되다🔥 이번 앨범 Windy 컨셉이 야채🥒 편식이라며? 야채가 싫다고 했던 소연이 | 라디오스타 | TVPP | MBC 191030 방송 (2021-07-05)",
+  "alt": "【분량체크】 초능력 얻은 전소연🔮 불사조가 되다🔥 이번 앨범 Windy 컨셉이 야채🥒 편식이라며? 야채가 싫다고 했던 소연이 | 라디오스타 | TVPP | MBC  (2019-10-30)",
+  "title": "【분량체크】 초능력 얻은 전소연🔮 불사조가 되다🔥 이번 앨범 Windy 컨셉이 야채🥒 편식이라며? 야채가 싫다고 했던 소연이 | 라디오스타 | TVPP | MBC (2019-10-30)",
   "duration": "00:16:28"
 },
 
@@ -5130,8 +5130,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ggMY9C1mrPQ/sddefault.jpg",
-  "alt": "전소연 & 라비 등장?? 코빅엔터 3대 기획사 될 듯♨ #코미디빅리그 EP.416 | tvN 210718 방송",
-  "title": "전소연 & 라비 등장?? 코빅엔터 3대 기획사 될 듯♨ #코미디빅리그 EP.416 | tvN 210718 방송 (2021-07-21)",
+  "alt": "전소연 & 라비 등장?? 코빅엔터 3대 기획사 될 듯♨ #코미디빅리그 EP.416",
+  "title": "전소연 & 라비 등장?? 코빅엔터 3대 기획사 될 듯♨ #코미디빅리그 EP.416 (2021-07-18)",
   "duration": "00:08:55"
 },
 
@@ -5142,8 +5142,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/lCQ47Tm30vA/sddefault.jpg",
-  "alt": "※항마력 주의※ 두가지 부캐, 윈디와 연하공주의 각각 다른 말투!  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
-  "title": "※항마력 주의※ 두가지 부캐, 윈디와 연하공주의 각각 다른 말투!  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
+  "alt": "※항마력 주의※ 두가지 부캐, 윈디와 연하공주의 각각 다른 말투!  [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-07-23)",
+  "title": "※항마력 주의※ 두가지 부캐, 윈디와 연하공주의 각각 다른 말투!  [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-07-23)",
   "duration": "00:03:41"
 },
 
@@ -5154,8 +5154,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/2jSjfdnTxd0/sddefault.jpg",
-  "alt": "말하는대로~ 미래엔 이 영상이 성지?! 과거에 지금의 자신을 예언했던 전소연?  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
-  "title": "말하는대로~ 미래엔 이 영상이 성지?! 과거에 지금의 자신을 예언했던 전소연?  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
+  "alt": "말하는대로~ 미래엔 이 영상이 성지?! 과거에 지금의 자신을 예언했던 전소연?  [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-07-23)",
+  "title": "말하는대로~ 미래엔 이 영상이 성지?! 과거에 지금의 자신을 예언했던 전소연?  [유희열의 스케치북/You Heeyeol’s Sketchbook] (2021-07-23)",
   "duration": "00:03:33"
 },
 
@@ -5250,8 +5250,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/A9skYY-BLrQ/sddefault.jpg",
-  "alt": "♨핫클립♨ MZ세대 스타일 아이콘 (여자)아이들 전소연이 선택한 스타일링은!?｜K-스타일링 배틀 마법옷장｜JTBC 211013 방송 (2021-10-16)",
-  "title": "♨핫클립♨ MZ세대 스타일 아이콘 (여자)아이들 전소연이 선택한 스타일링은!?｜K-스타일링 배틀 마법옷장｜JTBC 211013 방송 (2021-10-16)",
+  "alt": "♨핫클립♨ MZ세대 스타일 아이콘 (여자)아이들 전소연이 선택한 스타일링은!?｜K-스타일링 배틀 마법옷장｜JTBC (2021-10-13)",
+  "title": "♨핫클립♨ MZ세대 스타일 아이콘 (여자)아이들 전소연이 선택한 스타일링은!?｜K-스타일링 배틀 마법옷장｜JTBC (2021-10-13)",
   "duration": "00:14:30"
 },
 
@@ -5526,8 +5526,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/OkTgbYvvIow/sddefault.jpg",
-  "alt": "[방과후 설렘] ＜가시나＞팀 김유연의 탈락..! 전소연 선생님의 다급한 마지막 한 마디 같이 가고 싶었습니다, MBC 211128 방송 (2021-11-28)",
-  "title": "[방과후 설렘] ＜가시나＞팀 김유연의 탈락..! 전소연 선생님의 다급한 마지막 한 마디 같이 가고 싶었습니다, MBC 211128 방송 (2021-11-28)",
+  "alt": "[방과후 설렘] ＜가시나＞팀 김유연의 탈락..! 전소연 선생님의 다급한 마지막 한 마디 같이 가고 싶었습니다 (2021-11-28)",
+  "title": "[방과후 설렘] ＜가시나＞팀 김유연의 탈락..! 전소연 선생님의 다급한 마지막 한 마디 같이 가고 싶었습니다 (2021-11-28)",
   "duration": "00:02:29"
 },
 
@@ -5538,8 +5538,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/5Pk8rV6GsfE/sddefault.jpg",
-  "alt": "[방과후 설렘] 화도 안날 정도로 최악이었어요 전소연 선생님의 혹평에 붉어진 ＜살짝 설렜어＞팀의 눈시울💦, MBC 211128 방송 (2021-11-28)",
-  "title": "[방과후 설렘] 화도 안날 정도로 최악이었어요 전소연 선생님의 혹평에 붉어진 ＜살짝 설렜어＞팀의 눈시울💦, MBC 211128 방송 (2021-11-28)",
+  "alt": "[방과후 설렘] 화도 안날 정도로 최악이었어요 전소연 선생님의 혹평에 붉어진 ＜살짝 설렜어＞팀의 눈시울💦 (2021-11-28)",
+  "title": "[방과후 설렘] 화도 안날 정도로 최악이었어요 전소연 선생님의 혹평에 붉어진 ＜살짝 설렜어＞팀의 눈시울💦 (2021-11-28)",
   "duration": "00:02:53"
 },
 
@@ -5586,8 +5586,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/tT0HkexQnvs/sddefault.jpg",
-  "alt": "[방과후 설렘] 전소연의 혹평 연습생 생활 5년이면 더 잘했어야 한다💥 김지연의 ＜아낙네＞, MBC 211205 방송 (2021-12-05)",
-  "title": "[방과후 설렘] 전소연의 혹평 연습생 생활 5년이면 더 잘했어야 한다💥 김지연의 ＜아낙네＞, MBC 211205 방송 (2021-12-05)",
+  "alt": "[방과후 설렘] 전소연의 혹평 연습생 생활 5년이면 더 잘했어야 한다💥 김지연의 ＜아낙네＞ (2021-12-05)",
+  "title": "[방과후 설렘] 전소연의 혹평 연습생 생활 5년이면 더 잘했어야 한다💥 김지연의 ＜아낙네＞(2021-12-05)",
   "duration": "00:02:07"
 },
 
@@ -5658,8 +5658,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/tyyQelVHxHk/sddefault.jpg",
-  "alt": "[방과후 설렘] ＂같이 가고 싶었어요＂ 선생님 PICK 탈락자 추가 합격부터 학년별 담임 배정까지🔥 | #방과후설렘 #3화 #엠뚜루마뚜루 MBC211212방송 (2021-12-13)",
-  "title": "[방과후 설렘] ＂같이 가고 싶었어요＂ 선생님 PICK 탈락자 추가 합격부터 학년별 담임 배정까지🔥 | #방과후설렘 #3화 #엠뚜루마뚜루 MBC211212방송 (2021-12-13)",
+  "alt": "[방과후 설렘] ＂같이 가고 싶었어요＂ 선생님 PICK 탈락자 추가 합격부터 학년별 담임 배정까지🔥 | #방과후설렘 #3화 #엠뚜루마뚜루 (2021-12-12)",
+  "title": "[방과후 설렘] ＂같이 가고 싶었어요＂ 선생님 PICK 탈락자 추가 합격부터 학년별 담임 배정까지🔥 | #방과후설렘 #3화 #엠뚜루마뚜루 (2021-12-12)",
   "duration": "00:14:47"
 },
 
@@ -5718,8 +5718,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/iEZPbD0ueSc/sddefault.jpg",
-  "alt": "[방과후 설렘] 전소연쌤 티칭으로 분위기 180도 바뀐 4학년의 'Black Mamba' vs  최강 3학년의 'Pretty Savage'  | #4화 MBC211219방송 (2021-12-20)",
-  "title": "[방과후 설렘] 전소연쌤 티칭으로 분위기 180도 바뀐 4학년의 'Black Mamba' vs  최강 3학년의 'Pretty Savage'  | #4화 MBC211219방송 (2021-12-20)",
+  "alt": "[방과후 설렘] 전소연쌤 티칭으로 분위기 180도 바뀐 4학년의 'Black Mamba' vs  최강 3학년의 'Pretty Savage'  | #4화 (2021-12-19)",
+  "title": "[방과후 설렘] 전소연쌤 티칭으로 분위기 180도 바뀐 4학년의 'Black Mamba' vs  최강 3학년의 'Pretty Savage'  | #4화 (2021-12-19)",
   "duration": "00:18:28"
 },
 
@@ -5731,7 +5731,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/YNp9IR8EkTY/sddefault.jpg",
   "alt": "[EN/JP] 내가 댄스배틀을 어떻게 해.. (2021-12-22)",
-  "title": "[EN/JP] 내가 댄스배틀을 어떻게 해.. (2021-12-22)",
+  "title": "[방과후 설렘] [EN/JP] 내가 댄스배틀을 어떻게 해.. (2021-12-22)",
   "duration": "00:20:40"
 },
 
@@ -5743,7 +5743,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/im6Q-bVqJu4/sddefault.jpg",
   "alt": "[EN/JP] \"최약체한테 지는 기분 느껴봐\" (2021-12-22)",
-  "title": "[EN/JP] \"최약체한테 지는 기분 느껴봐\" (2021-12-22)",
+  "title": "[방과후 설렘] [EN/JP] \"최약체한테 지는 기분 느껴봐\" (2021-12-22)",
   "duration": "00:23:07"
 },
 
@@ -5755,7 +5755,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/8eECNbE9NIc/sddefault.jpg",
   "alt": "[EN/JP] \"자신감이 중요해\" 전소연 샘의 개인지도 (2021-12-22)",
-  "title": "[EN/JP] \"자신감이 중요해\" 전소연 샘의 개인지도 (2021-12-22)",
+  "title": "[방과후 설렘] [EN/JP] \"자신감이 중요해\" 전소연 샘의 개인지도 (2021-12-22)",
   "duration": "00:14:01"
 },
 
@@ -5790,8 +5790,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/19Eg09QC97A/sddefault.jpg",
-  "alt": "[방과후 설렘] 12살 최연소 팀과 레전드 찍은 무대🔥 'La Vie en Rose' 예쁜 애 4학년 vs 1학년 | #방과후설렘 #6화 #엠뚜루마뚜루 MBC220102방송 (2022-01-03)",
-  "title": "[방과후 설렘] 12살 최연소 팀과 레전드 찍은 무대🔥 'La Vie en Rose' 예쁜 애 4학년 vs 1학년 | #방과후설렘 #6화 #엠뚜루마뚜루 MBC220102방송 (2022-01-03)",
+  "alt": "[방과후 설렘] 12살 최연소 팀과 레전드 찍은 무대🔥 'La Vie en Rose' 예쁜 애 4학년 vs 1학년 | #방과후설렘 #6화 #엠뚜루마뚜루 (2022-01-02)",
+  "title": "[방과후 설렘] 12살 최연소 팀과 레전드 찍은 무대🔥 'La Vie en Rose' 예쁜 애 4학년 vs 1학년 | #방과후설렘 #6화 #엠뚜루마뚜루 (2022-01-02)",
   "duration": "00:18:22"
 },
 
@@ -5802,8 +5802,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/rYuymcaXPDQ/sddefault.jpg",
-  "alt": "[방과후 설렘] 눈에 띄게 성장한 실력에 소연쌤도 활짝😊 구멍에서 레전드가 된 3, 4학년 댄스연합의 무대ㅣ#방과후설렘 #7화 #전소연 MBC220109방송 (2022-01-10)",
-  "title": "[방과후 설렘] 눈에 띄게 성장한 실력에 소연쌤도 활짝😊 구멍에서 레전드가 된 3, 4학년 댄스연합의 무대ㅣ#방과후설렘 #7화 #전소연 MBC220109방송 (2022-01-10)",
+  "alt": "[방과후 설렘] 눈에 띄게 성장한 실력에 소연쌤도 활짝😊 구멍에서 레전드가 된 3, 4학년 댄스연합의 무대ㅣ#방과후설렘 #7화 #전소연 (2022-01-09)",
+  "title": "[방과후 설렘] 눈에 띄게 성장한 실력에 소연쌤도 활짝😊 구멍에서 레전드가 된 3, 4학년 댄스연합의 무대ㅣ#방과후설렘 #7화 #전소연 (2022-01-09)",
   "duration": "00:11:44"
 },
 
@@ -5814,8 +5814,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/WzR2pxtX-xo/sddefault.jpg",
-  "alt": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂, MBC 220109 방송 (2022-01-11)",
-  "title": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂, MBC 220109 방송 (2022-01-11)",
+  "alt": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂 (2022-01-09)",
+  "title": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂 (2022-01-09)",
   "duration": "00:07:17"
 },
 
@@ -5827,7 +5827,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/9-M3ZNAQY6E/sddefault.jpg",
   "alt": "달콤~ 달콤한 4학년의 케이크 만들기 _ 전소연 샘 and 4학년 (2022-01-11)",
-  "title": "달콤~ 달콤한 4학년의 케이크 만들기 _ 전소연 샘 and 4학년 (2022-01-11)",
+  "title": "[방과후 설렘] 달콤~ 달콤한 4학년의 케이크 만들기 _ 전소연 샘 and 4학년 (2022-01-11)",
   "duration": "00:07:17"
 },
 
@@ -5838,8 +5838,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/8LwVwIf6Czw/sddefault.jpg",
-  "alt": "[방과후 설렘] 역대급 퀄리티의 랩 무대 탄생..! BTS 'MIC Drop' vs Doja Cat 'Boss Rich' 배틀 대결의 승자는...?ㅣ#8화 MBC 220116방송 (2022-01-18)",
-  "title": "[방과후 설렘] 역대급 퀄리티의 랩 무대 탄생..! BTS 'MIC Drop' vs Doja Cat 'Boss Rich' 배틀 대결의 승자는...?ㅣ#8화 MBC 220116방송 (2022-01-18)",
+  "alt": "[방과후 설렘] 역대급 퀄리티의 랩 무대 탄생..! BTS 'MIC Drop' vs Doja Cat 'Boss Rich' 배틀 대결의 승자는...?ㅣ#8화 (2022-01-16)",
+  "title": "[방과후 설렘] 역대급 퀄리티의 랩 무대 탄생..! BTS 'MIC Drop' vs Doja Cat 'Boss Rich' 배틀 대결의 승자는...?ㅣ#8화 (2022-01-16)",
   "duration": "00:16:43"
 },
 
@@ -5862,8 +5862,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/_5wBuFcFuO4/sddefault.jpg",
-  "alt": "[방과후 설렘 선공개] 처음으로 화내는 소연 선생님!😡컨디션 관리도 실력이야💥, MBC 220123 방송 (2022-01-22)",
-  "title": "[방과후 설렘 선공개] 처음으로 화내는 소연 선생님!😡컨디션 관리도 실력이야💥, MBC 220123 방송 (2022-01-22)",
+  "alt": "[방과후 설렘 선공개] 처음으로 화내는 소연 선생님!😡컨디션 관리도 실력이야💥 (2022-01-23)",
+  "title": "[방과후 설렘 선공개] 처음으로 화내는 소연 선생님!😡컨디션 관리도 실력이야💥 (2022-01-23)",
   "duration": "00:03:53"
 },
 
@@ -5898,8 +5898,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/SjUxTj7yfUE/sddefault.jpg",
-  "alt": "소연, 오디션 평가에서 거침없는 발언에 이유는? [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220211 방송 (2022-02-11)",
-  "title": "소연, 오디션 평가에서 거침없는 발언에 이유는? [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220211 방송 (2022-02-11)",
+  "alt": "소연, 오디션 평가에서 거침없는 발언에 이유는? [유희열의 스케치북/You Heeyeol’s Sketchbook]  (2022-02-11)",
+  "title": "소연, 오디션 평가에서 거침없는 발언에 이유는? [유희열의 스케치북/You Heeyeol’s Sketchbook] (2022-02-11)",
   "duration": "00:02:31"
 },
 
@@ -5934,8 +5934,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/Q3Fjvq4IR7o/sddefault.jpg",
-  "alt": "#전소연 💜4학년 소연쌤 몰아보기💜 랩,작사,작곡,프로듀싱 능력에 티칭 능력까지?😘👍능력 만랩 소연쌤 모음 ZIP💜 | 방과후 설렘 | TVPP | MBC 220130 방송 (2022-02-23)",
-  "title": "#전소연 💜4학년 소연쌤 몰아보기💜 랩,작사,작곡,프로듀싱 능력에 티칭 능력까지?😘👍능력 만랩 소연쌤 모음 ZIP💜 | 방과후 설렘 | TVPP | MBC 220130 방송 (2022-02-23)",
+  "alt": "#전소연 💜4학년 소연쌤 몰아보기💜 랩,작사,작곡,프로듀싱 능력에 티칭 능력까지?😘👍능력 만랩 소연쌤 모음 ZIP💜 | 방과후 설렘 | (2022-01-30)",
+  "title": "#전소연 💜4학년 소연쌤 몰아보기💜 랩,작사,작곡,프로듀싱 능력에 티칭 능력까지?😘👍능력 만랩 소연쌤 모음 ZIP💜 | 방과후 설렘 | (2022-01-30)",
   "duration": "00:12:53"
 },
 
@@ -5946,8 +5946,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/Hd8m6Ly7xFk/sddefault.jpg",
-  "alt": "[방과후설렘] 서낳괴 전소연이 서바이벌 프로듀서가 되면 벌어지는 일 mp4. (멋폭발♨)ㅣ#전소연 #방과후설렘 MBC220220방송 (2022-02-24)",
-  "title": "[방과후설렘] 서낳괴 전소연이 서바이벌 프로듀서가 되면 벌어지는 일 mp4. (멋폭발♨)ㅣ#전소연 #방과후설렘 MBC220220방송 (2022-02-24)",
+  "alt": "[방과후 설렘] 서낳괴 전소연이 서바이벌 프로듀서가 되면 벌어지는 일 mp4. (멋폭발♨)ㅣ#전소연 #방과후설렘 (2022-02-20)",
+  "title": "[방과후 설렘] 서낳괴 전소연이 서바이벌 프로듀서가 되면 벌어지는 일 mp4. (멋폭발♨)ㅣ#전소연 #방과후설렘 (2022-02-20)",
   "duration": "00:20:01"
 },
 
@@ -5959,7 +5959,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Yo_fY-ZB4-s/sddefault.jpg",
   "alt": "[EN/JP] 데뷔조에 들어갈 마지막 7위는? (2022-03-02)",
-  "title": "[EN/JP] 데뷔조에 들어갈 마지막 7위는? (2022-03-02)",
+  "title": "[방과후 설렘] [EN/JP] 데뷔조에 들어갈 마지막 7위는? (2022-03-02)",
   "duration": "00:17:22"
 },
 
@@ -5971,7 +5971,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/EikJ43Gxavw/sddefault.jpg",
   "alt": "[EN/JP] 파이널 3위부터 6위까지 순위발표 (2022-03-02)",
-  "title": "[EN/JP] 파이널 3위부터 6위까지 순위발표 (2022-03-02)",
+  "title": "[방과후 설렘] [EN/JP] 파이널 3위부터 6위까지 순위발표 (2022-03-02)",
   "duration": "00:19:13"
 },
 
@@ -5983,7 +5983,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/to47w5tP2BY/sddefault.jpg",
   "alt": "[EN/JP] 파이널 1라운드 데뷔조 DREAMING vs 도전조 SUN (2022-03-02)",
-  "title": "[EN/JP] 파이널 1라운드 데뷔조 DREAMING vs 도전조 SUN (2022-03-02)",
+  "title": "[방과후 설렘] [EN/JP] 파이널 1라운드 데뷔조 DREAMING vs 도전조 SUN (2022-03-02)",
   "duration": "00:12:37"
 },
 
@@ -6006,8 +6006,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/UZDSpQBlSU8/sddefault.jpg",
-  "alt": "GIDLE NEVER DIE!!! 이제 아이들에서 (여자)는 빼줘 | (여자)아이들 | (G)I-DLE  | TOMBOY | 아이돌등판 | IDDP | 전소연 미연 민니 우기 슈화 (2022-03-15)",
-  "title": "GIDLE NEVER DIE!!! 이제 아이들에서 (여자)는 빼줘 | (여자)아이들 | (G)I-DLE  | TOMBOY | 아이돌등판 | IDDP | 전소연 미연 민니 우기 슈화 (2022-03-15)",
+  "alt": "GIDLE NEVER DIE!!! 이제 아이들에서 (여자)는 빼줘 | (여자)아이들 | (G)I-DLE  | TOMBOY | 아이돌등판 | IDDP | (2022-03-15)",
+  "title": "GIDLE NEVER DIE!!! 이제 아이들에서 (여자)는 빼줘 | (여자)아이들 | (G)I-DLE  | TOMBOY | 아이돌등판 | IDDP | (2022-03-15)",
   "duration": "00:33:47"
 },
 
@@ -6066,8 +6066,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/VWf2QcvVxms/sddefault.jpg",
-  "alt": "무려 3개의 경연프로그램에 출연한 아이들((G)I-DLE)소연의 이야기✨ 아이들 '라타타'는 '라따라따 아라따~'에서 나왔다고??  | #강제소환 | KBS 방송 (2022-03-25)",
-  "title": "무려 3개의 경연프로그램에 출연한 아이들((G)I-DLE)소연의 이야기✨ 아이들 '라타타'는 '라따라따 아라따~'에서 나왔다고??  | #강제소환 | KBS 방송 (2022-03-25)",
+  "alt": "무려 3개의 경연프로그램에 출연한 아이들((G)I-DLE)소연의 이야기✨ 아이들 '라타타'는 '라따라따 아라따~'에서 나왔다고??  | #강제소환 | (2022-03-25)",
+  "title": "무려 3개의 경연프로그램에 출연한 아이들((G)I-DLE)소연의 이야기✨ 아이들 '라타타'는 '라따라따 아라따~'에서 나왔다고??  | #강제소환 | (2022-03-25)",
   "duration": "00:09:57"
 },
 
@@ -6210,8 +6210,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/JX1MDOEYfMI/sddefault.jpg",
-  "alt": "Full.ver|✨첫 솔로데뷔✨미연공주님 행차하십니다👸 ㅣSTATION Zㅣ미연의 언박싱ㅣKBS 220430 방송 (2022-04-29)",
-  "title": "Full.ver|✨첫 솔로데뷔✨미연공주님 행차하십니다👸 ㅣSTATION Zㅣ미연의 언박싱ㅣKBS 220430 방송 (2022-04-29)",
+  "alt": "Full.ver|✨첫 솔로데뷔✨미연공주님 행차하십니다👸 ㅣSTATION Zㅣ미연의 언박싱 (2022-04-30)",
+  "title": "Full.ver|✨첫 솔로데뷔✨미연공주님 행차하십니다👸 ㅣSTATION Zㅣ미연의 언박싱 (2022-04-30)",
   "duration": "00:27:48"
 },
 
@@ -6270,8 +6270,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/YiaqjpIv_HM/sddefault.jpg",
-  "alt": "[라디오스타] 디스랩으로 라스 MC들 기강 잡고(?) 간 천재돌 전소연ㅣ#전소연 #(여자)아이들 MBC220504방송 (2022-05-06)",
-  "title": "[라디오스타] 디스랩으로 라스 MC들 기강 잡고(?) 간 천재돌 전소연ㅣ#전소연 #(여자)아이들 MBC220504방송 (2022-05-06)",
+  "alt": "[라디오스타] 디스랩으로 라스 MC들 기강 잡고(?) 간 천재돌 전소연ㅣ#전소연 #(여자)아이들 (2022-05-04)",
+  "title": "[라디오스타] 디스랩으로 라스 MC들 기강 잡고(?) 간 천재돌 전소연ㅣ#전소연 #(여자)아이들 (2022-05-04)",
   "duration": "00:11:46"
 },
 
@@ -6354,8 +6354,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/VKQYN7cv5ZQ/sddefault.jpg",
-  "alt": "[나 혼자 산다]🧓소를... 아십니까?♨매운맛보다 매력적인💛노랑노랑 하우스의 소연을 아십니까?💛| #전소연 MBC220513방송 (2022-05-16)",
-  "title": "[나 혼자 산다]🧓소를... 아십니까?♨매운맛보다 매력적인💛노랑노랑 하우스의 소연을 아십니까?💛| #전소연 MBC220513방송 (2022-05-16)",
+  "alt": "[나 혼자 산다]🧓소를... 아십니까?♨매운맛보다 매력적인💛노랑노랑 하우스의 소연을 아십니까?💛| #전소연 (2022-05-13)",
+  "title": "[나 혼자 산다]🧓소를... 아십니까?♨매운맛보다 매력적인💛노랑노랑 하우스의 소연을 아십니까?💛| #전소연 (2022-05-13)",
   "duration": "00:18:28"
 },
 
@@ -6378,8 +6378,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/a7LKP4FlTFI/sddefault.jpg",
-  "alt": "[나 혼자 산다]🐌느리다 느려 소연 사회🚶‍♀️느리게 바쁜 프로듀서 전소연의 공백기 일상🧎‍♀️| #전소연 MBC220513방송 (2022-05-17)",
-  "title": "[나 혼자 산다]🐌느리다 느려 소연 사회🚶‍♀️느리게 바쁜 프로듀서 전소연의 공백기 일상🧎‍♀️| #전소연 MBC220513방송 (2022-05-17)",
+  "alt": "[나 혼자 산다]🐌느리다 느려 소연 사회🚶‍♀️느리게 바쁜 프로듀서 전소연의 공백기 일상🧎‍♀️| #전소연  (2022-05-13)",
+  "title": "[나 혼자 산다]🐌느리다 느려 소연 사회🚶‍♀️느리게 바쁜 프로듀서 전소연의 공백기 일상🧎‍♀️| #전소연 (2022-05-13)",
   "duration": "00:19:22"
 },
 
@@ -6390,8 +6390,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/AoXLBKrnC2g/sddefault.jpg",
-  "alt": "[나 혼자 산다]😎음악은 뚝딱뚝딱🎵음식은 그냥 뚝딱이🤢우당탕탕 소연이네 아지트🎙| #전소연 MBC220513방송 (2022-05-18)",
-  "title": "[나 혼자 산다]😎음악은 뚝딱뚝딱🎵음식은 그냥 뚝딱이🤢우당탕탕 소연이네 아지트🎙| #전소연 MBC220513방송 (2022-05-18)",
+  "alt": "[나 혼자 산다]😎음악은 뚝딱뚝딱🎵음식은 그냥 뚝딱이🤢우당탕탕 소연이네 아지트🎙| #전소연 (2022-05-13)",
+  "title": "[나 혼자 산다]😎음악은 뚝딱뚝딱🎵음식은 그냥 뚝딱이🤢우당탕탕 소연이네 아지트🎙| #전소연 (2022-05-13)",
   "duration": "00:13:29"
 },
 
@@ -6534,8 +6534,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/K8pdrVJH9Lo/sddefault.jpg",
-  "alt": "이 정도면.. 도플갱어 수준?! '닮은 꼴 리더즈' 승윤(KANG SEUNG YOON)x소연 아티스트 웨이(ARTIST WAY) 3회 | JTBC 220530 방송",
-  "title": "이 정도면.. 도플갱어 수준?! '닮은 꼴 리더즈' 승윤(KANG SEUNG YOON)x소연 아티스트 웨이(ARTIST WAY) 3회 | JTBC 220530 방송 (2022-05-30)",
+  "alt": "이 정도면.. 도플갱어 수준?! '닮은 꼴 리더즈' 승윤(KANG SEUNG YOON)x소연 아티스트 웨이(ARTIST WAY) 3회",
+  "title": "이 정도면.. 도플갱어 수준?! '닮은 꼴 리더즈' 승윤(KANG SEUNG YOON)x소연 아티스트 웨이(ARTIST WAY) 3회 (2022-05-30)",
   "duration": "00:03:29"
 },
 
@@ -6546,8 +6546,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/J5hBQOLD1l0/sddefault.jpg",
-  "alt": "[풀클립②] 강승윤 기타 연주에 전소연 즉흥 노래°˖✧˖° 오늘은 여기서 잠들겠습니다… 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC 220530 방송 (2022-05-31)",
-  "title": "[풀클립②] 강승윤 기타 연주에 전소연 즉흥 노래°˖✧˖° 오늘은 여기서 잠들겠습니다… 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC 220530 방송 (2022-05-31)",
+  "alt": "[풀클립②] 강승윤 기타 연주에 전소연 즉흥 노래°˖✧˖° 오늘은 여기서 잠들겠습니다… 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC (2022-05-30)",
+  "title": "[풀클립②] 강승윤 기타 연주에 전소연 즉흥 노래°˖✧˖° 오늘은 여기서 잠들겠습니다… 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC (2022-05-30)",
   "duration": "00:26:11"
 },
 
@@ -6558,8 +6558,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/BYmgZkqpaYQ/sddefault.jpg",
-  "alt": "[풀클립①] 위너와 마지막 여행을 즐길 역대급 영감 메이트 🤘(여자)아이들 소연🤘 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC 220530 방송 (2022-05-31)",
-  "title": "[풀클립①] 위너와 마지막 여행을 즐길 역대급 영감 메이트 🤘(여자)아이들 소연🤘 〈아티스트 웨이(ARTIST WAY) 3회〉 | JTBC 220530 방송 (2022-05-31)",
+  "alt": "[풀클립①] 위너와 마지막 여행을 즐길 역대급 영감 메이트 🤘(여자)아이들 소연🤘 〈아티스트 웨이(ARTIST WAY) 3회〉 (2022-05-30)",
+  "title": "[풀클립①] 위너와 마지막 여행을 즐길 역대급 영감 메이트 🤘(여자)아이들 소연🤘 〈아티스트 웨이(ARTIST WAY) 3회〉 (2022-05-30)",
   "duration": "00:18:57"
 },
 
@@ -7038,8 +7038,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/0HcLZuQmM8A/sddefault.jpg",
-  "alt": "【분량체크】 TOMBOY+Nxde까지 대박 난 (여자)아이들 선장님 전소연👑 톰보이 전성기 때 라스 나와서 작곡 천재 인증 | #라디오스타 | TVPP | MBC 220504 방송 (2022-10-28)",
-  "title": "【분량체크】 TOMBOY+Nxde까지 대박 난 (여자)아이들 선장님 전소연👑 톰보이 전성기 때 라스 나와서 작곡 천재 인증 | #라디오스타 | TVPP | MBC 220504 방송 (2022-10-28)",
+  "alt": "【분량체크】 TOMBOY+Nxde까지 대박 난 (여자)아이들 선장님 전소연👑 톰보이 전성기 때 라스 나와서 작곡 천재 인증 | #라디오스타 | (2022-05-04)",
+  "title": "【분량체크】 TOMBOY+Nxde까지 대박 난 (여자)아이들 선장님 전소연👑 톰보이 전성기 때 라스 나와서 작곡 천재 인증 | #라디오스타 | (2022-05-04)",
   "duration": "00:16:48"
 },
 
@@ -7050,8 +7050,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Be9khAA9YHU/sddefault.jpg",
-  "alt": "[아는형님] (여자)아이들은 Live도 화끈하게 인증합니다🔥 히트곡 메들리부터 신곡 Nxde까지 중독적이따따랏따라~♬｜핫클립｜JTBC 221029 방송 외 (2022-10-29)",
-  "title": "[아는형님] (여자)아이들은 Live도 화끈하게 인증합니다🔥 히트곡 메들리부터 신곡 Nxde까지 중독적이따따랏따라~♬｜핫클립｜JTBC 221029 방송 외 (2022-10-29)",
+  "alt": "[아는형님] (여자)아이들은 Live도 화끈하게 인증합니다🔥 히트곡 메들리부터 신곡 Nxde까지 중독적이따따랏따라~♬｜핫클립｜JTBC  (2022-10-29)",
+  "title": "[아는형님] (여자)아이들은 Live도 화끈하게 인증합니다🔥 히트곡 메들리부터 신곡 Nxde까지 중독적이따따랏따라~♬｜핫클립｜JTBC (2022-10-29)",
   "duration": "00:08:20"
 },
 
@@ -7062,8 +7062,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/RURhqGt8NbM/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] 끝없는 매력 발산٩(๑˃̵ᴗ˂̵)و (여자)아이들 게임·퍼포먼스 모음.zip | 아는 형님 | JTBC 221029 방송 (2022-10-29)",
-  "title": "[ENG][아형✪하이라이트] 끝없는 매력 발산٩(๑˃̵ᴗ˂̵)و (여자)아이들 게임·퍼포먼스 모음.zip | 아는 형님 | JTBC 221029 방송 (2022-10-29)",
+  "alt": "[ENG][아형✪하이라이트] 끝없는 매력 발산٩(๑˃̵ᴗ˂̵)و (여자)아이들 게임·퍼포먼스 모음.zip | 아는 형님 | (2022-10-29)",
+  "title": "[ENG][아형✪하이라이트] 끝없는 매력 발산٩(๑˃̵ᴗ˂̵)و (여자)아이들 게임·퍼포먼스 모음.zip | 아는 형님 | (2022-10-29)",
   "duration": "00:22:42"
 },
 
@@ -7074,8 +7074,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/sWwHWK7OYJ8/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] (여자)아이들 완전체 떴다↗ 멋짐 폭발♥ 5인 5색 토크 모음.zip | 아는 형님 | JTBC 221029 방송 (2022-10-29)",
-  "title": "[ENG][아형✪하이라이트] (여자)아이들 완전체 떴다↗ 멋짐 폭발♥ 5인 5색 토크 모음.zip | 아는 형님 | JTBC 221029 방송 (2022-10-29)",
+  "alt": "[ENG][아형✪하이라이트] (여자)아이들 완전체 떴다↗ 멋짐 폭발♥ 5인 5색 토크 모음.zip | 아는 형님 | (2022-10-29)",
+  "title": "[ENG][아형✪하이라이트] (여자)아이들 완전체 떴다↗ 멋짐 폭발♥ 5인 5색 토크 모음.zip | 아는 형님 | (2022-10-29)",
   "duration": "00:21:21"
 },
 
@@ -7098,8 +7098,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/bc0uFY5LySk/sddefault.jpg",
-  "alt": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC 221029 방송 외 (2022-10-29)",
-  "title": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC 221029 방송 외 (2022-10-29)",
+  "alt": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
+  "title": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
   "duration": "00:10:31"
 },
 
@@ -7110,8 +7110,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/kuYPHEuxx0o/sddefault.jpg",
-  "alt": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC 221029 방송 (2022-11-04)",
-  "title": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC 221029 방송 (2022-11-04)",
+  "alt": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
+  "title": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
   "duration": "00:08:04"
 },
 
@@ -7134,8 +7134,8 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/f6abgJUSwQ0/sddefault.jpg",
-  "alt": "[#놀면뭐하니?] 미주와 사고방식 똑 닮은 귀요미 찐친 우기💕 근데 재석의 찐친은... 일단 찐친 맞나요?ㅣ#우기 #미주#유재석 MBC221112방송 (2022-11-13)",
-  "title": "[#놀면뭐하니?] 미주와 사고방식 똑 닮은 귀요미 찐친 우기💕 근데 재석의 찐친은... 일단 찐친 맞나요?ㅣ#우기 #미주#유재석 MBC221112방송 (2022-11-13)",
+  "alt": "[#놀면뭐하니?] 미주와 사고방식 똑 닮은 귀요미 찐친 우기💕 근데 재석의 찐친은... 일단 찐친 맞나요?ㅣ#우기 #미주#유재석 (2022-11-12)",
+  "title": "[#놀면뭐하니?] 미주와 사고방식 똑 닮은 귀요미 찐친 우기💕 근데 재석의 찐친은... 일단 찐친 맞나요?ㅣ#우기 #미주#유재석 (2022-11-12)",
   "duration": "00:13:49"
 },
 
@@ -7398,8 +7398,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/oC2eDcgMEwI/sddefault.jpg",
-  "alt": "[EN/JP] [Mnet PRIME SHOW] \"나는 다시 한국 갈 수 있는 건가...?\" (여자)아이들의 진솔한 그때의 이야기 | Mnet 230329 방송 (2023-03-29)",
-  "title": "[EN/JP] [Mnet PRIME SHOW] \"나는 다시 한국 갈 수 있는 건가...?\" (여자)아이들의 진솔한 그때의 이야기 | Mnet 230329 방송 (2023-03-29)",
+  "alt": "[EN/JP] [Mnet PRIME SHOW] \"나는 다시 한국 갈 수 있는 건가...?\" (여자)아이들의 진솔한 그때의 이야기 | (2023-03-29)",
+  "title": "[EN/JP] [Mnet PRIME SHOW] \"나는 다시 한국 갈 수 있는 건가...?\" (여자)아이들의 진솔한 그때의 이야기 | (2023-03-29)",
   "duration": "00:04:47"
 },
 
@@ -7410,8 +7410,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/c9bobxQaCLU/sddefault.jpg",
-  "alt": "[Mnet PRIME SHOW] 강렬한 인트로👑 ♬ Nxde (theatre Ver.) - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
-  "title": "[Mnet PRIME SHOW] 강렬한 인트로👑 ♬ Nxde (theatre Ver.) - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
+  "alt": "[Mnet PRIME SHOW] 강렬한 인트로👑 ♬ Nxde (theatre Ver.) - (G)I-DLE | (2023-03-29)",
+  "title": "[Mnet PRIME SHOW] 강렬한 인트로👑 ♬ Nxde (theatre Ver.) - (G)I-DLE | (2023-03-29)",
   "duration": "00:04:28"
 },
 
@@ -7434,8 +7434,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/iVu6WqpZDUk/sddefault.jpg",
-  "alt": "[#소년판타지] 무서운데 멋있어,, 돌아온 소연쌤의 영혼 탈탈 터는 돌직구 심사🔥| #전소연 #우영 #최강창민 MBC230330방송 (2023-03-30)",
-  "title": "[#소년판타지] 무서운데 멋있어,, 돌아온 소연쌤의 영혼 탈탈 터는 돌직구 심사🔥| #전소연 #우영 #최강창민 MBC230330방송 (2023-03-30)",
+  "alt": "[#소년판타지] 무서운데 멋있어,, 돌아온 소연쌤의 영혼 탈탈 터는 돌직구 심사🔥| #전소연 #우영 #최강창민 (2023-03-30)",
+  "title": "[#소년판타지] 무서운데 멋있어,, 돌아온 소연쌤의 영혼 탈탈 터는 돌직구 심사🔥| #전소연 #우영 #최강창민 (2023-03-30)",
   "duration": "00:13:56"
 },
 
@@ -7458,8 +7458,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/TV30MhKsNNw/sddefault.jpg",
-  "alt": "[#소년판타지] 전소연쌤의 미소를 받은 3등급 실력자의 등장?!💫 특별 구제를 받으려는 3등급 소년들의 재도전👊 | #전소연 #우영 #최강창민 MBC230406방송 (2023-04-07)",
-  "title": "[#소년판타지] 전소연쌤의 미소를 받은 3등급 실력자의 등장?!💫 특별 구제를 받으려는 3등급 소년들의 재도전👊 | #전소연 #우영 #최강창민 MBC230406방송 (2023-04-07)",
+  "alt": "[#소년판타지] 전소연쌤의 미소를 받은 3등급 실력자의 등장?!💫 특별 구제를 받으려는 3등급 소년들의 재도전👊 | #전소연 #우영 #최강창민 (2023-04-06)",
+  "title": "[#소년판타지] 전소연쌤의 미소를 받은 3등급 실력자의 등장?!💫 특별 구제를 받으려는 3등급 소년들의 재도전👊 | #전소연 #우영 #최강창민 (2023-04-06)",
   "duration": "00:19:38"
 },
 
@@ -7482,8 +7482,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/7_yHAR1c0lQ/sddefault.jpg",
-  "alt": "【哈囉!毛小孩】(G)I-DLE舒華「女神氣場」讓偉晉小鹿亂撞！「狗狗才藝秀」讓視網膜意外找到柴犬救星？｜EP11紅白達人秀!｜完整版_20230415 (2023-04-24)",
-  "title": "【哈囉!毛小孩】(G)I-DLE舒華「女神氣場」讓偉晉小鹿亂撞！「狗狗才藝秀」讓視網膜意外找到柴犬救星？｜EP11紅白達人秀!｜完整版_20230415 (2023-04-24)",
+  "alt": "【哈囉!毛小孩】(G)I-DLE舒華「女神氣場」讓偉晉小鹿亂撞！「狗狗才藝秀」讓視網膜意外找到柴犬救星？｜EP11紅白達人秀!｜完整版_(2023-04-15)",
+  "title": "【哈囉!毛小孩】(G)I-DLE舒華「女神氣場」讓偉晉小鹿亂撞！「狗狗才藝秀」讓視網膜意外找到柴犬救星？｜EP11紅白達人秀!｜完整版_(2023-04-15)",
   "duration": "01:36:17"
 },
 
@@ -7578,8 +7578,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Eb1Nh1tbjqY/sddefault.jpg",
-  "alt": "[꼬꼬무 79회 요약] ＂내 아들은 어떻게 죽었나요?＂ 37년 간 던진 아버지의 질문에 대한 답은? | 꼬리에 꼬리를 무는 그날 이야기 (SBS방송) (2023-05-19)",
-  "title": "[꼬꼬무 79회 요약] ＂내 아들은 어떻게 죽었나요?＂ 37년 간 던진 아버지의 질문에 대한 답은? | 꼬리에 꼬리를 무는 그날 이야기 (SBS방송) (2023-05-19)",
+  "alt": "[꼬꼬무 79회 요약] ＂내 아들은 어떻게 죽었나요?＂ 37년 간 던진 아버지의 질문에 대한 답은? | 꼬리에 꼬리를 무는 그날 이야기 (2023-05-19)",
+  "title": "[꼬꼬무 79회 요약] ＂내 아들은 어떻게 죽었나요?＂ 37년 간 던진 아버지의 질문에 대한 답은? | 꼬리에 꼬리를 무는 그날 이야기 (2023-05-19)",
   "duration": "00:20:49"
 },
 
@@ -7674,8 +7674,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/zh-4Tef5YqE/sddefault.jpg",
-  "alt": "[소년판타지 - 방과후 설렘2] 히든카드 민니의 등장?!🌟 프로듀서 전소연의 디렉팅으로 실시간 발전하는 ＜스페이스맨＞팀!, MBC 230525 방송 (2023-05-25)",
-  "title": "[소년판타지 - 방과후 설렘2] 히든카드 민니의 등장?!🌟 프로듀서 전소연의 디렉팅으로 실시간 발전하는 ＜스페이스맨＞팀!, MBC 230525 방송 (2023-05-25)",
+  "alt": "[소년판타지 - 방과후 설렘2] 히든카드 민니의 등장?!🌟 프로듀서 전소연의 디렉팅으로 실시간 발전하는 ＜스페이스맨＞팀! (2023-05-25)",
+  "title": "[소년판타지 - 방과후 설렘2] 히든카드 민니의 등장?!🌟 프로듀서 전소연의 디렉팅으로 실시간 발전하는 ＜스페이스맨＞팀! (2023-05-25)",
   "duration": "00:02:56"
 },
 
@@ -7686,8 +7686,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/_kUBP3G9gQg/sddefault.jpg",
-  "alt": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 MBC230525방송 (2023-05-26)",
-  "title": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 MBC230525방송 (2023-05-26)",
+  "alt": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
+  "title": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
   "duration": "00:19:50"
 },
 
@@ -7770,8 +7770,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/R5G51JSjG5g/sddefault.jpg",
-  "alt": "[ENG]＂계속 해도 괜찮을까?＂ ❌트월킹 은퇴 선언❌ 퀸카 (여자)아이들 미연의 춤을 본 아형 반응은?｜아는형님｜JTBC 230603 방송 (2023-06-03)",
-  "title": "[ENG]＂계속 해도 괜찮을까?＂ ❌트월킹 은퇴 선언❌ 퀸카 (여자)아이들 미연의 춤을 본 아형 반응은?｜아는형님｜JTBC 230603 방송 (2023-06-03)",
+  "alt": "[ENG]＂계속 해도 괜찮을까?＂ ❌트월킹 은퇴 선언❌ 퀸카 (여자)아이들 미연의 춤을 본 아형 반응은?｜아는형님｜JTBC (2023-06-03)",
+  "title": "[ENG]＂계속 해도 괜찮을까?＂ ❌트월킹 은퇴 선언❌ 퀸카 (여자)아이들 미연의 춤을 본 아형 반응은?｜아는형님｜JTBC (2023-06-03)",
   "duration": "00:12:17"
 },
 
@@ -7782,8 +7782,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/BUq0SOM90ls/sddefault.jpg",
-  "alt": "[아형✪하이라이트] 발라드부터 힙합까지! '조현아x김조한x뮤지x미연' 천재 뮤지션들의 大 폭발 퍼포먼스를 모아 모아~! | 아는 형님 | JTBC 230603 방송 (2023-06-03)",
-  "title": "[아형✪하이라이트] 발라드부터 힙합까지! '조현아x김조한x뮤지x미연' 천재 뮤지션들의 大 폭발 퍼포먼스를 모아 모아~! | 아는 형님 | JTBC 230603 방송 (2023-06-03)",
+  "alt": "[아형✪하이라이트] 발라드부터 힙합까지! '조현아x김조한x뮤지x미연' 천재 뮤지션들의 大 폭발 퍼포먼스를 모아 모아~! | 아는 형님 |  (2023-06-03)",
+  "title": "[아형✪하이라이트] 발라드부터 힙합까지! '조현아x김조한x뮤지x미연' 천재 뮤지션들의 大 폭발 퍼포먼스를 모아 모아~! | 아는 형님 | (2023-06-03)",
   "duration": "00:17:30"
 },
 
@@ -7794,8 +7794,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/SvNCqXY7w-M/sddefault.jpg",
-  "alt": "[ENG]＂???얘 원래 이런 애야???＂ 예능감 美친 예쁜 또fk이 (여자)아이들 미연✨｜아는형님｜JTBC 230603 방송 (2023-06-04)",
-  "title": "[ENG]＂???얘 원래 이런 애야???＂ 예능감 美친 예쁜 또fk이 (여자)아이들 미연✨｜아는형님｜JTBC 230603 방송 (2023-06-04)",
+  "alt": "[ENG]＂???얘 원래 이런 애야???＂ 예능감 美친 예쁜 또fk이 (여자)아이들 미연✨｜아는형님｜JTBC (2023-06-03)",
+  "title": "[ENG]＂???얘 원래 이런 애야???＂ 예능감 美친 예쁜 또fk이 (여자)아이들 미연✨｜아는형님｜JTBC (2023-06-03)",
   "duration": "00:11:48"
 },
 
@@ -7842,8 +7842,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/tpZWFgxTRaY/sddefault.jpg",
-  "alt": "[#라디오스타] 암어 암어 암어 퀸카~👑전교 7등 하던 엘프 소녀🧚🏻우기가 K-POP 이끄는 퀸카가 되기까지💜 | #우기 #(여자)아이들 #엠뚜루마뚜루 MBC230614방송 (2023-06-16)",
-  "title": "[#라디오스타] 암어 암어 암어 퀸카~👑전교 7등 하던 엘프 소녀🧚🏻우기가 K-POP 이끄는 퀸카가 되기까지💜 | #우기 #(여자)아이들 #엠뚜루마뚜루 MBC230614방송 (2023-06-16)",
+  "alt": "[#라디오스타] 암어 암어 암어 퀸카~👑전교 7등 하던 엘프 소녀🧚🏻우기가 K-POP 이끄는 퀸카가 되기까지💜 | #우기 #(여자)아이들 #엠뚜루마뚜루 (2023-06-14)",
+  "title": "[#라디오스타] 암어 암어 암어 퀸카~👑전교 7등 하던 엘프 소녀🧚🏻우기가 K-POP 이끄는 퀸카가 되기까지💜 | #우기 #(여자)아이들 #엠뚜루마뚜루 (2023-06-14)",
   "duration": "00:15:44"
 },
 
@@ -8238,8 +8238,8 @@ const mediaContentsCards = [
   "year": "2023",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/WKIXF1cQsg4/sddefault.jpg",
-  "alt": "[유료광고포함] 블록버스터가 되어버린 꿀 빠는 소리?🍯·· 오늘의 꿀톤 아티스트는~ ‘인간 꿀후루’ 민니! [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송 (2023-11-03)",
-  "title": "[유료광고포함] 블록버스터가 되어버린 꿀 빠는 소리?🍯·· 오늘의 꿀톤 아티스트는~ ‘인간 꿀후루’ 민니! [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송 (2023-11-03)",
+  "alt": "[유료광고포함] 블록버스터가 되어버린 꿀 빠는 소리?🍯·· 오늘의 꿀톤 아티스트는~ ‘인간 꿀후루’ 민니! [더 시즌즈-악뮤의 오날오밤] (2023-11-03)",
+  "title": "[유료광고포함] 블록버스터가 되어버린 꿀 빠는 소리?🍯·· 오늘의 꿀톤 아티스트는~ ‘인간 꿀후루’ 민니! [더 시즌즈-악뮤의 오날오밤] (2023-11-03)",
   "duration": "00:03:16"
 },
 
@@ -8514,8 +8514,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/SsITRxMFZn8/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC 240203 방송 (2024-02-03)",
-  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC 240203 방송 (2024-02-03)",
+  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC  (2024-02-03)",
+  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC (2024-02-03)",
   "duration": "00:29:24"
 },
 
@@ -8958,8 +8958,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/THeZo_llTA8/sddefault.jpg",
-  "alt": "데뷔 7년차인 (여자)아이들이 데뷔 초 때 했던 인사를 재현하다?!🤣😂 [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "데뷔 7년차인 (여자)아이들이 데뷔 초 때 했던 인사를 재현하다?!🤣😂 [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "alt": "데뷔 7년차인 (여자)아이들이 데뷔 초 때 했던 인사를 재현하다?!🤣😂 [더 시즌즈-지코의 아티스트] (2024-07-12)",
+  "title": "데뷔 7년차인 (여자)아이들이 데뷔 초 때 했던 인사를 재현하다?!🤣😂 [더 시즌즈-지코의 아티스트] (2024-07-12)",
   "duration": "00:01:32"
 },
 
@@ -8982,8 +8982,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/bm1dFHxZ-Kk/sddefault.jpg",
-  "alt": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "alt": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
+  "title": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
   "duration": "00:02:40"
 },
 
@@ -9006,8 +9006,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/40uWYloF7Js/sddefault.jpg",
-  "alt": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) | KBS 240712 방송 (2024-07-14)",
-  "title": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) | KBS 240712 방송 (2024-07-14)",
+  "alt": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) (2024-07-12)",
+  "title": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) (2024-07-12)",
   "duration": "00:10:20"
 },
 
@@ -9186,8 +9186,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/6yHb9LqZ77Y/sddefault.jpg",
-  "alt": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 MBC220513방송 (2024-10-12)",
-  "title": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 MBC220513방송 (2024-10-12)",
+  "alt": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 (2024-10-12)",
+  "title": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 (2022-05-13)",
   "duration": "00:25:29"
 },
 
@@ -9654,8 +9654,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/c5hEAM8FHeY/sddefault.jpg",
-  "alt": "[무대+토크 풀버전] 첫 솔로로 컴백한 (여자)아이들 민니💖 신곡 ‘Her’+ 방송 최초 라이브 ‘꿈결같아서’ + ‘Valentine’s Dream’ | KBS 250124 방송 (2025-01-27)",
-  "title": "[무대+토크 풀버전] 첫 솔로로 컴백한 (여자)아이들 민니💖 신곡 ‘Her’+ 방송 최초 라이브 ‘꿈결같아서’ + ‘Valentine’s Dream’ | KBS 250124 방송 (2025-01-27)",
+  "alt": "[무대+토크 풀버전] 첫 솔로로 컴백한 (여자)아이들 민니💖 신곡 ‘Her’+ 방송 최초 라이브 ‘꿈결같아서’ + ‘Valentine’s Dream’ | (2025-01-24)",
+  "title": "[무대+토크 풀버전] 첫 솔로로 컴백한 (여자)아이들 민니💖 신곡 ‘Her’+ 방송 최초 라이브 ‘꿈결같아서’ + ‘Valentine’s Dream’ | (2025-01-24)",
   "duration": "00:17:54"
 },
 
@@ -9750,8 +9750,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/pPzUcAjsL8w/sddefault.jpg",
-  "alt": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜JTBC 250211 방송",
-  "title": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜JTBC 250211 방송 (2025-02-11)",
+  "alt": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜",
+  "title": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜(2025-02-11)",
   "duration": "00:27:48"
 },
 
@@ -9763,7 +9763,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/M0NIvh7--KM/sddefault.jpg",
   "alt": "이름 말하면 큰일 나💥 핀란드에서 자기소개하다간 싸움 날 민니 ㅋㅋ | 아는 외고 1회 | JTBC 250211 방송",
-  "title": "이름 말하면 큰일 나💥 핀란드에서 자기소개하다간 싸움 날 민니 ㅋㅋ | 아는 외고 1회 | JTBC 250211 방송 (2025-02-11)",
+  "title": "이름 말하면 큰일 나💥 핀란드에서 자기소개하다간 싸움 날 민니 ㅋㅋ | 아는 외고 1회 |(2025-02-11)",
   "duration": "00:08:26"
 },
 
@@ -9775,7 +9775,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/S1Pjl5zUBjg/sddefault.jpg",
   "alt": "[하이라이트] ＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ | 아는 외고 | JTBC 250211 방송",
-  "title": "[하이라이트] ＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ | 아는 외고 | JTBC 250211 방송 (2025-02-11)",
+  "title": "[하이라이트] ＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ | 아는 외고 |(2025-02-11)",
   "duration": "00:29:44"
 },
 
@@ -9811,7 +9811,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/CBohdQQ-qsI/sddefault.jpg",
   "alt": "＂입씨름만 하지 말고!🔥＂ 걸그룹 자존심 발동에 주먹까지 나간(?) 민니(MINNIE) VS 츠키(TSUKI) 몸싸움💥｜아는 외고｜JTBC 250218 방송",
-  "title": "＂입씨름만 하지 말고!🔥＂ 걸그룹 자존심 발동에 주먹까지 나간(?) 민니(MINNIE) VS 츠키(TSUKI) 몸싸움💥｜아는 외고｜JTBC 250218 방송 (2025-02-18)",
+  "title": "＂입씨름만 하지 말고!🔥＂ 걸그룹 자존심 발동에 주먹까지 나간(?) 민니(MINNIE) VS 츠키(TSUKI) 몸싸움💥｜아는 외고｜(2025-02-18)",
   "duration": "00:27:29"
 },
 
@@ -9822,8 +9822,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/LGVYs32Sqpc/sddefault.jpg",
-  "alt": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜JTBC 250218 방송",
-  "title": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜JTBC 250218 방송 (2025-02-18)",
+  "alt": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜",
+  "title": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜(2025-02-18)",
   "duration": "00:28:33"
 },
 
@@ -9834,8 +9834,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/lKk1OA5A9YU/sddefault.jpg",
-  "alt": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 | JTBC 250218 방송",
-  "title": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 | JTBC 250218 방송 (2025-02-18)",
+  "alt": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 |",
+  "title": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 | (2025-02-18)",
   "duration": "00:29:54"
 },
 
@@ -9858,8 +9858,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/088fdJOupkw/sddefault.jpg",
-  "alt": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜JTBC 250218 방송",
-  "title": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜JTBC 250218 방송 (2025-02-19)",
+  "alt": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜",
+  "title": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜ (2025-02-18)",
   "duration": "00:26:16"
 },
 
@@ -9870,8 +9870,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/fVztsbPcywg/sddefault.jpg",
-  "alt": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 | JTBC 250225 방송",
-  "title": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 | JTBC 250225 방송 (2025-02-25)",
+  "alt": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 |",
+  "title": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 |(2025-02-25)",
   "duration": "00:05:46"
 },
 
@@ -9882,8 +9882,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/G5RYvU5q32c/sddefault.jpg",
-  "alt": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 | JTBC 250225 방송",
-  "title": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 | JTBC 250225 방송 (2025-02-25)",
+  "alt": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 |",
+  "title": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 |(2025-02-25)",
   "duration": "00:24:16"
 },
 
@@ -9930,8 +9930,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Gb0aae7-wnc/sddefault.jpg",
-  "alt": "[ENG] [Mnet 30주년 차트쇼/1회] ★G-DRAGON 등판★ 지디가 해명한 MAMA 퍼포먼스는? | Mnet 250306 방송 (2025-03-06)",
-  "title": "[ENG] [Mnet 30주년 차트쇼/1회] ★G-DRAGON 등판★ 지디가 해명한 MAMA 퍼포먼스는? | Mnet 250306 방송 (2025-03-06)",
+  "alt": "[ENG] [Mnet 30주년 차트쇼/1회] ★G-DRAGON 등판★ 지디가 해명한 MAMA 퍼포먼스는? | (2025-03-06)",
+  "title": "[ENG] [Mnet 30주년 차트쇼/1회] ★G-DRAGON 등판★ 지디가 해명한 MAMA 퍼포먼스는? | (2025-03-06)",
   "duration": "00:05:30"
 },
 
@@ -10002,8 +10002,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/4w7O2GWkEvs/sddefault.jpg",
-  "alt": "피할 수 없으면 즐겨라❗ 찐친들과 함께하는 잠자리 복불복 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250323 방송",
-  "title": "피할 수 없으면 즐겨라❗ 찐친들과 함께하는 잠자리 복불복 [1박 2일 시즌4/Two Days and One Night 4] | KBS 250323 방송 (2025-03-23)",
+  "alt": "피할 수 없으면 즐겨라❗ 찐친들과 함께하는 잠자리 복불복 [1박 2일 시즌4/Two Days and One Night 4] |",
+  "title": "피할 수 없으면 즐겨라❗ 찐친들과 함께하는 잠자리 복불복 [1박 2일 시즌4/Two Days and One Night 4] | (2025-03-23)",
   "duration": "00:12:52"
 },
 
@@ -10014,8 +10014,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/d25Nce6afsE/sddefault.jpg",
-  "alt": "💥베개싸움 빅 매치! 근데 왜 공격은 안 하고 웃고만 계세요!?? [1박 2일 시즌4/Two Days and One Night 4] | KBS 250323 방송",
-  "title": "💥베개싸움 빅 매치! 근데 왜 공격은 안 하고 웃고만 계세요!?? [1박 2일 시즌4/Two Days and One Night 4] | KBS 250323 방송 (2025-03-23)",
+  "alt": "💥베개싸움 빅 매치! 근데 왜 공격은 안 하고 웃고만 계세요!?? [1박 2일 시즌4/Two Days and One Night 4] |",
+  "title": "💥베개싸움 빅 매치! 근데 왜 공격은 안 하고 웃고만 계세요!?? [1박 2일 시즌4/Two Days and One Night 4] |(2025-03-23)",
   "duration": "00:05:37"
 },
 
@@ -10050,8 +10050,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/WABHf5fkRIo/sddefault.jpg",
-  "alt": "[본방 요약] 모나코 왕비가 된 헐리우드 여배우, 그레이스 켈리의 결혼 뒤엔 치밀한 각본이 있었다? 그레이스 켈리 사망 미스터리 KBS 250415 방송",
-  "title": "[본방 요약] 모나코 왕비가 된 헐리우드 여배우, 그레이스 켈리의 결혼 뒤엔 치밀한 각본이 있었다? 그레이스 켈리 사망 미스터리 I 셀럽병사의 비밀 (2025-04-17)",
+  "alt": "[본방 요약] 모나코 왕비가 된 헐리우드 여배우, 그레이스 켈리의 결혼 뒤엔 치밀한 각본이 있었다? 그레이스 켈리 사망 미스터리",
+  "title": "[본방 요약] 모나코 왕비가 된 헐리우드 여배우, 그레이스 켈리의 결혼 뒤엔 치밀한 각본이 있었다? 그레이스 켈리 사망 미스터리 I 셀럽병사의 비밀 (2025-04-15)",
   "duration": "00:29:57"
 },
 
@@ -10062,8 +10062,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/e6Za00BpQzA/sddefault.jpg",
-  "alt": "[본방 요약] 월드스타 강수연은 왜 출산 연기와 삭발도 감수했나? 우리가 잘 몰랐던 강수연의 노력과 안타까운 죽음 이야기 I KBS 250422 방송",
-  "title": "[본방 요약] 월드스타 강수연은 왜 출산 연기와 삭발도 감수했나? 우리가 잘 몰랐던 강수연의 노력과 안타까운 죽음 이야기 I 셀럽병사의 비밀 (2025-04-24)",
+  "alt": "[본방 요약] 월드스타 강수연은 왜 출산 연기와 삭발도 감수했나? 우리가 잘 몰랐던 강수연의 노력과 안타까운 죽음 이야기 I",
+  "title": "[본방 요약] 월드스타 강수연은 왜 출산 연기와 삭발도 감수했나? 우리가 잘 몰랐던 강수연의 노력과 안타까운 죽음 이야기 I 셀럽병사의 비밀 (2025-04-22)",
   "duration": "00:29:59"
 },
 
@@ -10074,8 +10074,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/YpOcuuprObI/sddefault.jpg",
-  "alt": "[본방 요약] 베토벤이 청력을 잃은 이유? 세기의 천재들을 죽이고 급기야 조선에까지 퍼져버린 매독 이야기 I 셀럽병사의 비밀 250430 방송",
-  "title": "[본방 요약] 베토벤이 청력을 잃은 이유? 세기의 천재들을 죽이고 급기야 조선에까지 퍼져버린 매독 이야기 I 셀럽병사의 비밀 250430 방송 (2025-04-30)",
+  "alt": "[본방 요약] 베토벤이 청력을 잃은 이유? 세기의 천재들을 죽이고 급기야 조선에까지 퍼져버린 매독 이야기 I 셀럽병사의 비밀",
+  "title": "[본방 요약] 베토벤이 청력을 잃은 이유? 세기의 천재들을 죽이고 급기야 조선에까지 퍼져버린 매독 이야기 I 셀럽병사의 비밀(2025-04-30)",
   "duration": "00:29:57"
 },
 
@@ -10086,8 +10086,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/at8vzw8HcCM/sddefault.jpg",
-  "alt": "[전지적 참견 시점 347회 예고] 7년을 함께한 들망진창 아이들💜 & 신기루와 거인걸즈의 데뷔 20주년 파티🎉, MBC 250517 방송 (2025-05-10)",
-  "title": "[전지적 참견 시점 347회 예고] 7년을 함께한 들망진창 아이들💜 & 신기루와 거인걸즈의 데뷔 20주년 파티🎉, MBC 250517 방송 (2025-05-10)",
+  "alt": "[전지적 참견 시점 347회 예고] 7년을 함께한 들망진창 아이들💜 & 신기루와 거인걸즈의 데뷔 20주년 파티🎉(2025-05-17)",
+  "title": "[전지적 참견 시점 347회 예고] 7년을 함께한 들망진창 아이들💜 & 신기루와 거인걸즈의 데뷔 20주년 파티🎉(2025-05-17)",
   "duration": "00:02:32"
 },
 
@@ -10098,8 +10098,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/XlMP4ER7OTo/sddefault.jpg",
-  "alt": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉｜JTBC 250510 방송",
-  "title": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉｜JTBC 250510 방송 (2025-05-10)",
+  "alt": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉",
+  "title": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉(2025-05-10)",
   "duration": "00:18:27"
 },
 
@@ -10110,8 +10110,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/OMA_YKZsJ04/sddefault.jpg",
-  "alt": "＂너무 좋아서..＂ 위기의 팽식당 새로운 알바생 등장👀? 디저트 메뉴 준비해온 미연(I-DLE MIYEON) 보고 무장해제된 유승호🤗｜대결! 팽봉팽봉｜JTBC 250510 방송",
-  "title": "＂너무 좋아서..＂ 위기의 팽식당 새로운 알바생 등장👀? 디저트 메뉴 준비해온 미연(I-DLE MIYEON) 보고 무장해제된 유승호🤗｜대결! 팽봉팽봉｜JTBC 250510 방송 (2025-05-10)",
+  "alt": "＂너무 좋아서..＂ 위기의 팽식당 새로운 알바생 등장👀? 디저트 메뉴 준비해온 미연(I-DLE MIYEON) 보고 무장해제된 유승호🤗｜대결! 팽봉팽봉|",
+  "title": "＂너무 좋아서..＂ 위기의 팽식당 새로운 알바생 등장👀? 디저트 메뉴 준비해온 미연(I-DLE MIYEON) 보고 무장해제된 유승호🤗｜대결! 팽봉팽봉｜(2025-05-10)",
   "duration": "00:21:18"
 },
 
@@ -10123,8 +10123,8 @@ const mediaContentsCards = [
   "month": "05",
   "duration": "00:29:35",
   "thumbnail": "https://i.ytimg.com/vi/p1VIULMnww0/hqdefault.jpg",
-  "alt": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 | JTBC 250510 방송 (2025-05-10)",
-  "title": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 | JTBC 250510 방송 (2025-05-10)"
+  "alt": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 |(2025-05-10)",
+  "title": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 |(2025-05-10)"
 },
 
 {
@@ -10158,8 +10158,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/q0zMusGlbVE/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 아이들의 들망진창 이동길😆 네버랜드와 특별한 음감회, MBC 250517 방송 (2025-05-17)",
-  "title": "[전지적 참견 시점] 아이들의 들망진창 이동길😆 네버랜드와 특별한 음감회, MBC 250517 방송 (2025-05-17)",
+  "alt": "[전지적 참견 시점] 아이들의 들망진창 이동길😆 네버랜드와 특별한 음감회(2025-05-17)",
+  "title": "[전지적 참견 시점] 아이들의 들망진창 이동길😆 네버랜드와 특별한 음감회 (2025-05-17)",
   "duration": "00:03:55"
 },
 
@@ -10170,8 +10170,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/TgvalhlblJo/sddefault.jpg",
-  "alt": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 | JTBC 250517 방송",
-  "title": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 | JTBC 250517 방송 (2025-05-17)",
+  "alt": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |",
+  "title": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |(2025-05-17)",
   "duration": "00:28:51"
 },
 
@@ -10182,8 +10182,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/cJkmXQTa_1s/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창, MBC 250517 방송 (2025-05-17)",
-  "title": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창, MBC 250517 방송 (2025-05-17)",
+  "alt": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
+  "title": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
   "duration": "00:03:58"
 },
 
@@ -10194,8 +10194,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/MTllcSxjwtk/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기, MBC 250517 방송 (2025-05-17)",
-  "title": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기, MBC 250517 방송 (2025-05-17)",
+  "alt": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
+  "title": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
   "duration": "00:03:42"
 },
 
@@ -10206,8 +10206,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/khZTXMEu-A0/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 아이들의 연습생 시절 에피소드😂 텃세 부렸던 민니x우기?!, MBC 250517 방송 (2025-05-17)",
-  "title": "[전지적 참견 시점] 아이들의 연습생 시절 에피소드😂 텃세 부렸던 민니x우기?!, MBC 250517 방송 (2025-05-17)",
+  "alt": "[전지적 참견 시점] 아이들의 연습생 시절 에피소드😂 텃세 부렸던 민니x우기?!(2025-05-17)",
+  "title": "[전지적 참견 시점] 아이들의 연습생 시절 에피소드😂 텃세 부렸던 민니x우기?! (2025-05-17)",
   "duration": "00:03:09"
 },
 
@@ -10218,8 +10218,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/RugCavy2gXM/sddefault.jpg",
-  "alt": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle MBC250517방송 (2025-05-18)",
-  "title": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle MBC250517방송 (2025-05-18)",
+  "alt": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle (2025-05-18)",
+  "title": "[전참시] [SUB] 완전체 재계약 후 1인 1매니저로 바뀐 아이들의 5인 5색 시끌벅적 출근길🤩ㅣ#아이들 #idle (2025-05-17)",
   "duration": "00:17:29"
 },
 
@@ -10230,8 +10230,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/NS5YovKgcco/sddefault.jpg",
-  "alt": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle MBC250517방송 (2025-05-18)",
-  "title": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle MBC250517방송 (2025-05-18)",
+  "alt": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle (2025-05-17)",
+  "title": "[전참시] [SUB] 민니 하우스 최초 공개🏠 서로 견제했던 연습생 시절 에피소드부터 재계약 비하인드까지 다 얘기하는 아이들ㅣ#아이들 #idle (2025-05-17)",
   "duration": "00:18:07"
 },
 
@@ -10242,8 +10242,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dVkhHSIbc08/sddefault.jpg",
-  "alt": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 MBC250517방송 #전지적참견시점 #아이들 #idle (2025-05-19)",
-  "title": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 MBC250517방송 #전지적참견시점 #아이들 #idle (2025-05-19)",
+  "alt": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 #전지적참견시점 #아이들 #idle (2025-05-17)",
+  "title": "[전참시] 민니 표 태국요리부터 우기의 중국식 삼겹살볶음까지 다국적 음식으로 차려진 아이들의 저녁 한 상 #전지적참견시점 #아이들 #idle (2025-05-17)",
   "duration": "00:15:34"
 },
 
@@ -10350,8 +10350,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/-1e656YkJwU/sddefault.jpg",
-  "alt": "(여자)아이들에서 아이들로! ＂공식 팀명을 바꾼 이유는?＂ [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
-  "title": "(여자)아이들에서 아이들로! ＂공식 팀명을 바꾼 이유는?＂ [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
+  "alt": "(여자)아이들에서 아이들로! ＂공식 팀명을 바꾼 이유는?＂ [더 시즌즈-박보검의 칸타빌레] | (2025-05-23)",
+  "title": "(여자)아이들에서 아이들로! ＂공식 팀명을 바꾼 이유는?＂ [더 시즌즈-박보검의 칸타빌레] | (2025-05-23)",
   "duration": "00:02:18"
 },
 
@@ -10387,8 +10387,8 @@ const mediaContentsCards = [
   "month": "05",
   "duration": "00:23:34",
   "thumbnail": "https://i.ytimg.com/vi/TLOxJsRB0s8/hqdefault.jpg",
-  "alt": "[스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 | JTBC 250517 방송 (2025-05-23)",
-  "title": "< 미연 > [스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 | JTBC 250517 방송 (2025-05-23)"
+  "alt": "[스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 |(2025-05-17)",
+  "title": "< 미연 > [스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 |(2025-05-17)"
 },
 
 {
@@ -10398,8 +10398,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/2POHov-gnQE/sddefault.jpg",
-  "alt": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 | JTBC 250524 방송",
-  "title": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 | JTBC 250524 방송 (2025-05-24)",
+  "alt": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 |",
+  "title": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 | JTBC (2025-05-24)",
   "duration": "00:33:25"
 },
 
@@ -10410,8 +10410,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/dAIZ3VpUwqQ/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 | JTBC 250524 방송",
-  "title": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 | JTBC 250524 방송 (2025-05-24)",
+  "alt": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 |",
+  "title": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 |(2025-05-24)",
   "duration": "00:25:47"
 },
 
@@ -10423,8 +10423,8 @@ const mediaContentsCards = [
   "month": "05",
   "duration": "00:26:30",
   "thumbnail": "https://i.ytimg.com/vi/8175r1EdrUc/hqdefault.jpg",
-  "alt": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜JTBC 250524 방송 (2025-05-24)",
-  "title": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜JTBC 250524 방송 (2025-05-24)"
+  "alt": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜(2025-05-24)",
+  "title": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜(2025-05-24)"
 },
 
 {
@@ -10458,8 +10458,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/YouyFmKwGz8/sddefault.jpg",
-  "alt": "[풀버전✂] 쿠키영상 있음🍪 심곡파출소에 등장한 우기?! Holy moly✨ '심곡파출소' [개그 콘서트/Gag Concert Ep.1123] | KBS 250525방송 (2025-05-25)",
-  "title": "[풀버전✂] 쿠키영상 있음🍪 심곡파출소에 등장한 우기?! Holy moly✨ '심곡파출소' [개그 콘서트/Gag Concert Ep.1123] | KBS 250525방송 (2025-05-25)",
+  "alt": "[풀버전✂] 쿠키영상 있음🍪 심곡파출소에 등장한 우기?! Holy moly✨ '심곡파출소' [개그 콘서트/Gag Concert Ep.1123] |(2025-05-25)",
+  "title": "[풀버전✂] 쿠키영상 있음🍪 심곡파출소에 등장한 우기?! Holy moly✨ '심곡파출소' [개그 콘서트/Gag Concert Ep.1123] |(2025-05-25)",
   "duration": "00:17:23"
 },
 
@@ -10530,8 +10530,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/ZWiX7ljJ4mc/sddefault.jpg",
-  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip MBC250517방송 #전참시 #나혼산 #아이들 (2025-06-04)",
-  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip MBC250517방송 #전참시 #나혼산 #아이들 (2025-06-04)",
+  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 #아이들 ((2025-05-17)",
+  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 #아이들 (2025-05-17)",
   "duration": "01:30:46"
 },
 
@@ -10566,8 +10566,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/P7WhMHZ40vk/sddefault.jpg",
-  "alt": "＂천안 짬뽕집 줘요＂ ✨계약 부녀 탄생✨인건비 줄이기 위한 이봉원 X 이은지의 눈물 나는 노력💥｜대결! 팽봉팽봉｜JTBC 250607 방송",
-  "title": "＂천안 짬뽕집 줘요＂ ✨계약 부녀 탄생✨인건비 줄이기 위한 이봉원 X 이은지의 눈물 나는 노력💥｜대결! 팽봉팽봉｜JTBC 250607 방송 (2025-06-07)",
+  "alt": "＂천안 짬뽕집 줘요＂ ✨계약 부녀 탄생✨인건비 줄이기 위한 이봉원 X 이은지의 눈물 나는 노력💥｜대결! 팽봉팽봉|",
+  "title": "＂천안 짬뽕집 줘요＂ ✨계약 부녀 탄생✨인건비 줄이기 위한 이봉원 X 이은지의 눈물 나는 노력💥｜대결! 팽봉팽봉｜(2025-06-07)",
   "duration": "00:27:38"
 },
 
@@ -10578,8 +10578,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/kgm8rD5R6jY/sddefault.jpg",
-  "alt": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜JTBC 250607 방송 (2025-06-07)",
-  "title": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜JTBC 250607 방송 (2025-06-07)",
+  "alt": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜(2025-06-07)",
+  "title": "🔥엄청 맵게 낉여오걿아🔥 맛잘알 외국인 손님 대만족 시킨 최양락표 맵싹한 라면🍜｜대결! 팽봉팽봉｜JTBC (2025-06-07)",
   "duration": "00:24:28"
 },
 
@@ -10591,8 +10591,8 @@ const mediaContentsCards = [
   "month": "06",
   "duration": "00:11:59",
   "thumbnail": "https://i.ytimg.com/vi/ZWlVxstd60o/sddefault.jpg",
-  "alt": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)",
-  "title": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)"
+  "alt": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | (2025-06-07)",
+  "title": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | (2025-06-07)"
 },
 
 {
@@ -10603,8 +10603,8 @@ const mediaContentsCards = [
   "month": "06",
   "duration": "00:10:34",
   "thumbnail": "https://i.ytimg.com/vi/kBQ4IYL1-wE/mqdefault.jpg",
-  "alt": "자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)",
-  "title": "< 미연 > 자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)"
+  "alt": "자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | (2025-06-07)",
+  "title": "< 미연 > 자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | (2025-06-07)"
 },
 
 {
@@ -10614,8 +10614,8 @@ const mediaContentsCards = [
   "year": "2025",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/2ip1QWTozwY/sddefault.jpg",
-  "alt": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)",
-  "title": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) | JTBC 250610 방송 (2025-06-11)",
+  "alt": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) (2025-06-10)",
+  "title": "[하이라이트] 고속도로 달리던 중 앞 유리 깨고 들어온 판스프링?!💥 운전자의 생명을 위협하는 물건들🔧 | 한블리 (한문철의 블랙박스 리뷰) (2025-06-10)",
   "duration": "00:33:09"
 },
 
@@ -10639,8 +10639,8 @@ const mediaContentsCards = [
   "month": "06",
   "duration": "00:27:24",
   "thumbnail": "https://i.ytimg.com/vi/ZaDnNUxOWVc/mqdefault.jpg",
-  "alt": "💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜JTBC 250614 방송 (2025-06-14)",
-  "title": "< 미연 > 💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜JTBC 250614 방송 (2025-06-14)"
+  "alt": "💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜(2025-06-14)",
+  "title": "< 미연 > 💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜(2025-06-14)"
 },
 
 {
@@ -10697,8 +10697,8 @@ const mediaContentsCards = [
   "month": "12",
   "duration": "00:02:23",
   "thumbnail": "https://i.ytimg.com/vi/bUcBYabdmdM/mqdefault.jpg",
-  "alt": "본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶, MBC 201226 방송 (2020-12-26)",
-  "title": "[백파더] - 본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶, MBC 201226 방송 (2020-12-26)"
+  "alt": "본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶 (2020-12-26)",
+  "title": "[백파더] - 본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶 (2020-12-26)"
 },
 
 {
@@ -10709,8 +10709,8 @@ const mediaContentsCards = [
   "month": "12",
   "duration": "00:02:35",
   "thumbnail": "https://i.ytimg.com/vi/VGrg67fSaMM/hqdefault.jpg",
-  "alt": "3단계에 끝나는 자취남의 돼지뒷다리 냉면..★, MBC 201226 방송 (2020-12-26)",
-  "title": "[백파더] - 3단계에 끝나는 자취남의 돼지뒷다리 냉면..★, MBC 201226 방송 (2020-12-26)"
+  "alt": "3단계에 끝나는 자취남의 돼지뒷다리 냉면..★ (2020-12-26)",
+  "title": "[백파더] - 3단계에 끝나는 자취남의 돼지뒷다리 냉면..★ (2020-12-26)"
 },
 
 {
@@ -10721,8 +10721,8 @@ const mediaContentsCards = [
   "month": "12",
   "duration": "00:02:22",
   "thumbnail": "https://i.ytimg.com/vi/Q4Lym_jCbCI/hqdefault.jpg",
-  "alt": "꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨, MBC 201226 방송 (2020-12-26)",
-  "title": "[백파더] - 꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨, MBC 201226 방송 (2020-12-26)"
+  "alt": "꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨ (2020-12-26)",
+  "title": "[백파더] - 꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨ (2020-12-26)"
 },
 
 {
@@ -10733,8 +10733,8 @@ const mediaContentsCards = [
   "month": "12",
   "duration": "00:02:33",
   "thumbnail": "https://i.ytimg.com/vi/2r2pfvoJzKs/sddefault.jpg",
-  "alt": "오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?!, MBC 201226 방송 (2020-12-26)",
-  "title": "[백파더] - 오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?!, MBC 201226 방송 (2020-12-26)"
+  "alt": "오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?! (2020-12-26)",
+  "title": "[백파더] - 오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?! (2020-12-26)"
 },
 
 {
@@ -10855,6 +10855,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/Hx1CYhERG-I/sddefault.jpg",
   "alt": "[Eng 아이☁️클라우드]💛카일로 X IDLE💜미연 민니 슈화의 NEVERLAND Drive🚗ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-06)",
   "title": "[Eng 아이☁️클라우드]💛카일로 X IDLE💜미연 민니 슈화의 NEVERLAND Drive🚗ㅣ슈퍼맨이 돌아왔다 (2022-05-06)"
+},
+  {
+  "link": "https://youtu.be/NnxIikbDhvQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:11:26",
+  "thumbnail": "https://i.ytimg.com/vi/NnxIikbDhvQ/hqdefault.jpg",
+  "alt": "[#홍김동전] 전 세계 아이들의 마음을 훔친죄! 여자아이들 무기징역❤ (ft. Nxde&TOMBOY)| (2022-10-23)",
+  "title": "[#홍김동전] 전 세계 아이들의 마음을 훔친죄! 여자아이들 무기징역❤ (ft. Nxde&TOMBOY)| (2022-10-23)"
 }
 
 
