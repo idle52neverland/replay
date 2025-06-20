@@ -10965,6 +10965,30 @@ const stagePerformanceCards = [
   "alt": "미연,소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
   "title": "미연,소연 - POP/STARS - Opening Ceremony Presented by Mastercard | Finals | 2018 World Championship (2018-11-03)",
   "duration": "00:03:52"
+},
+  {
+  "link": "https://youtu.be/kfWSiV1nO9M",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:42:02",
+  "thumbnail": "https://i.ytimg.com/vi/kfWSiV1nO9M/mqdefault.jpg",
+  "alt": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)",
+  "title": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)"
+},
+
+
+{
+  "link": "https://youtu.be/cuG4UGCNCKQ",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2024",
+  "month": "01",
+  "duration": "00:21:06",
+  "thumbnail": "https://i.ytimg.com/vi/cuG4UGCNCKQ/hqdefault.jpg",
+  "alt": "𝗘𝘃𝗲𝗿𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼𝗳 (𝗚)𝗜-𝗗𝗟𝗘 𝗮𝘁 𝗚𝗼𝗹𝗱𝗲𝗻 𝗗𝗶𝘀𝗰 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟭𝟵-𝟮𝟬𝟮𝟯😎 (2024-01-06)",
+  "title": "𝗘𝘃𝗲𝗿𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼𝗳 (𝗚)𝗜-𝗗𝗟𝗘 𝗮𝘁 𝗚𝗼𝗹𝗱𝗲𝗻 𝗗𝗶𝘀𝗰 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟭𝟵-𝟮𝟬𝟮𝟯😎 (2024-01-06)"
 }
 
 ];
