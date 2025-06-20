@@ -153,14 +153,15 @@
       text-overflow: ellipsis;
       box-sizing: content-box;
     }
-    .card-meta {
-      font-size: 11px;
-      color: #aaa;
-      display: flex;
-      justify-content: space-between;
-      padding: 2px 6px 4px;
-      opacity: 0.7;
-    }
+ .card-meta {
+  font-size: 11px;
+  color: #aaa;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 2px 6px 4px;
+  opacity: 0.7;
+}
 
     .button-wrapper {
       display: flex;
@@ -325,9 +326,11 @@
             </div>
             <div class="card-title">${data.title}</div>
             <div class="card-meta">
-              <span class="category">${data.category}</span>
-              <span class="duration">${data.duration || ''}</span>
-            </div>
+           <div class="card-meta">
+  <span>${data.category}</span>
+  <span>${data.member}</span>
+  <span>${data.duration || ''}</span>
+</div>
           `;
           card.addEventListener("click", (e) => {
             e.preventDefault();
