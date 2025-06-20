@@ -1,5 +1,341 @@
 const behindClipsCards = [
 {
+  "link": "https://youtu.be/zFxULkjVOEs",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/zFxULkjVOEs/sddefault.jpg",
+  "alt": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[DAY6의 키스 더 라디오] l KBS 210113 방송 (2021-01-14)",
+  "title": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[DAY6의 키스 더 라디오] l KBS 방송 (2021-01-13)",
+  "duration": "00:01:58"
+},
+
+{
+  "link": "https://youtu.be/Sk2XQvGQVFo",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/Sk2XQvGQVFo/sddefault.jpg",
+  "alt": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022 (2022-12-17)",
+  "title": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022 (2022-12-17)",
+  "duration": "00:33:09"
+},
+
+{
+  "link": "https://youtu.be/thDFxMUsj4o",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/thDFxMUsj4o/sddefault.jpg",
+  "alt": "[Mnet PRIME SHOW/PRIME POINT] \"미친거아냐?\"대형 스포일러 ㅃ6YA-★ (2023-03-22)",
+  "title": "[Mnet PRIME SHOW/PRIME POINT] \"미친거아냐?\"대형 스포일러 ㅃ6YA-★ (2023-03-22)",
+  "duration": "00:04:40"
+},
+
+{
+  "link": "https://youtu.be/6xE82Cnv8pI",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/6xE82Cnv8pI/sddefault.jpg",
+  "alt": "[마마미누] 2024 MAMA 대기실 판독기🔍부터 찐 VIP의 빅뱅 무대 리액션까지🙊 1초도 놓칠 수 없는 미미미누의 오사카 48시간! | MAMAMINU (ENG/JPN) (2024-12-16)",
+  "title": "[마마미누] 2024 MAMA 대기실 판독기🔍부터 찐 VIP의 빅뱅 무대 리액션까지🙊 1초도 놓칠 수 없는 미미미누의 오사카 48시간! | MAMAMINU (ENG/JPN) (2024-12-16)",
+  "duration": "00:37:17"
+},
+
+{
+  "link": "https://youtu.be/GxL3PZar-hA",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/GxL3PZar-hA/sddefault.jpg",
+  "alt": "[MMA 비하인드캠🎥] 뽑기왕을 찾아라! 멜론뮤직어워드 백스테이지에선 무슨 일이?👀 | EP.02 #MMA2024 #멜론뮤직어워드 (2025-01-06)",
+  "title": "[MMA 비하인드캠🎥] 뽑기왕을 찾아라! 멜론뮤직어워드 백스테이지에선 무슨 일이?👀 | EP.02 #MMA2024 #멜론뮤직어워드 (2025-01-06)",
+  "duration": "00:15:44"
+},
+
+{
+  "link": "https://youtu.be/d6lmphiZ3ds",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/d6lmphiZ3ds/sddefault.jpg",
+  "alt": "에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 200421] (2020-05-03)",
+  "title": "에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 ] (2020-04-21)",
+  "duration": "00:05:52"
+},
+
+{
+  "link": "https://youtu.be/7yUBBqIthwI",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "thumbnail": "https://i.ytimg.com/vi/7yUBBqIthwI/sddefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 200811] (2020-09-04)",
+  "title": "(여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 ] (2020-08-11)",
+  "duration": "00:04:18"
+},
+
+{
+  "link": "https://youtu.be/GMUVwyWrWrA",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/GMUVwyWrWrA/sddefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 210126] (2021-02-05)",
+  "title": "(여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 ] (2021-01-26)",
+  "duration": "00:05:54"
+},
+
+{
+  "link": "https://youtu.be/GZn5bjML7bE",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/GZn5bjML7bE/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210218 M COUNTDOWN (2021-02-19)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-02-18)",
+  "duration": "00:06:53"
+},
+
+{
+  "link": "https://youtu.be/QFwPd8fxJqw",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/QFwPd8fxJqw/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210225 M COUNTDOWN (2021-03-02)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-02-25)",
+  "duration": "00:05:35"
+},
+
+{
+  "link": "https://youtu.be/2dyp01uoz8I",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/2dyp01uoz8I/sddefault.jpg",
+  "alt": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210304 M COUNTDOWN (2021-03-09)",
+  "title": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-03-04)",
+  "duration": "00:05:55"
+},
+
+{
+  "link": "https://youtu.be/KUBVWpaspsY",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/KUBVWpaspsY/sddefault.jpg",
+  "alt": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | 210311 M COUNTDOWN (2021-03-12)",
+  "title": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | M COUNTDOWN (2021-03-11)",
+  "duration": "00:05:55"
+},
+
+{
+  "link": "https://youtu.be/zQ7-Z1XOmSo",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/zQ7-Z1XOmSo/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210318 M COUNTDOWN (2021-03-22)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-03-18)",
+  "duration": "00:06:22"
+},
+
+{
+  "link": "https://youtu.be/2q0g0Bqatt8",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/2q0g0Bqatt8/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210325 M COUNTDOWN (2021-03-29)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-03-25)",
+  "duration": "00:04:05"
+},
+
+{
+  "link": "https://youtu.be/vi8OQdCV3Jg",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/vi8OQdCV3Jg/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210408 M COUNTDOWN (2021-04-13)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-04-08)",
+  "duration": "00:04:28"
+},
+
+{
+  "link": "https://youtu.be/6Shdxp0f5NE",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/6Shdxp0f5NE/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210415 M COUNTDOWN (2021-04-16)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-04-15)",
+  "duration": "00:04:57"
+},
+
+{
+  "link": "https://youtu.be/WkLneX_D7-8",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/WkLneX_D7-8/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210506 M COUNTDOWN (2021-05-10)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-05-06)",
+  "duration": "00:04:57"
+},
+
+{
+  "link": "https://youtu.be/h0WFTsXuYhA",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/h0WFTsXuYhA/sddefault.jpg",
+  "alt": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT  | 210513 M COUNTDOWN (2021-05-14)",
+  "title": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT | M COUNTDOWN (2021-05-13)",
+  "duration": "00:05:34"
+},
+
+{
+  "link": "https://youtu.be/p6ibpJ6wKDA",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/p6ibpJ6wKDA/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210520 M COUNTDOWN (2021-05-26)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-05-20)",
+  "duration": "00:05:20"
+},
+
+{
+  "link": "https://youtu.be/jESkr_TH2oU",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/jESkr_TH2oU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210527 M COUNTDOWN (2021-05-31)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-05-27)",
+  "duration": "00:05:54"
+},
+
+{
+  "link": "https://youtu.be/yJOdYmax32k",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/yJOdYmax32k/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210603 M COUNTDOWN (2021-06-07)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-06-03)",
+  "duration": "00:05:49"
+},
+
+{
+  "link": "https://youtu.be/s6ZJKLoDKvU",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/s6ZJKLoDKvU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210610 M COUNTDOWN (2021-06-14)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-06-10)",
+  "duration": "00:05:02"
+},
+
+{
+  "link": "https://youtu.be/JCyKhZaBSU4",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/JCyKhZaBSU4/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210617 M COUNTDOWN (2021-06-23)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-06-17)",
+  "duration": "00:04:13"
+},
+
+{
+  "link": "https://youtu.be/ffVVKi1DMfU",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/ffVVKi1DMfU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210701 M COUNTDOWN (2021-07-05)",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN (2021-07-01)",
+  "duration": "00:04:20"
+},
+
+{
+  "link": "https://youtu.be/mfXQVeOiUwU",
+  "category": "BEHIND_CLIPS",
+  "member": "소연",
+  "year": "2021",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/mfXQVeOiUwU/sddefault.jpg",
+  "alt": "에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 210713] (2021-07-24)",
+  "title": "에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 ] (2021-07-13)",
+  "duration": "00:08:14"
+},
+
+{
+  "link": "https://youtu.be/UcuKUSiPj2Y",
+  "category": "BEHIND_CLIPS",
+  "member": "소연, 우기, 슈화",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/UcuKUSiPj2Y/sddefault.jpg",
+  "alt": "[벌칙영상] 어떤 모습이어도 사랑해💗 (여자)아이들((G)I-DLE) 슈화&소연&우기 서로 칭찬해주기✨ / [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-21)",
+  "title": "[벌칙영상] 어떤 모습이어도 사랑해💗 (여자)아이들((G)I-DLE) 슈화&소연&우기 서로 칭찬해주기✨ / [비투비의 키스 더 라디오] l KBS 방송 (2022-10-20)",
+  "duration": "00:03:36"
+},
+
+{
+  "link": "https://youtu.be/sqaVw0bFbVk",
+  "category": "BEHIND_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/sqaVw0bFbVk/sddefault.jpg",
+  "alt": "엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE),  Play List, 백스테이지 [비하인드 더쇼 221025] (2022-11-23)",
+  "title": "엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE), Play List, 백스테이지 [비하인드 더쇼 ] (2022-10-25)",
+  "duration": "00:09:21"
+},
+
+{
+  "link": "https://youtu.be/rM-ebS7aHZ0",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/rM-ebS7aHZ0/sddefault.jpg",
+  "alt": "💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드  | 231116 M COUNTDOWN (2023-11-25)",
+  "title": "💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드 | M COUNTDOWN (2023-11-16)",
+  "duration": "00:04:36"
+},
+
+{
   "link": "https://youtu.be/mxlqvIAmDRY",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -175,7 +511,7 @@ const behindClipsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/rILeC4E7ct4/sddefault.jpg",
   "alt": "[ENG] ['Today's MCD' 엠카 스쿨 방과 후 특별 활동(with.(여자)아이들)] After School Life Special | M COUNTDOWN 200416 (2020-04-16)",
-  "title": "[ENG] ['Today's MCD' 엠카 스쿨 방과 후 특별 활동(with.(여자)아이들)] After School Life Special | M COUNTDOWN 200416 (2020-04-16)",
+  "title": "[ENG] ['Today's MCD' 엠카 스쿨 방과 후 특별 활동(with.(여자)아이들)] After School Life Special | M COUNTDOWN (2020-04-16)",
   "duration": "00:01:29"
 },
 
@@ -199,7 +535,7 @@ const behindClipsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/iWmjp-hWkL4/sddefault.jpg",
   "alt": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show | M COUNTDOWN 200423 EP.662 (2020-04-23)",
-  "title": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show | M COUNTDOWN 200423 EP.662 (2020-04-23)",
+  "title": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show | M COUNTDOWN EP.662 (2020-04-23)",
   "duration": "00:06:13"
 },
 
@@ -273,18 +609,6 @@ const behindClipsCards = [
   "alt": "퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE] (2020-04-29)",
   "title": "퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE] (2020-04-29)",
   "duration": "00:04:04"
-},
-
-{
-  "link": "https://youtu.be/d6lmphiZ3ds",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/d6lmphiZ3ds/sddefault.jpg",
-  "alt": "에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 200421] (2020-05-03)",
-  "title": "에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 200421] (2020-05-03)",
-  "duration": "00:05:52"
 },
 
 {
@@ -408,18 +732,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/7yUBBqIthwI",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/7yUBBqIthwI/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 200811] (2020-09-04)",
-  "title": "(여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 200811] (2020-09-04)",
-  "duration": "00:04:18"
-},
-
-{
   "link": "https://youtu.be/L40hFFNoRN4",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -441,18 +753,6 @@ const behindClipsCards = [
   "alt": "[#여자아이들 슈퍼온택트 비하인드] ＂아이돌이라는 자신감이 다시 나왔어요🤟＂ / 폴라로이드 사진 촬영 현장📸 (2020-10-23)",
   "title": "[#여자아이들 슈퍼온택트 비하인드] ＂아이돌이라는 자신감이 다시 나왔어요🤟＂ / 폴라로이드 사진 촬영 현장📸 (2020-10-23)",
   "duration": "00:10:19"
-},
-
-{
-  "link": "https://youtu.be/zFxULkjVOEs",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/zFxULkjVOEs/sddefault.jpg",
-  "alt": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[DAY6의 키스 더 라디오] l KBS 210113 방송 (2021-01-14)",
-  "title": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[DAY6의 키스 더 라디오] l KBS 210113 방송 (2021-01-14)",
-  "duration": "00:01:58"
 },
 
 {
@@ -499,7 +799,7 @@ const behindClipsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/nibhktktGJI/sddefault.jpg",
   "alt": "[ENG] [최종회] (여자)아이들 전소연의 칭찬세례! 매력적인 목소리 서빈이에게 딱 어울리는 곡 선물까지♥#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
-  "title": "[ENG] [최종회] (여자)아이들 전소연의 칭찬세례! 매력적인 목소리 서빈이에게 딱 어울리는 곡 선물까지♥#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
+  "title": "[ENG] [최종회] (여자)아이들 전소연의 칭찬세례! 매력적인 목소리 서빈이에게 딱 어울리는 곡 선물까지♥#캡틴 | CAP-TEEN EP.10 | Mnet 방송 (2021-01-21)",
   "duration": "00:02:28"
 },
 
@@ -588,18 +888,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/GMUVwyWrWrA",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/GMUVwyWrWrA/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 210126] (2021-02-05)",
-  "title": "(여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 210126] (2021-02-05)",
-  "duration": "00:05:54"
-},
-
-{
   "link": "https://youtu.be/dy4F2QdzZ8o",
   "category": "BEHIND_CLIPS",
   "member": "슈화",
@@ -609,18 +897,6 @@ const behindClipsCards = [
   "alt": "슈화에게 XX을 발음 시키면 고장이 난다?!!? 뽀짝미 폭발하는 (여자)아이들 [답해서 잠금해제] #여자아이들 #답잠 (2021-02-06)",
   "title": "슈화에게 XX을 발음 시키면 고장이 난다?!!? 뽀짝미 폭발하는 (여자)아이들 [답해서 잠금해제] #여자아이들 #답잠 (2021-02-06)",
   "duration": "00:05:26"
-},
-
-{
-  "link": "https://youtu.be/GZn5bjML7bE",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/GZn5bjML7bE/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210218 M COUNTDOWN (2021-02-19)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210218 M COUNTDOWN (2021-02-19)",
-  "duration": "00:06:53"
 },
 
 {
@@ -636,90 +912,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/QFwPd8fxJqw",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/QFwPd8fxJqw/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210225 M COUNTDOWN (2021-03-02)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210225 M COUNTDOWN (2021-03-02)",
-  "duration": "00:05:35"
-},
-
-{
-  "link": "https://youtu.be/2dyp01uoz8I",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/2dyp01uoz8I/sddefault.jpg",
-  "alt": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210304 M COUNTDOWN (2021-03-09)",
-  "title": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210304 M COUNTDOWN (2021-03-09)",
-  "duration": "00:05:55"
-},
-
-{
-  "link": "https://youtu.be/KUBVWpaspsY",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/KUBVWpaspsY/sddefault.jpg",
-  "alt": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | 210311 M COUNTDOWN (2021-03-12)",
-  "title": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | 210311 M COUNTDOWN (2021-03-12)",
-  "duration": "00:05:55"
-},
-
-{
-  "link": "https://youtu.be/zQ7-Z1XOmSo",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/zQ7-Z1XOmSo/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210318 M COUNTDOWN (2021-03-22)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210318 M COUNTDOWN (2021-03-22)",
-  "duration": "00:06:22"
-},
-
-{
-  "link": "https://youtu.be/2q0g0Bqatt8",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/2q0g0Bqatt8/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210325 M COUNTDOWN (2021-03-29)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210325 M COUNTDOWN (2021-03-29)",
-  "duration": "00:04:05"
-},
-
-{
-  "link": "https://youtu.be/vi8OQdCV3Jg",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/vi8OQdCV3Jg/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210408 M COUNTDOWN (2021-04-13)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210408 M COUNTDOWN (2021-04-13)",
-  "duration": "00:04:28"
-},
-
-{
-  "link": "https://youtu.be/6Shdxp0f5NE",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/6Shdxp0f5NE/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210415 M COUNTDOWN (2021-04-16)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210415 M COUNTDOWN (2021-04-16)",
-  "duration": "00:04:57"
-},
-
-{
   "link": "https://youtu.be/zqb5gzZA01U",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -727,7 +919,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/zqb5gzZA01U/sddefault.jpg",
   "alt": "아이돌에서 아티스트로 능력을 갖춘 남다른 매력💕 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
-  "title": "아이돌에서 아티스트로 능력을 갖춘 남다른 매력💕 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
+  "title": "아이돌에서 아티스트로 능력을 갖춘 남다른 매력💕 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 방송 (2021-05-01)",
   "duration": "00:02:53"
 },
 
@@ -739,44 +931,8 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/qQvauroKlI8/sddefault.jpg",
   "alt": "잊지 못할 경험🤩 K/DA 가상 캐릭터와 같이 공연을 했던 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
-  "title": "잊지 못할 경험🤩 K/DA 가상 캐릭터와 같이 공연을 했던 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 210501 방송 (2021-05-01)",
+  "title": "잊지 못할 경험🤩 K/DA 가상 캐릭터와 같이 공연을 했던 (여자)아이들((G)I-DLE) JTBC 팩추얼(JTBC FACTUAL) | JTBC 방송 (2021-05-01)",
   "duration": "00:03:12"
-},
-
-{
-  "link": "https://youtu.be/WkLneX_D7-8",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/WkLneX_D7-8/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210506 M COUNTDOWN (2021-05-10)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210506 M COUNTDOWN (2021-05-10)",
-  "duration": "00:04:57"
-},
-
-{
-  "link": "https://youtu.be/h0WFTsXuYhA",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/h0WFTsXuYhA/sddefault.jpg",
-  "alt": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT  | 210513 M COUNTDOWN (2021-05-14)",
-  "title": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT  | 210513 M COUNTDOWN (2021-05-14)",
-  "duration": "00:05:34"
-},
-
-{
-  "link": "https://youtu.be/p6ibpJ6wKDA",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/p6ibpJ6wKDA/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210520 M COUNTDOWN (2021-05-26)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210520 M COUNTDOWN (2021-05-26)",
-  "duration": "00:05:20"
 },
 
 {
@@ -787,7 +943,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/g6wWK_EdwFc/sddefault.jpg",
   "alt": "[엠카] 210527 (여자)아이들 미연+남윤수 MC컷 (2021-05-27)",
-  "title": "[엠카] 210527 (여자)아이들 미연+남윤수 MC컷 (2021-05-27)",
+  "title": "[엠카] (여자)아이들 미연+남윤수 MC컷 (2021-05-27)",
   "duration": "00:01:46"
 },
 
@@ -801,18 +957,6 @@ const behindClipsCards = [
   "alt": "[직캠] (여자)아이들 미연 - ♬ Blue Moon (Cinema Ver.) @3차 경연 2R (2021-05-28)",
   "title": "[직캠] (여자)아이들 미연 - ♬ Blue Moon (Cinema Ver.) @3차 경연 2R (2021-05-28)",
   "duration": "00:04:57"
-},
-
-{
-  "link": "https://youtu.be/jESkr_TH2oU",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/jESkr_TH2oU/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210527 M COUNTDOWN (2021-05-31)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210527 M COUNTDOWN (2021-05-31)",
-  "duration": "00:05:54"
 },
 
 {
@@ -840,54 +984,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/yJOdYmax32k",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/yJOdYmax32k/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210603 M COUNTDOWN (2021-06-07)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210603 M COUNTDOWN (2021-06-07)",
-  "duration": "00:05:49"
-},
-
-{
-  "link": "https://youtu.be/s6ZJKLoDKvU",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/s6ZJKLoDKvU/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210610 M COUNTDOWN (2021-06-14)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210610 M COUNTDOWN (2021-06-14)",
-  "duration": "00:05:02"
-},
-
-{
-  "link": "https://youtu.be/JCyKhZaBSU4",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/JCyKhZaBSU4/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210617 M COUNTDOWN (2021-06-23)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210617 M COUNTDOWN (2021-06-23)",
-  "duration": "00:04:13"
-},
-
-{
-  "link": "https://youtu.be/ffVVKi1DMfU",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2021",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/ffVVKi1DMfU/sddefault.jpg",
-  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210701 M COUNTDOWN (2021-07-05)",
-  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210701 M COUNTDOWN (2021-07-05)",
-  "duration": "00:04:20"
-},
-
-{
   "link": "https://youtu.be/2iT0sfJN1qg",
   "category": "BEHIND_CLIPS",
   "member": "소연",
@@ -897,18 +993,6 @@ const behindClipsCards = [
   "alt": "[자축라이브 4K] 삠삠(BEAMBEAM)한 여름을 책임져줄 전소연(JEON SOYEON)의 1위 자축 (2021-07-16)",
   "title": "[자축라이브 4K] 삠삠(BEAMBEAM)한 여름을 책임져줄 전소연(JEON SOYEON)의 1위 자축 (2021-07-16)",
   "duration": "00:02:58"
-},
-
-{
-  "link": "https://youtu.be/mfXQVeOiUwU",
-  "category": "BEHIND_CLIPS",
-  "member": "소연",
-  "year": "2021",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/mfXQVeOiUwU/sddefault.jpg",
-  "alt": "에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 210713] (2021-07-24)",
-  "title": "에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 210713] (2021-07-24)",
-  "duration": "00:08:14"
 },
 
 {
@@ -1003,7 +1087,7 @@ const behindClipsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/BwvvnMrGyqY/sddefault.jpg",
   "alt": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 211229 방송 (2021-12-29)",
-  "title": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 211229 방송 (2021-12-29)",
+  "title": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 방송 (2021-12-29)",
   "duration": "00:02:50"
 },
 
@@ -1027,7 +1111,7 @@ const behindClipsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/I6XlTOGYGTM/sddefault.jpg",
   "alt": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송 (2022-03-18)",
-  "title": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송 (2022-03-18)",
+  "title": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 방송 (2022-03-18)",
   "duration": "00:01:25"
 },
 
@@ -1039,7 +1123,7 @@ const behindClipsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/KXYwuWsg_DU/sddefault.jpg",
   "alt": "(ENG SUB)[MusicBank Interview Cam] 위아이 & (여자)아이들 (WEi & (G)I-DLE Interview)l @MusicBank KBS 220318 (2022-03-18)",
-  "title": "(ENG SUB)[MusicBank Interview Cam] 위아이 & (여자)아이들 (WEi & (G)I-DLE Interview)l @MusicBank KBS 220318 (2022-03-18)",
+  "title": "(ENG SUB)[MusicBank Interview Cam] 위아이 & (여자)아이들 (WEi & (G)I-DLE Interview)l @MusicBank KBS (2022-03-18)",
   "duration": "00:03:01"
 },
 
@@ -1111,7 +1195,7 @@ const behindClipsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/yLKfgucdctY/sddefault.jpg",
   "alt": "(ENG SUB)[MusicBank Interview Cam] 윤지성 & 미연 (YOON JI SUNG & MIYEON Interview)l @MusicBank KBS 220429 (2022-04-29)",
-  "title": "(ENG SUB)[MusicBank Interview Cam] 윤지성 & 미연 (YOON JI SUNG & MIYEON Interview)l @MusicBank KBS 220429 (2022-04-29)",
+  "title": "(ENG SUB)[MusicBank Interview Cam] 윤지성 & 미연 (YOON JI SUNG & MIYEON Interview)l @MusicBank KBS (2022-04-29)",
   "duration": "00:01:33"
 },
 
@@ -1185,18 +1269,6 @@ const behindClipsCards = [
   "alt": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하 (2022-10-14)",
   "title": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하 (2022-10-14)",
   "duration": "00:22:48"
-},
-
-{
-  "link": "https://youtu.be/UcuKUSiPj2Y",
-  "category": "BEHIND_CLIPS",
-  "member": "소연, 우기, 슈화",
-  "year": "2022",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/UcuKUSiPj2Y/sddefault.jpg",
-  "alt": "[벌칙영상] 어떤 모습이어도 사랑해💗 (여자)아이들((G)I-DLE) 슈화&소연&우기 서로 칭찬해주기✨ / [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-21)",
-  "title": "[벌칙영상] 어떤 모습이어도 사랑해💗 (여자)아이들((G)I-DLE) 슈화&소연&우기 서로 칭찬해주기✨ / [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-21)",
-  "duration": "00:03:36"
 },
 
 {
@@ -1284,18 +1356,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/sqaVw0bFbVk",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/sqaVw0bFbVk/sddefault.jpg",
-  "alt": "엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE),  Play List, 백스테이지 [비하인드 더쇼 221025] (2022-11-23)",
-  "title": "엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE),  Play List, 백스테이지 [비하인드 더쇼 221025] (2022-11-23)",
-  "duration": "00:09:21"
-},
-
-{
   "link": "https://youtu.be/pFnu1BjAuME",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -1344,18 +1404,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/Sk2XQvGQVFo",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/Sk2XQvGQVFo/sddefault.jpg",
-  "alt": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022 (2022-12-17)",
-  "title": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022 (2022-12-17)",
-  "duration": "00:33:09"
-},
-
-{
   "link": "https://youtu.be/0lNIW_a4QP4",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -1363,7 +1411,7 @@ const behindClipsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/0lNIW_a4QP4/sddefault.jpg",
   "alt": "[2022 MAMA BEHIND] 자우림 X (G)I-DLE 의 스페셜 컬래버! | Mnet 221220 방송 (2022-12-20)",
-  "title": "[2022 MAMA BEHIND] 자우림 X (G)I-DLE 의 스페셜 컬래버! | Mnet 221220 방송 (2022-12-20)",
+  "title": "[2022 MAMA BEHIND] 자우림 X (G)I-DLE 의 스페셜 컬래버! | Mnet 방송 (2022-12-20)",
   "duration": "00:03:49"
 },
 
@@ -1375,7 +1423,7 @@ const behindClipsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/lpWiDKZLsHc/sddefault.jpg",
   "alt": "[2022 MAMA BEHIND] 지코 X (G)I-DLE 소연 의 스페셜 컬래버! | Mnet 221220 방송 (2022-12-20)",
-  "title": "[2022 MAMA BEHIND] 지코 X (G)I-DLE 소연 의 스페셜 컬래버! | Mnet 221220 방송 (2022-12-20)",
+  "title": "[2022 MAMA BEHIND] 지코 X (G)I-DLE 소연 의 스페셜 컬래버! | Mnet 방송 (2022-12-20)",
   "duration": "00:01:03"
 },
 
@@ -1560,18 +1608,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/thDFxMUsj4o",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2023",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/thDFxMUsj4o/sddefault.jpg",
-  "alt": "[Mnet PRIME SHOW/PRIME POINT] \"미친거아냐?\"대형 스포일러 ㅃ6YA-★ (2023-03-22)",
-  "title": "[Mnet PRIME SHOW/PRIME POINT] \"미친거아냐?\"대형 스포일러 ㅃ6YA-★ (2023-03-22)",
-  "duration": "00:04:40"
-},
-
-{
   "link": "https://youtu.be/oB5Ao5IwJHc",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -1615,7 +1651,7 @@ const behindClipsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/um8hiCb6FuA/sddefault.jpg",
   "alt": "[EN/JP] [Mnet PRIME SHOW] 싸이가 된 (여자)아이들! 그리고 그들이 선택한 싸이의 곡은? | Mnet 230329 방송 (2023-03-29)",
-  "title": "[EN/JP] [Mnet PRIME SHOW] 싸이가 된 (여자)아이들! 그리고 그들이 선택한 싸이의 곡은? | Mnet 230329 방송 (2023-03-29)",
+  "title": "[EN/JP] [Mnet PRIME SHOW] 싸이가 된 (여자)아이들! 그리고 그들이 선택한 싸이의 곡은? | Mnet 방송 (2023-03-29)",
   "duration": "00:01:29"
 },
 
@@ -1627,7 +1663,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Zyc1zfQf81U/sddefault.jpg",
   "alt": "[EN/JP] '컴백 인터뷰' with (여자)아이들 #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
-  "title": "[EN/JP] '컴백 인터뷰' with (여자)아이들 #엠카운트다운 EP.797 | Mnet 230518 방송 (2023-05-18)",
+  "title": "[EN/JP] '컴백 인터뷰' with (여자)아이들 #엠카운트다운 EP.797 | Mnet 방송 (2023-05-18)",
   "duration": "00:04:05"
 },
 
@@ -1687,7 +1723,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/WYmBh5tE6iU/sddefault.jpg",
   "alt": "(ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS 230526 (2023-05-26)",
-  "title": "(ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS 230526 (2023-05-26)",
+  "title": "(ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS (2023-05-26)",
   "duration": "00:03:23"
 },
 
@@ -1764,18 +1800,6 @@ const behindClipsCards = [
 },
 
 {
-  "link": "https://youtu.be/rM-ebS7aHZ0",
-  "category": "BEHIND_CLIPS",
-  "member": "미연",
-  "year": "2023",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/rM-ebS7aHZ0/sddefault.jpg",
-  "alt": "💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드  | 231116 M COUNTDOWN (2023-11-25)",
-  "title": "💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드  | 231116 M COUNTDOWN (2023-11-25)",
-  "duration": "00:04:36"
-},
-
-{
   "link": "https://youtu.be/IBh1IEbqpjo",
   "category": "BEHIND_CLIPS",
   "member": "아이들",
@@ -1795,7 +1819,7 @@ const behindClipsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/lIiKTLz0igo/sddefault.jpg",
   "alt": "[EN/JP] '미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.827 | Mnet 240201 방송 (2024-02-01)",
-  "title": "[EN/JP] '미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.827 | Mnet 240201 방송 (2024-02-01)",
+  "title": "[EN/JP] '미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.827 | Mnet 방송 (2024-02-01)",
   "duration": "00:08:29"
 },
 
@@ -1831,7 +1855,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/b327aGnSV4s/sddefault.jpg",
   "alt": "(미연, 민니)- 골든 웨이브 〈여보세요 부스〉 풀버전 - 가수들의 [▶️추천 플레이리스트]를 들을 수 있는 공간! | JTBC 240504 방송 (2024-05-04)",
-  "title": "(미연, 민니)- 골든 웨이브 〈여보세요 부스〉 풀버전 - 가수들의 [▶️추천 플레이리스트]를 들을 수 있는 공간! | JTBC 240504 방송 (2024-05-04)",
+  "title": "(미연, 민니)- 골든 웨이브 〈여보세요 부스〉 풀버전 - 가수들의 [▶️추천 플레이리스트]를 들을 수 있는 공간! | JTBC 방송 (2024-05-04)",
   "duration": "00:33:14"
 },
 
@@ -1843,7 +1867,7 @@ const behindClipsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/k426nSKvkuc/sddefault.jpg",
   "alt": "'미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)",
-  "title": "'미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.852 | Mnet 240711 방송 (2024-07-11)",
+  "title": "'미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.852 | Mnet 방송 (2024-07-11)",
   "duration": "00:06:20"
 },
 
@@ -1857,30 +1881,6 @@ const behindClipsCards = [
   "alt": "(Behind) (G)I-DLE ((여자)아이들) '클락션 (Klaxon)' | STUDIO CHOOM ORIGINAL (ENG SUB) (2024-07-23)",
   "title": "(Behind) (G)I-DLE ((여자)아이들) '클락션 (Klaxon)' | STUDIO CHOOM ORIGINAL (ENG SUB) (2024-07-23)",
   "duration": "00:15:24"
-},
-
-{
-  "link": "https://youtu.be/6xE82Cnv8pI",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2024",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/6xE82Cnv8pI/sddefault.jpg",
-  "alt": "[마마미누] 2024 MAMA 대기실 판독기🔍부터 찐 VIP의 빅뱅 무대 리액션까지🙊 1초도 놓칠 수 없는 미미미누의 오사카 48시간! | MAMAMINU (ENG/JPN) (2024-12-16)",
-  "title": "[마마미누] 2024 MAMA 대기실 판독기🔍부터 찐 VIP의 빅뱅 무대 리액션까지🙊 1초도 놓칠 수 없는 미미미누의 오사카 48시간! | MAMAMINU (ENG/JPN) (2024-12-16)",
-  "duration": "00:37:17"
-},
-
-{
-  "link": "https://youtu.be/GxL3PZar-hA",
-  "category": "BEHIND_CLIPS",
-  "member": "아이들",
-  "year": "2025",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/GxL3PZar-hA/sddefault.jpg",
-  "alt": "[MMA 비하인드캠🎥] 뽑기왕을 찾아라! 멜론뮤직어워드 백스테이지에선 무슨 일이?👀 | EP.02 #MMA2024 #멜론뮤직어워드 (2025-01-06)",
-  "title": "[MMA 비하인드캠🎥] 뽑기왕을 찾아라! 멜론뮤직어워드 백스테이지에선 무슨 일이?👀 | EP.02 #MMA2024 #멜론뮤직어워드 (2025-01-06)",
-  "duration": "00:15:44"
 },
 
 {
@@ -1915,7 +1915,7 @@ const behindClipsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/iXgtOKjLPEE/sddefault.jpg",
   "alt": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
-  "title": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.889 | Mnet 250522 방송 (2025-05-22)",
+  "title": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.889 | Mnet 방송 (2025-05-22)",
   "duration": "00:03:43"
 },
 
@@ -1966,7 +1966,8 @@ const behindClipsCards = [
   "title": "[#직캠보고서🔍] #아이들 #idle 네버랜드랑 아이들이랑 무슨 사이야~💜 음중 사전녹화 비하인드⏯️ (ENG/JPN sub) (2025-06-08)",
   "duration": "00:07:36"
 },
-  {
+
+{
   "link": "https://youtu.be/75_XXHiAG4U",
   "category": "BEHIND_CLIPS",
   "member": "미연",
@@ -1978,8 +1979,5 @@ const behindClipsCards = [
   "title": "[B:MY BOYZ] MC 미연이 함께하는 글로벌 보이그룹 오디션, 곧 시작합니다! (2025-06-18)"
 }
 
-
-
 ];
-
 window.behindClipsCards = behindClipsCards;
