@@ -174,9 +174,21 @@ const mediaContentsCards = [
   "year": "2018",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/5xZfbrKpK8A/sddefault.jpg",
-  "alt": "해피투게더 - 우기의 한국어 선생님은 김수현? 분위기 반전 고쟁 연주까지! 20180816 (2018-08-17)",
-  "title": "해피투게더 - 우기의 한국어 선생님은 김수현? 분위기 반전 고쟁 연주까지! 20180816 (2018-08-17)",
+  "alt": "해피투게더 - 우기의 한국어 선생님은 김수현? 분위기 반전 고쟁 연주까지! 20180816 (2018-08-16)",
+  "title": "해피투게더 - 우기의 한국어 선생님은 김수현? 분위기 반전 고쟁 연주까지! 20180816 (2018-08-16)",
   "duration": "00:03:08"
+},
+
+{
+  "link": "https://youtu.be/mrOUtO8duXU",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2018",
+  "month": "08",
+  "duration": "00:01:33",
+  "thumbnail": "https://i.ytimg.com/vi/mrOUtO8duXU/mqdefault.jpg",
+  "alt": "해피투게더 - 아이들 (IDLE) ,우기 해투 첫출연! 데뷔 20일만 첫 1위 (2018-08-16)",
+  "title": "해피투게더 - 아이들 (IDLE) ,우기 해투 첫출연! 데뷔 20일만 첫 1위 (2018-08-16)"
 },
 
 {
@@ -10653,7 +10665,200 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/_Im0pI0HL9M/hqdefault.jpg",
   "alt": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)",
   "title": "< 미연 >  [선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)"
+},
+  {
+  "link": "https://youtu.be/QcUm1Q2W3O0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:20:04",
+  "thumbnail": "https://i.ytimg.com/vi/QcUm1Q2W3O0/hqdefault.jpg",
+  "alt": "마예종 수석 졸업생이 되기 위한 최종 관문! [기말고사] 시험 현장 전격 공개! [내 꿈은 라이언] EP.14 (2020-11-06)",
+  "title": "마예종 수석 졸업생이 되기 위한 최종 관문! [기말고사] 시험 현장 전격 공개! [내 꿈은 라이언] EP.14 (2020-11-06)"
+},
+{
+  "link": "https://youtu.be/BMVgIcIEiJQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:23:48",
+  "thumbnail": "https://i.ytimg.com/vi/BMVgIcIEiJQ/hqdefault.jpg",
+  "alt": "꿈돌이의 히든카드🍀 꿈순이 등장! 기말고사장을 뒤집어 놓으셨다! [내 꿈은 라이언] (2020-11-13)",
+  "title": "꿈돌이의 히든카드🍀 꿈순이 등장! 기말고사장을 뒤집어 놓으셨다! [내 꿈은 라이언] EP.15 (2020-11-13)"
+},
+
+{
+  "link": "https://youtu.be/bUcBYabdmdM",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:02:23",
+  "thumbnail": "https://i.ytimg.com/vi/bUcBYabdmdM/mqdefault.jpg",
+  "alt": "본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶, MBC 201226 방송 (2020-12-26)",
+  "title": "[백파더] - 본격적으로 고기 굽기 시작! 썰어둔 고추까지 투하~🌶, MBC 201226 방송 (2020-12-26)"
+},
+
+{
+  "link": "https://youtu.be/VGrg67fSaMM",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:02:35",
+  "thumbnail": "https://i.ytimg.com/vi/VGrg67fSaMM/hqdefault.jpg",
+  "alt": "3단계에 끝나는 자취남의 돼지뒷다리 냉면..★, MBC 201226 방송 (2020-12-26)",
+  "title": "[백파더] - 3단계에 끝나는 자취남의 돼지뒷다리 냉면..★, MBC 201226 방송 (2020-12-26)"
+},
+
+{
+  "link": "https://youtu.be/Q4Lym_jCbCI",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:02:22",
+  "thumbnail": "https://i.ytimg.com/vi/Q4Lym_jCbCI/hqdefault.jpg",
+  "alt": "꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨, MBC 201226 방송 (2020-12-26)",
+  "title": "[백파더] - 꽃꽂이 하니..? 우기&슈화의 혼돈의 플레이팅♨, MBC 201226 방송 (2020-12-26)"
+},
+
+{
+  "link": "https://youtu.be/2r2pfvoJzKs",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "12",
+  "duration": "00:02:33",
+  "thumbnail": "https://i.ytimg.com/vi/2r2pfvoJzKs/sddefault.jpg",
+  "alt": "오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?!, MBC 201226 방송 (2020-12-26)",
+  "title": "[백파더] - 오늘 이겨서 제가 선생님 될 거예요! 파브리의 파스타 제자 우기?!, MBC 201226 방송 (2020-12-26)"
+},
+
+{
+  "link": "https://youtu.be/VPRYak-dfKo",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:01:55",
+  "thumbnail": "https://i.ytimg.com/vi/VPRYak-dfKo/mqdefault.jpg",
+  "alt": "[Weekly Idol] ♨핫한 그녀들의 수줍은 주간아 방문! (여자)아이들♨ l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] ♨핫한 그녀들의 수줍은 주간아 방문! (여자)아이들♨ l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/c9YA318wdq0",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/c9YA318wdq0/sddefault.jpg",
+  "alt": "[Weekly Idol] 이 집 게임 잘하네! (여자)아이들의 ＜릴레이 고요속의 외침＞ l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] 이 집 게임 잘하네! (여자)아이들의 ＜릴레이 고요속의 외침＞ l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/hoy-CWHW3jQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:01:58",
+  "thumbnail": "https://i.ytimg.com/vi/hoy-CWHW3jQ/hqdefault.jpg",
+  "alt": "[Weekly Idol] (여자)아이들의 '이제는 말할 수 있다' l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] (여자)아이들의 '이제는 말할 수 있다' l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/mokimpAlL3A",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/mokimpAlL3A/mqdefault.jpg",
+  "alt": "[Weekly Idol] 無화 (여자)아이들 수진이 화를 내리오 더 화를 내리오ㅠㅠ l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] 無화 (여자)아이들 수진이 화를 내리오 더 화를 내리오ㅠㅠ l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/31CxRZGiFuc",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/31CxRZGiFuc/mqdefault.jpg",
+  "alt": "[Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/7h0TLEFR8uE",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/7h0TLEFR8uE/hqdefault.jpg",
+  "alt": "[Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/hEzb_FOmSiE",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/hEzb_FOmSiE/sddefault.jpg",
+  "alt": "[Weekly Idol] 이 구역 댄싱 머신들 흥 조절 실패! (여자)아이들 랜덤 플레이 댄스 실패! l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] 이 구역 댄싱 머신들 흥 조절 실패! (여자)아이들 랜덤 플레이 댄스 실패! l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/pzKEYUDAZgk",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:04:22",
+  "thumbnail": "https://i.ytimg.com/vi/pzKEYUDAZgk/hqdefault.jpg",
+  "alt": "[주간아이돌/Weekly Idol] [신속배달] 즐기는 자가 바로 일류다👍 (여자)아이들의 오또케송! l #주간아이돌 l EP.494 (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] [신속배달] 즐기는 자가 바로 일류다👍 (여자)아이들의 오또케송! l #주간아이돌 l EP.494 (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/bsjj6WWtIgk",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 슈화",
+  "year": "2022",
+  "month": "04",
+  "duration": "00:25:06",
+  "thumbnail": "https://i.ytimg.com/vi/bsjj6WWtIgk/mqdefault.jpg",
+  "alt": "[Eng 아이☁️클라우드] 카일로X BTOB 창섭& IDLE 미연 민니 슈화의 Drive🚗😎ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ (2022-04-29)",
+  "title": "[Eng 아이☁️클라우드] 카일로X BTOB 창섭& IDLE 미연 민니 슈화의 Drive🚗😎ㅣ슈퍼맨이 돌아왔다 (2022-04-29)"
+},
+
+{
+  "link": "https://youtu.be/Hx1CYhERG-I",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 슈화",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:19:19",
+  "thumbnail": "https://i.ytimg.com/vi/Hx1CYhERG-I/sddefault.jpg",
+  "alt": "[Eng 아이☁️클라우드]💛카일로 X IDLE💜미연 민니 슈화의 NEVERLAND Drive🚗ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-06)",
+  "title": "[Eng 아이☁️클라우드]💛카일로 X IDLE💜미연 민니 슈화의 NEVERLAND Drive🚗ㅣ슈퍼맨이 돌아왔다 (2022-05-06)"
 }
+
+
+
 
 
   ];
