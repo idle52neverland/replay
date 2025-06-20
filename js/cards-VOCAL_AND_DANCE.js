@@ -3187,6 +3187,17 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/UQ883uYqKxM/hqdefault.jpg",
   "alt": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)",
   "title": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)"
+},
+  {
+  "link": "https://youtu.be/2SO-qLst3po",
+  "category": "VOCAL_AND_DANCE",
+  "member": "소연",
+  "year": "2018",
+  "month": "09",
+  "duration": "00:01:22",
+  "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/maxresdefault.jpg",
+  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
+  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
 }
 
 
