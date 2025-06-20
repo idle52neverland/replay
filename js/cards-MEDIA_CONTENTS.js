@@ -2736,18 +2736,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/tqgLlNpsvpM",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/tqgLlNpsvpM/sddefault.jpg",
-  "alt": "(ENG) ㈜아이돌워크숍 (여자)아이들 1회 I [IDOL WORKSHOP (G)I-DLE EP.01 FULL] (2020-11-10)",
-  "title": "(ENG) ㈜아이돌워크숍 (여자)아이들 1회 I [IDOL WORKSHOP (G)I-DLE EP.01 FULL] (2020-11-10)",
-  "duration": "00:16:17"
-},
-
-{
   "link": "https://youtu.be/DOZ7amtXlCA",
   "category": "MEDIA_CONTENTS",
   "member": "우기",
@@ -9688,7 +9676,7 @@ const mediaContentsCards = [
   "duration": "00:08:54",
   "thumbnail": "https://i.ytimg.com/vi/76y9xI0z0K0/mqdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들  BEHIND",
-  "title": "(주)아이돌워크숍 (여자)아이들  BEHIND (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 비하인드 [IDOL WORKSHOP (G)I-DLE BEHIND] (2020-11-03)"
 },
 
 {
@@ -9700,7 +9688,7 @@ const mediaContentsCards = [
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/nwWRFgLpRHw/mqdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.5",
-  "title": "(주)아이돌워크숍 (여자)아이들 EP.5 (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 5회 [IDOL WORKSHOP (G)I-DLE EP.05 FULL] (2020-11-03)"
 },
 
 {
@@ -9712,7 +9700,7 @@ const mediaContentsCards = [
   "duration": "00:16:29",
   "thumbnail": "https://i.ytimg.com/vi/HIbzB4OI-As/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.4",
-  "title": "(주)아이돌워크숍 (여자)아이들 EP.4 (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 4회 [IDOL WORKSHOP (G)I-DLE EP.04 FULL] (2020-11-03)"
 },
 
 {
@@ -9724,7 +9712,7 @@ const mediaContentsCards = [
   "duration": "00:16:14",
   "thumbnail": "https://i.ytimg.com/vi/NJkNzpI7UaU/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.3",
-  "title": "(주)아이돌워크숍 (여자)아이들 EP.3 (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 3회 [IDOL WORKSHOP (G)I-DLE EP.03 FULL] (2020-11-03)"
 },
 
 {
@@ -9736,7 +9724,7 @@ const mediaContentsCards = [
   "duration": "00:14:57",
   "thumbnail": "https://i.ytimg.com/vi/qwrmX4xKIrs/maxresdefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.2",
-  "title": "(주)아이돌워크숍 (여자)아이들 EP.2 (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 2회 [IDOL WORKSHOP (G)I-DLE EP.02 FULL](2020-11-03)"
 },
 
 {
@@ -9748,7 +9736,7 @@ const mediaContentsCards = [
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/v5te6UYk2rM/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.1",
-  "title": "(주)아이돌워크숍 (여자)아이들 EP.1 (2020-11-03)"
+  "title": "㈜아이돌워크숍 (여자)아이들 1회 [IDOL WORKSHOP (G)I-DLE EP.01 FULL] (2020-11-03)"
 },
   
 {
@@ -9832,7 +9820,997 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/kBQ4IYL1-wE/mqdefault.jpg",
   "alt": "자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)",
   "title": "< 미연 > 자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)"
-}
+},
+  {
+  "link": "https://youtu.be/lWfjDaiZozs",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:05:36",
+  "thumbnail": "https://i.ytimg.com/vi/lWfjDaiZozs/mqdefault.jpg",
+  "alt": "[#슈퍼TV2] 슈주 랜덤플레이댄스를 (여자)아이들 우기(YUQI)가 찢었다💜 노래 나오자마자 바로 춤 뽑아내는 댄스자판기 우기! 춤선 미쳤다^_ㅠ,,│#Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] 슈주 랜덤플레이댄스를 (여자)아이들 우기(YUQI)가 찢었다💜 노래 나오자마자 바로 춤 뽑아내는 댄스자판기 우기! 춤선 미쳤다^_ㅠ,,│#Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/5AjP1tCT0Yo",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연, 우기",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:04:07",
+  "thumbnail": "https://i.ytimg.com/vi/5AjP1tCT0Yo/maxresdefault.jpg",
+  "alt": "[#슈퍼TV2] (여자)아이들 소연이의 특기 = 입에 주먹이 들어간다ㄴ(°0°)ㄱ 우기의 따이춤까지 4분 알차게 순삭되는 영상.mp4│#Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] (여자)아이들 소연이의 특기 = 입에 주먹이 들어간다ㄴ(°0°)ㄱ 우기의 따이춤까지 4분 알차게 순삭되는 영상.mp4│#Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/hhDU9sWsYjY",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 슈화",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:09:38",
+  "thumbnail": "https://i.ytimg.com/vi/hhDU9sWsYjY/hqdefault.jpg",
+  "alt": "[#슈퍼TV2] 암기천재 미연X눈싸움 잘하는 슈화❤️ 못하는 게 대체 뭐야^_ㅠ? 이겨서 좋아하는 우리 톰과 제리 보고 가세요! 귀여워,,│#Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] 암기천재 미연X눈싸움 잘하는 슈화❤️ 못하는 게 대체 뭐야^_ㅠ? 이겨서 좋아하는 우리 톰과 제리 보고 가세요! 귀여워,,│#Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/G2nD73xPgAA",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:05:43",
+  "thumbnail": "https://i.ytimg.com/vi/G2nD73xPgAA/sddefault.jpg",
+  "alt": "[#슈퍼TV2] 슈퍼주니어 VS (여자)아이들 이구동성 퀴즈⚔️ 우기 때문에 슈주 단체로 물음표 파티 ㅋㅋ 이대로 어몽어스해도 꿀잼일듯,,│#Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] 슈퍼주니어 VS (여자)아이들 이구동성 퀴즈⚔️ 우기 때문에 슈주 단체로 물음표 파티 ㅋㅋ 이대로 어몽어스해도 꿀잼일듯,,│#Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/hyROmptQ_aU",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:09:07",
+  "thumbnail": "https://i.ytimg.com/vi/hyROmptQ_aU/sddefault.jpg",
+  "alt": "[#슈퍼TV2] 이 중에 노래가 안 나오는 사람은 단 한 명! 슈퍼주니어 VS (여자)아이들의 연기 대결🤔 와,, 전 다 못 틀렸네요,,│#Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] 이 중에 노래가 안 나오는 사람은 단 한 명! 슈퍼주니어 VS (여자)아이들의 연기 대결🤔 와,, 전 다 못 틀렸네요,,│#Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/Bt18G3oBhqQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "07",
+  "duration": "00:11:51",
+  "thumbnail": "https://i.ytimg.com/vi/Bt18G3oBhqQ/mqdefault.jpg",
+  "alt": "[#슈퍼TV2] 슈퍼주니어 VS (여자)아이들 릴레이 대결👠 누가 더 빨리 신발을 옮길 수 있을까? 하다가 발가락에 쥐남 ㅋㅋㅋ 야옹~🐱 | #Diggle (2018-07-12)",
+  "title": "[#슈퍼TV2] 슈퍼주니어 VS (여자)아이들 릴레이 대결👠 누가 더 빨리 신발을 옮길 수 있을까? 하다가 발가락에 쥐남 ㅋㅋㅋ 야옹~🐱 | #Diggle (2018-07-12)"
+},
+
+{
+  "link": "https://youtu.be/gOyAE_tBhu8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:17:39",
+  "thumbnail": "https://i.ytimg.com/vi/gOyAE_tBhu8/sddefault.jpg",
+  "alt": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
+  "title": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+},
+
+{
+  "link": "https://youtu.be/1yi8o563V9g",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:10:07",
+  "thumbnail": "https://i.ytimg.com/vi/1yi8o563V9g/sddefault.jpg",
+  "alt": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
+  "title": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+},
+
+{
+  "link": "https://youtu.be/JC6E8cs6grc",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:10:03",
+  "thumbnail": "https://i.ytimg.com/vi/JC6E8cs6grc/sddefault.jpg",
+  "alt": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
+  "title": "우기가 든든한 43세 한국인 ☞소통이 어려울 땐 우기스쿨☜ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+},
+
+{
+  "link": "https://youtu.be/Uqi0ZwRxZc8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2018",
+  "month": "06",
+  "duration": "00:31:01",
+  "thumbnail": "https://i.ytimg.com/vi/Uqi0ZwRxZc8/sddefault.jpg",
+  "alt": "(여자)아이들 |아이돌룸 5회| 하이라이트 (G)I-DLE IDOL ROOM HIGHLIGHT💗 (2018-06-02)",
+  "title": "(여자)아이들 |아이돌룸 5회| 하이라이트 (G)I-DLE IDOL ROOM HIGHLIGHT💗 (2018-06-02)"
+},
+
+{
+  "link": "https://youtu.be/EQIvyhYxV6c",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2019",
+  "month": "03",
+  "duration": "00:08:22",
+  "thumbnail": "https://i.ytimg.com/vi/EQIvyhYxV6c/sddefault.jpg",
+  "alt": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC 190312 방송 외 (2019-03-12)",
+  "title": "[골라봐야지] \"아 진짜 창피한데ㅋㅋ\" 원곡자도 당황한 면프로디테의 칼박자 댄스🤣 이쁜 얼굴에 허당美  가득한 아이들 미연｜아이돌룸｜JTBC 190312 방송 외 (2019-03-12)"
+},
+
+{
+  "link": "https://youtu.be/bwiAoJCf9Sw",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2019",
+  "month": "03",
+  "duration": "00:08:33",
+  "thumbnail": "https://i.ytimg.com/vi/bwiAoJCf9Sw/mqdefault.jpg",
+  "alt": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC 190312 방송 외 (2019-03-12)",
+  "title": "[골라봐야지] 무대 위에서는 TOMBOY 아래에선 뽀짝 그 자체,, 본업 천재 (여자)아이들 갓소연(JEON SOYEON)★｜JTBC 190312 방송 외 (2019-03-12)"
+},
+
+{
+  "link": "https://youtu.be/gOyAE_tBhu8",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:17:39",
+  "thumbnail": "https://i.ytimg.com/vi/gOyAE_tBhu8/sddefault.jpg",
+  "alt": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
+  "title": "돈희 예능 PICK 슈화, 레전드 반말 탄생 ＂가져와라↗＂ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+},
+
+{
+  "link": "https://youtu.be/1yi8o563V9g",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:10:07",
+  "thumbnail": "https://i.ytimg.com/vi/1yi8o563V9g/sddefault.jpg",
+  "alt": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)",
+  "title": "전 세계 팬들 주목! ☆12명의 글로벌돌 ＜아이돌룸＞ 입주☆ | 아이돌룸 46회 | JTBC 190416 방송 (2019-04-16)"
+},
+
+{
+  "link": "https://youtu.be/bcWum5CT1U8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "03",
+  "duration": "00:05:00",
+  "thumbnail": "https://i.ytimg.com/vi/bcWum5CT1U8/hqdefault.jpg",
+  "alt": "Who's the Best Dancer in (G)Idle🤗? (and Pentagon😚) | Idol Room (2018-06-02)",
+  "title": "(여자)아이들 |아이돌룸 5회| Who's the Best Dancer in (G)Idle🤗? (and Pentagon😚) | Idol Room (2018-06-02)"
+},
+{
+  "link": "https://youtu.be/XIdyJNG3m88",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니, 우기",
+  "year": "2019",
+  "month": "03",
+  "duration": "00:01:56",
+  "thumbnail": "https://i.ytimg.com/vi/XIdyJNG3m88/hqdefault.jpg",
+  "alt": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [안녕하세요/Hello, Counselor] (2019-03-04)",
+  "title": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [안녕하세요/Hello, Counselor] (2019-03-04)"
+},
+{
+  "link": "https://youtu.be/YDVq_EpraPk",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니, 슈화",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:11:56",
+  "thumbnail": "https://i.ytimg.com/vi/YDVq_EpraPk/hqdefault.jpg",
+  "alt": "친구들과 함께하는 봄소풍 게임! [오늘도 배우다 8회] (2019-04-09)",
+  "title": "친구들과 함께하는 봄소풍 게임! [오늘도 배우다 8회] (2019-04-09)"
+},
+
+{
+  "link": "https://youtu.be/ZnjNDxslY2A",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/ZnjNDxslY2A/hqdefault.jpg",
+  "alt": "[Weekly Idol EP.413] ★방송최초공개★ (여자)아이들 ᐸUh-Ohᐳ 주간아 ver. (2019-06-26)",
+  "title": "[Weekly Idol EP.413] ★방송최초공개★ (여자)아이들 ᐸUh-Ohᐳ 주간아 ver. 주간아이돌 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/47kiw9sUfgg",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/47kiw9sUfgg/hqdefault.jpg",
+  "alt": "[Weekly Idol] 동심확인!ㅋㅋ (여자)아이들, 아이들이 추는 춤 맞추기 가능?!!❣ l EP.413 (2019-06-26)",
+  "title": "[Weekly Idol] 동심확인!ㅋㅋ (여자)아이들, 아이들이 추는 춤 맞추기 가능?!!❣ l 주간아이돌 EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/rT3UqPDT9pk",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:01:57",
+  "thumbnail": "https://i.ytimg.com/vi/rT3UqPDT9pk/mqdefault.jpg",
+  "alt": "(ENG) [Weekly Idol] 오디션이었으면 만장일치 합격!! 음색 끝판왕 민니X우기 듀엣!! l EP.413 (2019-06-26)",
+  "title": "(ENG) [Weekly Idol] 오디션이었으면 만장일치 합격!! 음색 끝판왕 민니X우기 듀엣!! l 주간아이돌 EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/8zOcUtZM3JE",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/8zOcUtZM3JE/hqdefault.jpg",
+  "alt": "[Weekly Idol] ᐸ한(一)ᐳ 킬링 포인트 휘파람 주인공은 민니!l EP.413 (2019-06-26)",
+  "title": "[Weekly Idol] ᐸ한(一)ᐳ 킬링 포인트 휘파람 주인공은 민니! |주간아이돌| EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/0nto0bXULoA",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/0nto0bXULoA/hqdefault.jpg",
+  "alt": "[Weekly Idol EP.413] 첫사랑 기억 조작녀 예슈화...☆ (2019-06-26)",
+  "title": "[Weekly Idol EP.413] 첫사랑 기억 조작녀 예슈화...☆ |주간아이돌| (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/p-vb_s0a53I",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:04:38",
+  "thumbnail": "https://i.ytimg.com/vi/p-vb_s0a53I/mqdefault.jpg",
+  "alt": "[주간아 미방] 동물 친구들이 스튜디오에 출몰?! (여자)아이들 민니&우기의 의성어 스피드 퀴즈! l EP.413 (2019-06-27)",
+  "title": "[주간아 미방] 동물 친구들이 스튜디오에 출몰?! (여자)아이들 민니&우기의 의성어 스피드 퀴즈! l 주간아이돌(Weekly Idol) EP.413 (2019-06-27)"
+},
+
+{
+  "link": "https://youtu.be/aPMQmiiHL3g",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/aPMQmiiHL3g/hqdefault.jpg",
+  "alt": "[Weekly Idol] 갓소연은 노래도 잘해ㅠㅠ(감격) 오늘은 히든 보컬 영접하는 날♥! l EP.413 (2019-06-26)",
+  "title": "[Weekly Idol] 갓소연은 노래도 잘해ㅠㅠ(감격) 오늘은 히든 보컬 영접하는 날♥! l 주간아이돌 EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/bDObmEY45d8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:40",
+  "thumbnail": "https://i.ytimg.com/vi/bDObmEY45d8/hqdefault.jpg",
+  "alt": "[Weekly Idol EP.413] 메인보컬 미연이는 사실 래퍼가 하고 싶습니다..☆ (2019-06-26)",
+  "title": "[Weekly Idol EP.413] 메인보컬 미연이는 사실 래퍼가 하고 싶습니다..☆ |주간아이돌 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/T5qE0SMoDYs",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/T5qE0SMoDYs/hqdefault.jpg",
+  "alt": "[Weekly Idol EP.413] (무려 태권도 사범이 꿈이었던!) 태권소녀 수진이의 발차기 시범! (2019-06-26)",
+  "title": "[Weekly Idol EP.413] (무려 태권도 사범이 꿈이었던!) 태권소녀 수진이의 발차기 시범! |주간아이돌 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/auNUEZ-w3Cg",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/auNUEZ-w3Cg/sddefault.jpg",
+  "alt": "[Weekly Idol EP.413] 슈화는 수진덕후!! 본격 덕후 검증 수진♥슈화 우정 테스트! (2019-06-26)",
+  "title": "[Weekly Idol EP.413] 슈화는 수진덕후!! 본격 덕후 검증 수진♥슈화 우정 테스트! |주간아이돌 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/Z9ciANWgC6M",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:38",
+  "thumbnail": "https://i.ytimg.com/vi/Z9ciANWgC6M/sddefault.jpg",
+  "alt": "[Weekly Idol] 차세대 춤선퀸의 탄생! 수진이 춤선 최고된다!!!(쩌렁) l EP.413 (2019-06-26)",
+  "title": "[Weekly Idol] 차세대 춤선퀸의 탄생! 수진이 춤선 최고된다!!!(쩌렁) l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/JB-CEZ-GA4c",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/JB-CEZ-GA4c/hqdefault.jpg",
+  "alt": "[주간아 미방] 입가에 반복되는 Melody♪ A부터 Z까지 완벽한 (여자)아이들의 ‘Uh-Oh’♬ l EP.413 (2019-06-26)",
+  "title": "[주간아 미방] 입가에 반복되는 Melody♪ A부터 Z까지 완벽한 (여자)아이들의 ‘Uh-Oh’♬ l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/Pw8dyKiZv4k",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/Pw8dyKiZv4k/hqdefault.jpg",
+  "alt": "[주간아 미방] 아이들 매력에 어디까지 더 깊이 빠져들지♡ (여자)아이들의 ‘LATATA’ 2019ver.♬ | EP.413 (2019-06-26)",
+  "title": "[주간아 미방] 아이들 매력에 어디까지 더 깊이 빠져들지♡ (여자)아이들의 ‘LATATA’ 2019ver.♬ | 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/q-zptxyUEpM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/q-zptxyUEpM/mqdefault.jpg",
+  "alt": "[주간아 미방] (여자)아이들 수진 'Uh-Oh' 직캠 l EP.413 (2019-06-26)",
+  "title": "[주간아 미방] (여자)아이들 수진 'Uh-Oh' 직캠 l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/wC0JuBPSgTg",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/wC0JuBPSgTg/mqdefault.jpg",
+  "alt": "[주간아 미방] (여자)아이들 민니 'Uh-Oh' 직캠 l EP.413 (2019-06-26)",
+  "title": "[주간아 미방] (여자)아이들 민니 'Uh-Oh' 직캠 l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/UH51HzIZOrE",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/UH51HzIZOrE/hqdefault.jpg",
+  "alt": "[주간아 미방] (여자)아이들 소연 ‘Uh-Oh’ 직캠 l EP.413 (2019-06-26)",
+  "title": "[주간아 미방] (여자)아이들 소연 ‘Uh-Oh’ 직캠 l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/5osKJ3cDTDM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/5osKJ3cDTDM/mqdefault.jpg",
+  "alt": "(여자)아이들 미연 ‘Uh-Oh’ 직캠 (2019-06-26)",
+  "title": "(여자)아이들 미연 ‘Uh-Oh’ 직캠 주간아이돌(Weekly Idol)(2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/7cOPPsjXNxY",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/7cOPPsjXNxY/mqdefault.jpg",
+  "alt": "[주간아 미방] (여자)아이들 우기 ‘Uh-Oh’ 직캠 l EP.413 (VN) (2019-06-26)",
+  "title": "[주간아 미방] (여자)아이들 우기 ‘Uh-Oh’ 직캠 l 주간아이돌(Weekly Idol) EP.413 (VN) (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/yFX1WA1UzoE",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/yFX1WA1UzoE/mqdefault.jpg",
+  "alt": "[주간아 미방] (여자)아이들 슈화 'Uh-Oh' 직캠 l EP.413 (2019-06-26)",
+  "title": "[주간아 미방] (여자)아이들 슈화 'Uh-Oh' 직캠 l 주간아이돌(Weekly Idol) EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/fF8rRPhNGNc",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/fF8rRPhNGNc/mqdefault.jpg",
+  "alt": "[IDLE] (여자)아이들 주간아이돌(Weekly Idol) 예고편 (2019-06-21)",
+  "title": "[IDLE] (여자)아이들 주간아이돌(Weekly Idol) 예고편 (2019-06-21)"
+},
+{
+  "link": "https://youtu.be/Z9ciANWgC6M",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:38",
+  "thumbnail": "https://i.ytimg.com/vi/Z9ciANWgC6M/sddefault.jpg",
+  "alt": "[Weekly Idol] 차세대 춤선퀸의 탄생! 수진이 춤선 최고된다!!!(쩌렁) l EP.413 (2019-06-26)",
+  "title": "[Weekly Idol] 차세대 춤선퀸의 탄생! 수진이 춤선 최고된다!!!(쩌렁) l 주간아이돌 EP.413 (2019-06-26)"
+},
+
+{
+  "link": "https://youtu.be/qqzwlO03jn0",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "10",
+  "duration": "00:01:49",
+  "thumbnail": "https://i.ytimg.com/vi/qqzwlO03jn0/maxresdefault.jpg",
+  "alt": "불후 첫 출연, 카리스마 걸그룹 (여자)아이들이 준비한 무대는 과연? [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)",
+  "title": "불후 첫 출연, 카리스마 걸그룹 (여자)아이들이 준비한 무대는 과연? [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)"
+},
+
+{
+  "link": "https://youtu.be/yyFf5wUHrI0",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "10",
+  "duration": "00:02:04",
+  "thumbnail": "https://i.ytimg.com/vi/yyFf5wUHrI0/hqdefault.jpg",
+  "alt": "어린 시절의 추억을 담아, (여자)아이들이 선택한 노래는? [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)",
+  "title": "어린 시절의 추억을 담아, (여자)아이들이 선택한 노래는? [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)"
+},
+
+{
+  "link": "https://youtu.be/eGEn-nMgEeo",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "10",
+  "duration": "00:01:55",
+  "thumbnail": "https://i.ytimg.com/vi/eGEn-nMgEeo/hqdefault.jpg",
+  "alt": "태우의 불태우는 신고식! 첫 순서는 (여자)아이들의 히트곡 메들리! [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)",
+  "title": "태우의 불태우는 신고식! 첫 순서는 (여자)아이들의 히트곡 메들리! [불후의 명곡 전설을 노래하다 , Immortal Songs 2].20191005 (2019-10-05)"
+},
+{
+  "link": "https://youtu.be/CU4A9WmzbAg",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "02",
+  "duration": "00:11:57",
+  "thumbnail": "https://i.ytimg.com/vi/CU4A9WmzbAg/hqdefault.jpg",
+  "alt": "[스페셜] (여자)아이들 한국어 서열이 '우기＞수진=슈화'람서요? ★뽀시래기들의 취업 상담실★ 아는 형님[Knowing bros] (2020-01-18)",
+  "title": "[스페셜] (여자)아이들 한국어 서열이 '우기＞수진=슈화'람서요? ★뽀시래기들의 취업 상담실★ 아는 형님[Knowing bros] (2020-01-18)"
+},
+
+{
+  "link": "https://youtu.be/OCumENO5ijg",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:05:13",
+  "thumbnail": "https://i.ytimg.com/vi/OCumENO5ijg/mqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 여름을 알리는 소리 ‘와우~여름이다!’ 쿨 ‘해변의 여인’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 여름을 알리는 소리 ‘와우~여름이다!’ 쿨 ‘해변의 여인’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/a0fePkHeQt0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:05:49",
+  "thumbnail": "https://i.ytimg.com/vi/a0fePkHeQt0/mqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 2020년에도 여름 음원 싹쓰리~! 듀스 ‘여름 안에서’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 2020년에도 여름 음원 싹쓰리~! 듀스 ‘여름 안에서’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/E-hmPopOkoE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:05",
+  "thumbnail": "https://i.ytimg.com/vi/E-hmPopOkoE/mqdefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] ☆최초공개☆ ‘여름 안에서’ by (여자)아이들 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/hM4PycDqHv0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:10",
+  "thumbnail": "https://i.ytimg.com/vi/hM4PycDqHv0/sddefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] ‘음색 美쳤다’ 미연&민니가 부르는 ‘MORE & MORE’ (원곡  TWICE) 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] ‘음색 美쳤다’ 미연&민니가 부르는 ‘MORE & MORE’ (원곡  TWICE) 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/3OcdT93dnPE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:06:26",
+  "thumbnail": "https://i.ytimg.com/vi/3OcdT93dnPE/sddefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 여름 축제 같은 노래! 엄정화 ‘Festival’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 여름 축제 같은 노래! 엄정화 ‘Festival’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/aE6BsJGa19o",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:04:21",
+  "thumbnail": "https://i.ytimg.com/vi/aE6BsJGa19o/hqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 여름을 지배하는 여왕들의 귀환! SISTAR ‘Touch my body’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 여름을 지배하는 여왕들의 귀환! SISTAR ‘Touch my body’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/Q2xTa-7uhic",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:04:55",
+  "thumbnail": "https://i.ytimg.com/vi/Q2xTa-7uhic/mqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 웃음 사냥꾼 박명수, ‘바다의 왕자’로 여름 사냥꾼 등극! 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 웃음 사냥꾼 박명수, ‘바다의 왕자’로 여름 사냥꾼 등극! 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/VludHIxspyI",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/VludHIxspyI/hqdefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 PICK한 컬래버 가수는◑_◐? 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/upBpLVfJNuI",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/upBpLVfJNuI/maxresdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 독특하고 개성이 넘치는 서머 송! f(x) ‘Hot Summer’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 독특하고 개성이 넘치는 서머 송! f(x) ‘Hot Summer’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/TwQmk6igDHA",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:52",
+  "thumbnail": "https://i.ytimg.com/vi/TwQmk6igDHA/mqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 입맛 돌아오게 하는 여름 푸드 송! 윤종신 ‘팥빙수’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 입맛 돌아오게 하는 여름 푸드 송! 윤종신 ‘팥빙수’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/ZNUZTNgzUHM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:24",
+  "thumbnail": "https://i.ytimg.com/vi/ZNUZTNgzUHM/hqdefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] (여자)아이들이 꿈꾸는 공연장은? (소원 성취 기원★) 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/7kUSU2ECc50",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:04:36",
+  "thumbnail": "https://i.ytimg.com/vi/7kUSU2ECc50/hqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 뜨겁고도 달콤한 ‘여름의 맛’! Red Velvet ‘빨간 맛’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 뜨겁고도 달콤한 ‘여름의 맛’! Red Velvet ‘빨간 맛’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/1Nd9xsqh5VE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:04:49",
+  "thumbnail": "https://i.ytimg.com/vi/1Nd9xsqh5VE/mqdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] MV, 노래, 안무까지 모두 완벽한 서머 송! TWICE ‘Dance The Night Away’ 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] MV, 노래, 안무까지 모두 완벽한 서머 송! TWICE ‘Dance The Night Away’ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/M14Qsk45YGE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/M14Qsk45YGE/maxresdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] (여자)아이들의 60초 TMI 퀴즈(feat. 어마어마한 선물?) 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/5X9zwNcoClo",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/5X9zwNcoClo/maxresdefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] ★우주 최초공개★ 허세왕 우기의 신상 개인기 ‘과자 받아먹기’! 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/JopzVK4Szbk",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:06",
+  "thumbnail": "https://i.ytimg.com/vi/JopzVK4Szbk/mqdefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] 미연의 상하체 분리 댄스 ♬너무너무↑ 링딩동↓ 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/eOrvO8o2k-0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/eOrvO8o2k-0/mqdefault.jpg",
+  "alt": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! 200805 EP.53 (2020-08-05)",
+  "title": "[ENG] Mnet TMI NEWS [53회] TMI NEWS 홍보대사 각? 5개국어로 매력 발산하는 민니! 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/4CZKNOEqT_Y",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/4CZKNOEqT_Y/sddefault.jpg",
+  "alt": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! 200805 EP.53 (2020-08-05)",
+  "title": "Mnet TMI NEWS [53회] 최고 성적 2등?! 뇌섹돌 우기의 본격 자랑 TIME! 200805 EP.53 (2020-08-05)"
+},
+
+{
+  "link": "https://youtu.be/JTRRhkjicPo",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 우기",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:26:21",
+  "thumbnail": "https://i.ytimg.com/vi/JTRRhkjicPo/sddefault.jpg",
+  "alt": "'대세 걸그룹' (여자)아이들((G)I-DLE) 미연&민니&우기의 TMI MOMENTS! (2020-08-06)",
+  "title": "'대세 걸그룹' (여자)아이들((G)I-DLE) 미연&민니&우기의 TMI MOMENTS! (2020-08-06)"
+},
+
+{
+  "link": "https://youtu.be/kwJLge3ALWM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/kwJLge3ALWM/mqdefault.jpg",
+  "alt": "김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/QdJPD6Mjlzw",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/QdJPD6Mjlzw/mqdefault.jpg",
+  "alt": "김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/2klT62iu3pU",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:17",
+  "thumbnail": "https://i.ytimg.com/vi/2klT62iu3pU/mqdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/AJ05hZ1kej8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/AJ05hZ1kej8/hqdefault.jpg",
+  "alt": "＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "＂<패널-미연,민니,소연,우기> 야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*)  히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/lJRp6i8JX9A",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/lJRp6i8JX9A/sddefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/bqueA4tsx8I",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:00",
+  "thumbnail": "https://i.ytimg.com/vi/bqueA4tsx8I/hqdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/5mtPyNFuCKQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:23",
+  "thumbnail": "https://i.ytimg.com/vi/5mtPyNFuCKQ/sddefault.jpg",
+  "alt": "김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/VzVJKqXv_TY",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/VzVJKqXv_TY/maxresdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/_QCvM9V5ebI",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:02",
+  "thumbnail": "https://i.ytimg.com/vi/_QCvM9V5ebI/sddefault.jpg",
+  "alt": "＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "＂<패널-미연,민니,소연,우기> 저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/1Qot8k8HEQc",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/1Qot8k8HEQc/hqdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/8OZrdHo6Vws",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/8OZrdHo6Vws/mqdefault.jpg",
+  "alt": "찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/lP4XyjOFkiM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/lP4XyjOFkiM/mqdefault.jpg",
+  "alt": "두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/Egal3Ugjwo4",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:16",
+  "thumbnail": "https://i.ytimg.com/vi/Egal3Ugjwo4/hqdefault.jpg",
+  "alt": "김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/hl5yWvpLTdk",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:38",
+  "thumbnail": "https://i.ytimg.com/vi/hl5yWvpLTdk/hqdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/qYvnMdL90Hg",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/qYvnMdL90Hg/hqdefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/nB0JZLYchPE",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:11",
+  "thumbnail": "https://i.ytimg.com/vi/nB0JZLYchPE/sddefault.jpg",
+  "alt": "[김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/WyiRw4es7Tk",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:41",
+  "thumbnail": "https://i.ytimg.com/vi/WyiRw4es7Tk/mqdefault.jpg",
+  "alt": "[미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/LGrliLCKqb4",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:28",
+  "thumbnail": "https://i.ytimg.com/vi/LGrliLCKqb4/sddefault.jpg",
+  "alt": "[미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/S9xXFGoDem8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/S9xXFGoDem8/sddefault.jpg",
+  "alt": "[미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC 200925 방송 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/UDmYb5T-FjE",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/UDmYb5T-FjE/mqdefault.jpg",
+  "alt": "히든싱어6(hiddensinger6) 9회 예고편 (2020-09-25)",
+  "title": "<패널-미연,민니,소연,우기> 히든싱어6(hiddensinger6) 9회 예고편 (2020-09-25)"
+},
+
+{
+  "link": "https://youtu.be/0N8plAbdN2w",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/0N8plAbdN2w/hqdefault.jpg",
+  "alt": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)",
+  "title": "중독성 甲 창의력 넘치는 미연(Miyeon)의 상하체 분리 댄스ㅋㅋ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)"
+},
+{
+  "link": "https://youtu.be/-VLquFsP3pU",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:02:34",
+  "thumbnail": "https://i.ytimg.com/vi/-VLquFsP3pU/mqdefault.jpg",
+  "alt": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)",
+  "title": "1초에 1개😲 우기(Yuqi)의 버저비터로 '윗몸 일으키기' 대결 압승↗ 아는 형님(Knowing bros) 253회 | JTBC 201031 방송 (2020-10-31)"
+},
 
 ];
 
