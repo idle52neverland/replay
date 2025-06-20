@@ -656,7 +656,19 @@ const originalVarietyCards = [
   "thumbnail": "https://i.ytimg.com/vi/8vTni3DzoDg/maxresdefault.jpg",
   "alt": "SSAP DANCE (FULL VER.) (2021-02-12)",
   "title": "SSAP DANCE (FULL VER.) (2021-02-12)"
+},
+  {
+  "link": "https://youtu.be/-DEU4ypwzxw",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:24:31",
+  "thumbnail": "https://i.ytimg.com/vi/-DEU4ypwzxw/maxresdefault.jpg",
+  "alt": "무슨 생각인지 감도 안 오는 수상한 파티 [네맘대로 아이들] EP. 3 | i-dle (아이들)ㅣSUB (2025-06-19)",
+  "title": "무슨 생각인지 감도 안 오는 수상한 파티 [네맘대로 아이들] EP. 3 | i-dle (아이들)ㅣSUB (2025-06-19)"
 }
+  
 
 
 
