@@ -10466,12 +10466,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/141b1bB22h8",
   "category": "MEDIA_CONTENTS",
-  "member": "소연, 미연",
+  "member": "미연, 소연",
   "year": "2025",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/141b1bB22h8/sddefault.jpg",
-  "alt": "[#습집🗂] G떼고 돌아온 아이들 소연X미연❤️ 깡깡이 월드에 초대 받은 아이들의 들망진창인 반전 퀴즈 실력ㅋㅋㅋ 예능감도 Good Thing인 i-dle👍 | 런닝맨 | SBS (2025-05-26)",
-  "title": "[#습집🗂] G떼고 돌아온 아이들 소연X미연❤️ 깡깡이 월드에 초대 받은 아이들의 들망진창인 반전 퀴즈 실력ㅋㅋㅋ 예능감도 Good Thing인 i-dle👍 | 런닝맨 | SBS (2025-05-26)",
+  "alt": "[#습집🗂] G떼고 돌아온 아이들 소연X미연❤️ 깡깡이 월드에 초대 받은 아이들의 들망진창인 반전 퀴즈 실력ㅋㅋㅋ 예능감도 Good Thing인 i-dle👍 | 런닝맨 | SBS (2025-05-25)",
+  "title": "[#습집🗂] G떼고 돌아온 아이들 소연X미연❤️ 깡깡이 월드에 초대 받은 아이들의 들망진창인 반전 퀴즈 실력ㅋㅋㅋ 예능감도 Good Thing인 i-dle👍 | 런닝맨 | SBS (2025-05-25)",
   "duration": "00:14:47"
 },
 
@@ -11348,7 +11348,55 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/gV92lk--HI4/sddefault.jpg",
   "alt": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)",
   "title": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)"
+},
+  {
+  "link": "https://youtu.be/gV92lk--HI4",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기, 슈화",
+  "year": "2024",
+  "month": "08",
+  "duration": "00:24:34",
+  "thumbnail": "https://i.ytimg.com/vi/gV92lk--HI4/sddefault.jpg",
+  "alt": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)",
+  "title": "'넌' 왜 그걸 말을 ㅎ안 해...!😨 한해 덕에 희비교차하는 해피 놀토 ^^🌟 #highlight#놀라운토요일 | amazingsaturday EP.327 (2024-08-10)"
+},
+
+{
+  "link": "https://youtu.be/Fvs2lzqV0_w",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 소연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:14:29",
+  "thumbnail": "https://i.ytimg.com/vi/Fvs2lzqV0_w/mqdefault.jpg",
+  "alt": "깡깡력 대폭발 퀴즈 대결🚨 #런닝맨 (2025-05-25)",
+  "title": "깡깡력 대폭발 퀴즈 대결🚨 #런닝맨 (2025-05-25)"
+},
+
+{
+  "link": "https://youtu.be/mPUtbO58feM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 소연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:14:45",
+  "thumbnail": "https://i.ytimg.com/vi/mPUtbO58feM/mqdefault.jpg",
+  "alt": "극과 극 #런닝맨 #RunningMan #sbsenter (2025-05-25)",
+  "title": "극과 극 #런닝맨 #RunningMan #sbsenter (2025-05-25)"
+},
+
+{
+  "link": "https://youtu.be/dK7lLKYtDEE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:01:24",
+  "thumbnail": "https://i.ytimg.com/vi/dK7lLKYtDEE/sddefault.jpg",
+  "alt": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)",
+  "title": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)"
 }
+
 
 ];
 
