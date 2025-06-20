@@ -344,18 +344,26 @@
         cardCountEl.textContent = `총 ${count}개 영상`;
       }
       function applySearch() {
-        const keywords = searchInput.value
-          .toLowerCase()
-          .replace(/[^\w\uac00-\ud7af]+/g, ' ')
-          .split(/\s+/)
-          .filter(Boolean);
-        filtered = all.filter(c => {
-          const combinedText = (c.title + " " + c.member).toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ');
-          return keywords.every(k => combinedText.includes(k));
-        });
-        currentIndex = 0;
-        renderCards(filtered);
-      }
+  const normalize = str =>
+    str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
+
+  const rawKeywords = searchInput.value
+    .toLowerCase()
+    .replace(/[^\w\uac00-\ud7af]+/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+
+  const keywords = rawKeywords.map(k => normalize(k));
+
+  filtered = all.filter(c => {
+    const combinedText = normalize(c.title + c.member);
+    return keywords.every(k => combinedText.includes(k));
+  });
+
+  currentIndex = 0;
+  renderCards(filtered);
+}
+
 function renderCards(cards) {
   container.innerHTML = '';
   cards.slice(0, currentIndex + batchSize).forEach(data => {
