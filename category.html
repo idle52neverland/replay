@@ -335,7 +335,11 @@
 
       filtered = all.filter(card => {
         if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
-        if (keyword && !(card.title + card.member).toLowerCase().includes(keyword)) return false;
+        if (keyword) {
+  const keywords = keyword.trim().split(/\s+/);
+  const targetText = (card.title + ' ' + card.member).toLowerCase();
+  if (!keywords.some(k => targetText.includes(k))) return false;
+}
         if (years.length && !years.includes(card.year)) return false;
         if (months.length) {
           const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
