@@ -9749,6 +9749,89 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/v5te6UYk2rM/sddefault.jpg",
   "alt": "아이돌워크숍 (여자)아이들 EP.1",
   "title": "(주)아이돌워크숍 (여자)아이들 EP.1 (2020-11-03)"
+},
+  
+{
+  "link": "https://youtu.be/_Im0pI0HL9M",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:08:39",
+  "thumbnail": "https://i.ytimg.com/vi/_Im0pI0HL9M/hqdefault.jpg",
+  "alt": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)",
+  "title": "< 미연 >  [선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)"
+},
+{
+  "link": "https://youtu.be/ZaDnNUxOWVc",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:27:24",
+  "thumbnail": "https://i.ytimg.com/vi/ZaDnNUxOWVc/mqdefault.jpg",
+  "alt": "💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜JTBC 250614 방송 (2025-06-14)",
+  "title": "< 미연 > 💥품절 대란💥 봉식당 신메뉴 K-소울푸드 김밥+떡볶이 조합 맛본 외국인 손님들 리얼 반응?!｜대결! 팽봉팽봉｜JTBC 250614 방송 (2025-06-14)"
+},
+
+{
+  "link": "https://youtu.be/TLOxJsRB0s8",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:23:34",
+  "thumbnail": "https://i.ytimg.com/vi/TLOxJsRB0s8/hqdefault.jpg",
+  "alt": "[스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 | JTBC 250517 방송 (2025-05-23)",
+  "title": "< 미연 > [스페셜] ✨우리 예쁜 미연이가 福덩이야✨ 팽식당 선임 유승호 떨게 한 천사 알바생🤭 | 대결! 팽봉팽봉 | JTBC 250517 방송 (2025-05-23)"
+},
+
+{
+  "link": "https://youtu.be/ZWlVxstd60o",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:11:59",
+  "thumbnail": "https://i.ytimg.com/vi/ZWlVxstd60o/sddefault.jpg",
+  "alt": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)",
+  "title": "홀 마스터가 된 미연😍 뛰어다닌 미연 덕에 완벽해진 팽식당✨ | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)"
+},
+
+{
+  "link": "https://youtu.be/8175r1EdrUc",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:26:30",
+  "thumbnail": "https://i.ytimg.com/vi/8175r1EdrUc/hqdefault.jpg",
+  "alt": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜JTBC 250524 방송 (2025-05-24)",
+  "title": "＂알바는 미연이가 낫지💥＂ 요식업 전문가 홍석천 합류에 바로 선 긋는 최양락의 기싸움｜대결! 팽봉팽봉｜JTBC 250524 방송 (2025-05-24)"
+},
+
+{
+  "link": "https://youtu.be/p1VIULMnww0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:29:35",
+  "thumbnail": "https://i.ytimg.com/vi/p1VIULMnww0/hqdefault.jpg",
+  "alt": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 | JTBC 250510 방송 (2025-05-10)",
+  "title": "[하이라이트] 위기의 팽식당을 구하러 온 천사😇 새로운 알바생 미연의 등장 (+부끄 선임 승호//) | 대결! 팽봉팽봉 | JTBC 250510 방송 (2025-05-10)"
+},
+
+{
+  "link": "https://youtu.be/kBQ4IYL1-wE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:10:34",
+  "thumbnail": "https://i.ytimg.com/vi/kBQ4IYL1-wE/mqdefault.jpg",
+  "alt": "자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)",
+  "title": "< 미연 > 자유를 만끽해야 해...🌊 냅다 물로 들어가 버리는 승호💦 | 대결! 팽봉팽봉 8회 | JTBC 250607 방송 (2025-06-07)"
 }
 
 ];
