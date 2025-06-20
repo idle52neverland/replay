@@ -189,33 +189,29 @@
     }
 
     @media screen and (max-width: 768px) {
-      .card-container {
-        grid-template-columns: repeat(2, 1fr) !important;
-        padding: 0 2px;
-        width: 100%;
-        max-width: 100%;
-      }
-      .category-btn {
-        padding: 6px 14px;
-        font-size: 13px;
-      }
-      .top-bar input {
-        width: 140px;
-        .card-meta {
+  .card-meta {
     flex-direction: column;
     align-items: center;
-    gap: 2px;
+    gap: 0px; /* 세로 간격 없애기 */
+    line-height: 1.2; /* 글자 줄 간격 줄이기 */
+  }
+
+  .card-meta span {
+    margin: 0;
+    padding: 0;
   }
 
   .meta-category {
     order: 1;
   }
+
   .meta-member,
   .meta-duration {
     order: 2;
     display: inline;
-      }
-    }
+  }
+}
+
   </style>
 </head>
 <body>
