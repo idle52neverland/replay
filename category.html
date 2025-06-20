@@ -129,6 +129,12 @@
       -webkit-line-clamp: 4;
       -webkit-box-orient: vertical;
     }
+    .card-meta {
+      font-size: 12px;
+      color: #ccc;
+      text-align: left;
+      padding: 4px 6px 10px;
+    }
     .button-wrapper {
       display: flex;
       justify-content: center;
@@ -269,20 +275,28 @@
       next.forEach(card => {
         const el = document.createElement('a');
         el.className = 'card';
+
         const durationHTML = card.duration ? `<div class="duration-label">${card.duration}</div>` : '';
+        const memberAndDuration = `
+          <div class="card-meta">${card.member || '정보없음'} ${card.duration || ''}</div>
+        `;
+
         el.innerHTML = `
           <div class="thumbnail-wrapper">
             <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
             ${durationHTML}
           </div>
           <div class="card-title">${card.title}</div>
+          ${memberAndDuration}
         `;
+
         el.onclick = e => {
           e.preventDefault();
           window.open(card.link, '_blank');
         };
         container.appendChild(el);
       });
+
       currentIndex += batchSize;
       loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
       updateCardCount(data.length);
