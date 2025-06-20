@@ -196,14 +196,29 @@
     max-width: 100%;
   }
 
-  .category-section {
-    flex-wrap: wrap;
-  }
-
   .category-btn {
     padding: 6px 14px;
     font-size: 13px;
   }
+
+  .top-bar input {
+    width: 140px;  /* ✅ 여기 중요 */
+  }
+
+  .top-bar {
+    flex-wrap: nowrap;        /* ✅ 줄바꿈 방지 */
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .search-wrapper {
+    flex-shrink: 1;
+  }
+
+  .top-bar button:not(.search-btn) {
+    flex-shrink: 0;
+  }
+}
 
   @media screen and (max-width: 768px) {
   .card-meta {
