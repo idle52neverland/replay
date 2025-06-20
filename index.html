@@ -205,6 +205,7 @@
     font-size: 13px;
   }
 
+  @media screen and (max-width: 768px) {
   .card-meta {
     display: flex;
     flex-direction: column;
@@ -214,21 +215,21 @@
     line-height: 1.2;
   }
 
-  .card-meta span {
-    margin: 0;
-    padding: 0;
+  .meta-category {
+    display: block;
+    margin-bottom: 2px;
   }
 
-  .meta-category {
-    order: 1;
+  .meta-member::after {
+    content: " |";
   }
 
   .meta-member,
   .meta-duration {
-    order: 2;
     display: inline;
   }
 }
+
   </style>
 </head>
 <body>
@@ -340,64 +341,69 @@
         currentIndex = 0;
         renderCards(filtered);
       }
-      function renderCards(cards) {
-        container.innerHTML = '';
-        cards.slice(0, currentIndex + batchSize).forEach(data => {
-          const card = document.createElement("a");
-          card.className = "card";
-          card.setAttribute("data-category", data.category);
-          card.setAttribute("data-member", data.member);
-          card.setAttribute("data-year", data.year);
-          card.innerHTML = `
-            <div class="thumbnail-wrapper">
-              <img src="${data.thumbnail}" alt="${data.alt}">
-            </div>
-            <div class="card-title">${data.title}</div>
-            <div class="card-meta">
-           <div class="card-meta">
-  <span>${data.category}</span>
-  <span>${data.member}</span>
-  <span>${data.duration || ''}</span>
-</div>
-          `;
-          card.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            window.open(data.link, "_blank");
-          });
-          container.appendChild(card);
-        });
-        currentIndex += batchSize;
-        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
-        updateCardCount(cards.length);
-      }
-      renderCards(filtered);
-      loadMoreBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        loadMoreBtn.blur();
-        container.classList.add("disabled");
-        setTimeout(() => {
-          renderCards(filtered);
-          container.classList.remove("disabled");
-        }, 100);
-      });
-      searchBtn.addEventListener("click", applySearch);
-      searchInput.addEventListener("keydown", (e) => {
-        if (e.key === "Enter") {
-          e.preventDefault();
-          applySearch();
-        }
-      });
-      resetSearchBtn.addEventListener("click", () => {
-        searchInput.value = '';
-        filtered = all;
-        currentIndex = 0;
-        renderCards(filtered);
-      });
-      scrollTopBtn.addEventListener("click", () => {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
+function renderCards(cards) {
+  container.innerHTML = '';
+  cards.slice(0, currentIndex + batchSize).forEach(data => {
+    const card = document.createElement("a");
+    card.className = "card";
+    card.setAttribute("data-category", data.category);
+    card.setAttribute("data-member", data.member);
+    card.setAttribute("data-year", data.year);
+    card.innerHTML = `
+      <div class="thumbnail-wrapper">
+        <img src="${data.thumbnail}" alt="${data.alt}">
+      </div>
+      <div class="card-title">${data.title}</div>
+      <div class="card-meta">
+        <div class="meta-category">${data.category}</div>
+        <div class="meta-info">${data.member} | ${data.duration || ''}</div>
+      </div>
+    `;
+    card.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      window.open(data.link, "_blank");
+    });
+    container.appendChild(card);
+  });
+  currentIndex += batchSize;
+  loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+  updateCardCount(cards.length);
+}
+
+renderCards(filtered);
+
+loadMoreBtn.addEventListener("click", (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  loadMoreBtn.blur();
+  container.classList.add("disabled");
+  setTimeout(() => {
+    renderCards(filtered);
+    container.classList.remove("disabled");
+  }, 100);
+});
+
+searchBtn.addEventListener("click", applySearch);
+
+searchInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    applySearch();
+  }
+});
+
+resetSearchBtn.addEventListener("click", () => {
+  searchInput.value = '';
+  filtered = all;
+  currentIndex = 0;
+  renderCards(filtered);
+});
+
+scrollTopBtn.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
     });
   </script>
 </body>
