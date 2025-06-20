@@ -229,14 +229,14 @@
     <div class="category-line" id="monthFilters"></div>
     <div class="category-line" id="memberFilters"></div>
   </div>
-<div class="top-bar">
-  <div class="search-wrapper">
-    <input type="text" id="searchInput" placeholder="Search in category">
-    <button id="searchBtn" title="검색 실행">🔍</button>
+  <div class="top-bar">
+    <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Search in category">
+      <button id="searchBtn" title="검색 실행">🔍</button>
+    </div>
+    <button id="resetSearchBtn" title="검색 초기화"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
+    <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
   </div>
-  <button id="resetSearchBtn" title="검색 초기화"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
-  <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
-</div>
 
   <div id="cardCount"></div>
   <div class="card-container" id="allCards"></div>
@@ -299,40 +299,38 @@
     }
 
     function renderCards(data) {
-  const next = data.slice(currentIndex, currentIndex + batchSize);
-  next.forEach(card => {
-    const el = document.createElement('a');
-    el.className = 'card';
+      const next = data.slice(currentIndex, currentIndex + batchSize);
+      next.forEach(card => {
+        const el = document.createElement('a');
+        el.className = 'card';
 
-    // 영상시간 라벨 제거 (썸네일 위 표시 안함)
-    const memberAndDuration = `
-      <div class="card-meta">
-        <span style="float:left;">${card.member || ''}</span>
-        <span style="float:right;">${card.duration || ''}</span>
-        <div style="clear:both;"></div>
-      </div>
-    `;
+        const memberAndDuration = `
+          <div class="card-meta">
+            <span style="float:left;">${card.member || ''}</span>
+            <span style="float:right;">${card.duration || ''}</span>
+            <div style="clear:both;"></div>
+          </div>
+        `;
 
-    el.innerHTML = `
-      <div class="thumbnail-wrapper">
-        <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
-      </div>
-      <div class="card-title">${card.title}</div>
-      ${memberAndDuration}
-    `;
+        el.innerHTML = `
+          <div class="thumbnail-wrapper">
+            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
+          </div>
+          <div class="card-title">${card.title}</div>
+          ${memberAndDuration}
+        `;
 
-    el.onclick = e => {
-      e.preventDefault();
-      window.open(card.link, '_blank');
-    };
-    container.appendChild(el);
-  });
+        el.onclick = e => {
+          e.preventDefault();
+          window.open(card.link, '_blank');
+        };
+        container.appendChild(el);
+      });
 
-  currentIndex += batchSize;
-  loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
-  updateCardCount(data.length);
-}
-
+      currentIndex += batchSize;
+      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+      updateCardCount(data.length);
+    }
 
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
@@ -350,44 +348,53 @@
     }
 
     function applyFilters() {
-  const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
-  const keyword = document.getElementById("searchInput").value.toLowerCase();
-  const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-  const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-  const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
+      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+      const keywordInput = document.getElementById("searchInput").value;
 
-  const years = Array.from(yearBtns).map(b => b.textContent);
-  const months = Array.from(monthBtns).map(b => b.textContent);
-  const members = Array.from(memberBtns).map(b => b.textContent);
+      const normalize = str =>
+        str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
 
-  filtered = all.filter(card => {
-    if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+      const rawKeywords = keywordInput
+        .toLowerCase()
+        .replace(/[^\w\uac00-\ud7af]+/g, ' ')
+        .split(/\s+/)
+        .filter(Boolean);
 
-    // ✅ 키워드가 모두 포함되어야 통과
-    if (keyword) {
-      const keywords = keyword.trim().toLowerCase().split(/\s+|[+&]/);
-      const targetText = (card.title + ' ' + card.member).toLowerCase();
-      if (!keywords.every(k => targetText.includes(k))) return false;
+      const normalizedKeywords = rawKeywords.map(k => normalize(k));
+
+      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
+
+      const years = Array.from(yearBtns).map(b => b.textContent);
+      const months = Array.from(monthBtns).map(b => b.textContent);
+      const members = Array.from(memberBtns).map(b => b.textContent);
+
+      filtered = all.filter(card => {
+        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+
+        if (normalizedKeywords.length) {
+          const targetText = normalize(card.title + ' ' + card.member);
+          if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
+        }
+
+        if (years.length && !years.includes(card.year)) return false;
+
+        if (months.length) {
+          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
+          if (!months.includes(m)) return false;
+        }
+
+        if (members.length && !members.some(m => card.member.includes(m))) return false;
+
+        return true;
+      });
+
+      currentIndex = 0;
+      container.innerHTML = '';
+      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      renderCards(filtered);
     }
-
-    if (years.length && !years.includes(card.year)) return false;
-
-    if (months.length) {
-      const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-      if (!months.includes(m)) return false;
-    }
-
-    if (members.length && !members.some(m => card.member.includes(m))) return false;
-
-    return true;
-  });
-
-  currentIndex = 0;
-  container.innerHTML = '';
-  filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-  renderCards(filtered);
-}
-
 
     window.onload = function () {
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
