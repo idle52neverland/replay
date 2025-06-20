@@ -1,13 +1,121 @@
 const vocalAndDanceCards = [
 {
+  "link": "https://youtu.be/tpmgSw_LtGg",
+  "category": "VOCAL_AND_DANCE",
+  "member": "소연",
+  "year": "2020",
+  "month": "03",
+  "thumbnail": "https://i.ytimg.com/vi/tpmgSw_LtGg/sddefault.jpg",
+  "alt": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
+  "title": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
+  "duration": "00:04:17"
+},
+
+{
+  "link": "https://youtu.be/04l4LH_U21E",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/04l4LH_U21E/sddefault.jpg",
+  "alt": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE 컬투쇼 (2020-08-06)",
+  "title": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│ 컬투쇼 (2020-08-06)",
+  "duration": "00:03:47"
+},
+
+{
+  "link": "https://youtu.be/8jdKZakPGHw",
+  "category": "VOCAL_AND_DANCE",
+  "member": "소연",
+  "year": "2021",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/8jdKZakPGHw/sddefault.jpg",
+  "alt": "[방과후 설렘 선공개] 방과후 설렘 담임선생님 퍼포먼스 (여자)아이들 소연ver., (2021-11-28)",
+  "title": "[방과후 설렘 선공개] 방과후 설렘 담임선생님 퍼포먼스 (여자)아이들 소연ver.,(2021-11-28)",
+  "duration": "00:01:35"
+},
+
+{
+  "link": "https://youtu.be/uU-7By1aA9o",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연, 민니, 우기",
+  "year": "2021",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/uU-7By1aA9o/sddefault.jpg",
+  "alt": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕 (2021-02-28)",
+  "title": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕 (2021-02-28)",
+  "duration": "00:24:58"
+},
+
+{
+  "link": "https://youtu.be/jU4iYk1ZqQ0",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/jU4iYk1ZqQ0/sddefault.jpg",
+  "alt": "💫스젵 노래방 LIVE | 아이들 미연의 '시간이 흐른 뒤' |원곡: 윤미래 | STATION Z (2022-04-30)",
+  "title": "💫스젵 노래방 LIVE | 아이들 미연의 '시간이 흐른 뒤' |원곡: 윤미래 | STATION Z (2022-04-30)",
+  "duration": "00:02:14"
+},
+
+{
+  "link": "https://youtu.be/8gviEEbHRCE",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/8gviEEbHRCE/sddefault.jpg",
+  "alt": "💫스젵 노래방 LIVE | 아이들 미연의 '들어줘요' | STATION Z  (2022-04-30)",
+  "title": "💫스젵 노래방 LIVE | 아이들 미연의 '들어줘요' | STATION Z (2022-04-30)",
+  "duration": "00:01:44"
+},
+
+{
+  "link": "https://youtu.be/VbUnsGvRvyY",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "year": "2022",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/VbUnsGvRvyY/sddefault.jpg",
+  "alt": "💫스젵 LIVE | 아이들 미연의 'Drive' | STATION Z | KBS (2022-04-30)",
+  "title": "💫스젵 LIVE | 아이들 미연의 'Drive' | STATION Z | KBS (2022-04-30)",
+  "duration": "00:03:29"
+},
+
+{
+  "link": "https://youtu.be/bjyS46qzAfw",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/bjyS46qzAfw/sddefault.jpg",
+  "alt": "Abracadabra - (여자)아이들 [더 시즌즈-이효리의 레드카펫] (2024-02-02)",
+  "title": "Abracadabra - (여자)아이들 [더 시즌즈-이효리의 레드카펫] (2024-02-02)",
+  "duration": "00:01:23"
+},
+
+{
+  "link": "https://youtu.be/DlAtWozonI0",
+  "category": "VOCAL_AND_DANCE",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/DlAtWozonI0/sddefault.jpg",
+  "alt": "[ALLIVE] 민니 (MINNIE) - HER | 올라이브 | 정오의 희망곡 김신영입니다｜MBC (2025-01-22)",
+  "title": "[ALLIVE] 민니 (MINNIE) - HER | 올라이브 | 정오의 희망곡 김신영입니다｜MBC (2025-01-22)",
+  "duration": "00:02:38"
+},
+
+{
   "link": "https://youtu.be/RD-tS1qM_T4",
   "category": "VOCAL_AND_DANCE",
   "member": "소연",
   "year": "2016",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/RD-tS1qM_T4/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full 20160729 EP.01 (2016-07-29)",
-  "title": "[UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full 20160729 EP.01 (2016-07-29)",
+  "alt": "[UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full EP.01 (2016-07-29)",
+  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full EP.01 (2016-07-29)",
   "duration": "00:04:01"
 },
 
@@ -19,7 +127,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/cmIEYf5ILZY/sddefault.jpg",
   "alt": "쇼미더머니5 파이널 특별무대 언프리티랩스타3 (2016-07-30)",
-  "title": "쇼미더머니5 파이널 특별무대 언프리티랩스타3 (2016-07-30)",
+  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR3] 쇼미더머니5 파이널 특별무대 언프리티랩스타3 (2016-07-30)",
   "duration": "00:04:36"
 },
 
@@ -31,7 +139,7 @@ const vocalAndDanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/Bj27U8qOjeE/sddefault.jpg",
   "alt": "[UNPRETTY RAPSTAR3] My Way – Jeon So Yeon, Miryo, Ha Joo Yeon @Track 2 Team Battle Mission EP.02 (2016-08-05)",
-  "title": "[UNPRETTY RAPSTAR3] My Way – Jeon So Yeon, Miryo, Ha Joo Yeon @Track 2 Team Battle Mission EP.02 (2016-08-05)",
+  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3] My Way – Jeon So Yeon, Miryo, Ha Joo Yeon @Track 2 Team Battle Mission EP.02 (2016-08-05)",
   "duration": "00:04:30"
 },
 
@@ -42,8 +150,8 @@ const vocalAndDanceCards = [
   "year": "2016",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/exvIJqnHMRM/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) 20160826 EP.05 (2016-08-23)",
-  "title": "[UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) 20160826 EP.05 (2016-08-23)",
+  "alt": "[UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) EP.05 (2016-08-26)",
+  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) EP.05 (2016-08-26)",
   "duration": "00:02:58"
 },
 
@@ -54,8 +162,8 @@ const vocalAndDanceCards = [
   "year": "2016",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/GwkvpkjvaEs/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle 20160826 EP.05 (2016-08-26)",
-  "title": "[UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle 20160826 EP.05 (2016-08-26)",
+  "alt": "[UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle EP.05 (2016-08-26)",
+  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle EP.05 (2016-08-26)",
   "duration": "00:01:38"
 },
 
@@ -67,7 +175,7 @@ const vocalAndDanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/iDdgFj9gSoE/sddefault.jpg",
   "alt": "UNPRETTY RAPSTAR vol.3 [풀버전/단독] ′PUZZLE′ - 씨잼&나다&전소연 @ #7 트랙 콜라보 미션 160909 EP.7 (2016-09-09)",
-  "title": "UNPRETTY RAPSTAR vol.3 [풀버전/단독] ′PUZZLE′ - 씨잼&나다&전소연 @ #7 트랙 콜라보 미션 160909 EP.7 (2016-09-09)",
+  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [풀버전/단독] ′PUZZLE′ - 씨잼&나다&전소연 @ #7 트랙 콜라보 미션 EP.7 (2016-09-09)",
   "duration": "00:04:36"
 },
 
@@ -79,7 +187,7 @@ const vocalAndDanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/tnA6HF6wGNE/sddefault.jpg",
   "alt": "UNPRETTY RAPSTAR vol.3 [8회/단독] ′생각없이 놀아대!′ 전소연 어린이의 하루 (Feat. 슈퍼비) @본선1차 1라운드 160916 EP.8 (2016-09-16)",
-  "title": "UNPRETTY RAPSTAR vol.3 [8회/단독] ′생각없이 놀아대!′ 전소연 어린이의 하루 (Feat. 슈퍼비) @본선1차 1라운드 160916 EP.8 (2016-09-16)",
+  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [8회/단독] ′생각없이 놀아대!′ 전소연 어린이의 하루 (Feat. 슈퍼비) @본선1차 1라운드 EP.8 (2016-09-16)",
   "duration": "00:03:29"
 },
 
@@ -91,7 +199,7 @@ const vocalAndDanceCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/ah-67Hn8vVA/sddefault.jpg",
   "alt": "UNPRETTY RAPSTAR vol.3 [9회] \"넌 잘하고 있어, 넌충분히 해내고 있어\" 웃어 전소연 feat. 다비 @ 세미파이널 1라운드 160923 EP.9 (2016-09-23)",
-  "title": "UNPRETTY RAPSTAR vol.3 [9회] \"넌 잘하고 있어, 넌충분히 해내고 있어\" 웃어 전소연 feat. 다비 @ 세미파이널 1라운드 160923 EP.9 (2016-09-23)",
+  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [9회] \"넌 잘하고 있어, 넌충분히 해내고 있어\" 웃어 전소연 feat. 다비 @ 세미파이널 1라운드 EP.9 (2016-09-23)",
   "duration": "00:03:20"
 },
 
@@ -391,7 +499,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/F8pB0rJmD1k/sddefault.jpg",
   "alt": "(G)I-DLE, ㅋㅋ DANCE(KK DANCE) Full Version [THE SHOW 190716] (2019-07-16)",
-  "title": "(G)I-DLE, ㅋㅋ DANCE(KK DANCE) Full Version [THE SHOW 190716] (2019-07-16)",
+  "title": "(G)I-DLE, ㅋㅋ DANCE(KK DANCE) Full Version [THE SHOW ] (2019-07-16)",
   "duration": "00:14:47"
 },
 
@@ -607,20 +715,8 @@ const vocalAndDanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/4NeFljq8VfQ/sddefault.jpg",
   "alt": "[ENG sub] Do You Know Hiphop? [2회] 2020 LION - 맘바(넋업샨,더블케이,전소연) @ 1차 경연 200306 EP.2 (2020-03-06)",
-  "title": "[ENG sub] Do You Know Hiphop? [2회] 2020 LION - 맘바(넋업샨,더블케이,전소연) @ 1차 경연 200306 EP.2 (2020-03-06)",
+  "title": "[ENG sub] Do You Know Hiphop? [2회] 2020 LION - 맘바(넋업샨,더블케이,전소연) @ 1차 경연 EP.2 (2020-03-06)",
   "duration": "00:03:03"
-},
-
-{
-  "link": "https://youtu.be/tpmgSw_LtGg",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "year": "2020",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/tpmgSw_LtGg/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) 200306 EP.2 (2020-03-07)",
-  "title": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) 200306 EP.2 (2020-03-07)",
-  "duration": "00:04:17"
 },
 
 {
@@ -768,18 +864,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/04l4LH_U21E",
-  "category": "VOCAL_AND_DANCE",
-  "member": "아이들",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/04l4LH_U21E/sddefault.jpg",
-  "alt": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│200806 컬투쇼 (2020-08-07)",
-  "title": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│200806 컬투쇼 (2020-08-07)",
-  "duration": "00:03:47"
-},
-
-{
   "link": "https://youtu.be/_E6OwS6luZw",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
@@ -811,7 +895,7 @@ const vocalAndDanceCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/SC2A-r8Hyj0/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷(여자)아이들((G)I-DLE) '덤디덤디'(DUMDi DUMDi)/200821[박원의 키스 더 라디오] (2020-08-21)",
-  "title": "쿨룩 LIVE ▷(여자)아이들((G)I-DLE) '덤디덤디'(DUMDi DUMDi)/200821[박원의 키스 더 라디오] (2020-08-21)",
+  "title": "쿨룩 LIVE ▷(여자)아이들((G)I-DLE) '덤디덤디'(DUMDi DUMDi)/[박원의 키스 더 라디오] (2020-08-21)",
   "duration": "00:03:40"
 },
 
@@ -907,7 +991,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/epauNBE_Tkc/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' /[DAY6의 키스 더 라디오]｜KBS 210113 방송 (2021-01-13)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' /[DAY6의 키스 더 라디오]｜KBS 210113 방송 (2021-01-13)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' /[DAY6의 키스 더 라디오]｜KBS 방송 (2021-01-13)",
   "duration": "00:03:19"
 },
 
@@ -931,7 +1015,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/LcGFqPhChLA/sddefault.jpg",
   "alt": "[집방캠][4K] (여자)아이들((G)I-DLE) - 화(火花)(HWAA) LIVE | 두시탈출 컬투쇼 | 210114 (2021-01-14)",
-  "title": "[집방캠][4K] (여자)아이들((G)I-DLE) - 화(火花)(HWAA) LIVE | 두시탈출 컬투쇼 | 210114 (2021-01-14)",
+  "title": "[집방캠][4K] (여자)아이들((G)I-DLE) - 화(火花)(HWAA) LIVE | 두시탈출 컬투쇼 | (2021-01-14)",
   "duration": "00:03:42"
 },
 
@@ -943,7 +1027,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/hM4FXyzsaAw/sddefault.jpg",
   "alt": "다른 음색 3명의 만들어낸 깊은 하모니♥ (여자)아이들 - 널 사랑하지 않아 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
-  "title": "다른 음색 3명의 만들어낸 깊은 하모니♥ (여자)아이들 - 널 사랑하지 않아 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
+  "title": "다른 음색 3명의 만들어낸 깊은 하모니♥ (여자)아이들 - 널 사랑하지 않아 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2021-01-15)",
   "duration": "00:02:34"
 },
 
@@ -955,7 +1039,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/2IwBbCEo5pQ/sddefault.jpg",
   "alt": "(여자)아이들 - LATATA+덤디덤디 (DUMDi DUMDi) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
-  "title": "(여자)아이들 - LATATA+덤디덤디 (DUMDi DUMDi) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210115 방송 (2021-01-15)",
+  "title": "(여자)아이들 - LATATA+덤디덤디 (DUMDi DUMDi) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2021-01-15)",
   "duration": "00:04:44"
 },
 
@@ -1135,7 +1219,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/BE2idbmJbG8/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ 전소연 ‘삠삠’ /[DAY6의 키스 더 라디오] ㅣ KBS 210711 방송 (2021-07-11)",
-  "title": "쿨룩 LIVE ▷ 전소연 ‘삠삠’ /[DAY6의 키스 더 라디오] ㅣ KBS 210711 방송 (2021-07-11)",
+  "title": "쿨룩 LIVE ▷ 전소연 ‘삠삠’ /[DAY6의 키스 더 라디오] ㅣ KBS 방송 (2021-07-11)",
   "duration": "00:02:50"
 },
 
@@ -1159,7 +1243,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/da8OgvOnvWg/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Quit' /[정은지의 가요광장]｜KBS 210721 방송 (2021-07-21)",
-  "title": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Quit' /[정은지의 가요광장]｜KBS 210721 방송 (2021-07-21)",
+  "title": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Quit' /[정은지의 가요광장]｜KBS 방송 (2021-07-21)",
   "duration": "00:03:15"
 },
 
@@ -1183,7 +1267,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/1IoOSDivRUs/sddefault.jpg",
   "alt": "전소연 -삠삠 (BEAM BEAM) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
-  "title": "전소연 -삠삠 (BEAM BEAM) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
+  "title": "전소연 -삠삠 (BEAM BEAM) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2021-07-23)",
   "duration": "00:02:49"
 },
 
@@ -1195,7 +1279,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/pxEDbr5fzdM/sddefault.jpg",
   "alt": "네버랜드 모여라!! 여기 ‘하루 종일 비가 내렸어’ 부르는 전소연 있어요☆  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
-  "title": "네버랜드 모여라!! 여기 ‘하루 종일 비가 내렸어’ 부르는 전소연 있어요☆  [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
+  "title": "네버랜드 모여라!! 여기 ‘하루 종일 비가 내렸어’ 부르는 전소연 있어요☆ [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2021-07-23)",
   "duration": "00:03:15"
 },
 
@@ -1207,7 +1291,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/Oo9KsSgB-3o/sddefault.jpg",
   "alt": "전소연 -LION [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
-  "title": "전소연 -LION [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 210723 방송 (2021-07-23)",
+  "title": "전소연 -LION [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2021-07-23)",
   "duration": "00:02:37"
 },
 
@@ -1255,7 +1339,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/MDtUnM30iBs/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Psycho' /[강한나의 볼륨을 높여요]｜KBS 210726 방송 (2021-07-26)",
-  "title": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Psycho' /[강한나의 볼륨을 높여요]｜KBS 210726 방송 (2021-07-26)",
+  "title": "쿨룩 LIVE ▷소연(of (여자)아이들) 'Psycho' /[강한나의 볼륨을 높여요]｜KBS 방송 (2021-07-26)",
   "duration": "00:02:43"
 },
 
@@ -1332,18 +1416,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/8jdKZakPGHw",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "year": "2021",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/8jdKZakPGHw/sddefault.jpg",
-  "alt": "[방과후 설렘 선공개] 방과후 설렘 담임선생님 퍼포먼스 (여자)아이들 소연ver., MBC 211128 방송 (2021-11-18)",
-  "title": "[방과후 설렘 선공개] 방과후 설렘 담임선생님 퍼포먼스 (여자)아이들 소연ver., MBC 211128 방송 (2021-11-18)",
-  "duration": "00:01:35"
-},
-
-{
   "link": "https://youtu.be/UQ883uYqKxM",
   "category": "VOCAL_AND_DANCE",
   "member": "미연, 민니",
@@ -1411,7 +1483,7 @@ const vocalAndDanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/8Xw3ngC4q_M/sddefault.jpg",
   "alt": "전소연 - 난리나 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220211 방송 (2022-02-11)",
-  "title": "전소연 - 난리나 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220211 방송 (2022-02-11)",
+  "title": "전소연 - 난리나 [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2022-02-11)",
   "duration": "00:02:45"
 },
 
@@ -1435,7 +1507,7 @@ const vocalAndDanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/QGv_JxODoCk/sddefault.jpg",
   "alt": "소연 ((여자)아이들) - A Little Lovin [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220218 방송 (2022-02-18)",
-  "title": "소연 ((여자)아이들) - A Little Lovin [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 220218 방송 (2022-02-18)",
+  "title": "소연 ((여자)아이들) - A Little Lovin [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS 방송 (2022-02-18)",
   "duration": "00:03:13"
 },
 
@@ -1488,18 +1560,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/uU-7By1aA9o",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연, 민니, 우기",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/uU-7By1aA9o/sddefault.jpg",
-  "alt": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕｜TVPP｜MBC 210228 방송 (2022-03-09)",
-  "title": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕｜TVPP｜MBC 210228 방송 (2022-03-09)",
-  "duration": "00:24:58"
-},
-
-{
   "link": "https://youtu.be/RSa6WoKk0GI",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
@@ -1507,7 +1567,7 @@ const vocalAndDanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/RSa6WoKk0GI/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ / [비투비의 키스 더 라디오] l KBS 220318 방송 (2022-03-18)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ / [비투비의 키스 더 라디오] l KBS 220318 방송 (2022-03-18)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ / [비투비의 키스 더 라디오] l KBS 방송 (2022-03-18)",
   "duration": "00:03:03"
 },
 
@@ -1711,7 +1771,7 @@ const vocalAndDanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/dT42WN-mgA4/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ 미연((G)I-DLE) ‘Drive’ / [비투비의 키스 더 라디오] l KBS 220427 방송 (2022-04-27)",
-  "title": "쿨룩 LIVE ▷ 미연((G)I-DLE) ‘Drive’ / [비투비의 키스 더 라디오] l KBS 220427 방송 (2022-04-27)",
+  "title": "쿨룩 LIVE ▷ 미연((G)I-DLE) ‘Drive’ / [비투비의 키스 더 라디오] l KBS 방송 (2022-04-27)",
   "duration": "00:03:29"
 },
 
@@ -1725,42 +1785,6 @@ const vocalAndDanceCards = [
   "alt": "팜므파탈 엔터테이너💚 (여자)아이들 미연과 떠나는 Drive | 스페셜클립 | Special Clip | 퍼포먼스 | Performance | (G)I-DLE (2022-04-28)",
   "title": "팜므파탈 엔터테이너💚 (여자)아이들 미연과 떠나는 Drive | 스페셜클립 | Special Clip | 퍼포먼스 | Performance | (G)I-DLE (2022-04-28)",
   "duration": "00:03:46"
-},
-
-{
-  "link": "https://youtu.be/jU4iYk1ZqQ0",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연",
-  "year": "2022",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/jU4iYk1ZqQ0/sddefault.jpg",
-  "alt": "💫스젵 노래방 LIVE | 아이들 미연의 '시간이 흐른 뒤' |원곡: 윤미래 | STATION Z | KBS 220430방송 (2022-04-29)",
-  "title": "💫스젵 노래방 LIVE | 아이들 미연의 '시간이 흐른 뒤' |원곡: 윤미래 | STATION Z | KBS 220430방송 (2022-04-29)",
-  "duration": "00:02:14"
-},
-
-{
-  "link": "https://youtu.be/8gviEEbHRCE",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연",
-  "year": "2022",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/8gviEEbHRCE/sddefault.jpg",
-  "alt": "💫스젵 노래방 LIVE | 아이들 미연의 '들어줘요' | STATION Z | KBS 220430방송 (2022-04-29)",
-  "title": "💫스젵 노래방 LIVE | 아이들 미연의 '들어줘요' | STATION Z | KBS 220430방송 (2022-04-29)",
-  "duration": "00:01:44"
-},
-
-{
-  "link": "https://youtu.be/VbUnsGvRvyY",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연",
-  "year": "2022",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/VbUnsGvRvyY/sddefault.jpg",
-  "alt": "💫스젵 LIVE | 아이들 미연의 'Drive' | STATION Z | KBS 220430방송 (2022-04-29)",
-  "title": "💫스젵 LIVE | 아이들 미연의 'Drive' | STATION Z | KBS 220430방송 (2022-04-29)",
-  "duration": "00:03:29"
 },
 
 {
@@ -1915,7 +1939,7 @@ const vocalAndDanceCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/dino0IQ0vRw/sddefault.jpg",
   "alt": "여름 장마에 들으면 터지는 감성💦 (여자)아이들 〈비가 오는 날엔〉♪ 뉴페스타 4회 | JTBC 220628 방송 (2022-06-28)",
-  "title": "여름 장마에 들으면 터지는 감성💦 (여자)아이들 〈비가 오는 날엔〉♪ 뉴페스타 4회 | JTBC 220628 방송 (2022-06-28)",
+  "title": "여름 장마에 들으면 터지는 감성💦 (여자)아이들 〈비가 오는 날엔〉♪ 뉴페스타 4회 | JTBC 방송 (2022-06-28)",
   "duration": "00:02:09"
 },
 
@@ -1975,7 +1999,7 @@ const vocalAndDanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/r3k3yImcOBQ/sddefault.jpg",
   "alt": "[909 포커스캠 4K] 민니 직캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 221015 (2022-10-15)",
-  "title": "[909 포커스캠 4K] 민니 직캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 221015 (2022-10-15)",
+  "title": "[909 포커스캠 4K] 민니 직캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 (2022-10-15)",
   "duration": "00:03:30"
 },
 
@@ -1987,7 +2011,7 @@ const vocalAndDanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/VyMdHB9OGaE/sddefault.jpg",
   "alt": "[909 직캠 4K] 민니 세로캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 221015 (2022-10-15)",
-  "title": "[909 직캠 4K] 민니 세로캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 221015 (2022-10-15)",
+  "title": "[909 직캠 4K] 민니 세로캠 'All 4 Nothing (I'm So In Love)' (MINNIE FanCam) | @JTBC K-909 (2022-10-15)",
   "duration": "00:03:30"
 },
 
@@ -1999,7 +2023,7 @@ const vocalAndDanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/jO_d7z0AL2U/sddefault.jpg",
   "alt": "[909 직캠 4K] Lauv&민니 풀캠 'All 4 Nothing (I'm So In Love)' (Lauv&MINNIE FullCam) | @JTBC K-909 221015 (2022-10-15)",
-  "title": "[909 직캠 4K] Lauv&민니 풀캠 'All 4 Nothing (I'm So In Love)' (Lauv&MINNIE FullCam) | @JTBC K-909 221015 (2022-10-15)",
+  "title": "[909 직캠 4K] Lauv&민니 풀캠 'All 4 Nothing (I'm So In Love)' (Lauv&MINNIE FullCam) | @JTBC K-909 (2022-10-15)",
   "duration": "00:03:26"
 },
 
@@ -2023,7 +2047,7 @@ const vocalAndDanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/mgt350Xhf8Q/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘Nxde’ / [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-20)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘Nxde’ / [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-20)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘Nxde’ / [비투비의 키스 더 라디오] l KBS 방송 (2022-10-20)",
   "duration": "00:03:08"
 },
 
@@ -2059,7 +2083,7 @@ const vocalAndDanceCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/7Km79bMzbwM/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들 ((G)I-DLE) ‘Nxde’ / [헤이즈의 볼륨을 높여요] I KBS 221024 방송 (2022-10-24)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들 ((G)I-DLE) ‘Nxde’ / [헤이즈의 볼륨을 높여요] I KBS 221024 방송 (2022-10-24)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들 ((G)I-DLE) ‘Nxde’ / [헤이즈의 볼륨을 높여요] I KBS 방송 (2022-10-24)",
   "duration": "00:03:04"
 },
 
@@ -2083,7 +2107,7 @@ const vocalAndDanceCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/LghUlIJi18s/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷(여자)아이들 'TOMBOY' / [박명수의 라디오쇼]ㅣKBS 221114 방송 (2022-11-14)",
-  "title": "쿨룩 LIVE ▷(여자)아이들 'TOMBOY' / [박명수의 라디오쇼]ㅣKBS 221114 방송 (2022-11-14)",
+  "title": "쿨룩 LIVE ▷(여자)아이들 'TOMBOY' / [박명수의 라디오쇼]ㅣKBS 방송 (2022-11-14)",
   "duration": "00:03:02"
 },
 
@@ -2107,7 +2131,7 @@ const vocalAndDanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/6Nxsif96Pro/sddefault.jpg",
   "alt": "[Mnet PRIME SHOW] 아이들의 선물 같은 앵콜 무대, ♬ My Bag - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
-  "title": "[Mnet PRIME SHOW] 아이들의 선물 같은 앵콜 무대, ♬ My Bag - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
+  "title": "[Mnet PRIME SHOW] 아이들의 선물 같은 앵콜 무대, ♬ My Bag - (G)I-DLE | Mnet 방송 (2023-03-29)",
   "duration": "00:02:43"
 },
 
@@ -2119,7 +2143,7 @@ const vocalAndDanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/L2ancO9U57s/sddefault.jpg",
   "alt": "[Mnet PRIME SHOW] 세상 어디에도 없던 컬래버레이션! ♬ That That (Feat. PSY) - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
-  "title": "[Mnet PRIME SHOW] 세상 어디에도 없던 컬래버레이션! ♬ That That (Feat. PSY) - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
+  "title": "[Mnet PRIME SHOW] 세상 어디에도 없던 컬래버레이션! ♬ That That (Feat. PSY) - (G)I-DLE | Mnet 방송 (2023-03-29)",
   "duration": "00:03:50"
 },
 
@@ -2131,7 +2155,7 @@ const vocalAndDanceCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/pmT8kj019iQ/sddefault.jpg",
   "alt": "[Mnet PRIME SHOW] 방송 최초 공개! ♬ VILLAIN DIES - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
-  "title": "[Mnet PRIME SHOW] 방송 최초 공개! ♬ VILLAIN DIES - (G)I-DLE | Mnet 230329 방송 (2023-03-29)",
+  "title": "[Mnet PRIME SHOW] 방송 최초 공개! ♬ VILLAIN DIES - (G)I-DLE | Mnet 방송 (2023-03-29)",
   "duration": "00:03:25"
 },
 
@@ -2143,7 +2167,7 @@ const vocalAndDanceCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/9CiLGS8l6vQ/sddefault.jpg",
   "alt": "[KCON 2023 THAILAND] (G)I-DLE - TOMBOY @DREAM STAGE | Mnet 230406 방송 (2023-04-06)",
-  "title": "[KCON 2023 THAILAND] (G)I-DLE - TOMBOY @DREAM STAGE | Mnet 230406 방송 (2023-04-06)",
+  "title": "[KCON 2023 THAILAND] (G)I-DLE - TOMBOY @DREAM STAGE | Mnet 방송 (2023-04-06)",
   "duration": "00:04:01"
 },
 
@@ -2215,7 +2239,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/92_JD2k-Bco/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷(여자)아이들 #GIdle '퀸카' 라이브 / [비투비의 키스 더 라디오] I KBS 230516 방송 (2023-05-16)",
-  "title": "쿨룩 LIVE ▷(여자)아이들 #GIdle '퀸카' 라이브 / [비투비의 키스 더 라디오] I KBS 230516 방송 (2023-05-16)",
+  "title": "쿨룩 LIVE ▷(여자)아이들 #GIdle '퀸카' 라이브 / [비투비의 키스 더 라디오] I KBS 방송 (2023-05-16)",
   "duration": "00:02:47"
 },
 
@@ -2263,7 +2287,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/63CR6ssrvr8/sddefault.jpg",
   "alt": "퀸카(Queencard) - (여자)아이들 [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
-  "title": "퀸카(Queencard) - (여자)아이들 [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
+  "title": "퀸카(Queencard) - (여자)아이들 [더 시즌즈-최정훈의 밤의공원] | KBS 방송 (2023-05-21)",
   "duration": "00:02:51"
 },
 
@@ -2275,7 +2299,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/mxwX-dUMR0Y/sddefault.jpg",
   "alt": "밤의 공원을 위해 (여자)아이들이 준비한 잔나비의 ‘주저하는 연인들을 위해’♪ [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
-  "title": "밤의 공원을 위해 (여자)아이들이 준비한 잔나비의 ‘주저하는 연인들을 위해’♪ [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
+  "title": "밤의 공원을 위해 (여자)아이들이 준비한 잔나비의 ‘주저하는 연인들을 위해’♪ [더 시즌즈-최정훈의 밤의공원] | KBS 방송 (2023-05-21)",
   "duration": "00:03:00"
 },
 
@@ -2287,7 +2311,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/5hVBjS1Vgjs/sddefault.jpg",
   "alt": "[세로] (여자) 아이들 - 주저하는 연인들을 위해 [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
-  "title": "[세로] (여자) 아이들 - 주저하는 연인들을 위해 [더 시즌즈-최정훈의 밤의공원] | KBS 230521 방송 (2023-05-21)",
+  "title": "[세로] (여자) 아이들 - 주저하는 연인들을 위해 [더 시즌즈-최정훈의 밤의공원] | KBS 방송 (2023-05-21)",
   "duration": "00:01:39"
 },
 
@@ -2323,7 +2347,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/fBQ9HAe1UrE/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들 '퀸카(Queencard)' - 노래방 ver. / [박명수의 라디오쇼] I KBS 230522 방송 (2023-05-22)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들 '퀸카(Queencard)' - 노래방 ver. / [박명수의 라디오쇼] I KBS 230522 방송 (2023-05-22)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들 '퀸카(Queencard)' - 노래방 ver. / [박명수의 라디오쇼] I KBS 방송 (2023-05-22)",
   "duration": "00:02:51"
 },
 
@@ -2491,7 +2515,7 @@ const vocalAndDanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/eWVsuqzDu88/sddefault.jpg",
   "alt": "[가로직캠] (여자)아이들 - 나는 아픈 건 딱 질색이니까 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
-  "title": "[가로직캠] (여자)아이들 - 나는 아픈 건 딱 질색이니까 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
+  "title": "[가로직캠] (여자)아이들 - 나는 아픈 건 딱 질색이니까 [더 시즌즈-이효리의 레드카펫] | KBS 방송 (2024-02-02)",
   "duration": "00:02:45"
 },
 
@@ -2503,7 +2527,7 @@ const vocalAndDanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/b-A0R5C2z6o/sddefault.jpg",
   "alt": "이효리에게 곡을 준 소연! [미발표곡] 유후(Yoo Hoo) - 소연 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
-  "title": "이효리에게 곡을 준 소연! [미발표곡] 유후(Yoo Hoo) - 소연 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
+  "title": "이효리에게 곡을 준 소연! [미발표곡] 유후(Yoo Hoo) - 소연 [더 시즌즈-이효리의 레드카펫] | KBS 방송 (2024-02-02)",
   "duration": "00:02:11"
 },
 
@@ -2515,7 +2539,7 @@ const vocalAndDanceCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/r4sUpfOk7DM/sddefault.jpg",
   "alt": "Super Lady - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
-  "title": "Super Lady - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-02)",
+  "title": "Super Lady - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | KBS 방송 (2024-02-02)",
   "duration": "00:02:42"
 },
 
@@ -2541,18 +2565,6 @@ const vocalAndDanceCards = [
   "alt": "[4K] (여자)아이들((G)I-DLE) “Super Lady” Band LIVE Concert 이 세상 모든 슈퍼레이디에게 전하는 곡❤ [it’s KPOP LIVE 잇츠라이브] (2024-02-02)",
   "title": "[4K] (여자)아이들((G)I-DLE) “Super Lady” Band LIVE Concert 이 세상 모든 슈퍼레이디에게 전하는 곡❤ [it’s KPOP LIVE 잇츠라이브] (2024-02-02)",
   "duration": "00:03:59"
-},
-
-{
-  "link": "https://youtu.be/bjyS46qzAfw",
-  "category": "VOCAL_AND_DANCE",
-  "member": "아이들",
-  "year": "2024",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/bjyS46qzAfw/sddefault.jpg",
-  "alt": "Abracadabra - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-12)",
-  "title": "Abracadabra - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | KBS 240202 방송 (2024-02-12)",
-  "duration": "00:01:23"
 },
 
 {
@@ -2683,7 +2695,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/FAT2rvgIH9w/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘클락션(Klaxon)’ / [이은지의 가요광장] I KBS 240709 방송 (2024-07-09)",
-  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘클락션(Klaxon)’ / [이은지의 가요광장] I KBS 240709 방송 (2024-07-09)",
+  "title": "쿨룩 LIVE ▷ (여자)아이들((G)I-DLE) ‘클락션(Klaxon)’ / [이은지의 가요광장] I KBS 방송 (2024-07-09)",
   "duration": "00:02:59"
 },
 
@@ -2695,7 +2707,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/hHrr1lf7_V8/sddefault.jpg",
   "alt": "(여자)아이들이 부르는 썸머쏭🎶 (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "(여자)아이들이 부르는 썸머쏭🎶 (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "(여자)아이들이 부르는 썸머쏭🎶 (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:02:09"
 },
 
@@ -2707,7 +2719,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/dRkWQ3gHcX4/sddefault.jpg",
   "alt": "(여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "(여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "(여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:02:38"
 },
 
@@ -2719,7 +2731,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/mN1XIwlLTPk/sddefault.jpg",
   "alt": "[가로] (여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "[가로] (여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "[가로] (여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:03:06"
 },
 
@@ -2743,7 +2755,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/vQlU7bvMb68/sddefault.jpg",
   "alt": "(여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "(여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "(여자)아이들 - 클락션 (Klaxon) / Special Narr. ZICO (지코) [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:03:09"
 },
 
@@ -2755,7 +2767,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/geuvx68nzo8/sddefault.jpg",
   "alt": "[세로] (여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "[세로] (여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "[세로] (여자)아이들 - 나는 아픈 건 딱 질색이니까 (Band VER.) [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:02:45"
 },
 
@@ -2767,7 +2779,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/KVuwDOzN48U/sddefault.jpg",
   "alt": "[세로] (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
-  "title": "[세로] (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 240712 방송 (2024-07-12)",
+  "title": "[세로] (여자)아이들 - 냉면 + Touch my body+ Bubble Pop! [더 시즌즈-지코의 아티스트] | KBS 방송 (2024-07-12)",
   "duration": "00:02:12"
 },
 
@@ -2803,7 +2815,7 @@ const vocalAndDanceCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/gkOuPYZR6aE/sddefault.jpg",
   "alt": "[ALLIVE] (여자)아이들 소연 - 클락션 (Klaxon) | 올라이브 | 정오의 희망곡 김신영입니다 | MBC 240722 방송 (2024-07-22)",
-  "title": "[ALLIVE] (여자)아이들 소연 - 클락션 (Klaxon) | 올라이브 | 정오의 희망곡 김신영입니다 | MBC 240722 방송 (2024-07-22)",
+  "title": "[ALLIVE] (여자)아이들 소연 - 클락션 (Klaxon) | 올라이브 | 정오의 희망곡 김신영입니다 | MBC 방송 (2024-07-22)",
   "duration": "00:02:53"
 },
 
@@ -2916,18 +2928,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/DlAtWozonI0",
-  "category": "VOCAL_AND_DANCE",
-  "member": "민니",
-  "year": "2025",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/DlAtWozonI0/sddefault.jpg",
-  "alt": "[ALLIVE] 민니 (MINNIE) - HER | 올라이브 | 정오의 희망곡 김신영입니다｜MBC 250122 방송 (2025-01-23)",
-  "title": "[ALLIVE] 민니 (MINNIE) - HER | 올라이브 | 정오의 희망곡 김신영입니다｜MBC 250122 방송 (2025-01-23)",
-  "duration": "00:02:38"
-},
-
-{
   "link": "https://youtu.be/4AAgHJoTSwE",
   "category": "VOCAL_AND_DANCE",
   "member": "민니",
@@ -2935,7 +2935,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/4AAgHJoTSwE/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ 민니 (MINNIE) 'HER' 라이브 / [오마이걸 효정의 볼륨을 높여요] / KBS 250123 방송 (2025-01-23)",
-  "title": "쿨룩 LIVE ▷ 민니 (MINNIE) 'HER' 라이브 / [오마이걸 효정의 볼륨을 높여요] / KBS 250123 방송 (2025-01-23)",
+  "title": "쿨룩 LIVE ▷ 민니 (MINNIE) 'HER' 라이브 / [오마이걸 효정의 볼륨을 높여요] / KBS 방송 (2025-01-23)",
   "duration": "00:02:44"
 },
 
@@ -2947,7 +2947,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/gYN5aX0ClHs/sddefault.jpg",
   "alt": "민니 ((여자)아이들) - Valentine’s Dream [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
-  "title": "민니 ((여자)아이들) - Valentine’s Dream [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
+  "title": "민니 ((여자)아이들) - Valentine’s Dream [더 시즌즈-이영지의 레인보우] | KBS 방송 (2025-01-24)",
   "duration": "00:03:19"
 },
 
@@ -2959,7 +2959,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/eif8t-wQe2o/sddefault.jpg",
   "alt": "꿈결같은 목소리로 민니 ((여자)아이들)가 부르는 ‘꿈결같아서’🎤 [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
-  "title": "꿈결같은 목소리로 민니 ((여자)아이들)가 부르는 ‘꿈결같아서’🎤 [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
+  "title": "꿈결같은 목소리로 민니 ((여자)아이들)가 부르는 ‘꿈결같아서’🎤 [더 시즌즈-이영지의 레인보우] | KBS 방송 (2025-01-24)",
   "duration": "00:02:40"
 },
 
@@ -2971,7 +2971,7 @@ const vocalAndDanceCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/lnHQ8CILrcw/sddefault.jpg",
   "alt": "민니 ((여자)아이들) - HER [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
-  "title": "민니 ((여자)아이들) - HER [더 시즌즈-이영지의 레인보우] | KBS 250124 방송 (2025-01-24)",
+  "title": "민니 ((여자)아이들) - HER [더 시즌즈-이영지의 레인보우] | KBS 방송 (2025-01-24)",
   "duration": "00:02:43"
 },
 
@@ -3091,7 +3091,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/pExIBbZvVKw/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷ i-dle(아이들) 'Good Thing' / [이은지의 가요광장] I KBS 250520 방송 (2025-05-20)",
-  "title": "쿨룩 LIVE ▷ i-dle(아이들) 'Good Thing' / [이은지의 가요광장] I KBS 250520 방송 (2025-05-20)",
+  "title": "쿨룩 LIVE ▷ i-dle(아이들) 'Good Thing' / [이은지의 가요광장] I KBS 방송 (2025-05-20)",
   "duration": "00:02:41"
 },
 
@@ -3115,7 +3115,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/87mjTHuwZoc/sddefault.jpg",
   "alt": "i-dle(아이들) - Good Thing (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
-  "title": "i-dle(아이들) - Good Thing (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
+  "title": "i-dle(아이들) - Good Thing (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 방송 (2025-05-23)",
   "duration": "00:02:33"
 },
 
@@ -3127,7 +3127,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/2IbEaAin0Lk/sddefault.jpg",
   "alt": "소연(i-dle) - 내 이름 맑음 [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
-  "title": "소연(i-dle) - 내 이름 맑음 [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
+  "title": "소연(i-dle) - 내 이름 맑음 [더 시즌즈-박보검의 칸타빌레] | KBS 방송 (2025-05-23)",
   "duration": "00:02:09"
 },
 
@@ -3139,7 +3139,7 @@ const vocalAndDanceCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/0VZHj9WhcKA/sddefault.jpg",
   "alt": "i-dle (아이들) - LATATA + 퀸카 (Queencard) + TOMBOY [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
-  "title": "i-dle (아이들) - LATATA + 퀸카 (Queencard) + TOMBOY [더 시즌즈-박보검의 칸타빌레] | KBS 250523 방송 (2025-05-23)",
+  "title": "i-dle (아이들) - LATATA + 퀸카 (Queencard) + TOMBOY [더 시즌즈-박보검의 칸타빌레] | KBS 방송 (2025-05-23)",
   "duration": "00:04:32"
 },
 
@@ -3166,7 +3166,8 @@ const vocalAndDanceCards = [
   "title": "[4K] 아이들(i-dle) “Good Thing” Band LIVE 전기 맞은 것처럼 계속 귓가에 맴돈다..⚡ [it’s KPOP LIVE 잇츠라이브] (2025-05-26)",
   "duration": "00:03:56"
 },
-  {
+
+{
   "link": "https://youtu.be/QHFE7VoGSSw",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
@@ -3177,18 +3178,8 @@ const vocalAndDanceCards = [
   "alt": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)",
   "title": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)"
 },
-  {
-  "link": "https://youtu.be/UQ883uYqKxM",
-  "category": "VOCAL_AND_DANCE",
-  "member": "미연, 민니",
-  "year": "2021",
-  "month": "12",
-  "duration": "00:02:55",
-  "thumbnail": "https://i.ytimg.com/vi/UQ883uYqKxM/hqdefault.jpg",
-  "alt": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)",
-  "title": "🎙We Already Fell in Love - 미연 & 민니 ((여자)아이들) I 아돌라스쿨 : 홈커밍데이 겨울방학 특집 EP.01 스페셜 클립 (2021-12-29)"
-},
-  {
+
+{
   "link": "https://youtu.be/2SO-qLst3po",
   "category": "VOCAL_AND_DANCE",
   "member": "소연",
@@ -3198,8 +3189,51 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/maxresdefault.jpg",
   "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
   "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
+},
+{
+  "link": "https://youtu.be/MZ_T1Cr9VVU",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "year": "2020",
+  "month": "01",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/MZ_T1Cr9VVU/mqdefault.jpg",
+  "alt": "[슈가캠] (여자)아이들((G)I-DLE) - '2020 SHOW'♪ (풀캠ver.) 슈가맨3(SUGARMAN3) 9회 (2020-01-31)",
+  "title": "[슈가캠] (여자)아이들((G)I-DLE) - '2020 SHOW'♪ (풀캠ver.) 슈가맨3(SUGARMAN3) 9회 (2020-01-31)"
+},
+{
+  "link": "https://youtu.be/TeA49K5oSYg",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:02:43",
+  "thumbnail": "https://i.ytimg.com/vi/TeA49K5oSYg/hqdefault.jpg",
+  "alt": "나는 아픈 건 딱 질색이니까 - (여자)아이들 [더 시즌즈-이효리의 레드카펫] |(2024-02-02)",
+  "title": "나는 아픈 건 딱 질색이니까 - (여자)아이들 [더 시즌즈-이효리의 레드카펫] | (2024-02-02)"
+},
+{
+  "link": "https://youtu.be/vEbFqC8ZzGw",
+  "category": "VOCAL_AND_DANCE",
+  "member": "우기",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/vEbFqC8ZzGw/mqdefault.jpg",
+  "alt": "우기가 부르는 Black 연습생때 별명이 큐브 이효리!  [더 시즌즈-이효리의 레드카펫] |(2024-02-02)",
+  "title": "우기가 부르는 Black 연습생때 별명이 큐브 이효리!  [더 시즌즈-이효리의 레드카펫] |(2024-02-02)"
+},
+{
+  "link": "https://youtu.be/nZwxHak5QyQ",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "year": "2024",
+  "month": "08",
+  "duration": "00:07:20",
+  "thumbnail": "https://i.ytimg.com/vi/nZwxHak5QyQ/hqdefault.jpg",
+  "alt": "[주💥목👊] 피오 소원 성취 ㅋㅋㅋㅋ 급결성🚨 태미연💕이 부릅니다. 〈투엑스♪〉#놀라운토요일 | amazingsaturday EP.327 | tvN 240810 방송 (2024-08-10)",
+  "title": "[주💥목👊] 피오 소원 성취 ㅋㅋㅋㅋ 급결성🚨 태미연💕이 To.X 부릅니다. 〈투엑스♪〉#놀라운토요일 | amazingsaturday EP.327 | tvN 240810 방송 (2024-08-10)"
 }
-
 
 ];
 
