@@ -29,20 +29,17 @@
       left: 50%;
       transform: translateX(-50%);
     }
+
     .category-section {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 10px;
       padding: 30px 10px 10px;
+      max-width: 1100px;
+      margin: 0 auto;
     }
-    .category-line {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-bottom: 10px;
-    }
+
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
@@ -54,21 +51,45 @@
       border: none;
       text-decoration: none;
     }
+
     .top-bar {
       display: flex;
       justify-content: center;
       align-items: center;
       gap: 10px;
       margin: 20px 0;
+      flex-wrap: wrap;
     }
-    .top-bar input {
-      padding: 12px 16px;
+
+    .search-wrapper {
+      position: relative;
+    }
+
+    .search-wrapper input {
+      padding: 12px 40px 12px 16px;
       border-radius: 24px;
       border: none;
       width: 260px;
       font-size: 16px;
     }
-    .top-bar button {
+
+    .search-wrapper button {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+    }
+
+    .search-wrapper button img {
+      width: 18px;
+      height: 18px;
+    }
+
+    .top-bar button:not(.search-btn) {
       background-color: #fff;
       border: none;
       border-radius: 50%;
@@ -80,10 +101,12 @@
       align-items: center;
       cursor: pointer;
     }
+
     .top-bar button img {
       width: 24px;
       height: 24px;
     }
+
     .card-container {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
@@ -138,18 +161,7 @@
       padding: 2px 6px 4px;
       opacity: 0.7;
     }
-    @media screen and (max-width: 768px) {
-      .card-title {
-        font-size: 14px;
-        line-height: 1.2em;
-        display: -webkit-box;
-        -webkit-line-clamp: 4;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: normal;
-      }
-    }
+
     .button-wrapper {
       display: flex;
       justify-content: center;
@@ -172,7 +184,8 @@
     #scrollTopBtn:hover {
       background-color: #ddd;
     }
-    @media (max-width: 768px) {
+
+    @media screen and (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(2, 1fr) !important;
         padding: 0 2px;
@@ -193,46 +206,43 @@
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
+
   <div class="category-section">
-  <div class="category-line">
-  <!-- 🎵 음악 중심 콘텐츠 -->
-  <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
-  <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
-  <a class="category-btn" href="category.html?category=VOCAL_AND_DANCE">VOCAL_AND_DANCE</a>
-  <a class="category-btn" href="category.html?category=SPECIAL_RELEASES">SPECIAL_RELEASES</a>
-  <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
-</div>
-
-<div class="category-line">
-  <!-- 🎬 예능 / 방송 콘텐츠 -->
-  <a class="category-btn" href="category.html?category=ORIGINAL_VARIETY">ORIGINAL_VARIETY</a>
-  <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
-  <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
-<a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
- <a class="category-btn" href="category.html?category=OFFICIAL_CLIPS">OFFICIAL_CLIPS</a>
-</div>
-
-<div class="category-line">
-  <!-- 🌐 기타 -->
-  <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
-  <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
-  <a class="category-btn" href="category.html?category=COMMERCIALS">COMMERCIALS</a>
-  <a class="category-btn" href="category.html?category=SHORTS">SHORTS</a>
-  <a class="category-btn" href="category.html?category=ETC">ETC</a>
-</div>
+    <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
+    <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
+    <a class="category-btn" href="category.html?category=VOCAL_AND_DANCE">VOCAL_AND_DANCE</a>
+    <a class="category-btn" href="category.html?category=SPECIAL_RELEASES">SPECIAL_RELEASES</a>
+    <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
+    <a class="category-btn" href="category.html?category=ORIGINAL_VARIETY">ORIGINAL_VARIETY</a>
+    <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
+    <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
+    <a class="category-btn" href="category.html?category=BEHIND_CLIPS">BEHIND_CLIPS</a>
+    <a class="category-btn" href="category.html?category=OFFICIAL_CLIPS">OFFICIAL_CLIPS</a>
+    <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
+    <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
+    <a class="category-btn" href="category.html?category=COMMERCIALS">COMMERCIALS</a>
+    <a class="category-btn" href="category.html?category=SHORTS">SHORTS</a>
+    <a class="category-btn" href="category.html?category=ETC">ETC</a>
   </div>
+
   <div class="top-bar">
-    <input type="text" id="searchInput" placeholder="Search all videos...">
-    <button id="searchBtn" title="검색 실행">🔍</button>
+    <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Search all videos...">
+      <button id="searchBtn" title="검색 실행"><img src="images/search-icon.svg" alt="검색"></button>
+    </div>
     <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
-      </div>
+  </div>
+
   <div id="cardCount" style="text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc;"></div>
   <div class="card-container" id="allCards"></div>
+
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
+
+  <!-- 기존 스크립트 로직 100% 유지 -->
   <script src="common.js"></script>
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-STAGE_PERFORMANCE.js"></script>
@@ -249,6 +259,8 @@
   <script src="js/cards-COMMERCIALS.js"></script>
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
+
+  <!-- 검색 및 렌더링 로직도 100% 보존 -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const container = document.getElementById("allCards");
@@ -300,34 +312,34 @@
         renderCards(filtered);
       }
       function renderCards(cards) {
-  container.innerHTML = '';
-  cards.slice(0, currentIndex + batchSize).forEach(data => {
-    const card = document.createElement("a");
-    card.className = "card";
-    card.setAttribute("data-category", data.category);
-    card.setAttribute("data-member", data.member);
-    card.setAttribute("data-year", data.year);
-    card.innerHTML = `
-      <div class="thumbnail-wrapper">
-        <img src="${data.thumbnail}" alt="${data.alt}">
-      </div>
-      <div class="card-title">${data.title}</div>
-      <div class="card-meta">
-        <span class="category">${data.category}</span>
-        <span class="duration">${data.duration || ''}</span>
-      </div>
-    `;
-    card.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      window.open(data.link, "_blank");
-    });
-    container.appendChild(card);
-  });
-  currentIndex += batchSize;
-  loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
-  updateCardCount(cards.length);
-}
+        container.innerHTML = '';
+        cards.slice(0, currentIndex + batchSize).forEach(data => {
+          const card = document.createElement("a");
+          card.className = "card";
+          card.setAttribute("data-category", data.category);
+          card.setAttribute("data-member", data.member);
+          card.setAttribute("data-year", data.year);
+          card.innerHTML = `
+            <div class="thumbnail-wrapper">
+              <img src="${data.thumbnail}" alt="${data.alt}">
+            </div>
+            <div class="card-title">${data.title}</div>
+            <div class="card-meta">
+              <span class="category">${data.category}</span>
+              <span class="duration">${data.duration || ''}</span>
+            </div>
+          `;
+          card.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            window.open(data.link, "_blank");
+          });
+          container.appendChild(card);
+        });
+        currentIndex += batchSize;
+        loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
+        updateCardCount(cards.length);
+      }
       renderCards(filtered);
       loadMoreBtn.addEventListener("click", (e) => {
         e.preventDefault();
