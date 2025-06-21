@@ -11383,7 +11383,163 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/dK7lLKYtDEE/sddefault.jpg",
   "alt": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)",
   "title": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)"
+},
+  
+{
+  "link": "https://youtu.be/j2jmOq1XVFI",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/j2jmOq1XVFI/sddefault.jpg",
+  "alt": "[2020 아이돌 멍멍 선수권 대회]1등을 노리는 슈화 ♡ 하쿠~! 케미 폭발♨ (2020-10-02)",
+  "title": "[2020 아이돌 멍멍 선수권 대회]1등을 노리는 슈화 ♡ 하쿠~! 케미 폭발♨ (2020-10-02)"
+},
+
+{
+  "link": "https://youtu.be/yp3mbK-2nkw",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/yp3mbK-2nkw/hqdefault.jpg",
+  "alt": "[2020 아이돌 멍멍 선수권 대회] 양주 산을 접수한 시골견 럭키와 엄마 수빈의 훈련! (2020-10-02)",
+  "title": "[2020 아이돌 멍멍 선수권 대회] 양주 산을 접수한 시골견 럭키와 엄마 수빈의 훈련! (2020-10-02)"
+},
+
+{
+  "link": "https://youtu.be/S-78TvKxoEQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:02:13",
+  "thumbnail": "https://i.ytimg.com/vi/S-78TvKxoEQ/mqdefault.jpg",
+  "alt": "[2020 아이돌 멍멍 선수권 대회] 타국에서의 외로움을 달래준 여자아이들 슈화의 가족 하쿠! (2020-10-02)",
+  "title": "[2020 아이돌 멍멍 선수권 대회] 타국에서의 외로움을 달래준 여자아이들 슈화의 가족 하쿠! (2020-10-02)"
+},
+
+{
+  "link": "https://youtu.be/zRhFLW5Fz1Q",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2020",
+  "month": "10",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/zRhFLW5Fz1Q/hqdefault.jpg",
+  "alt": "[2020 아이돌 멍멍 선수권 대회] [결승전] 강력한 우승 후보♨ 여자 아이들 슈화 X 하쿠, 마마무 문별 X 건강 (2020-10-02)",
+  "title": "[2020 아이돌 멍멍 선수권 대회] [결승전] 강력한 우승 후보♨ 여자 아이들 슈화 X 하쿠, 마마무 문별 X 건강 (2020-10-02)"
+},
+
+{
+  "link": "https://youtu.be/HThGznwjEig",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "06",
+  "duration": "01:35:25",
+  "thumbnail": "https://i.ytimg.com/vi/HThGznwjEig/hqdefault.jpg",
+  "alt": "(ENG / 한글자막 SUB) 超人氣韓國女團(G)I-DLE的舒華可愛來襲！綜藝初體驗，錄影還可以遇到偶像太幸福啦～綜藝玩很大 X FORA福爾額溫槍 179回【第355集完整版】 (2021-06-05)",
+  "title": "[슈화] - (ENG / 한글자막 SUB) 超人氣韓國女團(G)I-DLE的舒華可愛來襲！綜藝初體驗，錄影還可以遇到偶像太幸福啦～綜藝玩很大 X FORA福爾額溫槍 179回【第355集完整版】 (2021-06-05)"
+},
+
+{
+  "link": "https://youtu.be/AGIWf7LHHnQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "06",
+  "duration": "01:35:26",
+  "thumbnail": "https://i.ytimg.com/vi/AGIWf7LHHnQ/hqdefault.jpg",
+  "alt": "(ENG/한글자막 SUB) (G)I-DLE 的舒華化身綜藝天后！遊戲超強，過關機器就非舒華莫屬！就算懲罰也OK！綜藝玩很大 X FORA福爾額溫槍 179回【第356集完整版】 (2021-06-12)",
+  "title": "[슈화] - (ENG /한글자막 SUB) (G)I-DLE 的舒華化身綜藝天后！遊戲超強，過關機器就非舒華莫屬！就算懲罰也OK！綜藝玩很大 X FORA福爾額溫槍 179回【第356集完整版】 (2021-06-12)"
+},
+
+{
+  "link": "https://youtu.be/OXj6wgZHeRc",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "09",
+  "duration": "00:13:36",
+  "thumbnail": "https://i.ytimg.com/vi/OXj6wgZHeRc/mqdefault.jpg",
+  "alt": "[ENG SUB] 마늘 파스타 (여자)아이들 슈화 ✖ 김영준 셰프 / Garlic pasta recipe (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-09-27)",
+  "title": "[ENG SUB] EBS 최고의 요리비결 - 마늘 파스타 (여자)아이들 슈화 ✖ 김영준 셰프 / Garlic pasta recipe (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-09-27)"
+},
+
+{
+  "link": "https://youtu.be/a0TD8IZ08GY",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "09",
+  "duration": "00:11:35",
+  "thumbnail": "https://i.ytimg.com/vi/a0TD8IZ08GY/hqdefault.jpg",
+  "alt": "[ENG SUB] 해물볶음밥 (여자)아이들 슈화 ✖ 김영준 셰프 / Seafood fried rice (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-09-29)",
+  "title": "[ENG SUB] EBS 최고의 요리비결 - 해물볶음밥 (여자)아이들 슈화 ✖ 김영준 셰프 / Seafood fried rice (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-09-29)"
+},
+
+{
+  "link": "https://youtu.be/eaDgVuSJSXc",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "10",
+  "duration": "00:10:00",
+  "thumbnail": "https://i.ytimg.com/vi/eaDgVuSJSXc/sddefault.jpg",
+  "alt": "[ENG SUB] 새우튀김 덮밥 (여자)아이들 슈화 ✖ 김영준 / Deep-fried shrimp rice bowl (G)I-DLE Shuhua ✖ Kim Youngun (2021-10-04)",
+  "title": "[ENG SUB] EBS 최고의 요리비결 - 새우튀김 덮밥 (여자)아이들 슈화 ✖ 김영준 / Deep-fried shrimp rice bowl (G)I-DLE Shuhua ✖ Kim Youngun (2021-10-04)"
+},
+
+{
+  "link": "https://youtu.be/JqHJWTiRiQg",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2021",
+  "month": "10",
+  "duration": "00:08:44",
+  "thumbnail": "https://i.ytimg.com/vi/JqHJWTiRiQg/mqdefault.jpg",
+  "alt": "[ENG SUB] 부대찌개 (여자)아이들 슈화 ✖ 김영준 / Budaejjigae (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-10-06)",
+  "title": "[ENG SUB] EBS 최고의 요리비결 - 부대찌개 (여자)아이들 슈화 ✖ 김영준 / Budaejjigae (G)I-DLE Shuhua ✖ Chef Kim Youngun (2021-10-06)"
+},
+{
+  "link": "https://youtu.be/buGB6_Z47-8",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:45:46",
+  "thumbnail": "https://i.ytimg.com/vi/buGB6_Z47-8/hqdefault.jpg",
+  "alt": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)",
+  "title": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)"
+},
+{
+  "link": "https://youtu.be/XuFRgZ03gLQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2024",
+  "month": "11",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/XuFRgZ03gLQ/hqdefault.jpg",
+  "alt": "舒華的舞蹈教室開張！楊祐寧扭腰擺臀學《Queencard》 王大陸性感POSE一次到位 要不要組團出道了XD ｜艾嘉食堂 EP8精華 AI's kitchen (2024-11-30)",
+  "title": "舒華的舞蹈教室開張！楊祐寧扭腰擺臀學《Queencard》 王大陸性感POSE一次到位 要不要組團出道了XD ｜艾嘉食堂 EP8精華 AI's kitchen (2024-11-30)"
+},
+{
+  "link": "https://youtu.be/c3-t-j57VXE",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2022",
+  "month": "10",
+  "duration": "00:17:06",
+  "thumbnail": "https://i.ytimg.com/vi/c3-t-j57VXE/sddefault.jpg",
+  "alt": "🌟전소연 천재다 천재🌟 nxde로 돌아온 아이들 전선장님의 활약상과 귀여운 무해함🥰 | #놀라운토요일 #미래수업 #코미디빅리그 #샾잉 (2022-10-25)",
+  "title": "🌟전소연 천재다 천재🌟 nxde로 돌아온 아이들 전선장님의 활약상과 귀여운 무해함🥰 | #놀라운토요일 #미래수업 #코미디빅리그 #샾잉 (2022-10-25)"
 }
+
+
+
 
 
 ];
