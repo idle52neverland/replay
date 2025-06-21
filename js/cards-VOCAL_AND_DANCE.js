@@ -6,8 +6,8 @@ const vocalAndDanceCards = [
   "year": "2020",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/tpmgSw_LtGg/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
-  "title": "[ENG sub] Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
+  "alt": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
+  "title": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회/풀버전] 2020 LION - 맘바 (넋업샨, 더블케이, 전소연) EP.2 (2020-03-06)",
   "duration": "00:04:17"
 },
 
@@ -705,18 +705,6 @@ const vocalAndDanceCards = [
   "alt": "한 편의 뮤지컬 같은 (여자)아이들((G)I-DLE)의 '2020 Show'♪ 슈가맨3(SUGARMAN3) 9회 (2020-01-31)",
   "title": "한 편의 뮤지컬 같은 (여자)아이들((G)I-DLE)의 '2020 Show'♪ 슈가맨3(SUGARMAN3) 9회 (2020-01-31)",
   "duration": "00:03:16"
-},
-
-{
-  "link": "https://youtu.be/4NeFljq8VfQ",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "year": "2020",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/4NeFljq8VfQ/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [2회] 2020 LION - 맘바(넋업샨,더블케이,전소연) @ 1차 경연 200306 EP.2 (2020-03-06)",
-  "title": "[ENG sub] Do You Know Hiphop? [2회] 2020 LION - 맘바(넋업샨,더블케이,전소연) @ 1차 경연 EP.2 (2020-03-06)",
-  "duration": "00:03:03"
 },
 
 {
