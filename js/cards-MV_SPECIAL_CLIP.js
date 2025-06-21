@@ -947,6 +947,17 @@ const mvSpecialClipCards = [
   "alt": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "title": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "duration": "00:02:56"
+},
+  {
+  "link": "https://youtu.be/F4K1mMDlsj0",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "슈화",
+  "year": "PRE-DEBUT",
+  "month": "09",
+  "duration": "00:04:04",
+  "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
+  "alt": "[MV] 10cm _ pet (2017-09-04)",
+  "title": "[슈화] - [MV] 10cm _ pet (2017-09-04)"
 }
 
 
