@@ -1950,8 +1950,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/N6tS4_JSG3s/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [1회] 아재래퍼&영래퍼의 쉽지않은 첫만남! (feat.전소연) 200228 EP.1 (2020-02-28)",
-  "title": "[ENG sub] Do You Know Hiphop? [1회] 아재래퍼&영래퍼의 쉽지않은 첫만남! (feat.전소연) 200228 EP.1 (2020-02-28)",
+  "alt": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [1회] 아재래퍼&영래퍼의 쉽지않은 첫만남! (feat.전소연) EP.1 (2020-02-28)",
+  "title": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [1회] 아재래퍼&영래퍼의 쉽지않은 첫만남! (feat.전소연) EP.1 (2020-02-28)",
   "duration": "00:04:09"
 },
 
@@ -1998,8 +1998,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/l2C4k3VmzNo/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [2회] 아이돌 음악 X 힙합의 역사적인 콜라보, 그 결과는?! 200306 EP.2",
-  "title": "[ENG sub] Do You Know Hiphop? [2회] 아이돌 음악 X 힙합의 역사적인 콜라보, 그 결과는?! 200306 EP.2 (2020-03-06)",
+  "alt": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회] 아이돌 음악 X 힙합의 역사적인 콜라보, 그 결과는?! 200306 EP.2",
+  "title": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회] 아이돌 음악 X 힙합의 역사적인 콜라보, 그 결과는?! EP.2 (2020-03-06)",
   "duration": "00:01:50"
 },
 
@@ -2010,8 +2010,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/TzcF5Nqfldo/sddefault.jpg",
-  "alt": "[ENG sub] Do You Know Hiphop? [2회] 솟구치는 러블리함을 지닌 영래퍼! 호치키스, 전소연 200306 EP.2 (2020-03-06)",
-  "title": "[ENG sub] Do You Know Hiphop? [2회] 솟구치는 러블리함을 지닌 영래퍼! 호치키스, 전소연 200306 EP.2 (2020-03-06)",
+  "alt": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회] 솟구치는 러블리함을 지닌 영래퍼! 호치키스, 전소연 EP.2 (2020-03-06)",
+  "title": "[ENG sub] 너희가 힙합을 아느냐/Do You Know Hiphop? [2회] 솟구치는 러블리함을 지닌 영래퍼! 호치키스, 전소연 EP.2 (2020-03-06)",
   "duration": "00:02:33"
 },
 
@@ -5816,18 +5816,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WzR2pxtX-xo/sddefault.jpg",
   "alt": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂 (2022-01-09)",
   "title": "[방과후 설렘 미방분] 🍓전소연 선생님과 케이크 만들기🎂 (2022-01-09)",
-  "duration": "00:07:17"
-},
-
-{
-  "link": "https://youtu.be/9-M3ZNAQY6E",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연",
-  "year": "2022",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/9-M3ZNAQY6E/sddefault.jpg",
-  "alt": "달콤~ 달콤한 4학년의 케이크 만들기 _ 전소연 샘 and 4학년 (2022-01-11)",
-  "title": "[방과후 설렘] 달콤~ 달콤한 4학년의 케이크 만들기 _ 전소연 샘 and 4학년 (2022-01-11)",
   "duration": "00:07:17"
 },
 
