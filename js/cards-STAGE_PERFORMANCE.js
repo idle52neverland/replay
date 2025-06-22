@@ -10989,6 +10989,46 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/kfWSiV1nO9M/mqdefault.jpg",
   "alt": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)",
   "title": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)"
+},
+  {
+  "link": "https://naver.me/xoQ27K0O",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "alt": "(07:50~) 제34회 서울가요대상(SMA) 대상 2025-06-22",
+  "title": "(07:50~) 제34회 서울가요대상(SMA) 대상 2025-06-22"
+},
+{
+  "link": "https://naver.me/xktfBIu5",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "alt": "제34회 서울가요대상(SMA) 수상소감 2025-06-22",
+  "title": "제34회 서울가요대상(SMA) 수상소감 2025-06-22"
+},
+{
+  "link": "https://naver.me/5FE5LeKO",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "alt": "제34회 서울가요대상(SMA) 수상자 포토타임 2025-06-22",
+  "title": "제34회 서울가요대상(SMA) 수상자 포토타임(SMA) 2025-06-22"
+},
+{
+  "link": "https://naver.me/xTsxUs0K",
+  "category": "STAGE_PERFORMANCE",
+  "member": "미연",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "alt": "제34회 서울가요대상(SMA) 레드카펫 MC미연 2025-06-22",
+  "title": "제34회 서울가요대상(SMA) 레드카펫 MC미연 2025-06-22"
 }
 
 ];
