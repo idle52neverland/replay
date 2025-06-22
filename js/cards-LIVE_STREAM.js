@@ -2400,8 +2400,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2020",
   "month": "12",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MjRfMjgw/MDAxNzQ1NTAyNDU1OTY5.VOsIwYuxTS8j9PveiOWTieTGqWKQlXHjFu0n8s0r4Ycg.inXyfVC32dJ1s1IlvE8UH9fjNEN4xAfQnCvYxnBnVhMg.JPEG/thumb.jpg?type=f_or_off_640_360
-",
+  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
   "alt": "잘자💕",
   "title": "잘자💕"
 },
