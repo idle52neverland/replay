@@ -2411,7 +2411,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2020",
   "month": "12",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250424_80/1745502509186kw6H9_JPEG/6xGytCo67v_03.jpg",
   "alt": "minnieeeeeee",
   "title": "minnieeeeeee"
 }
