@@ -2400,7 +2400,8 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2020",
   "month": "12",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MjRfMjgw/MDAxNzQ1NTAyNDU1OTY5.VOsIwYuxTS8j9PveiOWTieTGqWKQlXHjFu0n8s0r4Ycg.inXyfVC32dJ1s1IlvE8UH9fjNEN4xAfQnCvYxnBnVhMg.JPEG/thumb.jpg?type=f_or_off_640_360
+",
   "alt": "잘자💕",
   "title": "잘자💕"
 },
@@ -2408,7 +2409,7 @@ const liveStreamCards = [
 {
   "link": "https://weverse.io/i-dle/live/4-110663551",
   "category": "LIVE_STREAM",
-  "member": "",
+  "member": "민니",
   "year": "2020",
   "month": "12",
   "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
