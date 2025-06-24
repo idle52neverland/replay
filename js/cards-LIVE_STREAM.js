@@ -4177,7 +4177,18 @@ const liveStreamCards = [
     "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
     "alt": "🐶🐰  (2025-04-24)",
     "title": "🐶🐰  (2025-04-24)"
-  }
+  },
+    {
+  "link": "https://youtu.be/jXDj8eJY97g",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2019",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/jXDj8eJY97g/sddefault.jpg",
+  "alt": "[To NEVERLAND] (여자)아이들 COUNTDOWN LIVE (2019-01-15)",
+  "title": "[To NEVERLAND] (여자)아이들 COUNTDOWN LIVE (2019-01-15)",
+  "duration": "00:22:36"
+}
 
 
 
