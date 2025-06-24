@@ -458,7 +458,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/GI9blP-ReRc",
   "category": "BEHIND_CLIPS",
-  "member": "아이들",
+  "member": "우기, 슈화",
   "year": "2020",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/GI9blP-ReRc/sddefault.jpg",
@@ -470,7 +470,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/xCf8h_3qi7Y",
   "category": "BEHIND_CLIPS",
-  "member": "우기",
+  "member": "우기, 슈화",
   "year": "2020",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/xCf8h_3qi7Y/sddefault.jpg",
@@ -494,7 +494,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/4sFR80Ko6-o",
   "category": "BEHIND_CLIPS",
-  "member": "슈화",
+  "member": "아이들",
   "year": "2020",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/4sFR80Ko6-o/sddefault.jpg",
@@ -542,7 +542,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/ZWXN2CCYkfw",
   "category": "BEHIND_CLIPS",
-  "member": "소연",
+  "member": "아이들",
   "year": "2020",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/ZWXN2CCYkfw/sddefault.jpg",
@@ -554,7 +554,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/4DUG8wAZNNc",
   "category": "BEHIND_CLIPS",
-  "member": "우기",
+  "member": "아이들",
   "year": "2020",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/4DUG8wAZNNc/sddefault.jpg",
@@ -614,7 +614,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/N_b7oFlmG3w",
   "category": "BEHIND_CLIPS",
-  "member": "소연",
+  "member": "아이들",
   "year": "2020",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/N_b7oFlmG3w/sddefault.jpg",
@@ -782,7 +782,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/bBks-KJqVL8",
   "category": "BEHIND_CLIPS",
-  "member": "슈화",
+  "member": "아이들",
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/bBks-KJqVL8/sddefault.jpg",
@@ -890,7 +890,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/dy4F2QdzZ8o",
   "category": "BEHIND_CLIPS",
-  "member": "슈화",
+  "member": "아이들",
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/dy4F2QdzZ8o/sddefault.jpg",
@@ -1154,7 +1154,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/ezQB9ycyvz8",
   "category": "BEHIND_CLIPS",
-  "member": "민니",
+  "member": "아이들",
   "year": "2022",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/ezQB9ycyvz8/sddefault.jpg",
@@ -1466,7 +1466,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/dz-D0mi_TzU",
   "category": "BEHIND_CLIPS",
-  "member": "민니, 슈화",
+  "member": "아이들",
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/dz-D0mi_TzU/sddefault.jpg",
@@ -1478,7 +1478,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/eezUny53aS8",
   "category": "BEHIND_CLIPS",
-  "member": "민니, 슈화",
+  "member": "아이들",
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/eezUny53aS8/sddefault.jpg",
@@ -1490,7 +1490,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/B-SynolBfVs",
   "category": "BEHIND_CLIPS",
-  "member": "민니, 우기",
+  "member": "아이들",
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/B-SynolBfVs/sddefault.jpg",
@@ -1502,7 +1502,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/rD5dwCd1be0",
   "category": "BEHIND_CLIPS",
-  "member": "소연, 슈화",
+  "member": "아이들",
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/rD5dwCd1be0/sddefault.jpg",
@@ -1526,7 +1526,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/VfYdvIpTP3g",
   "category": "BEHIND_CLIPS",
-  "member": "민니",
+  "member": "아이들",
   "year": "2023",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/VfYdvIpTP3g/sddefault.jpg",
@@ -1826,7 +1826,7 @@ const behindClipsCards = [
 {
   "link": "https://youtu.be/k8But4uOCDI",
   "category": "BEHIND_CLIPS",
-  "member": "소연",
+  "member": "우기, 슈화",
   "year": "2024",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/k8But4uOCDI/sddefault.jpg",
