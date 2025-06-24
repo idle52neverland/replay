@@ -915,7 +915,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/aukVj8epA74",
   "category": "OFFICIAL_CLIPS",
-  "member": "우기, 슈화",
+  "member": "아이들",
   "year": "2020",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/aukVj8epA74/maxresdefault.jpg",
@@ -999,7 +999,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/7HluoYHuEyU",
   "category": "OFFICIAL_CLIPS",
-  "member": "우기",
+  "member": "우기, 미연",
   "year": "2020",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/7HluoYHuEyU/maxresdefault.jpg",
@@ -1035,7 +1035,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/sEAry8EAbpo",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "year": "2020",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/sEAry8EAbpo/maxresdefault.jpg",
@@ -1047,7 +1047,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/GEHfqT3hrtA",
   "category": "OFFICIAL_CLIPS",
-  "member": "미연",
+  "member": "아이들",
   "year": "2020",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/GEHfqT3hrtA/maxresdefault.jpg",
@@ -1059,7 +1059,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/WwvGegsivfw",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연",
   "year": "2020",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/WwvGegsivfw/maxresdefault.jpg",
@@ -1623,7 +1623,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/eUoBGShDoA8",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "우기",
   "year": "2021",
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/eUoBGShDoA8/maxresdefault.jpg",
@@ -2079,7 +2079,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/0GvaKrCGV6s",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/0GvaKrCGV6s/maxresdefault.jpg",
@@ -2139,7 +2139,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/x12T7F5Ak8E",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "year": "2022",
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/x12T7F5Ak8E/maxresdefault.jpg",
@@ -2199,7 +2199,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/THbNbuWvkTw",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 소연, 슈화",
   "year": "2022",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/THbNbuWvkTw/maxresdefault.jpg",
@@ -2223,7 +2223,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/k1AjiiFOQIU",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 소연, 슈화",
   "year": "2022",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/k1AjiiFOQIU/maxresdefault.jpg",
@@ -2571,7 +2571,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/VagJTHGmjAg",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 우기",
   "year": "2022",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/VagJTHGmjAg/maxresdefault.jpg",
@@ -2595,7 +2595,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/CQO4TFM0oZk",
   "category": "OFFICIAL_CLIPS",
-  "member": "소연",
+  "member": "아이들",
   "year": "2022",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/CQO4TFM0oZk/maxresdefault.jpg",
@@ -2691,7 +2691,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/HYZrwHYR8NQ",
   "category": "OFFICIAL_CLIPS",
-  "member": "민니",
+  "member": "민니, 우기",
   "year": "2023",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/HYZrwHYR8NQ/maxresdefault.jpg",
@@ -2775,7 +2775,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/Qu71MoWLA3c",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 우기",
   "year": "2023",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Qu71MoWLA3c/maxresdefault.jpg",
@@ -2799,7 +2799,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/Rq-sSDdMOxI",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연",
   "year": "2023",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Rq-sSDdMOxI/maxresdefault.jpg",
@@ -3231,7 +3231,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/YePeIJjGQgc",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 슈화",
   "year": "2023",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/YePeIJjGQgc/maxresdefault.jpg",
@@ -3471,7 +3471,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/fI8ziJMj1D8",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 소연",
   "year": "2023",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/fI8ziJMj1D8/maxresdefault.jpg",
@@ -3987,7 +3987,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/sk1EJFVN1pM",
   "category": "OFFICIAL_CLIPS",
-  "member": "우기",
+  "member": "민니, 우기",
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/sk1EJFVN1pM/maxresdefault.jpg",
@@ -4035,7 +4035,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/Zm4mTxuiTJw",
   "category": "OFFICIAL_CLIPS",
-  "member": "우기",
+  "member": "민니, 소연, 우기, 슈화",
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/Zm4mTxuiTJw/maxresdefault.jpg",
@@ -4059,7 +4059,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/9FG9Zf2CmrM",
   "category": "OFFICIAL_CLIPS",
-  "member": "우기",
+  "member": "미연, 우기",
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/9FG9Zf2CmrM/maxresdefault.jpg",
@@ -4479,7 +4479,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/kr3XVoiGFWg",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 민니, 슈화",
   "year": "2024",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/kr3XVoiGFWg/maxresdefault.jpg",
@@ -4503,7 +4503,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/m32aowLzWT0",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "미연, 민니, 슈화",
   "year": "2024",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/m32aowLzWT0/maxresdefault.jpg",
@@ -5667,7 +5667,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/tfet3q7ympE",
   "category": "OFFICIAL_CLIPS",
-  "member": "미연",
+  "member": "미연, 소연",
   "year": "2024",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/maxresdefault.jpg",
@@ -6987,7 +6987,7 @@ const officialClipCards = [
 {
   "link": "https://youtu.be/4qkbnw79voA",
   "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "year": "2020",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/4qkbnw79voA/maxresdefault.jpg",
