@@ -7306,7 +7306,20 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/j193YQslaSs/maxresdefault.jpg",
   "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)",
   "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)"
+},
+  
+{
+  "link": "https://youtu.be/2NhGrE9HJl0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:16:33",
+  "thumbnail": "https://i.ytimg.com/vi/2NhGrE9HJl0/hqdefault.jpg",
+  "alt": "'Good Thing' 음악방송 비하인드 PART 2 [i-talk] #202 | i-dle (아이들)ㅣSUB (2025-06-21)",
+  "title": "'Good Thing' 음악방송 비하인드 PART 2 [i-talk] #202 | i-dle (아이들)ㅣSUB (2025-06-21)"
 }
+
 
     ];
 
