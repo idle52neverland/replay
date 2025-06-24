@@ -969,6 +969,29 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/U6DG3TBcV6s/sddefault.jpg",
   "alt": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video (2021-04-29)",
   "title": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video (2021-04-29)"
+},
+  {
+  "link": "https://youtu.be/FJ8kJdTYj1o",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "PRE-DEBUT",
+  "month": "11",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/FJ8kJdTYj1o/hqdefault.jpg",
+  "alt": "[MV] JEON SOYEON(전소연) _ Jelly (2017-11-05)",
+  "title": "[MV] JEON SOYEON(전소연) _ Jelly (2017-11-05)"
+},
+
+{
+  "link": "https://youtu.be/b01dBTBzyz0",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "PRE-DEBUT",
+  "month": "02",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/b01dBTBzyz0/mqdefault.jpg",
+  "alt": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭) (2018-02-28)",
+  "title": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭) (2018-02-28)"
 }
 
 
