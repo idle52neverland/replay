@@ -280,7 +280,7 @@
     );
 
     let filtered = [];
-    let sortOrder = "oldest"; // 🟨 추가: 정렬 기본값 설정
+    let sortOrder = "newest"; // 🟨 추가: 정렬 기본값 설정
 let currentIndex = 0;
     const batchSize = 20;
     const container = document.getElementById("allCards");
@@ -344,17 +344,12 @@ let currentIndex = 0;
         btn.onclick = () => {
           btn.classList.toggle("active");
           // 🟨 정렬 버튼 클릭 이벤트
+      // 🟨 정렬 버튼 클릭 시 필터부터 다시 실행되도록 수정
       const toggleSortBtn = document.getElementById("toggleSortBtn");
       toggleSortBtn.onclick = () => {
         sortOrder = sortOrder === "newest" ? "oldest" : "newest";
         toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
-        currentIndex = 0;
-        container.innerHTML = '';
-        renderCards(filtered.sort((a, b) => {
-          const dateA = new Date(extractDate(a.title));
-          const dateB = new Date(extractDate(b.title));
-          return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
-        }));
+        applyFilters();
       };
 
       applyFilters();
