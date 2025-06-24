@@ -3,12 +3,12 @@ const specialReleasesCards = [
 {
   "link": "https://youtu.be/UOxkGD8qRB4",
   "category": "SPECIAL_RELEASES",
-  "member": "소연, 미연",
+  "member": "미연, 소연",
   "year": "2018",
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
   "alt": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "title": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "title": "< 미연,소연 > - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
   "duration": "00:03:23"
 },
 {
@@ -51,8 +51,8 @@ const specialReleasesCards = [
   "year": "2021",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/maxresdefault.jpg",
-  "alt": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
-  "title": "민니 - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
+  "alt": "< Feat. MINNIE > F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
+  "title": "< Feat. MINNIE > F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
   "duration": "00:04:16"
 },
 {
@@ -352,8 +352,8 @@ const specialReleasesCards = [
   "month": "12",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/maxresdefault.jpg",
-  "alt": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
-  "title": "<  Feat. SOYEON  > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
+  "alt": "< Feat. SOYEON > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
+  "title": "< Feat. SOYEON > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
 },
 {
   "link": "https://youtu.be/rsgyQYs4C8A",
@@ -381,12 +381,12 @@ const specialReleasesCards = [
   "link": "https://youtu.be/Q8ERCF_AgIo",
   "category": "SPECIAL_RELEASES",
   "member": "소연",
-  "year": "2016",
+  "year": "PRE-DEBUT",
   "month": "08",
   "duration": "00:03:15",
   "thumbnail": "https://i.ytimg.com/vi/Q8ERCF_AgIo/hqdefault.jpg",
-  "alt": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)",
-  "title": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN 160825 EP.490 (2016-08-25)"
+  "alt": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN/엠카운트다운 EP.490 (2016-08-25)",
+  "title": "[나다,전소연 - 무서워] Special Stage | M COUNTDOWN/엠카운트다운 EP.490 (2016-08-25)"
 },
 {
   "link": "https://youtu.be/q5EcE3zTmJc",
@@ -408,7 +408,7 @@ const specialReleasesCards = [
   "duration": "00:02:26",
   "thumbnail": "https://i.ytimg.com/vi/4On_fj1ccks/mqdefault.jpg",
   "alt": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
-  "title": "< Prod. SOYEON >[ENG] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
+  "title": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
 },
 {
   "link": "https://youtu.be/ZvhpjERxJlQ",
@@ -429,8 +429,8 @@ const specialReleasesCards = [
   "month": "12",
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/lZ2R-LKOevo/mqdefault.jpg",
-  "alt": "도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)",
-  "title": "도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)"
+  "alt": "< Feat. MINNIE > 헤이즈 - 도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)",
+  "title": "< Feat. MINNIE > 헤이즈 - 도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)"
 },
 {
   "link": "https://youtu.be/ifh4n6eRAXU",
@@ -440,8 +440,8 @@ const specialReleasesCards = [
   "month": "01",
   "duration": "00:03:59",
   "thumbnail": "https://i.ytimg.com/vi/ifh4n6eRAXU/sddefault.jpg",
-  "alt": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)",
-  "title": "Hang out (feat. SOYEON) (너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
+  "alt": "< Feat. SOYEON > 이민혁 - 너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)",
+  "title": "< Feat. SOYEON > 이민혁 - 너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
 },
 
 {
@@ -496,8 +496,8 @@ const specialReleasesCards = [
   "month": "10",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/-kVhMnKuk_A/mqdefault.jpg",
-  "alt": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)",
-  "title": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)"
+  "alt": "< Feat. MINNIE > WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)",
+  "title": "< Feat. MINNIE > WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)"
 },
 {
   "link": "https://youtu.be/FB2KQampTG4",
@@ -529,8 +529,8 @@ const specialReleasesCards = [
   "month": "10",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg",
-  "alt": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)",
-  "title": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)"
+  "alt": "< Feat. MIYEON > DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)",
+  "title": "< Feat. MIYEON > DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)"
 },
 {
   "link": "https://youtu.be/gpzGUTDe-CE",
@@ -540,8 +540,8 @@ const specialReleasesCards = [
   "month": "10",
   "duration": "00:02:57",
   "thumbnail": "https://i.ytimg.com/vi/gpzGUTDe-CE/hqdefault.jpg",
-  "alt": "Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)",
-  "title": "Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)"
+  "alt": "< Feat. MIYEON > Raiden - Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)",
+  "title": "< Feat. MIYEON > Raiden - Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)"
 },
 {
   "link": "https://youtu.be/dr1w5rju6uM",
@@ -584,8 +584,8 @@ const specialReleasesCards = [
   "month": "07",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/fkfeTUGFq6E/sddefault.jpg",
-  "alt": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' Special Clip",
-  "title": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' Special Clip"
+  "alt": "< Feat. MIYEON > 행주(Hangzoo) X 미연 - 'Cart' Special Clip",
+  "title": "< Feat. MIYEON > 행주(Hangzoo) X 미연 - 'Cart' Special Clip"
 },
 {
   "link": "https://youtu.be/_UwS-Iox8gw",
@@ -628,8 +628,8 @@ const specialReleasesCards = [
   "month": "05",
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/4xycl7eFNmE/mqdefault.jpg",
-  "alt": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
-  "title": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
+  "alt": "< Feat. MINNIE > Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
+  "title": "< Feat. MINNIE > Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
 },
 {
   "link": "https://youtu.be/8yM26c7RpB4",
@@ -650,8 +650,8 @@ const specialReleasesCards = [
   "month": "12",
   "duration": "00:02:18",
   "thumbnail": "https://i.ytimg.com/vi/rO1ANdXvdTg/mqdefault.jpg",
-  "alt": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
-  "title": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
+  "alt": "< Feat. YUQI > Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
+  "title": "< Feat. YUQI > Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
 },
 {
   "link": "https://youtu.be/WF4YckoL5Qg",
@@ -663,6 +663,28 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/WF4YckoL5Qg/mqdefault.jpg",
   "alt": "Black Space",
   "title": "우기- Black Space"
+},
+  {
+  "link": "https://youtu.be/uWT79Qq52sU",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
+  "alt": "< Prod.SOYEON> Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
+  "title": "< Prod.SOYEON> Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
+},
+{
+  "link": "https://youtu.be/KEUlytSqlsU",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/KEUlytSqlsU/mqdefault.jpg",
+  "alt": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)",
+  "title": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)"
 }
 
 
