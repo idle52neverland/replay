@@ -675,7 +675,65 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/KEUlytSqlsU/mqdefault.jpg",
   "alt": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)",
   "title": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)"
+},
+  {
+  "link": "https://youtu.be/KmPX5XwV9lk",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2020",
+  "month": "11",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/KmPX5XwV9lk/mqdefault.jpg",
+  "alt": "[구미호뎐 OST Part 8] 미연 (Miyeon) ((여자)아이들) - My Destiny M/V (2020-11-26)",
+  "title": "[구미호뎐 OST Part 8] 미연 (Miyeon) ((여자)아이들) - My Destiny M/V (2020-11-26)"
+},
+{
+  "link": "https://youtu.be/AkcCCaDUyaU",
+  "category": "SPECIAL_RELEASES",
+  "member": "아이들",
+  "year": "2019",
+  "month": "04",
+  "duration": "00:03:58",
+  "thumbnail": "https://i.ytimg.com/vi/AkcCCaDUyaU/hqdefault.jpg",
+  "alt": "[그녀의 사생활 OST Part 1] (여자)아이들 ((G)I-DLE) - Help Me MV (2019-04-11)",
+  "title": "[그녀의 사생활 OST Part 1] (여자)아이들 ((G)I-DLE) - Help Me MV (2019-04-11)"
+},
+
+{
+  "link": "https://youtu.be/FXAhl0kgBkA",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2022",
+  "month": "02",
+  "duration": "00:03:53",
+  "thumbnail": "https://i.ytimg.com/vi/FXAhl0kgBkA/hqdefault.jpg",
+  "alt": "[MV] 미연 ((여자)아이들) - Someday [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)",
+  "title": "[MV] 미연 ((여자)아이들) - Someday [꽃 피면 달 생각하고 OST Part.8 (Moonshine OST Part.8)] (2022-02-08)"
+},
+{
+  "link": "https://youtu.be/8JFGldmdZKA",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/8JFGldmdZKA/mqdefault.jpg",
+  "alt": "미연 - 마음이 닿는 법 ㅣ웹드라마 리플레이 OST (2021-02-26)",
+  "title": "미연 - 마음이 닿는 법 ㅣ웹드라마 리플레이 OST (2021-02-26)"
+},
+
+{
+  "link": "https://youtu.be/X1hkKjV_e90",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/X1hkKjV_e90/mqdefault.jpg",
+  "alt": "미연 - Dreaming about you (Replay OST) (2021-02-19)",
+  "title": "미연 - Dreaming about you (Replay OST) (2021-02-19)"
 }
+
 
 
 
