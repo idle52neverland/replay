@@ -40,7 +40,7 @@ const liveStreamCards = [
   "member": "미연, 우기",
   "year": "2025",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250424_224/17455004455042Pz0C_JPEG/JETiDDhhu1_03.jpg",
   "alt": "🐶🐰  (2025-04-24)",
   "title": "🐶🐰  (2025-04-24)"
 },
