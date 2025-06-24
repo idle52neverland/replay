@@ -360,18 +360,6 @@ const originalVarietyCards = [
 },
 
 {
-  "link": "https://youtu.be/jXDj8eJY97g",
-  "category": "ORIGINAL_VARIETY",
-  "member": "아이들",
-  "year": "2019",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/jXDj8eJY97g/sddefault.jpg",
-  "alt": "[To NEVERLAND] (여자)아이들 COUNTDOWN LIVE (2019-01-15)",
-  "title": "[To NEVERLAND] (여자)아이들 COUNTDOWN LIVE (2019-01-15)",
-  "duration": "00:22:36"
-},
-
-{
   "link": "https://youtu.be/_I_UlUSrrUo",
   "category": "ORIGINAL_VARIETY",
   "member": "아이들",
@@ -381,30 +369,6 @@ const originalVarietyCards = [
   "alt": "(여자)아이들 첫 리얼리티 in 샌프란시스코! | [To NEVERLAND] Ep.1 (G)I-DLE in San Francisco! (ENG SUB) (2019-01-15)",
   "title": "(여자)아이들 첫 리얼리티 in 샌프란시스코! | [To NEVERLAND] Ep.1 (G)I-DLE in San Francisco! (ENG SUB) (2019-01-15)",
   "duration": "00:16:54"
-},
-
-{
-  "link": "https://youtu.be/XupFmVjL-Wo",
-  "category": "ORIGINAL_VARIETY",
-  "member": "아이들",
-  "year": "2019",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/XupFmVjL-Wo/sddefault.jpg",
-  "alt": "[To NEVERLAND] Teaser | (여자)아이들((G)I-DLE) 첫 리얼리티! (ENG SUB) (2019-01-08)",
-  "title": "[To NEVERLAND] Teaser | (여자)아이들((G)I-DLE) 첫 리얼리티! (ENG SUB) (2019-01-08)",
-  "duration": "00:01:26"
-},
-
-{
-  "link": "https://youtu.be/mDiZFM97uUo",
-  "category": "ORIGINAL_VARIETY",
-  "member": "아이들",
-  "year": "2018",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/mDiZFM97uUo/sddefault.jpg",
-  "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
-  "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
-  "duration": "00:09:24"
 },
 
 {
