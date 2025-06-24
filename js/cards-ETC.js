@@ -78,8 +78,8 @@ const etcCards = [
   "year": "2021",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/YqYKiBGdfTU/sddefault.jpg",
-  "alt": "Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
-  "title": "Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
+  "alt": "[민니] - Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
+  "title": "[민니] - Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
   "duration": "00:11:42"
 },
 
@@ -138,8 +138,8 @@ const etcCards = [
   "year": "2022",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/7KdM2VqJBJk/sddefault.jpg",
-  "alt": "Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
-  "title": "Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
+  "alt": "[민니] - Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
+  "title": "[민니] - Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
   "duration": "00:18:35"
 },
 
@@ -150,8 +150,8 @@ const etcCards = [
   "year": "2022",
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/TInrIeI9wK8/sddefault.jpg",
-  "alt": "[STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
-  "title": "[STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
+  "alt": "[우기] - [STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
+  "title": "[우기] - [STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
   "duration": "00:10:30"
 },
 
@@ -162,8 +162,8 @@ const etcCards = [
   "year": "2023",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/pYP7pcDnZfk/sddefault.jpg",
-  "alt": "[몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
-  "title": "미연 - [몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
+  "alt": "[미연] - [몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
+  "title": "[미연] - [몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
   "duration": "00:15:17"
 },
 
@@ -294,8 +294,8 @@ const etcCards = [
   "month": "10",
   "duration": "00:24:05",
   "thumbnail": "https://i.ytimg.com/vi/zwZg-ocBEuU/sddefault.jpg",
-  "alt": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
-  "title": "소연 - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
+  "alt": "[소연] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
+  "title": "[소연] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
 }
   
 
