@@ -576,6 +576,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/MAcsBbKPMtE/hqdefault.jpg",
   "alt": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)",
   "title": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)"
+},
+  {
+  "link": "https://youtu.be/pjtTA-gGy9k",
+  "category": "RECORDING_BEHIND",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:14:52",
+  "thumbnail": "https://i.ytimg.com/vi/pjtTA-gGy9k/hqdefault.jpg",
+  "alt": "i-dle (아이들) 'Unstoppable' Recording BehindㅣSUB (2025-06-24)",
+  "title": "i-dle (아이들) 'Unstoppable' Recording BehindㅣSUB (2025-06-24)"
 }
 
   ];
