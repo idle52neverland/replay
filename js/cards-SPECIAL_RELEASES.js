@@ -664,17 +664,7 @@ const specialReleasesCards = [
   "alt": "Black Space",
   "title": "우기- Black Space"
 },
-  {
-  "link": "https://youtu.be/uWT79Qq52sU",
-  "category": "SPECIAL_RELEASES",
-  "member": "소연",
-  "year": "2025",
-  "month": "06",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "< Prod.SOYEON> Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
-  "title": "< Prod.SOYEON> Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
-},
+
 {
   "link": "https://youtu.be/KEUlytSqlsU",
   "category": "SPECIAL_RELEASES",
