@@ -11536,6 +11536,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/c3-t-j57VXE/sddefault.jpg",
   "alt": "🌟전소연 천재다 천재🌟 nxde로 돌아온 아이들 전선장님의 활약상과 귀여운 무해함🥰 | #놀라운토요일 #미래수업 #코미디빅리그 #샾잉 (2022-10-25)",
   "title": "🌟전소연 천재다 천재🌟 nxde로 돌아온 아이들 전선장님의 활약상과 귀여운 무해함🥰 | #놀라운토요일 #미래수업 #코미디빅리그 #샾잉 (2022-10-25)"
+},
+  {
+  "link": "https://youtu.be/mDiZFM97uUo",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2018",
+  "month": "12",
+  "thumbnail": "https://i.ytimg.com/vi/mDiZFM97uUo/sddefault.jpg",
+  "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
+  "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
+  "duration": "00:09:24"
 }
 
 
