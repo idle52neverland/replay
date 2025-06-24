@@ -116,8 +116,8 @@
     .thumbnail-wrapper img {
       width: 100%;
       aspect-ratio: 16 / 9;
-      object-fit: cover;
-      background-color: #000;
+      object-fit: contain !important;
+      background-color: #000 !important;
     }
     .card-meta {
       font-size: 13px;
@@ -168,7 +168,6 @@
       color: #ccc;
     }
 
-    /* PC 스타일 */
     @media (min-width: 769px) {
       .card-container {
         grid-template-columns: repeat(4, 1fr);
@@ -183,18 +182,8 @@
         font-size: 16px;
         font-weight: 600;
       }
-  .card img,
-.card-thumbnail img,
-.card .card-thumbnail img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain !important;
-  background-color: #000 !important;
-}
-
     }
 
-    /* 모바일 스타일 */
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(1, 1fr);
@@ -219,14 +208,12 @@
       }
       .top-bar input {
         width: 140px;
-     .card .card-thumbnail img {
-    object-fit: contain !important;
-    background-color: #000 !important;
-  }
-}
+      }
+    }
   </style>
 </head>
 <body>
+
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
