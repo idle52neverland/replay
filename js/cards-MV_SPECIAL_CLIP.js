@@ -958,6 +958,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
   "alt": "[MV] 10cm _ pet (2017-09-04)",
   "title": "[슈화] - [MV] 10cm _ pet (2017-09-04)"
+},
+  {
+  "link": "https://youtu.be/U6DG3TBcV6s",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2021",
+  "month": "04",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/U6DG3TBcV6s/sddefault.jpg",
+  "alt": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video (2021-04-29)",
+  "title": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video (2021-04-29)"
 }
 
 
