@@ -338,19 +338,13 @@ let currentIndex = 0;
       const filterContainer = document.getElementById(containerId);
       filterContainer.innerHTML = '';
       items.forEach(item => {
-        const btn = document.createElement("button");
-        btn.textContent = item;
-        btn.className = "category-btn";
-        btn.onclick = () => {
-          btn.classList.toggle("active");
-          // 🟨 중복된 정렬 버튼 이벤트 제거됨 (onload에서만 등록되도록 이동됨)
-
-      // 🟨 정렬 토글 버튼 클릭 시 작동 (onload에서만 정의)
-// 이 위치에선 중복 정의이므로 제거됨
-      };
-
+        $1
+    // 🟨 필터 버튼 클릭 시 필터 적용되도록 연결
+    btn.onclick = () => {
+      btn.classList.toggle("active");
       applyFilters();
     };
+        // 🟨 제거: 필터버튼 내부 applyFilters 중복 호출 제거
         filterContainer.appendChild(btn);
       });
     }
@@ -409,8 +403,27 @@ let currentIndex = 0;
       renderCards(filtered);
     }
 
-    $1
-      // 🟨 중복된 정렬 버튼 이벤트 제거됨 (onload에서만 등록되도록 이동됨)
+    // 🟨 window.onload 복원 및 정렬 버튼 이벤트 등록
+    window.onload = function () {
+      const toggleSortBtn = document.getElementById("toggleSortBtn");
+      toggleSortBtn.onclick = () => {
+        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+        toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
+
+        // 🟨 정렬 버튼이 첫 진입에서도 작동하도록 필터 없으면 all로 초기화
+        if (filtered.length === 0) filtered = all.slice();
+
+        currentIndex = 0;
+        container.innerHTML = '';
+        filtered.sort((a, b) => {
+          const dateA = new Date(extractDate(a.title));
+          const dateB = new Date(extractDate(b.title));
+          return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+        });
+        renderCards(filtered);
+      };
+      };
+
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       mainTitle.textContent = selectedCategory || "전체 영상";
 
@@ -422,7 +435,6 @@ let currentIndex = 0;
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
       document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-
       loadMoreBtn.onclick = function () {
         renderCards(filtered);
       };
