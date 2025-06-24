@@ -730,8 +730,8 @@ const specialReleasesCards = [
   "month": "02",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/X1hkKjV_e90/mqdefault.jpg",
-  "alt": "미연 - Dreaming about you (Replay OST) (2021-02-19)",
-  "title": "미연 - Dreaming about you (Replay OST) (2021-02-19)"
+  "alt": "미연 - Dreaming about you (웹드라마 리플레이 OST) (2021-02-19)",
+  "title": "미연 - Dreaming about you (웹드라마 리플레이 OST) (2021-02-19)"
 }
 
 
