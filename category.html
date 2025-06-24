@@ -232,7 +232,11 @@
     <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
   </div>
 
+  <!-- 🟨 정렬 토글 버튼 추가 -->
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
+  <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
   <div id="cardCount"></div>
+</div>
   <div class="card-container" id="allCards"></div>
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
@@ -276,7 +280,8 @@
     );
 
     let filtered = [];
-    let currentIndex = 0;
+    let sortOrder = "oldest"; // 🟨 추가: 정렬 기본값 설정
+let currentIndex = 0;
     const batchSize = 20;
     const container = document.getElementById("allCards");
     const loadMoreBtn = document.getElementById("loadMoreBtn");
@@ -338,8 +343,22 @@
         btn.className = "category-btn";
         btn.onclick = () => {
           btn.classList.toggle("active");
-          applyFilters();
-        };
+          // 🟨 정렬 버튼 클릭 이벤트
+      const toggleSortBtn = document.getElementById("toggleSortBtn");
+      toggleSortBtn.onclick = () => {
+        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+        toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
+        currentIndex = 0;
+        container.innerHTML = '';
+        renderCards(filtered.sort((a, b) => {
+          const dateA = new Date(extractDate(a.title));
+          const dateB = new Date(extractDate(b.title));
+          return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+        }));
+      };
+
+      applyFilters();
+    };
         filterContainer.appendChild(btn);
       });
     }
@@ -389,7 +408,12 @@
 
       currentIndex = 0;
       container.innerHTML = '';
-      filtered.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+      // 🟨 수정: 정렬 방식 조건 분기
+      filtered.sort((a, b) => {
+        const dateA = new Date(extractDate(a.title));
+        const dateB = new Date(extractDate(b.title));
+        return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+      });
       renderCards(filtered);
     }
 
