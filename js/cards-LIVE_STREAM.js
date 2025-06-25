@@ -4549,7 +4549,7 @@ const liveStreamCards = [
   "year": "2019",
   "month": "03",
   "duration": "00:38:57",
-  "thumbnail": "",
+  "thumbnail": "https://i.ytimg.com/vi/Dmgh5W1r52U/hqdefault.jpg",
   "alt": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE (2019-03-03)",
   "title": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE (2019-03-03)"
 }
