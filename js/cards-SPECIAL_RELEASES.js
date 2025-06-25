@@ -743,6 +743,17 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/mqdefault.jpg",
   "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
   "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
+},
+  {
+  "link": "https://youtu.be/sgWMWOAEkuM",
+  "category": "SPECIAL_RELEASES",
+  "member": "아이들",
+  "year": "2023",
+  "month": "03",
+  "duration": "00:01:40",
+  "thumbnail": "https://i.ytimg.com/vi/sgWMWOAEkuM/maxresdefault.jpg",
+  "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)",
+  "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)"
 }
 
 
