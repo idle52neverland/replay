@@ -1977,6 +1977,17 @@ const behindClipsCards = [
   "thumbnail": "https://i.ytimg.com/vi/75_XXHiAG4U/mqdefault.jpg",
   "alt": "[B:MY BOYZ] MC 미연이 함께하는 글로벌 보이그룹 오디션, 곧 시작합니다! (2025-06-18)",
   "title": "[B:MY BOYZ] MC 미연이 함께하는 글로벌 보이그룹 오디션, 곧 시작합니다! (2025-06-18)"
+},
+  {
+  "link": "https://youtu.be/8caqLyeENB0",
+  "category": "BEHIND_CLIPS",
+  "member": "미연",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/8caqLyeENB0/maxresdefault.jpg",
+  "alt": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' 발매 인사 (2019-07-08)",
+  "title": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' 발매 인사 (2019-07-08)"
 }
 
 ];
