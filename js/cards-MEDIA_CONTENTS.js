@@ -11547,6 +11547,77 @@ const mediaContentsCards = [
   "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
   "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB) (2018-12-24)",
   "duration": "00:09:24"
+},
+  {
+  "link": "https://youtu.be/2M5yKtKHYKo",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:20:06",
+  "thumbnail": "https://i.ytimg.com/vi/2M5yKtKHYKo/maxresdefault.jpg",
+  "alt": "전소연의 페이스아이디 20화 | FACE ID EP.20 (2021-01-25)",
+  "title": "전소연의 페이스아이디 20화 | FACE ID EP.20 (2021-01-25)"
+},
+
+{
+  "link": "https://youtu.be/28D494ar__0",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/28D494ar__0/mqdefault.jpg",
+  "alt": "전소연의 페이스아이디 20화 비하인드 | FACE ID EP.20 BEHIND (2021-01-27)",
+  "title": "전소연의 페이스아이디 20화 비하인드 | FACE ID EP.20 BEHIND (2021-01-27)"
+},
+
+{
+  "link": "https://youtu.be/Wn2MJ7yNKks",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연, 우기",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:19:18",
+  "thumbnail": "https://i.ytimg.com/vi/Wn2MJ7yNKks/mqdefault.jpg",
+  "alt": "전소연의 페이스아이디 21화 | FACE ID EP.21 (2021-02-01)",
+  "title": "전소연의 페이스아이디 21화 | FACE ID EP.21 (2021-02-01)"
+},
+
+{
+  "link": "https://youtu.be/Xno8z6HV6mE",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:02:49",
+  "thumbnail": "https://i.ytimg.com/vi/Xno8z6HV6mE/mqdefault.jpg",
+  "alt": "전소연의 페이스아이디 21화 비하인드1 | FACE ID EP.21 BEHIND_1 (2021-02-03)",
+  "title": "전소연의 페이스아이디 21화 비하인드1 | FACE ID EP.21 BEHIND_1 (2021-02-03)"
+},
+
+{
+  "link": "https://youtu.be/UaHq2ZoNhXM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 소연, 우기, 슈화",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:06:15",
+  "thumbnail": "https://i.ytimg.com/vi/UaHq2ZoNhXM/sddefault.jpg",
+  "alt": "전소연의 페이스아이디 21화 비하인드2 | FACE ID EP.21 BEHIND_2 (2021-02-05)",
+  "title": "전소연의 페이스아이디 21화 비하인드2 | FACE ID EP.21 BEHIND_2 (2021-02-05)"
+},
+
+{
+  "link": "https://youtu.be/RbgBOALgo14",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:17:15",
+  "thumbnail": "https://i.ytimg.com/vi/RbgBOALgo14/sddefault.jpg",
+  "alt": "전소연의 페이스아이디 22화 | FACE ID EP.22 (2021-02-08)",
+  "title": "전소연의 페이스아이디 22화 | FACE ID EP.22 (2021-02-08)"
 }
 
 
