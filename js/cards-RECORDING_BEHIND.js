@@ -598,7 +598,18 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/TofDu5B6OcA/hqdefault.jpg",
   "alt": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Recording Behind | SUB (2025-06-20)",
   "title": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Recording Behind | SUB (2025-06-20)"
-} 
+} ,
+  {
+  "link": "https://youtu.be/fnW6z7a5Hm8",
+  "category": "RECORDING_BEHIND",
+  "member": "미연",
+  "year": "2021",
+  "month": "05",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/fnW6z7a5Hm8/maxresdefault.jpg",
+  "alt": "미연 - 너는 나의 숨이었다 (2021-05-28)",
+  "title": "미연 - 너는 나의 숨이었다 (2021-05-28)"
+}
 
   ];
 
