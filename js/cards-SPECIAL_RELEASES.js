@@ -751,7 +751,7 @@ const specialReleasesCards = [
   "year": "2023",
   "month": "03",
   "duration": "00:01:40",
-  "thumbnail": "https://i.ytimg.com/vi/sgWMWOAEkuM/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/sgWMWOAEkuM/hqdefault.jpg",
   "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)",
   "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)"
 }
