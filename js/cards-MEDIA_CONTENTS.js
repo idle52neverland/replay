@@ -11529,6 +11529,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/AyfSEQTaxz4/maxresdefault.jpg",
   "alt": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)",
   "title": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)"
+},
+  {
+  "link": "https://youtu.be/hrLlVxpbGlI",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기, 슈화",
+  "year": "2020",
+  "month": "04",
+  "duration": "00:29:55",
+  "thumbnail": "https://i.ytimg.com/vi/hrLlVxpbGlI/maxresdefault.jpg",
+  "alt": "이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 (2020-04-28)",
+  "title": "아이돌 그라운드 - 이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 (2020-04-28)"
 }
 
 
