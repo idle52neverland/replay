@@ -142,9 +142,9 @@
     .thumbnail-wrapper img {
       width: 100%;
       aspect-ratio: 16 / 9;
-      object-fit: contain !important;
+      object-fit: cover;
       display: block;
-      background-color: #000 !important;
+      background-color: #000;
     }
     .card-title {
       font-size: 17px;
@@ -162,13 +162,13 @@
     }
 .card-meta {
   font-size: 11px;
-  color: #ccc;
+  color: #ccc; /* ✅ 더 밝게 */
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* ✅ 왼쪽-오른쪽 정렬 */
   gap: 10px;
   padding: 2px 6px 4px;
   opacity: 0.85;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap;  /* ✅ 한 줄로 고정 */
   text-align: left;
 }
 
@@ -209,11 +209,11 @@
   }
 
   .top-bar input {
-    width: 140px;
+    width: 140px;  /* ✅ 여기 중요 */
   }
 
   .top-bar {
-    flex-wrap: nowrap;
+    flex-wrap: nowrap;        /* ✅ 줄바꿈 방지 */
     justify-content: center;
     gap: 6px;
   }
@@ -229,7 +229,7 @@
 
   @media screen and (max-width: 768px) {
   .card-meta {
-    flex-direction: row;
+    flex-direction: row;         /* ✅ 세로 → 가로로 유지 */
     justify-content: space-between;
     align-items: center;
     text-align: left;
@@ -249,11 +249,11 @@
   .meta-duration {
     display: inline;
   }
+}
 
   </style>
 </head>
 <body>
-
   <div class="header-bar">
     <div id="mainTitle">I-DLE 몰아보기</div>
   </div>
