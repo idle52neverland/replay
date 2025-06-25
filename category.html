@@ -302,7 +302,6 @@
       next.forEach(card => {
         const el = document.createElement('a');
         el.className = 'card';
-
         el.innerHTML = `
           <div class="card-meta">
             <span>${card.category || ''}</span>
@@ -313,7 +312,6 @@
           </div>
           <div class="card-title">${card.title}</div>
         `;
-
         el.onclick = e => {
           e.preventDefault();
           window.open(card.link, '_blank');
@@ -421,6 +419,7 @@
         document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
         applyFilters();
       };
+
       loadMoreBtn.onclick = function () {
         renderCards(filtered);
       };
