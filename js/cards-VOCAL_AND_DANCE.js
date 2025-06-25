@@ -3168,17 +3168,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/2SO-qLst3po",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "year": "2018",
-  "month": "09",
-  "duration": "00:01:22",
-  "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/maxresdefault.jpg",
-  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
-  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
-},
-{
   "link": "https://youtu.be/MZ_T1Cr9VVU",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
