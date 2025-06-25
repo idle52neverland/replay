@@ -116,8 +116,8 @@
     .thumbnail-wrapper img {
       width: 100%;
       aspect-ratio: 16 / 9;
-      object-fit: contain !important;
-      background-color: #000 !important;
+      object-fit: cover;
+      background-color: #000;
     }
     .card-meta {
       font-size: 13px;
@@ -231,12 +231,13 @@
     <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
   </div>
 
-  <!-- 🟨 정렬 토글 버튼 추가 -->
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
-  <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
-  <div id="cardCount"></div>
-</div>
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
+    <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
+    <div id="cardCount"></div>
+  </div>
+
   <div class="card-container" id="allCards"></div>
+
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
@@ -279,8 +280,8 @@
     );
 
     let filtered = [];
-    let sortOrder = "newest"; // 🟨 추가: 정렬 기본값 설정
-let currentIndex = 0;
+    let sortOrder = "newest";
+    let currentIndex = 0;
     const batchSize = 20;
     const container = document.getElementById("allCards");
     const loadMoreBtn = document.getElementById("loadMoreBtn");
@@ -302,24 +303,16 @@ let currentIndex = 0;
         const el = document.createElement('a');
         el.className = 'card';
 
-        const memberAndDuration = `
+        el.innerHTML = `
           <div class="card-meta">
-            <span style="float:left;">${card.member || ''}</span>
-            <span style="float:right;">${card.duration || ''}</span>
-            <div style="clear:both;"></div>
+            <span>${card.category || ''}</span>
+            <span>${card.member || ''} | ${card.duration || ''}</span>
           </div>
+          <div class="thumbnail-wrapper">
+            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
+          </div>
+          <div class="card-title">${card.title}</div>
         `;
-
-       el.innerHTML = `
-  <div class="card-meta">
-    <span>${card.category || ''}</span>
-    <span>${card.member || ''} | ${card.duration || ''}</span>
-  </div>
-  <div class="thumbnail-wrapper">
-    <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
-  </div>
-  <div class="card-title">${card.title}</div>
-`;
 
         el.onclick = e => {
           e.preventDefault();
@@ -342,17 +335,8 @@ let currentIndex = 0;
         btn.className = "category-btn";
         btn.onclick = () => {
           btn.classList.toggle("active");
-          // 🟨 정렬 버튼 클릭 이벤트
-      // 🟨 정렬 버튼 클릭 시 필터부터 다시 실행되도록 수정
-      const toggleSortBtn = document.getElementById("toggleSortBtn");
-      toggleSortBtn.onclick = () => {
-        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
-        toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
-        applyFilters();
-      };
-
-      applyFilters();
-    };
+          applyFilters();
+        };
         filterContainer.appendChild(btn);
       });
     }
@@ -402,7 +386,6 @@ let currentIndex = 0;
 
       currentIndex = 0;
       container.innerHTML = '';
-      // 🟨 수정: 정렬 방식 조건 분기
       filtered.sort((a, b) => {
         const dateA = new Date(extractDate(a.title));
         const dateB = new Date(extractDate(b.title));
@@ -415,10 +398,13 @@ let currentIndex = 0;
       document.querySelectorAll('.thumbnail-wrapper img').forEach(img => {
         img.onload = function () {
           const isVertical = img.naturalHeight > img.naturalWidth;
-          img.style.objectFit = isVertical ? 'contain' : 'cover';
+          if (isVertical) {
+            img.style.objectFit = 'contain';
+          }
           img.style.backgroundColor = '#000';
         };
       });
+
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       mainTitle.textContent = selectedCategory || "전체 영상";
 
@@ -430,7 +416,11 @@ let currentIndex = 0;
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
       document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-
+      document.getElementById("toggleSortBtn").onclick = () => {
+        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+        document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
+        applyFilters();
+      };
       loadMoreBtn.onclick = function () {
         renderCards(filtered);
       };
