@@ -51,7 +51,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2025",
   "month": "04",
-  "thumbnail": "https://video-phinf.pstatic.net/20250412_282/17444632492264Kz6y_JPEG/JqBCbfaktA_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MTJfMTg4/MDAxNzQ0NDYzMjA3MDI4.weUvm1vfafygYIGJ8HqQlWLJuICxPADZZpX9gkR1RGsg.KVYFfo_xPTskk53QyYxjh1N1t7ur4bTMEA3oZwXg64Mg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "잠깐볼래?  (2025-04-12)",
   "title": "잠깐볼래?  (2025-04-12)"
 },
