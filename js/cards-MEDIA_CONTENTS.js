@@ -6444,18 +6444,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/N5juyD_yVyk",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2022",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/N5juyD_yVyk/sddefault.jpg",
-  "alt": "[미적분] 강의에 몰입한 미연과 정승제 선생님",
-  "title": "[미적분] 강의에 몰입한 미연과 정승제 선생님 (2022-06-22)",
-  "duration": "00:00:43"
-},
-
-{
   "link": "https://youtu.be/L6RZzy1L5l4",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -6513,18 +6501,6 @@ const mediaContentsCards = [
   "alt": "이렇게까지 장난쳐도 미연은 인형이 된다고?  | [좋광고2] Ep.1 미리보기 |",
   "title": "이렇게까지 장난쳐도 미연은 인형이 된다고?  | [좋광고2] Ep.1 미리보기 | (2022-06-29)",
   "duration": "00:01:42"
-},
-
-{
-  "link": "https://youtu.be/EwNY4yiszEs",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2022",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/EwNY4yiszEs/sddefault.jpg",
-  "alt": "[미적분] 미연 때문에 현타오기 직전의 민혁",
-  "title": "[미적분] 미연 때문에 현타오기 직전의 민혁 (2022-07-06)",
-  "duration": "00:00:46"
 },
 
 {
@@ -11528,7 +11504,152 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/hrLlVxpbGlI/maxresdefault.jpg",
   "alt": "이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 (2020-04-28)",
   "title": "아이돌 그라운드 - 이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 (2020-04-28)"
+},
+  {
+  "link": "https://youtu.be/bAODB5c8Xz4",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:16:07",
+  "thumbnail": "https://i.ytimg.com/vi/bAODB5c8Xz4/maxresdefault.jpg",
+  "alt": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리 (2024-02-02)",
+  "title": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리 (2024-02-02)"
+},
+
+{
+  "link": "https://youtu.be/ADFIhh0F8hY",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "11",
+  "duration": "00:20:41",
+  "thumbnail": "https://i.ytimg.com/vi/ADFIhh0F8hY/maxresdefault.jpg",
+  "alt": "MZ세대 CEO(?)의 모험을 건 인터뷰 I 구글플레이 보물섬 Part3 I 미스태리 x 쿠키런: 모험의 탑 (2023-11-09)",
+  "title": "MZ세대 CEO(?)의 모험을 건 인터뷰 I 구글플레이 보물섬 Part3 I 미스태리 x 쿠키런: 모험의 탑 (2023-11-09)"
+},
+
+{
+  "link": "https://youtu.be/bgKMZDdbkOA",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "11",
+  "duration": "00:17:38",
+  "thumbnail": "https://i.ytimg.com/vi/bgKMZDdbkOA/maxresdefault.jpg",
+  "alt": "우리 둘은 그렇게 별이 되었다 I 구글플레이 보물섬 Part2 I 미스태리 x 별이되어라2 (2023-11-06)",
+  "title": "우리 둘은 그렇게 별이 되었다 I 구글플레이 보물섬 Part2 I 미스태리 x 별이되어라2 (2023-11-06)"
+},
+
+{
+  "link": "https://youtu.be/gKXUT9HVGyU",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "11",
+  "duration": "00:14:52",
+  "thumbnail": "https://i.ytimg.com/vi/gKXUT9HVGyU/maxresdefault.jpg",
+  "alt": "무한의 계단 공식 PC버전 미리보기 I 구글플레이 보물섬 Part1 I 미스태리 x 무한의 계단 (2023-11-02)",
+  "title": "무한의 계단 공식 PC버전 미리보기 I 구글플레이 보물섬 Part1 I 미스태리 x 무한의 계단 (2023-11-02)"
+},
+
+{
+  "link": "https://youtu.be/wmPmaBTj6-Q",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "07",
+  "duration": "00:16:51",
+  "thumbnail": "https://i.ytimg.com/vi/wmPmaBTj6-Q/maxresdefault.jpg",
+  "alt": "소개팅남을 위한 신들린 압박면접 I 미스태리 x 신의탑 : 새로운 세계 (2023-07-26)",
+  "title": "소개팅남을 위한 신들린 압박면접 I 미스태리 x 신의탑 : 새로운 세계 (2023-07-26)"
+},
+
+{
+  "link": "https://youtu.be/lBGUNro05Ik",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:13:55",
+  "thumbnail": "https://i.ytimg.com/vi/lBGUNro05Ik/maxresdefault.jpg",
+  "alt": "골 때리는 미연과 윤태진의 능력치 공개 ft. 피파모바일 프로모션 코드 I 미스태리 x 피파모바일 (2023-06-12)",
+  "title": "골 때리는 미연과 윤태진의 능력치 공개 ft. 피파모바일 프로모션 코드 I 미스태리 x 피파모바일 (2023-06-12)"
+},
+
+{
+  "link": "https://youtu.be/hMAuo9KfgH0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:14:11",
+  "thumbnail": "https://i.ytimg.com/vi/hMAuo9KfgH0/maxresdefault.jpg",
+  "alt": "알바의 중꺽마에 심하게 꺽인📉미연 & 태진I 미스태리 x 레전드 오브 슬라임 (2023-05-29)",
+  "title": "알바의 중꺽마에 심하게 꺽인📉미연 & 태진I 미스태리 x 레전드 오브 슬라임 (2023-05-29)"
+},
+
+{
+  "link": "https://youtu.be/u2DzxX8DVlQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:15:28",
+  "thumbnail": "https://i.ytimg.com/vi/u2DzxX8DVlQ/maxresdefault.jpg",
+  "alt": "미연과 태진의 쏘 딜리셔스한 영어 클라스 I 미스태리 x 스픽 (2023-05-15)",
+  "title": "미연과 태진의 쏘 딜리셔스한 영어 클라스 I 미스태리 x 스픽 (2023-05-15)"
+},
+
+{
+  "link": "https://youtu.be/UbD4XJlW3iM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:16:19",
+  "thumbnail": "https://i.ytimg.com/vi/UbD4XJlW3iM/maxresdefault.jpg",
+  "alt": "방아쇠 손가락 함부로 쓰면 이렇게 됩니다 I 미스태리 x 탕탕특공대 (2023-05-01)",
+  "title": "방아쇠 손가락 함부로 쓰면 이렇게 됩니다 I 미스태리 x 탕탕특공대 (2023-05-01)"
+},
+
+{
+  "link": "https://youtu.be/2iY5PX5CCZk",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:14:57",
+  "thumbnail": "https://i.ytimg.com/vi/2iY5PX5CCZk/maxresdefault.jpg",
+  "alt": "장모님 시청 금지?! 용감한 유럽 사위의 급발진 콘서트 1열 직관하기 (ft.🎟쿠폰 줍줍) I 미스태리 x 쿠키런: 오븐브레이크 (2023-04-17)",
+  "title": "장모님 시청 금지?! 용감한 유럽 사위의 급발진 콘서트 1열 직관하기 (ft.🎟쿠폰 줍줍) I 미스태리 x 쿠키런: 오븐브레이크 (2023-04-17)"
+},
+
+{
+  "link": "https://youtu.be/us-Tl4WAIWM",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:12:44",
+  "thumbnail": "https://i.ytimg.com/vi/us-Tl4WAIWM/maxresdefault.jpg",
+  "alt": "사주로 자존감 높이려다 충격적인 팔자 발견한 썰 I 미스태리 x 포스텔러 (2023-04-03)",
+  "title": "사주로 자존감 높이려다 충격적인 팔자 발견한 썰 I 미스태리 x 포스텔러 (2023-04-03)"
+},
+
+{
+  "link": "https://youtu.be/-XuPizPLwe0",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2023",
+  "month": "03",
+  "duration": "00:13:26",
+  "thumbnail": "https://i.ytimg.com/vi/-XuPizPLwe0/maxresdefault.jpg",
+  "alt": "마피아 게임 한 우물만 판 초고수의 냉정한 취향 I 미스태리 x 마피아42 (2023-03-20)",
+  "title": "마피아 게임 한 우물만 판 초고수의 냉정한 취향 I 미스태리 x 마피아42 (2023-03-20)"
 }
+
+
 
 
 
