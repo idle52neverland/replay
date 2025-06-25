@@ -412,6 +412,13 @@ let currentIndex = 0;
     }
 
     window.onload = function () {
+      document.querySelectorAll('.thumbnail-wrapper img').forEach(img => {
+        img.onload = function () {
+          const isVertical = img.naturalHeight > img.naturalWidth;
+          img.style.objectFit = isVertical ? 'contain' : 'cover';
+          img.style.backgroundColor = '#000';
+        };
+      });
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       mainTitle.textContent = selectedCategory || "전체 영상";
 
