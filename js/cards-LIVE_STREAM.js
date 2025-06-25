@@ -51,7 +51,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2025",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250412_282/17444632492264Kz6y_JPEG/JqBCbfaktA_03.jpg",
   "alt": "잠깐볼래?  (2025-04-12)",
   "title": "잠깐볼래?  (2025-04-12)"
 },
@@ -62,7 +62,7 @@ const liveStreamCards = [
   "member": "미연, 민니",
   "year": "2025",
   "month": "02",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250215_245/17396279857743n3Nn_JPEG/Vk1c3WPd0Y_03.jpg",
   "alt": "댕자💝 7주년💕🎀🩵  (2025-02-15)",
   "title": "댕자💝 7주년💕🎀🩵  (2025-02-15)"
 },
@@ -73,7 +73,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2025",
   "month": "02",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250202_283/1738487297536yImsG_JPEG/g1tuLybpOA_03.jpg",
   "alt": "헐 네버버 고생했어!🥺  (2025-02-02)",
   "title": "헐 네버버 고생했어!🥺  (2025-02-02)"
 },
@@ -120,7 +120,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2025",
   "month": "01",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20250107_178/1736257885921xjS2D_JPEG/0WvJzfNsh7_03.jpg",
   "alt": "❤️  (2025-01-07)",
   "title": "❤️  (2025-01-07)"
 },
@@ -131,7 +131,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "12",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20241216_119/1734340476252IT3mt_JPEG/IfLSFOdDr0_03.jpg",
   "alt": "난 왔어  (2024-12-16)",
   "title": "난 왔어  (2024-12-16)"
 },
