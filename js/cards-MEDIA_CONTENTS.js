@@ -811,7 +811,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/HRGHXkyZ-Zo/sddefault.jpg",
   "alt": "[HOT] Tell the truth 마이 리틀 텔레비전 V2 20190712 (2019-07-12)",
-  "title": "[HOT] Tell the truth 마이 리틀 텔레비전 V2 (2019-07-12)",
+  "title": "[HOT] Tell the truth 마이 리틀 텔레비전 V2 |마리텔 (2019-07-12)",
   "duration": "00:03:06"
 },
 
@@ -823,7 +823,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/oLPI-MUPZUc/sddefault.jpg",
   "alt": "[HOT] Creepy sound 마이 리틀 텔레비전 V2 20190712 (2019-07-12)",
-  "title": "[HOT] Creepy sound 마이 리틀 텔레비전 V2 (2019-07-12)",
+  "title": "[HOT] Creepy sound 마이 리틀 텔레비전 V2 |마리텔 (2019-07-12)",
   "duration": "00:02:43"
 },
 
@@ -835,7 +835,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/BJKW0OAyX1g/sddefault.jpg",
   "alt": "[HOT] The same person comes out again 마이 리틀 텔레비전 V2 20190712 (2019-07-12)",
-  "title": "[HOT] The same person comes out again 마이 리틀 텔레비전 V2 (2019-07-12)",
+  "title": "[HOT] The same person comes out again 마이 리틀 텔레비전 V2 |마리텔 (2019-07-12)",
   "duration": "00:02:59"
 },
 
@@ -847,7 +847,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/zLLMob9m4ns/sddefault.jpg",
   "alt": "[HOT] Think of a father 마이 리틀 텔레비전 V2 (2019-07-12)",
-  "title": "[HOT] Think of a father 마이 리틀 텔레비전 V2 (2019-07-12)",
+  "title": "[HOT] Think of a father 마이 리틀 텔레비전 V2 |마리텔 (2019-07-12)",
   "duration": "00:03:10"
 },
 
@@ -859,7 +859,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/g5dSxZYbSyg/sddefault.jpg",
   "alt": "[HOT] Daily guest comes 마이 리틀 텔레비전 V2 (2019-07-12)",
-  "title": "[HOT] Daily guest comes 마이 리틀 텔레비전 V2 (2019-07-12)",
+  "title": "[HOT] Daily guest comes 마이 리틀 텔레비전 V2 |마리텔(2019-07-12)",
   "duration": "00:02:54"
 },
 
@@ -966,8 +966,8 @@ const mediaContentsCards = [
   "year": "2019",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/DUgmb361oW8/sddefault.jpg",
-  "alt": "[ENG sub] 셀프 포스터 by (여자)아이들ㅣ퀸덤 2019.08.29 Coming Soon 컴백전쟁 : 퀸덤 0화 (2019-08-08)",
-  "title": "[ENG sub] 셀프 포스터 by (여자)아이들ㅣ퀸덤 2019.08.29 Coming Soon 컴백전쟁 : 퀸덤 0화 (2019-08-08)",
+  "alt": "[ENG sub] 셀프 포스터 by (여자)아이들ㅣ퀸덤(Queendom) 2019.08.29 Coming Soon 컴백전쟁 : 퀸덤 0화 (2019-08-08)",
+  "title": "[ENG sub] 셀프 포스터 by (여자)아이들ㅣ퀸덤(Queendom) 2019.08.29 Coming Soon 컴백전쟁 : 퀸덤 0화 (2019-08-08)",
   "duration": "00:01:13"
 },
 
@@ -979,7 +979,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/QBjV5p1ctwo/sddefault.jpg",
   "alt": "오프닝 퍼포먼스(Opening Performance)ㅣ(여자)아이들 컴백전쟁 : 퀸덤 0화 (2019-08-14)",
-  "title": "오프닝 퍼포먼스(Opening Performance)ㅣ(여자)아이들 컴백전쟁 : 퀸덤 0화 (2019-08-14)",
+  "title": "오프닝 퍼포먼스(Opening Performance)ㅣ(여자)아이들 컴백전쟁 : 퀸덤(Queendom) 0화 (2019-08-14)",
   "duration": "00:01:13"
 },
 
@@ -991,7 +991,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/rTRpbF8Ke0A/sddefault.jpg",
   "alt": "[ENG sub] [1회] '디스전 있나요?!' 각 팀에게 전달된 퀸덤 기획안! 컴백전쟁 : 퀸덤 1화 (2019-08-29)",
-  "title": "[ENG sub] [1회] '디스전 있나요?!' 각 팀에게 전달된 퀸덤 기획안! 컴백전쟁 : 퀸덤 1화 (2019-08-29)",
+  "title": "[ENG sub] [1회] '디스전 있나요?!' 각 팀에게 전달된 퀸덤 기획안! 컴백전쟁 : 퀸덤(Queendom) 1화 (2019-08-29)",
   "duration": "00:02:41"
 },
 
@@ -1003,7 +1003,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/i_9gUh6KeVM/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 나에게 빠지도록♥ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 2화 (2019-09-10)",
-  "title": "[ENG sub] [비하인드] 나에게 빠지도록♥ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 2화 (2019-09-10)",
+  "title": "[ENG sub] [비하인드] 나에게 빠지도록♥ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤(Queendom) 2화 (2019-09-10)",
   "duration": "00:01:14"
 },
 
@@ -1015,7 +1015,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/aRz2zt-nDOI/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 본격!우기 꿈해몽 타임ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 2화 (2019-09-10)",
-  "title": "[ENG sub] [비하인드] 본격!우기 꿈해몽 타임ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 2화 (2019-09-10)",
+  "title": "[ENG sub] [비하인드] 본격!우기 꿈해몽 타임ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤(Queendom) 2화 (2019-09-10)",
   "duration": "00:01:10"
 },
 
@@ -1027,7 +1027,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/NMQzMdgzkPM/sddefault.jpg",
   "alt": "[ENG sub] [4회] '명곡 파티♬' 분노의 기권까지 등장한 선곡 투표 컴백전쟁 : 퀸덤 4화",
-  "title": "[ENG sub] [4회] '명곡 파티♬' 분노의 기권까지 등장한 선곡 투표 컴백전쟁 : 퀸덤 4화 (2019-09-19)",
+  "title": "[ENG sub] [4회] '명곡 파티♬' 분노의 기권까지 등장한 선곡 투표 컴백전쟁 : 퀸덤(Queendom) 4화 (2019-09-19)",
   "duration": "00:03:05"
 },
 
@@ -1039,7 +1039,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/dW9wTXpqDUk/sddefault.jpg",
   "alt": "[BEHIND THE SCENES] (G)I-DLE QUEENDOM | [비하인드] (여자)아이들 퀸덤 (2019-09-23)",
-  "title": "[BEHIND THE SCENES] (G)I-DLE QUEENDOM | [비하인드] (여자)아이들 퀸덤 (2019-09-23)",
+  "title": "[BEHIND THE SCENES] (G)I-DLE QUEENDOM | [비하인드] (여자)아이들 퀸덤(Queendom) (2019-09-23)",
   "duration": "00:02:33"
 },
 
@@ -1051,7 +1051,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/Cvtny6UdSNQ/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 네버랜드 임플란트행ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 4화 (2019-09-23)",
-  "title": "[ENG sub] [비하인드] 네버랜드 임플란트행ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 4화 (2019-09-23)",
+  "title": "[ENG sub] [비하인드] 네버랜드 임플란트행ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤(Queendom) 4화 (2019-09-23)",
   "duration": "00:01:16"
 },
 
@@ -1063,7 +1063,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/m2rOsVEoFp0/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 소연이 생일 축하해요♥ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 4화 (2019-09-23)",
-  "title": "[ENG sub] [비하인드] 소연이 생일 축하해요♥ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 4화 (2019-09-23)",
+  "title": "[ENG sub] [비하인드] 소연이 생일 축하해요♥ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤(Queendom) 4화 (2019-09-23)",
   "duration": "00:01:43"
 },
 
@@ -1075,7 +1075,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/blWd5aEmQD4/sddefault.jpg",
   "alt": "[ENG sub] [예고/5회] '저 나갈게요' 듀엣 미션을 위한 파트너 선정, 그 결과는? 컴백전쟁 : 퀸덤 5화 (2019-09-25)",
-  "title": "[ENG sub] [예고/5회] '저 나갈게요' 듀엣 미션을 위한 파트너 선정, 그 결과는? 컴백전쟁 : 퀸덤 5화 (2019-09-25)",
+  "title": "[ENG sub] [예고/5회] '저 나갈게요' 듀엣 미션을 위한 파트너 선정, 그 결과는? 컴백전쟁 : 퀸덤(Queendom) 5화 (2019-09-25)",
   "duration": "00:01:03"
 },
 
@@ -1087,7 +1087,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/FWPqZ2i6slM/sddefault.jpg",
   "alt": "[ENG sub] [5회] '다음엔 1위' 모든 출연진을 충격에 빠뜨린 6위팀은? 컴백전쟁 : 퀸덤 5화 (2019-09-26)",
-  "title": "[ENG sub] [5회] '다음엔 1위' 모든 출연진을 충격에 빠뜨린 6위팀은? 컴백전쟁 : 퀸덤 5화 (2019-09-26)",
+  "title": "[ENG sub] [5회] '다음엔 1위' 모든 출연진을 충격에 빠뜨린 6위팀은? 컴백전쟁 : 퀸덤(Queendom) 5화 (2019-09-26)",
   "duration": "00:01:36"
 },
 
@@ -1099,7 +1099,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ZlPJw0-fa38/sddefault.jpg",
   "alt": "[ENG sub] [6회] ♬Instagram - 아아(혜정&민니) @중간점검 컴백전쟁 : 퀸덤 6화 (2019-10-03)",
-  "title": "[ENG sub] [6회] ♬Instagram - 아아(혜정&민니) @중간점검 컴백전쟁 : 퀸덤 6화 (2019-10-03)",
+  "title": "[ENG sub] [6회] ♬Instagram - 아아(혜정&민니) @중간점검 컴백전쟁 : 퀸덤(Queendom) 6화 (2019-10-03)",
   "duration": "00:01:53"
 },
 
@@ -1147,7 +1147,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/c_4rhAVd3oY/sddefault.jpg",
   "alt": "[ENG sub] [선공개] '거의 콘서트다!' 대박냄새 솔솔 나는 식스퍼즐의 무대! 컴백전쟁 : 퀸덤 7화",
-  "title": "[ENG sub] [선공개] '거의 콘서트다!' 대박냄새 솔솔 나는 식스퍼즐의 무대! 컴백전쟁 : 퀸덤 7화 (2019-10-10)",
+  "title": "[ENG sub] [선공개] '거의 콘서트다!' 대박냄새 솔솔 나는 식스퍼즐의 무대! 컴백전쟁 : 퀸덤(Queendom) 7화 (2019-10-10)",
   "duration": "00:03:37"
 },
 
@@ -1159,7 +1159,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/SUQ758xSlYc/sddefault.jpg",
   "alt": "[ENG sub] [7회] ♬ instagram - 아아 @3차 경연   보컬 유닛 컴백전쟁 : 퀸덤 7화 (2019-10-10)",
-  "title": "[ENG sub] [7회] ♬ instagram - 아아 @3차 경연   보컬 유닛 컴백전쟁 : 퀸덤 7화 (2019-10-10)",
+  "title": "[ENG sub] [7회] ♬ instagram - 아아 @3차 경연   보컬 유닛 컴백전쟁 : 퀸덤(Queendom) 7화 (2019-10-10)",
   "duration": "00:04:37"
 },
 
@@ -1171,7 +1171,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/BAfq_jTDi1w/sddefault.jpg",
   "alt": "[ENG sub] [7회] '울 애기 열정 ♨활화산♨' 팀 대표라는 사명감이 만든 열정 민니 컴백전쟁 : 퀸덤 7화 (2019-10-10)",
-  "title": "[ENG sub] [7회] '울 애기 열정 ♨활화산♨' 팀 대표라는 사명감이 만든 열정 민니 컴백전쟁 : 퀸덤 7화 (2019-10-10)",
+  "title": "[ENG sub] [7회] '울 애기 열정 ♨활화산♨' 팀 대표라는 사명감이 만든 열정 민니 컴백전쟁 : 퀸덤(Queendom) 7화 (2019-10-10)",
   "duration": "00:02:34"
 },
 
@@ -1183,7 +1183,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ciHOdUf-X5U/sddefault.jpg",
   "alt": "[ENG sub] [8회] '순위에 연연하지 말려무나' 보컬 유닛 결과 공개! 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
-  "title": "[ENG sub] [8회] '순위에 연연하지 말려무나' 보컬 유닛 결과 공개! 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
+  "title": "[ENG sub] [8회] '순위에 연연하지 말려무나' 보컬 유닛 결과 공개! 컴백전쟁 : 퀸덤(Queendom) 8화 (2019-10-17)",
   "duration": "00:03:33"
 },
 
@@ -1195,7 +1195,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/bNCbjendYO4/sddefault.jpg",
   "alt": "[ENG sub] [8회] 스페셜 평가단 선택권을 잡아라!ㅣ퀸덤 방석 퀴즈 #1 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
-  "title": "[ENG sub] [8회] 스페셜 평가단 선택권을 잡아라!ㅣ퀸덤 방석 퀴즈 #1 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
+  "title": "[ENG sub] [8회] 스페셜 평가단 선택권을 잡아라!ㅣ퀸덤 방석 퀴즈 #1 컴백전쟁 : 퀸덤(Queendom) 8화 (2019-10-17)",
   "duration": "00:03:10"
 },
 
@@ -1207,7 +1207,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Kine31OCEms/sddefault.jpg",
   "alt": "[ENG sub] [8회] '컨셉과 찰떡' 레드레드한 슬픔 속의 분노 메이크업 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
-  "title": "[ENG sub] [8회] '컨셉과 찰떡' 레드레드한 슬픔 속의 분노 메이크업 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
+  "title": "[ENG sub] [8회] '컨셉과 찰떡' 레드레드한 슬픔 속의 분노 메이크업 컴백전쟁 : 퀸덤(Queendom) 8화 (2019-10-17)",
   "duration": "00:04:12"
 },
 
@@ -1219,7 +1219,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/76KUkEB3Z1U/sddefault.jpg",
   "alt": "[퀸' Story] (여자)아이들 'Fire' @퀸덤 2차 경연(A Queen's Story :  (G)I-DLE 'Fire' @Queendom 2nd Battle) (2019-10-17)",
-  "title": "[퀸' Story] (여자)아이들 'Fire' @퀸덤 2차 경연(A Queen's Story :  (G)I-DLE 'Fire' @Queendom 2nd Battle) (2019-10-17)",
+  "title": "[퀸' Story] (여자)아이들 'Fire' @퀸덤(Queendom) 2차 경연(A Queen's Story :  (G)I-DLE 'Fire' @Queendom 2nd Battle) (2019-10-17)",
   "duration": "00:21:16"
 },
 
@@ -1231,7 +1231,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/gFAGMkm3XIY/sddefault.jpg",
   "alt": "[퀸' Story] (여자)아이들 'LATATA' @퀸덤 1차 경연(A Queen's Story : (G)I-DLE 'LATATA' @Queendom 1st Battle) (2019-10-17)",
-  "title": "[퀸' Story] (여자)아이들 'LATATA' @퀸덤 1차 경연(A Queen's Story : (G)I-DLE 'LATATA' @Queendom 1st Battle) (2019-10-17)",
+  "title": "[퀸' Story] (여자)아이들 'LATATA' @퀸덤(Queendom) 1차 경연(A Queen's Story : (G)I-DLE 'LATATA' @Queendom 1st Battle) (2019-10-17)",
   "duration": "00:12:59"
 },
 
@@ -1243,7 +1243,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/MnmNvJ66iT0/sddefault.jpg",
   "alt": "[ENG sub] [8회] '(희번뜩)싫다고..?내가 싫다고..?' 소연이 표현하는 그로테스크 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
-  "title": "[ENG sub] [8회] '(희번뜩)싫다고..?내가 싫다고..?' 소연이 표현하는 그로테스크 컴백전쟁 : 퀸덤 8화 (2019-10-17)",
+  "title": "[ENG sub] [8회] '(희번뜩)싫다고..?내가 싫다고..?' 소연이 표현하는 그로테스크 컴백전쟁 : 퀸덤(Queendom) 8화 (2019-10-17)",
   "duration": "00:03:26"
 },
 
@@ -1255,7 +1255,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/z1N8Pxf6ACw/sddefault.jpg",
   "alt": "[퀸' Story] 식스퍼즐 단체 퍼포먼스'친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power'@퀸덤 3차 R1 경연 (2019-10-18)",
-  "title": "[퀸' Story] 식스퍼즐 단체 퍼포먼스'친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power'@퀸덤 3차 R1 경연 (2019-10-18)",
+  "title": "[퀸' Story] 식스퍼즐 단체 퍼포먼스'친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power'@퀸덤(Queendom) 3차 R1 경연 (2019-10-18)",
   "duration": "00:21:57"
 },
 
@@ -1267,7 +1267,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/CL3Mi0MAvkQ/sddefault.jpg",
   "alt": "[퀸' Story] 식스퍼즐 개인 퍼포먼스 '친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power' @퀸덤 3차 R1 경연 (2019-10-18)",
-  "title": "[퀸' Story] 식스퍼즐 개인 퍼포먼스 '친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power' @퀸덤 3차 R1 경연 (2019-10-18)",
+  "title": "[퀸' Story] 식스퍼즐 개인 퍼포먼스 '친절한 금자씨+Senorita+Strip+Smooth Criminal+두 개의 달+Power' @퀸덤(Queendom) 3차 R1 경연 (2019-10-18)",
   "duration": "00:22:13"
 },
 
@@ -1278,8 +1278,8 @@ const mediaContentsCards = [
   "year": "2019",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/FLl13NMe0Cg/sddefault.jpg",
-  "alt": "[MPD직캠] (여자)아이들 수진 직캠 4K '싫다고 말해(Nightmare Ver.)' (SOOJIN FanCam) | @퀸덤_2019.10.17",
-  "title": "[MPD직캠] (여자)아이들 수진 직캠 4K '싫다고 말해(Nightmare Ver.)' (SOOJIN FanCam) | @퀸덤_2019.10.17 (2019-10-18)",
+  "alt": "[MPD직캠] (여자)아이들 수진 직캠 4K '싫다고 말해(Nightmare Ver.)' (SOOJIN FanCam) | @퀸덤(Queendom)",
+  "title": "[MPD직캠] (여자)아이들 수진 직캠 4K '싫다고 말해(Nightmare Ver.)' (SOOJIN FanCam) | @퀸덤(Queendom) (2019-10-17)",
   "duration": "00:03:08"
 },
 
@@ -1291,7 +1291,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/gNX2lU_ub4c/sddefault.jpg",
   "alt": "[INA SUB] [퀸' Story] (여자)아이들 '싫다고 말해(Nightmare Ver.)' @퀸덤 3차 R2 경연 (INA SUB) (2019-10-18)",
-  "title": "[INA SUB] [퀸' Story] (여자)아이들 '싫다고 말해(Nightmare Ver.)' @퀸덤 3차 R2 경연 (INA SUB) (2019-10-18)",
+  "title": "[INA SUB] [퀸' Story] (여자)아이들 '싫다고 말해(Nightmare Ver.)' @퀸덤(Queendom) 3차 R2 경연 (INA SUB) (2019-10-18)",
   "duration": "00:18:19"
 },
 
@@ -1303,7 +1303,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/aMc-0OiKawY/sddefault.jpg",
   "alt": "[퀸' Story] 혜정&민니 'instagram' @퀸덤 3차 R1 경연 (2019-10-18)",
-  "title": "[퀸' Story] 혜정&민니 'instagram' @퀸덤 3차 R1 경연 (2019-10-18)",
+  "title": "[퀸' Story] 혜정&민니 'instagram' @퀸덤(Queendom) 3차 R1 경연 (2019-10-18)",
   "duration": "00:19:46"
 },
 
@@ -1315,7 +1315,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/-VNmEhr9WKQ/sddefault.jpg",
   "alt": "[ENG sub] [9회] ′(두근두근) 두 번째 1위′ 3차 경연 최종 순위 1위팀은? 컴백전쟁 : 퀸덤 9화 (2019-10-24)",
-  "title": "[ENG sub] [9회] ′(두근두근) 두 번째 1위′ 3차 경연 최종 순위 1위팀은? 컴백전쟁 : 퀸덤 9화 (2019-10-24)",
+  "title": "[ENG sub] [9회] ′(두근두근) 두 번째 1위′ 3차 경연 최종 순위 1위팀은? 컴백전쟁 : 퀸덤(Queendom) 9화 (2019-10-24)",
   "duration": "00:03:00"
 },
 
@@ -1339,7 +1339,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/HTCOti9KqYE/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 이상적인(?!) 키 차이ㅣ아아 리허설 컴백전쟁 : 퀸덤 9화 (2019-10-28)",
-  "title": "[ENG sub] [비하인드] 이상적인(?!) 키 차이ㅣ아아 리허설 컴백전쟁 : 퀸덤 9화 (2019-10-28)",
+  "title": "[ENG sub] [비하인드] 이상적인(?!) 키 차이ㅣ아아 리허설 컴백전쟁 : 퀸덤(Queendom) 9화 (2019-10-28)",
   "duration": "00:01:15"
 },
 
@@ -1375,7 +1375,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/MzmoRoJ1CZo/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 표정 천재★수진ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 9화 (2019-10-29)",
-  "title": "[ENG sub] [비하인드] 표정 천재★수진ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤 9화 (2019-10-29)",
+  "title": "[ENG sub] [비하인드] 표정 천재★수진ㅣ(여자)아이들 리허설 컴백전쟁 : 퀸덤(Queendom) 9화 (2019-10-29)",
   "duration": "00:01:02"
 },
 
@@ -1387,7 +1387,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/AUvnvZdTyH4/sddefault.jpg",
   "alt": "[ENG sub] [비하인드] 열정 만수르 우기ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 9화 (2019-10-29)",
-  "title": "[ENG sub] [비하인드] 열정 만수르 우기ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤 9화 (2019-10-29)",
+  "title": "[ENG sub] [비하인드] 열정 만수르 우기ㅣ(여자)아이들 대기실 컴백전쟁 : 퀸덤(Queendom) 9화 (2019-10-29)",
   "duration": "00:01:25"
 },
 
@@ -1399,7 +1399,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/BWKPCKljftY/sddefault.jpg",
   "alt": "[ENG sub] [최종회] '왕의 즉위식' (여자)아이들 종합 선물 세트 같은 무대를 위해 컴백전쟁 : 퀸덤 10화",
-  "title": "[ENG sub] [최종회] '왕의 즉위식' (여자)아이들 종합 선물 세트 같은 무대를 위해 컴백전쟁 : 퀸덤 10화 (2019-10-31)",
+  "title": "[ENG sub] [최종회] '왕의 즉위식' (여자)아이들 종합 선물 세트 같은 무대를 위해 컴백전쟁 : 퀸덤(Queendom) 10화 (2019-10-31)",
   "duration": "00:02:28"
 },
 
@@ -1411,7 +1411,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/ihnKFyB2HXI/sddefault.jpg",
   "alt": "[ENG sub] [최종회] '자부심 뿜뿜' 첫 경연부터 시작됐던 금손 소연의 파이널 곡 작업 컴백전쟁 : 퀸덤 10화 (2019-10-31)",
-  "title": "[ENG sub] [최종회] '자부심 뿜뿜' 첫 경연부터 시작됐던 금손 소연의 파이널 곡 작업 컴백전쟁 : 퀸덤 10화 (2019-10-31)",
+  "title": "[ENG sub] [최종회] '자부심 뿜뿜' 첫 경연부터 시작됐던 금손 소연의 파이널 곡 작업 컴백전쟁 : 퀸덤(Queendom) 10화 (2019-10-31)",
   "duration": "00:04:01"
 },
 
@@ -1423,7 +1423,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/hUykIdD4pQM/sddefault.jpg",
   "alt": "[퀸' Story] (여자)아이들 'LION' @ 퀸덤 FINAL 경연 (2019-11-01)",
-  "title": "[퀸' Story] (여자)아이들 'LION' @ 퀸덤 FINAL 경연 (2019-11-01)",
+  "title": "[퀸' Story] (여자)아이들 'LION' @ 퀸덤(Queendom) FINAL 경연 (2019-11-01)",
   "duration": "00:14:29"
 },
 
@@ -1435,7 +1435,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/1yJfSk7xgO4/sddefault.jpg",
   "alt": "\"대박ㅇ0ㅇ!\" (여자)아이들 퀸덤 리액션 모음 ((G)I-DLE Queendom Reaction) (2019-11-06)",
-  "title": "\"대박ㅇ0ㅇ!\" (여자)아이들 퀸덤 리액션 모음 ((G)I-DLE Queendom Reaction) (2019-11-06)",
+  "title": "\"대박ㅇ0ㅇ!\" (여자)아이들 퀸덤(Queendom) 리액션 모음 ((G)I-DLE Queendom Reaction) (2019-11-06)",
   "duration": "00:07:36"
 },
 
@@ -1459,7 +1459,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/3V-_py3pZVY/sddefault.jpg",
   "alt": "누구와의 컴피티션? 출연진들 공개할 때마다 격한 반응♥ 한 명씩 리액션 보려면 50번은 돌려봐야지 헤헿 | #다시보는_퀸덤 | #Diggle (2019-12-13)",
-  "title": "누구와의 컴피티션? 출연진들 공개할 때마다 격한 반응♥ 한 명씩 리액션 보려면 50번은 돌려봐야지 헤헿 | #다시보는_퀸덤 | #Diggle (2019-12-13)",
+  "title": "누구와의 컴피티션? 출연진들 공개할 때마다 격한 반응♥ 한 명씩 리액션 보려면 50번은 돌려봐야지 헤헿 | #다시보는_퀸덤(Queendom) (2019-12-13)",
   "duration": "00:03:42"
 },
 
@@ -1471,7 +1471,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/8jDtzYNJQyo/sddefault.jpg",
   "alt": "소연이 리더인 이유. 너는 계획이 다 있구나 소여나♥ 걸크 뿜뿜 전리더 모먼트 | #다시보는_퀸덤 | #Diggle (2019-12-13)",
-  "title": "소연이 리더인 이유. 너는 계획이 다 있구나 소여나♥ 걸크 뿜뿜 전리더 모먼트 | #다시보는_퀸덤 | #Diggle (2019-12-13)",
+  "title": "소연이 리더인 이유. 너는 계획이 다 있구나 소여나♥ 걸크 뿜뿜 전리더 모먼트 | #다시보는_퀸덤(Queendom) (2019-12-13)",
   "duration": "00:05:25"
 },
 
@@ -1483,7 +1483,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/5EZyGLUMP3c/sddefault.jpg",
   "alt": "여러분을 암살하러 왔습니다. 심쿵사할 걸 알지만 안 볼 수 없는 퀸덤 속 우기 모아보기♥ | #다시보는_퀸덤 | #Diggle",
-  "title": "여러분을 암살하러 왔습니다. 심쿵사할 걸 알지만 안 볼 수 없는 퀸덤 속 우기 모아보기♥ | #다시보는_퀸덤 | #Diggle (2019-12-13)",
+  "title": "여러분을 암살하러 왔습니다. 심쿵사할 걸 알지만 안 볼 수 없는 퀸덤 속 우기 모아보기♥ | #다시보는_퀸덤(Queendom) (2019-12-13)",
   "duration": "00:03:55"
 },
 
@@ -1495,7 +1495,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/ToCJp1IIHzk/sddefault.jpg",
   "alt": "(여자)아이들 덕질포인트 모음♥ 무대랑 갭차이 넘나 매력적ㅠ 어쩜 이리 귀엽고 사랑스러울까,, | #다시보는_퀸덤 | #Diggle (2019-12-14)",
-  "title": "(여자)아이들 덕질포인트 모음♥ 무대랑 갭차이 넘나 매력적ㅠ 어쩜 이리 귀엽고 사랑스러울까,, | #다시보는_퀸덤 | #Diggle (2019-12-14)",
+  "title": "(여자)아이들 덕질포인트 모음♥ 무대랑 갭차이 넘나 매력적ㅠ 어쩜 이리 귀엽고 사랑스러울까,, | #다시보는_퀸덤(Queendom) (2019-12-14)",
   "duration": "00:05:49"
 },
 
@@ -1519,7 +1519,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/qJ25SOuYGys/sddefault.jpg",
   "alt": "내 호주머니에 넣어 다니고 싶은 포켓걸 민니 매력 폭발!! 나 죽어,, 적당히 귀여운거 할 줄 모르는구나,,♥ | #다시보는_퀸덤 | #Diggle (2019-12-22)",
-  "title": "내 호주머니에 넣어 다니고 싶은 포켓걸 민니 매력 폭발!! 나 죽어,, 적당히 귀여운거 할 줄 모르는구나,,♥ | #다시보는_퀸덤 | #Diggle (2019-12-22)",
+  "title": "내 호주머니에 넣어 다니고 싶은 포켓걸 민니 매력 폭발!! 나 죽어,, 적당히 귀여운거 할 줄 모르는구나,,♥ | #다시보는_퀸덤(Queendom) (2019-12-22)",
   "duration": "00:03:40"
 },
 
@@ -1531,7 +1531,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/1DcyDax98S8/sddefault.jpg",
   "alt": "오디오 빌 틈 없이 하이텐션 유지하는 '서포터즈'팀♥ 워크숍이 아니라 수학여행 가는 여고생들 같아ㅋㅋㅋ | #다시보는_퀸덤 | #Diggle (2019-12-31)",
-  "title": "오디오 빌 틈 없이 하이텐션 유지하는 '서포터즈'팀♥ 워크숍이 아니라 수학여행 가는 여고생들 같아ㅋㅋㅋ | #다시보는_퀸덤 | #Diggle (2019-12-31)",
+  "title": "오디오 빌 틈 없이 하이텐션 유지하는 '서포터즈'팀♥ 워크숍이 아니라 수학여행 가는 여고생들 같아ㅋㅋㅋ | #다시보는_퀸덤(Queendom) (2019-12-31)",
   "duration": "00:15:10"
 },
 
