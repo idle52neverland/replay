@@ -7848,18 +7848,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/UJZRFrcNVZg",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2023",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/UJZRFrcNVZg/sddefault.jpg",
-  "alt": "플레이를 더 특별하게 | 모두의 모든 순간에 함께하는 #구글플레이 | Google Play",
-  "title": "플레이를 더 특별하게 | 모두의 모든 순간에 함께하는 #구글플레이 | Google Play (2023-08-25)",
-  "duration": "00:00:59"
-},
-
-{
   "link": "https://youtu.be/KUbS-sx-caY",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
