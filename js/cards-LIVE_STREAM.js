@@ -29,7 +29,7 @@ const liveStreamCards = [
   "member": "미연, 우기",
   "year": "2025",
   "month": "04",
-  "thumbnail": "https://video-phinf.pstatic.net/20250424_80/1745502509186kw6H9_JPEG/6xGytCo67v_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MjRfMjE0/MDAxNzQ1NTAwMzgwNjI4.D8WIa065XdPTc3UOOE2wxgEKZJpVsKHtlM4FGqwy2ncg.Xm96kFCoiM5w4a2ZpPLf2_vTvbivzegEBvEclzchGSwg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "🐰🐶  (2025-04-24)",
   "title": "🐰🐶  (2025-04-24)"
 },
@@ -40,7 +40,7 @@ const liveStreamCards = [
   "member": "미연, 우기",
   "year": "2025",
   "month": "04",
-  "thumbnail": "https://video-phinf.pstatic.net/20250424_224/17455004455042Pz0C_JPEG/JETiDDhhu1_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MjRfMjgw/MDAxNzQ1NTAyNDU1OTY5.VOsIwYuxTS8j9PveiOWTieTGqWKQlXHjFu0n8s0r4Ycg.inXyfVC32dJ1s1IlvE8UH9fjNEN4xAfQnCvYxnBnVhMg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "🐶🐰  (2025-04-24)",
   "title": "🐶🐰  (2025-04-24)"
 },
@@ -62,7 +62,7 @@ const liveStreamCards = [
   "member": "미연, 민니",
   "year": "2025",
   "month": "02",
-  "thumbnail": "https://video-phinf.pstatic.net/20250215_245/17396279857743n3Nn_JPEG/Vk1c3WPd0Y_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTAyMTVfOTgg/MDAxNzM5NjI3OTMyODMx.uiPbhi3G_k9edTdMWCd5wGBxiJWPFnUcdGwzkuVGnRgg.DgTmTklq-3THuBssEBZe_HOWZh1_CvmVou0BvwR-wOkg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "댕자💝 7주년💕🎀🩵  (2025-02-15)",
   "title": "댕자💝 7주년💕🎀🩵  (2025-02-15)"
 },
@@ -73,7 +73,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2025",
   "month": "02",
-  "thumbnail": "https://video-phinf.pstatic.net/20250202_283/1738487297536yImsG_JPEG/g1tuLybpOA_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTAyMDJfMjAx/MDAxNzM4NDg3MjM5MTE0.D-UBeFentGowEuL3Y6WGWDpw-zQfM-GSbNlTEe9LV_Ug.QDJqF1kP5MVu_k4T56YnuoRB_dNKVvvKxhtGgDEe9hog.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "헐 네버버 고생했어!🥺  (2025-02-02)",
   "title": "헐 네버버 고생했어!🥺  (2025-02-02)"
 },
@@ -120,7 +120,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2025",
   "month": "01",
-  "thumbnail": "https://video-phinf.pstatic.net/20250107_178/1736257885921xjS2D_JPEG/0WvJzfNsh7_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTAxMDdfMTc4/MDAxNzM2MjU3ODQwNzU3.y4SPJqfTnE6Mj3ZKDkYfsX35rMncCAZRRsMMwaKaRKwg.fVOpBanEWRdyd1QasY1lbh4_09r45Kh8Kr-UIZjktm8g.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "❤️  (2025-01-07)",
   "title": "❤️  (2025-01-07)"
 },
@@ -131,7 +131,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "12",
-  "thumbnail": "https://video-phinf.pstatic.net/20241216_119/1734340476252IT3mt_JPEG/IfLSFOdDr0_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEyMTZfMTY5/MDAxNzM0MzQwNDM2MjIy.dbt4HyUMqJgkVvfnJVrqlQA4kZkx21YTMDSRipnDKC0g.1rQamhJWsGJNTZXj4HyFOvgMKY9jhm0o8NwxP9smGvcg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "난 왔어  (2024-12-16)",
   "title": "난 왔어  (2024-12-16)"
 },
@@ -142,7 +142,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "12",
-  "thumbnail": "https://video-phinf.pstatic.net/20241215_32/1734269200647S9Cnd_JPEG/GS2u5RpoBl_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEyMTVfMjYz/MDAxNzM0MjY5MTE4NDM1.4JNVbU-JekRsiOVdY7uQ9Y3-r1Op-bolTI4xHQy6tDIg.o0W5dAEt2zfQEaWhH1wNsZt9gaX_Ey-bKojHWvJsjNkg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "밍니왓다🐱  (2024-12-15)",
   "title": "밍니왓다🐱  (2024-12-15)"
 },
@@ -153,7 +153,7 @@ const liveStreamCards = [
   "member": "아이들",
   "year": "2024",
   "month": "11",
-  "thumbnail": "https://video-phinf.pstatic.net/20241130_62/1732974141296otbOV_JPEG/cVCbhdasso_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDExMzBfMTYz/MDAxNzMyOTc0MDY5ODY3.kVE099aH_p2unux79ahCh4M1xxVI_anl62mce3M5i0sg.XSLKw6GIrdDPnQie-iY3iOGgymqz6zG5yYB-FEAKLD0g.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "네버버어어어어 감사합니다💕💕💕💕💕🥹  (2024-11-30)",
   "title": "네버버어어어어 감사합니다💕💕💕💕💕🥹  (2024-11-30)"
 },
@@ -164,7 +164,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "11",
-  "thumbnail": "https://video-phinf.pstatic.net/20241122_198/1732266253119sXtsS_JPEG/fBEvRfQJZf_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDExMjJfOTAg/MDAxNzMyMjY2MTg1MTc0.po17U0jbDEOatoiDe_-S-L9AFvbCBYphtzqDDdDO79sg.byVIT6EL-CnQaCEu7nEYKPi9e0pmpoDcvTHyyhUjK9wg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "만토우랑💕  (2024-11-22)",
   "title": "만토우랑💕  (2024-11-22)"
 },
@@ -175,7 +175,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "11",
-  "thumbnail": "https://video-phinf.pstatic.net/20241117_15/1731850933358MGpBy_JPEG/wTBoNQTbZy_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDExMTdfMTI0/MDAxNzMxODUwODc0NDc3.vC8Ck3LbsTuQfFit6kJbifQ9XW_jBsk24sz_LqpTXw0g.qQZCni-DWsy3T8901CHM5rcimkWLIv_mzVABwraCdAQg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "Best solo artist!!!!  (2024-11-17)",
   "title": "Best solo artist!!!!  (2024-11-17)"
 },
@@ -186,7 +186,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "11",
-  "thumbnail": "https://video-phinf.pstatic.net/20241116_191/17317668260564vDr6_JPEG/VHiLAgTqrN_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDExMTZfMTgx/MDAxNzMxNzY2NzQxMDIw.RO1nFpGXJL1J5bTqmM-2yXUr1eIrkf9NdIE8JCjkMWwg.N_MKhK6W1nMgQglvTkVcjEFqGbc0GE1Mq_SaKkrjzrYg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "네버버!!!  (2024-11-16)",
   "title": "네버버!!!  (2024-11-16)"
 },
@@ -208,7 +208,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "10",
-  "thumbnail": "https://video-phinf.pstatic.net/20241017_213/17291675440659AH2u_JPEG/oo9cT0r61d_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEwMTdfMTc0/MDAxNzI5MTY3NTI1NTA4._m6w0_EXxpDzloiAK2icYUr4W62C4G8wTkCsYYR4eT4g.3qB1bAX0TqtpAM1qNKNRxlzZ4RCJIqVxBWK8l4b-k20g.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "뇽뇽💕  (2024-10-17)",
   "title": "뇽뇽💕  (2024-10-17)"
 },
@@ -219,7 +219,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "10",
-  "thumbnail": "https://video-phinf.pstatic.net/20241017_60/1729167849322wMQwT_JPEG/BMHwyoXUro_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEwMTdfOTgg/MDAxNzI5MTY3ODA5Mzky.v3dmrazfBj9zi-hpD9dRdxe6GWGPedm4x6BiHIoKnaYg.9o1JmJg2WIR_r6xwttbTCLFWxoLNxB_Ahvd3yAJitIUg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "뇽뇽  (2024-10-17)",
   "title": "뇽뇽  (2024-10-17)"
 },
@@ -230,7 +230,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "10",
-  "thumbnail": "https://video-phinf.pstatic.net/20241017_32/1729170473679iku0v_JPEG/8Lel02xMBD_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEwMTdfMTE3/MDAxNzI5MTcwMzY4OTA1.d9p4ZKZy-YjSA5CZJxq5ZSFzSYWQscY52MYoJF_erdwg.aRQDymsb01ARA8hhzGWLlxQre1Eh4np2XAuliswpGKAg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "진짜 안눁💕  (2024-10-17)",
   "title": "진짜 안눁💕  (2024-10-17)"
 },
@@ -241,7 +241,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "10",
-  "thumbnail": "https://video-phinf.pstatic.net/20241005_66/1728059603015NsXRO_JPEG/Yex7LH8P9z_03.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDEwMDVfMjM3/MDAxNzI4MDU5NDY5MDU0.7aimKjyPNmpcgwM_zhIEVvbFpQ3eXrVWeK0Jgag-8vsg.yDmV-jG6g78ooISvo9T2zATylKwgQKPmB9AYAV4Qouwg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "밍니 업고 튀어  (2024-10-05)",
   "title": "밍니 업고 튀어  (2024-10-05)"
 },
@@ -275,7 +275,7 @@ const liveStreamCards = [
   "member": "민니, 우기, 슈화",
   "year": "2024",
   "month": "09",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA5MTRfOTAg/MDAxNzI2Mjk1NTYwNDc1.nNCD9-OS-tIAAA3lJT9ZB5IsGrS5ZRgDxvpRFKCwFtgg.CreGjuOWOqqhhVzIpdWZTXIsi9I-GtV48McAAQCY78gg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "사와디하오  (2024-09-14)",
   "title": "사와디하오  (2024-09-14)"
 },
@@ -286,7 +286,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "08",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "images/보이스온리.jpg",
   "alt": "자기전에엥💕😴  (2024-08-23)",
   "title": "자기전에엥💕😴  (2024-08-23)"
 },
@@ -297,7 +297,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "08",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA4MThfMjUz/MDAxNzIzOTY5OTkzMTIw.FtUf0dWgIh9qM3Z1lAR5XdeOsObO5x-lKgLbtC_7rY4g.6bgF6mE7SK3F6KXpmXT5DQQeIezq5vuUDwOOOmVkQ0sg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "💕🫶🏻  (2024-08-18)",
   "title": "💕🫶🏻  (2024-08-18)"
 },
@@ -308,7 +308,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "08",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA4MDJfODYg/MDAxNzIyNTc3ODY1ODkz.rwmec7G_LQld02gvV2M3ZxaSet315Yqh1o2fZvCuFOwg.i7NFUCkkx36Z1ARhwcWp_VzH28LEWbKtzG4e-6uUEjEg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "💓  (2024-08-02)",
   "title": "💓  (2024-08-02)"
 },
@@ -319,7 +319,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "07",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA3MTJfNjAg/MDAxNzIwNzg5NDY3MTYz.hUWWC1YuV0mb-4KNDk5u-SytOgxg7RNKNYpRromQiKQg.GXvsmDsiPTy-FzBisVET0PZZ9t2P4H_6ORWKeWprj0Ig.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "밍니 퇴근길  (2024-07-12)",
   "title": "밍니 퇴근길  (2024-07-12)"
 },
@@ -327,10 +327,10 @@ const liveStreamCards = [
 {
   "link": "https://weverse.io/i-dle/live/3-165825101",
   "category": "LIVE_STREAM",
-  "member": "미연",
+  "member": "미연, 민니, 우기",
   "year": "2024",
   "month": "06",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA2MDJfMyAg/MDAxNzE3MjY0NDI1MDEw.6RmMuOymHovKY02v2eQj9pbUh7TCtQ8_GwtdzXInkOsg.lr1OVxxnawifwxpO1CWKQ3yNPS3YnfUuxPKBP-wbmJ4g.JPEG/snapshot_1e08ddc6-0de8-4671-8126-06d1edf517f7.jpg?type=f_or_off_640_360",
   "alt": "며니❤️  (2024-06-01)",
   "title": "며니❤️  (2024-06-01)"
 },
@@ -341,7 +341,7 @@ const liveStreamCards = [
   "member": "우기, 슈화",
   "year": "2024",
   "month": "05",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA1MTNfMzQg/MDAxNzE1NjA0ODk4OTA2.lrux5am35SDvs1o9ZhxK7oGVcucxxErZF7S5h0CBZekg.y-7vvLkylL0vuhZrIhjKNBjexbeU_xqY5X2M9a8MTtYg.JPEG/snapshot_deae557a-a5b0-41fb-89a6-2a986ced3200.jpg?type=f_or_off_640_360",
   "alt": "🐶🐺  (2024-05-13)",
   "title": "🐶🐺  (2024-05-13)"
 },
@@ -352,7 +352,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "05",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA1MDRfMTk1/MDAxNzE0ODI3NTY0NTQy.0dcHwPGE7FelUIhy7-Dcq5Ig0w4ftah68v6kFifb0bsg.QRH6FJ7T-7Ieb-F4DZ99FjvxkP_EDVsujAwp4Q4esdkg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "🐱💕  (2024-05-04)",
   "title": "🐱💕  (2024-05-04)"
 },
@@ -363,7 +363,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "05",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA1MDNfMTMg/MDAxNzE0NjY3Nzk0OTgx.mBD73JuXW0Lh8Lqfb81dL_MgbFub5sFppFkv1BGd2CQg.QIfNvjO1X3zUcZ0y3x5uSupiNjYZB15TDQsUkCiZnGcg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "❤️6💜  (2024-05-03)",
   "title": "❤️6💜  (2024-05-03)"
 },
@@ -386,7 +386,7 @@ const liveStreamCards = [
   "member": "슈화",
   "year": "2024",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MjVfMjkz/MDAxNzE0MDE2NjY3NDEw.t8FLadqjKUtaYSUzVuQcYzcJLTYsKBjZRRnnQKTdIUAg.tXb9WKMvKDsPwvJwpD3Hqd1E6gk1SLDDhgq1xaOnBKIg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "S s s  (2024-04-25)",
   "title": "S s s  (2024-04-25)"
 },
@@ -397,21 +397,9 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MTRfMzIg/MDAxNzEzMDI0MTY1MjEx.FfuiG8kwvQegwyScndJ2f4sz4dGRe14TwdKCb4idvbUg.ngYcbHAKltOY57nW4bi0f_gjv-2aqEmzrwjnb0-M7ukg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "10mins live 😋  (2024-04-14)",
   "title": "10mins live 😋  (2024-04-14)"
-},
-
-{
-  "link": "https://youtu.be/Z9OCklTW0fA",
-  "category": "LIVE_STREAM",
-  "member": "미연",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/Z9OCklTW0fA/sddefault.jpg",
-  "alt": "져니&며니 찐친라이브 (ENG SUB) [프로미스나인 지원/(여자)아이들 미연] (2024-04-05)",
-  "title": "져니&며니 찐친라이브 (ENG SUB) [프로미스나인 지원/(여자)아이들 미연] (2024-04-05)",
-  "duration": "00:05:26"
 },
 
 {
@@ -420,7 +408,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDVfMjYx/MDAxNzEyMzIyMjc5Njc1.wY5beqGQ9rKAmgERcQheoqx1Vq0YqFlUs_58mRAV2fgg.bQnqQThPIUTm-sNoovFwuSH-kt88TXJByf7UEIiKIqIg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "며닝🩷  (2024-04-05)",
   "title": "며닝🩷  (2024-04-05)"
 },
@@ -431,7 +419,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2024",
   "month": "04",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDVfMjA0/MDAxNzEyMzI3NTIzODg1.CI8lQCZCBjyEGa7t7rk-4pGui5m3289ENPgSlJbT-Ogg.FwnGzZK93YQf1pmYaVuR7WkL7p5ewqiyGtRe6bSHmsUg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "며니 다시 와따🩷  (2024-04-05)",
   "title": "며니 다시 와따🩷  (2024-04-05)"
 },
@@ -442,7 +430,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "02",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDAyMTdfMjg4/MDAxNzA4MTczNDk0NDg2.5jzA-gPYvv0NeodnHJGp_rYcPO3mtNb539Rtdlzw9U4g.LnQMrey45iEGxIdSwyxZ7QUubZgENVLQjrTWywJ3zm8g.JPEG/snapshot_1ae5ec64-e287-4853-acda-b4bf90d48ec2.jpg?type=f_or_off_640_360",
   "alt": "🐶  (2024-02-17)",
   "title": "🐶  (2024-02-17)"
 },
@@ -453,7 +441,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2024",
   "month": "02",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDAyMThfMTUw/MDAxNzA4MTgzNTk2Nzc2.Ut__-MkRPKKBMek2faj2ZgtdtB21TLNH02oujLem5e8g.B132D0NyLnLNeiGH8uk-muNHscDThIbv9Kk7zbRqTfEg.JPEG/04b19286-cda8-11ee-8620-a0369ffdb0b4_03.jpg?type=f_or_off_640_360",
   "alt": "오랜민🥰  (2024-02-17)",
   "title": "오랜민🥰  (2024-02-17)"
 },
@@ -464,7 +452,7 @@ const liveStreamCards = [
   "member": "우기",
   "year": "2024",
   "month": "02",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDAyMTFfMzMg/MDAxNzA3NjMyNzY1ODc0.3pZExcO6uVu9A4XByfR5k6XT0HgUN_u7bfqFglOhYuEg.SqkO3H8NHNwtjEmB4LZApltxVKDxftkIcbN9l6jlJkkg.JPEG/snapshot_b25d3e60-5e8d-4590-a30f-9223b9f5fc14.jpg?type=f_or_off_640_360",
   "alt": "잠깐 놀까  (2024-02-08)",
   "title": "잠깐 놀까  (2024-02-08)"
 },
@@ -475,7 +463,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2023",
   "month": "12",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzEyMTBfMTA5/MDAxNzAyMTgyMTI4MTMy.dXITM2cjfY4qVpPFo9-irZmPx3Nge3J-TRKv_hpJ2WEg.huMmOt8aIPAk6J-Nafp2UL_gUSrkxpo0mXx1QnKF97wg.JPEG/snapshot_9fd5cae6-3e06-4dab-9788-0be6687f3631.jpg?type=f_or_off_640_360",
   "alt": "쪼꼼만 놀쟈💕 (2023-12-10)",
   "title": "쪼꼼만 놀쟈💕 (2023-12-10)"
 },
@@ -486,7 +474,7 @@ const liveStreamCards = [
   "member": "민니, 우기, 슈화",
   "year": "2023",
   "month": "12",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzEyMDdfMTQ4/MDAxNzAxOTEyNjMzOTg5.-SQgWF8VAlDzBAvs1z7Z63oOnMG17lTDFNKwEPt68RAg.Qll_YJNd4AvIPcZTWvdEpwKmHyK3u24JBu-y-46oTAAg.JPEG/snapshot_2e7e76a8-c657-4fec-9e2c-67e700164c34.jpg?type=f_or_off_640_360",
   "alt": "사와디好 (2023-12-06)",
   "title": "사와디好 (2023-12-06)"
 },
@@ -497,7 +485,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2023",
   "month": "11",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzExMjdfMjc1/MDAxNzAxMDg4NzYxNzE0.G_f4GLmkFpNnbDJQaj9KdJ0m8Urzt27IryO4d72QxAog.lKhMtHW58uIBEnru5QE7OOWCXBBLTQqS4cqgAR4NYOAg.JPEG/snapshot_8e1195c0-2602-4301-b8f9-8858ff3af5ce.jpg?type=f_or_off_640_360",
   "alt": "며니🎀 (2023-11-27)",
   "title": "며니🎀 (2023-11-27)"
 },
@@ -508,7 +496,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2023",
   "month": "11",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231117_139/1700150469388f944z_JPEG/5662c418-8499-11ee-9c90-d4f5ef58ad5e_03.jpg",
   "alt": "다시이🩷🫶 (2023-11-17)",
   "title": "다시이🩷🫶 (2023-11-17)"
 },
@@ -519,7 +507,7 @@ const liveStreamCards = [
   "member": "민니",
   "year": "2023",
   "month": "10",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231023_104/1698043269450C45VD_JPEG/21707260-716f-11ee-a314-48df37e2c3ac_03.jpg",
   "alt": "Happy Minnie Day!!!!💖 (2023-10-23)",
   "title": "Happy Minnie Day!!!!💖 (2023-10-23)"
 },
@@ -530,7 +518,7 @@ const liveStreamCards = [
   "member": "민니, 우기",
   "year": "2023",
   "month": "10",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231023_290/1698043388120yIns9_JPEG/68f1cedc-716f-11ee-9fdc-a0369ffda930_03.jpg",
   "alt": "💖💖💖 (2023-10-23)",
   "title": "💖💖💖 (2023-10-23)"
 },
@@ -541,7 +529,7 @@ const liveStreamCards = [
   "member": "민니, 우기",
   "year": "2023",
   "month": "10",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231023_183/1698048964402r296m_JPEG/fb90c976-717b-11ee-8b25-a0369ffab040_03.jpg",
   "alt": "Minnie (2023-10-23)",
   "title": "Minnie (2023-10-23)"
 },
@@ -552,7 +540,7 @@ const liveStreamCards = [
   "member": "미연",
   "year": "2023",
   "month": "10",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231013_189/1697131890076qmzoN_JPEG/1ca2c66c-6925-11ee-8fa1-48df37ae3dc4_03.jpg",
   "alt": "면🩷 (2023-10-13)",
   "title": "면🩷 (2023-10-13)"
 },
@@ -563,7 +551,7 @@ const liveStreamCards = [
   "member": "슈화",
   "year": "2023",
   "month": "10",
-  "thumbnail": "https://i.imgur.com/Sp2H1Tf.png",
+  "thumbnail": "https://video-phinf.pstatic.net/20231011_168/16970356846550p5fr_JPEG/2d0fdba6-6845-11ee-b54f-a0369ffac20c_03.jpg",
   "alt": "Shu (2023-10-11)",
   "title": "Shu (2023-10-11)"
 },
