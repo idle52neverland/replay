@@ -662,7 +662,7 @@ const specialReleasesCards = [
   "duration": "00:04:20",
   "thumbnail": "https://i.ytimg.com/vi/WF4YckoL5Qg/mqdefault.jpg",
   "alt": "Black Space",
-  "title": "우기- Black Space"
+  "title": "우기- Black Space (2023-11-28)"
 },
 
 {
@@ -732,8 +732,18 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/X1hkKjV_e90/mqdefault.jpg",
   "alt": "미연 - Dreaming about you (웹드라마 리플레이 OST) (2021-02-19)",
   "title": "미연 - Dreaming about you (웹드라마 리플레이 OST) (2021-02-19)"
+},
+  {
+  "link": "https://youtu.be/2SO-qLst3po",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2018",
+  "month": "09",
+  "duration": "00:01:22",
+  "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/mqdefault.jpg",
+  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)",
+  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice (2018-09-21)"
 }
-
 
 
 
