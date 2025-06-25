@@ -574,8 +574,8 @@ const recordingBehindCards = [
   "month": "07",
   "duration": "00:06:00",
   "thumbnail": "https://i.ytimg.com/vi/MAcsBbKPMtE/hqdefault.jpg",
-  "alt": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)",
-  "title": "리듬파워(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)"
+  "alt": "리듬파워 행주(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)",
+  "title": "리듬파워 행주(Rhythm Power) - '직접맨' Ep.10 기쁘다! 미연 오셨네 (2019-07-11)"
 },
   {
   "link": "https://youtu.be/pjtTA-gGy9k",
