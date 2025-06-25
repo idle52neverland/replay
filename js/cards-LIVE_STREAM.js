@@ -4539,8 +4539,19 @@ const liveStreamCards = [
   "month": "12",
   "duration": "00:11:36",
   "thumbnail": "https://i.ytimg.com/vi/a7ixQNDbsNA/hqdefault.jpg",
-  "alt": "Seezn 아이돌 다방 녹화 10분 전 라이브 (2019-12-04)",
-  "title": "Seezn 아이돌 다방 녹화 10분 전 라이브 (2019-12-04)"
+  "alt": "Seezn 아이돌다방 녹화 10분전 라이브 (2019-12-04)",
+  "title": "Seezn 아이돌다방 녹화 10분전 라이브 (2019-12-04)"
+},
+  {
+  "link": "https://youtu.be/Dmgh5W1r52U",
+  "category": "LIVE_STREAM",
+  "member": "아이들",
+  "year": "2019",
+  "month": "03",
+  "duration": "00:38:57",
+  "thumbnail": "",
+  "alt": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE (2019-03-03)",
+  "title": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE (2019-03-03)"
 }
 
 ];
