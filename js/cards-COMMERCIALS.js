@@ -408,7 +408,7 @@ const commercialsCards = [
 },
   {
   "link": "https://youtu.be/UJZRFrcNVZg",
-  "category": "MEDIA_CONTENTS",
+  "category": "COMMERCIALS",
   "member": "미연",
   "year": "2023",
   "month": "08",
