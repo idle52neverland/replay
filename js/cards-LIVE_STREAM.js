@@ -4490,6 +4490,7 @@ const liveStreamCards = [
   "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA0MjRfMjE0/MDAxNzQ1NTAwMzgwNjI4.D8WIa065XdPTc3UOOE2wxgEKZJpVsKHtlM4FGqwy2ncg.Xm96kFCoiM5w4a2ZpPLf2_vTvbivzegEBvEclzchGSwg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "🐰🐶  (2025-04-24)",
   "title": "🐰🐶  (2025-04-24)"
+  "duration": "00:00:45"
 },
 
 {
