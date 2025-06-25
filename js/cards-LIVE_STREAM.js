@@ -4530,7 +4530,18 @@ const liveStreamCards = [
     "alt": "💜💜안녕하세요~아이들입니다!💜💜",
     "title": "💜💜안녕하세요~아이들입니다!💜💜 (2018-05-05)",
     "duration": "00:22:09"
-  }
+  },
+  {
+  "link": "https://youtu.be/a7ixQNDbsNA",
+  "category": "LIVE_STREAM",
+  "member": "아이들",
+  "year": "2019",
+  "month": "12",
+  "duration": "00:11:36",
+  "thumbnail": "https://i.ytimg.com/vi/a7ixQNDbsNA/hqdefault.jpg",
+  "alt": "Seezn 아이돌 다방 녹화 10분 전 라이브 (2019-12-04)",
+  "title": "Seezn 아이돌 다방 녹화 10분 전 라이브 (2019-12-04)"
+}
 
 ];
 
