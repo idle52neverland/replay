@@ -420,54 +420,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/n4s-QdGSxo0",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2019",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/n4s-QdGSxo0/sddefault.jpg",
-  "alt": "주렁주렁(X) 주릉주릉(O) 우기 답이 교과서고 정답이야 #가시나들 3차 티저 (2019-05-07)",
-  "title": "주렁주렁(X) 주릉주릉(O) 우기 답이 교과서고 정답이야 #가시나들 3차 티저 (2019-05-07)",
-  "duration": "00:00:23"
-},
-
-{
-  "link": "https://youtu.be/YXTbMdUj-3Q",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2019",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/YXTbMdUj-3Q/sddefault.jpg",
-  "alt": "[HOT] watch TV and be surprised, | 가시나들 |  (2019-05-20)",
-  "title": "[HOT] watch TV and be surprised, | 가시나들 | (2019-05-20)",
-  "duration": "00:02:30"
-},
-
-{
-  "link": "https://youtu.be/f3oAllymTRE",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2019",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/f3oAllymTRE/sddefault.jpg",
-  "alt": "[HOT] cook with a teacher 가시나들 (2019-05-26)",
-  "title": "[HOT] cook with a teacher | 가시나들 | (2019-05-26)",
-  "duration": "00:03:01"
-},
-
-{
-  "link": "https://youtu.be/JBbNuBTyFJM",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2019",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/JBbNuBTyFJM/sddefault.jpg",
-  "alt": "[HOT] Moved by writing my grandmother. ,  가시나들  (2019-06-09)",
-  "title": "[HOT] Moved by writing my grandmother. | 가시나들 | (2019-06-09)",
-  "duration": "00:02:57"
-},
-
-{
   "link": "https://youtu.be/-YXCqaPD8_4",
   "category": "MEDIA_CONTENTS",
   "member": "우기",
@@ -477,18 +429,6 @@ const mediaContentsCards = [
   "alt": "[미방분 선공개] ★우기의 댄스교실★ 유후후후 하나만 기억하세요, 참 쉽죠~? (2019-06-09)",
   "title": "[미방분 선공개] ★우기의 댄스교실★ 유후후후 하나만 기억하세요, 참 쉽죠~? (2019-06-09)",
   "duration": "00:03:33"
-},
-
-{
-  "link": "https://youtu.be/UVxQ-K0QAA4",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2019",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/UVxQ-K0QAA4/sddefault.jpg",
-  "alt": "[가시나들 미방분] 우기의 시 - 꿈 「꿈은 거품처럼 사라지더라도 난 포기하지 않다」 (2019-06-09)",
-  "title": "[가시나들 미방분] 우기의 시 - 꿈 「꿈은 거품처럼 사라지더라도 난 포기하지 않다」 (2019-06-09)",
-  "duration": "00:00:46"
 },
 
 {
@@ -11647,7 +11587,332 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/-XuPizPLwe0/maxresdefault.jpg",
   "alt": "마피아 게임 한 우물만 판 초고수의 냉정한 취향 I 미스태리 x 마피아42 (2023-03-20)",
   "title": "마피아 게임 한 우물만 판 초고수의 냉정한 취향 I 미스태리 x 마피아42 (2023-03-20)"
+},
+  
+{
+  "link": "https://youtu.be/DDoIycDrSr8",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:01:06",
+  "thumbnail": "https://i.ytimg.com/vi/DDoIycDrSr8/maxresdefault.jpg",
+  "alt": "\"학교를 안... 아니 못 갔어!\" 구수(?) 바이브 폭발! 할매 약손 힐링 예능 #가시나들 1차 티저 (2019-05-02)",
+  "title": "\"학교를 안... 아니 못 갔어!\" 구수(?) 바이브 폭발! 할매 약손 힐링 예능 #가시나들 1차 티저 (2019-05-02)"
+},
+
+{
+  "link": "https://youtu.be/n4s-QdGSxo0",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/n4s-QdGSxo0/maxresdefault.jpg",
+  "alt": "주렁주렁(X) 주릉주릉(O) 우기 답이 교과서고 정답이야 #가시나들 3차 티저 (2019-05-07)",
+  "title": "주렁주렁(X) 주릉주릉(O) 우기 답이 교과서고 정답이야 #가시나들 3차 티저 (2019-05-07)"
+},
+
+{
+  "link": "https://youtu.be/eOSMtcffeZ4",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:49",
+  "thumbnail": "https://i.ytimg.com/vi/eOSMtcffeZ4/maxresdefault.jpg",
+  "alt": "[HOT] be happy , 가시나들 20190519 (2019-05-19)",
+  "title": "[HOT] be happy , 가시나들 (2019-05-19)"
+},
+
+{
+  "link": "https://youtu.be/MhMUhFuERyE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/MhMUhFuERyE/maxresdefault.jpg",
+  "alt": "[HOT] Explanation for Grandma, 가시나들 20190519 (2019-05-19)",
+  "title": "[HOT] Explanation for Grandma, 가시나들 (2019-05-19)"
+},
+
+{
+  "link": "https://youtu.be/DIAdk3SbRsc",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:32",
+  "thumbnail": "https://i.ytimg.com/vi/DIAdk3SbRsc/maxresdefault.jpg",
+  "alt": "[HOT] the bark of a dog, 가시나들 20190519 (2019-05-19)",
+  "title": "[HOT] the bark of a dog, 가시나들 (2019-05-19)"
+},
+
+{
+  "link": "https://youtu.be/9NUOBTIxSRg",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/9NUOBTIxSRg/maxresdefault.jpg",
+  "alt": "[HOT] I took my grandmother's hand., 가시나들 20190519 (2019-05-19)",
+  "title": "[HOT] I took my grandmother's hand., 가시나들 (2019-05-19)"
+},
+
+{
+  "link": "https://youtu.be/YXTbMdUj-3Q",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/YXTbMdUj-3Q/maxresdefault.jpg",
+  "alt": "[HOT] watch TV and be surprised, 가시나들 20190519 (2019-05-19)",
+  "title": "[HOT] watch TV and be surprised, 가시나들 (2019-05-19)"
+},
+
+{
+  "link": "https://youtu.be/QLzxj4l3aOA",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:13",
+  "thumbnail": "https://i.ytimg.com/vi/QLzxj4l3aOA/maxresdefault.jpg",
+  "alt": "mbc 예능 #가시나들 #미공개영상 EP.2 내안에 시가 있다 (feat) #우기 #장동윤 (2019-05-26)",
+  "title": "mbc 예능 #가시나들 #미공개영상 EP.2 내안에 시가 있다 (feat) #우기 #장동윤 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/4-rr2zw2Rd4",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/4-rr2zw2Rd4/maxresdefault.jpg",
+  "alt": "[HOT] a new teacher comes 가시나들 20190526 (2019-05-26)",
+  "title": "[HOT] a new teacher comes 가시나들 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/mgLmUR_c2kQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/mgLmUR_c2kQ/maxresdefault.jpg",
+  "alt": "[HOT] An exciting class, 가시나들 20190526 (2019-05-26)",
+  "title": "[HOT] An exciting class, 가시나들 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/r2gzZKHkriE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/r2gzZKHkriE/maxresdefault.jpg",
+  "alt": "[HOT] grandmother's innermost feelings 가시나들 20190526 (2019-05-26)",
+  "title": "[HOT] grandmother's innermost feelings 가시나들 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/f3oAllymTRE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/f3oAllymTRE/maxresdefault.jpg",
+  "alt": "[HOT] cook with a teacher 가시나들 20190526 (2019-05-26)",
+  "title": "[HOT] cook with a teacher 가시나들 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/tJgncf99Bt8",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "05",
+  "duration": "00:02:37",
+  "thumbnail": "https://i.ytimg.com/vi/tJgncf99Bt8/maxresdefault.jpg",
+  "alt": "[HOT] Grandma's English 가시나들 20190526 (2019-05-26)",
+  "title": "[HOT] Grandma's English 가시나들 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/_Cv9K6tY7jI",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:01:16",
+  "thumbnail": "https://i.ytimg.com/vi/_Cv9K6tY7jI/maxresdefault.jpg",
+  "alt": "[HOT] Preview granny EP3, 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] Preview granny EP3, 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/6JqmWidim_c",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:06:29",
+  "thumbnail": "https://i.ytimg.com/vi/6JqmWidim_c/maxresdefault.jpg",
+  "alt": "[미방분 선공개] ★장동윤의 토크가 빛나는 밤★ 우기 편 (2019-06-02)",
+  "title": "[미방분 선공개] ★장동윤의 토크가 빛나는 밤★ 우기 편 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/3swzGmS_rP0",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/3swzGmS_rP0/maxresdefault.jpg",
+  "alt": "[HOT] take a midterm, 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] take a midterm, 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/78jSNN701is",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/78jSNN701is/maxresdefault.jpg",
+  "alt": "[HOT] Grandmother's radio story, 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] Grandmother's radio story, 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/vXz_ZUo5L7Y",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:35",
+  "thumbnail": "https://i.ytimg.com/vi/vXz_ZUo5L7Y/maxresdefault.jpg",
+  "alt": "[HOT] Safety Training Hours, 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] Safety Training Hours, 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/pPDVzwfxQiI",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/pPDVzwfxQiI/maxresdefault.jpg",
+  "alt": "[HOT] Circling circling~ play a game 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] Circling circling~ play a game 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/VZ6F0HytGcQ",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/VZ6F0HytGcQ/maxresdefault.jpg",
+  "alt": "[HOT] Voice phishing coping, 가시나들 20190602 (2019-06-02)",
+  "title": "[HOT] Voice phishing coping, 가시나들 (2019-06-02)"
+},
+
+{
+  "link": "https://youtu.be/UVxQ-K0QAA4",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/UVxQ-K0QAA4/maxresdefault.jpg",
+  "alt": "[가시나들 미방분] 우기의 시 - 꿈 「꿈은 거품처럼 사라지더라도 난 포기하지 않다」 (2019-06-09)",
+  "title": "[가시나들 미방분] 우기의 시 - 꿈 「꿈은 거품처럼 사라지더라도 난 포기하지 않다」 (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/-YXCqaPD8_4",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/-YXCqaPD8_4/maxresdefault.jpg",
+  "alt": "[미방분 선공개] ★우기의 댄스교실★ 유후후후 하나만 기억하세요, 참 쉽죠~? (2019-06-09)",
+  "title": "[미방분 선공개] ★우기의 댄스교실★ 유후후후 하나만 기억하세요, 참 쉽죠~? (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/k_iRHoocLHE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:02",
+  "thumbnail": "https://i.ytimg.com/vi/k_iRHoocLHE/maxresdefault.jpg",
+  "alt": "[HOT] have good teamwork  , 가시나들 20190609 (2019-06-09)",
+  "title": "[HOT] have good teamwork  , 가시나들 (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/UgEI48lWgXM",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:35",
+  "thumbnail": "https://i.ytimg.com/vi/UgEI48lWgXM/maxresdefault.jpg",
+  "alt": "[HOT] Speed quiz , 가시나들 20190609 (2019-06-09)",
+  "title": "[HOT] Speed quiz , 가시나들 (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/JBbNuBTyFJM",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/JBbNuBTyFJM/maxresdefault.jpg",
+  "alt": "[HOT] Moved by writing my grandmother. ,  가시나들 20190609 (2019-06-09)",
+  "title": "[HOT] Moved by writing my grandmother. ,  가시나들 (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/dCqbsqsh-eE",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/dCqbsqsh-eE/maxresdefault.jpg",
+  "alt": "[HOT] a love letter with a memory,  가시나들 20190609 (2019-06-09)",
+  "title": "[HOT] a love letter with a memory,  가시나들 (2019-06-09)"
+},
+
+{
+  "link": "https://youtu.be/uIlq4ypPPxc",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2019",
+  "month": "06",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/uIlq4ypPPxc/maxresdefault.jpg",
+  "alt": "[HOT] the closing ceremony,  가시나들 20190609 (2019-06-09)",
+  "title": "[HOT] the closing ceremony,  가시나들 (2019-06-09)"
 }
+
 
 
 
