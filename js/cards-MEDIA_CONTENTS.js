@@ -11383,7 +11383,7 @@ const mediaContentsCards = [
 },
   {
   "link": "https://youtu.be/mDiZFM97uUo",
-  "category": "ORIGINAL_VARIETY",
+  "category": "MEDIA_CONTENTS",
   "member": "아이들",
   "year": "2018",
   "month": "12",
