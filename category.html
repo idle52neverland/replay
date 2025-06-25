@@ -315,13 +315,20 @@
           window.open(card.link, '_blank');
         };
         container.appendChild(el);
+
+        // ✅ 세로 vs 가로 처리
+        const img = el.querySelector('img');
+        img.onload = function () {
+          const isVertical = img.naturalHeight > img.naturalWidth;
+          img.style.objectFit = isVertical ? 'contain' : 'cover';
+          img.style.backgroundColor = '#000';
+        };
       });
 
       currentIndex += batchSize;
       loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
       updateCardCount(data.length);
     }
-
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
       filterContainer.innerHTML = '';
@@ -391,16 +398,6 @@
     }
 
     window.onload = function () {
-      document.querySelectorAll('.thumbnail-wrapper img').forEach(img => {
-        img.onload = function () {
-          const isVertical = img.naturalHeight > img.naturalWidth;
-          if (isVertical) {
-            img.style.objectFit = 'contain';
-          }
-          img.style.backgroundColor = '#000';
-        };
-      });
-
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       mainTitle.textContent = selectedCategory || "전체 영상";
 
@@ -412,6 +409,7 @@
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
       document.getElementById("scrollTopBtn").onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+
       document.getElementById("toggleSortBtn").onclick = () => {
         sortOrder = sortOrder === "newest" ? "oldest" : "newest";
         document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
