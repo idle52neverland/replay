@@ -11462,6 +11462,73 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/RbgBOALgo14/sddefault.jpg",
   "alt": "전소연의 페이스아이디 22화 | FACE ID EP.22 (2021-02-08)",
   "title": "전소연의 페이스아이디 22화 | FACE ID EP.22 (2021-02-08)"
+},
+  {
+  "link": "https://youtu.be/YRcHfWAfRis",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "duration": "00:02:36",
+  "thumbnail": "https://i.ytimg.com/vi/YRcHfWAfRis/hqdefault.jpg",
+  "alt": "우리 (여자)아이들 컴백 소식 들었어요? l 2024 (G)I-DLE l 서든어택 (2024-07-04)",
+  "title": "우리 (여자)아이들 컴백 소식 들었어요? l 2024 (G)I-DLE l 서든어택 (2024-07-04)"
+},
+{
+  "link": "https://youtu.be/vZ3FjIUAO5k",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "07",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/vZ3FjIUAO5k/mqdefault.jpg",
+  "alt": "여자 아이들 감정표현 모음집 l 서든어택 (2022-07-28)",
+  "title": "여자 아이들 감정표현 모음집 l 서든어택 (2022-07-28)"
+},
+{
+  "link": "https://youtu.be/LZopkL3xwxM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:02:29",
+  "thumbnail": "https://i.ytimg.com/vi/LZopkL3xwxM/mqdefault.jpg",
+  "alt": "[2021년을 빛낼 핫 스타] (여자)아이들! 미니 4집 [I burn] 오는 11일 공개 [연중 라이브] (2021-01-08)",
+  "title": "[2021년을 빛낼 핫 스타] (여자)아이들! 미니 4집 [I burn] 오는 11일 공개 [연중 라이브] (2021-01-08)"
+},
+{
+  "link": "https://youtu.be/NWzBeuth5DM",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "01",
+  "duration": "00:22:19",
+  "thumbnail": "https://i.ytimg.com/vi/NWzBeuth5DM/hqdefault.jpg",
+  "alt": "Seezn 아이돌다방2 여자아이들 PART 1 (2020-01-02)",
+  "title": "Seezn 아이돌다방2 여자아이들 PART 1 (2020-01-02)"
+},
+
+{
+  "link": "https://youtu.be/1_R01UNr9i8",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "01",
+  "duration": "00:27:24",
+  "thumbnail": "https://i.ytimg.com/vi/1_R01UNr9i8/hqdefault.jpg",
+  "alt": "Seezn 아이돌다방2 (여자)아이들 PART 2 (2020-01-09)",
+  "title": "Seezn 아이돌다방2 (여자)아이들 PART 2 (2020-01-09)"
+},
+{
+  "link": "https://youtu.be/AyfSEQTaxz4",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:15:52",
+  "thumbnail": "https://i.ytimg.com/vi/AyfSEQTaxz4/maxresdefault.jpg",
+  "alt": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)",
+  "title": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)"
 }
 
 
