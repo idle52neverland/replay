@@ -121,18 +121,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/H_HKE1mwzuo",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
-  "duration": "00:03:38"
-},
-
-{
   "link": "https://youtu.be/HPQ5mqovXHo",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
