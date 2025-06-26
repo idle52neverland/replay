@@ -336,18 +336,6 @@ const interviewCards = [
 },
 
 {
-  "link": "https://youtu.be/W59VCFYAzrg",
-  "category": "INTERVIEW",
-  "member": "아이들",
-  "year": "2020",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/W59VCFYAzrg/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
-  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
-  "duration": "00:38:30"
-},
-
-{
   "link": "https://youtu.be/eqpesL2E9co",
   "category": "INTERVIEW",
   "member": "아이들",
