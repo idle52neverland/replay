@@ -792,18 +792,6 @@ const vocalAndDanceCards = [
 },
 
 {
-  "link": "https://youtu.be/H_HKE1mwzuo",
-  "category": "VOCAL_AND_DANCE",
-  "member": "아이들",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
-  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver. (2020-08-03)",
-  "duration": "00:03:38"
-},
-
-{
   "link": "https://youtu.be/J7X6iK3Ox3U",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
