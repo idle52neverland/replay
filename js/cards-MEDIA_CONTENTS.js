@@ -11970,7 +11970,7 @@ const mediaContentsCards = [
   "duration": "00:57:27",
   "thumbnail": "https://i.ytimg.com/vi/WY2pw9uICzY/maxresdefault.jpg",
   "alt": "MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10 (2023-07-18)",
-  "title": "MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10 (2023-07-18)"
+  "title": "민니 우기, 이제 그만,.. 집에 가주세요. 촬영 끝났단 말이에요 😂 | 대박쇼 S3 EP10 / MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10  (2023-07-18)"
 }
 
 
