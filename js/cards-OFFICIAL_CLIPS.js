@@ -7329,7 +7329,548 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/c_e7-ZTxp5Q/maxresdefault.jpg",
   "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
   "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)"
+},
+  
+{
+  "link": "https://youtu.be/McgN9q0zLyE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/McgN9q0zLyE/maxresdefault.jpg",
+  "alt": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
+  "title": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)"
+},
+
+{
+  "link": "https://youtu.be/x2Mu2Zk_CVk",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:03:59",
+  "thumbnail": "https://i.ytimg.com/vi/x2Mu2Zk_CVk/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Good Thing' 응원법ㅣSUB (2025-05-19)",
+  "title": "i-dle (아이들) 'Good Thing' 응원법ㅣSUB (2025-05-19)"
+},
+
+{
+  "link": "https://youtu.be/d6ZMNCgQ7lM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2025",
+  "month": "04",
+  "duration": "00:29:28",
+  "thumbnail": "https://i.ytimg.com/vi/d6ZMNCgQ7lM/maxresdefault.jpg",
+  "alt": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-30)",
+  "title": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-30)"
+},
+
+{
+  "link": "https://youtu.be/DFNE3fdHKJ0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "슈화",
+  "year": "2025",
+  "month": "03",
+  "duration": "00:29:27",
+  "thumbnail": "https://i.ytimg.com/vi/DFNE3fdHKJ0/maxresdefault.jpg",
+  "alt": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-03-13)",
+  "title": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-03-13)"
+},
+
+{
+  "link": "https://youtu.be/ZmuQSydCrhg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "02",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/ZmuQSydCrhg/maxresdefault.jpg",
+  "alt": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB (2025-02-06)",
+  "title": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB (2025-02-06)"
+},
+
+{
+  "link": "https://youtu.be/_-_0rSo_4x4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:13:32",
+  "thumbnail": "https://i.ytimg.com/vi/_-_0rSo_4x4/maxresdefault.jpg",
+  "alt": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB (2025-01-31)",
+  "title": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB (2025-01-31)"
+},
+
+{
+  "link": "https://youtu.be/a0NFYWHjRy8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:09:15",
+  "thumbnail": "https://i.ytimg.com/vi/a0NFYWHjRy8/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (Interview Ver.) (2025-01-29)",
+  "title": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (Interview Ver.) (2025-01-29)"
+},
+
+{
+  "link": "https://youtu.be/_jsLicER8XY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:02:04",
+  "thumbnail": "https://i.ytimg.com/vi/_jsLicER8XY/maxresdefault.jpg",
+  "alt": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB (2025-01-29)",
+  "title": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB (2025-01-29)"
+},
+
+{
+  "link": "https://youtu.be/j1dICgQi-gU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:00:34",
+  "thumbnail": "https://i.ytimg.com/vi/j1dICgQi-gU/maxresdefault.jpg",
+  "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer (2025-01-22)",
+  "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer (2025-01-22)"
+},
+
+{
+  "link": "https://youtu.be/SXp592Vquiw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/SXp592Vquiw/maxresdefault.jpg",
+  "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏 (2025-01-16)",
+  "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏 (2025-01-16)"
+},
+
+{
+  "link": "https://youtu.be/IBmYGGE35Ss",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/IBmYGGE35Ss/maxresdefault.jpg",
+  "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳 (2025-01-08)",
+  "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳 (2025-01-08)"
+},
+
+{
+  "link": "https://youtu.be/AiAseBkFo04",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/AiAseBkFo04/maxresdefault.jpg",
+  "alt": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE (2025-01-08)",
+  "title": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE (2025-01-08)"
+},
+
+{
+  "link": "https://youtu.be/htAKPMXNqe8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/htAKPMXNqe8/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 1st Mini Album COMING SOON (2025-01-07)",
+  "title": "민니(MINNIE) - 1st Mini Album COMING SOON (2025-01-07)"
+},
+
+{
+  "link": "https://youtu.be/R0-xJDAAEWw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/R0-xJDAAEWw/maxresdefault.jpg",
+  "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳 (2025-01-05)",
+  "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳 (2025-01-05)"
+},
+
+{
+  "link": "https://youtu.be/hqEBPVNxg-A",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "10",
+  "duration": "00:00:51",
+  "thumbnail": "https://i.ytimg.com/vi/hqEBPVNxg-A/maxresdefault.jpg",
+  "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT (2024-10-24)",
+  "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT (2024-10-24)"
+},
+
+{
+  "link": "https://youtu.be/2rQBtMEB6Bs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "07",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/2rQBtMEB6Bs/maxresdefault.jpg",
+  "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
+  "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)"
+},
+
+{
+  "link": "https://youtu.be/6g_qFnZjsxQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "12",
+  "duration": "00:00:53",
+  "thumbnail": "https://i.ytimg.com/vi/6g_qFnZjsxQ/maxresdefault.jpg",
+  "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT (2023-12-18)",
+  "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT (2023-12-18)"
+},
+
+{
+  "link": "https://youtu.be/_NCMWptDQFg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/_NCMWptDQFg/maxresdefault.jpg",
+  "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT (2023-06-07)",
+  "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT (2023-06-07)"
+},
+
+{
+  "link": "https://youtu.be/pz1iMo5pQcg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:02:43",
+  "thumbnail": "https://i.ytimg.com/vi/pz1iMo5pQcg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOOKMIN UNIVERSITY (2023-06-01)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOOKMIN UNIVERSITY (2023-06-01)"
+},
+
+{
+  "link": "https://youtu.be/je9vk7qIM7A",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:02:42",
+  "thumbnail": "https://i.ytimg.com/vi/je9vk7qIM7A/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Allergy' @ KOOKMIN UNIVERSITY (2023-06-01)",
+  "title": "(여자)아이들((G)I-DLE) - 'Allergy' @ KOOKMIN UNIVERSITY (2023-06-01)"
+},
+
+{
+  "link": "https://youtu.be/ZHJPJleCa5M",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "06",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/ZHJPJleCa5M/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOOKMIN UNIVERSITY (2023-06-01)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOOKMIN UNIVERSITY (2023-06-01)"
+},
+
+{
+  "link": "https://youtu.be/IVAXcw0qH_c",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/IVAXcw0qH_c/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ KYUNG HEE UNIVERSITY (2023-05-27)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ KYUNG HEE UNIVERSITY (2023-05-27)"
+},
+
+{
+  "link": "https://youtu.be/tOID3CTHBHg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/tOID3CTHBHg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOREA UNIVERSITY (2023-05-27)",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOREA UNIVERSITY (2023-05-27)"
+},
+
+{
+  "link": "https://youtu.be/qYpPn5CudRw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2023",
+  "month": "05",
+  "duration": "00:03:00",
+  "thumbnail": "https://i.ytimg.com/vi/qYpPn5CudRw/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOREA UNIVERSITY (2023-05-27)",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOREA UNIVERSITY (2023-05-27)"
+},
+
+{
+  "link": "https://youtu.be/bNEp5XtJwow",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:05:05",
+  "thumbnail": "https://i.ytimg.com/vi/bNEp5XtJwow/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/kKDd451WWAw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:09:40",
+  "thumbnail": "https://i.ytimg.com/vi/kKDd451WWAw/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/69oSaVo3wPo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:04:06",
+  "thumbnail": "https://i.ytimg.com/vi/69oSaVo3wPo/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/_Sbv4c1PxwI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:01:30",
+  "thumbnail": "https://i.ytimg.com/vi/_Sbv4c1PxwI/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/cY0Va2TgsfI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/cY0Va2TgsfI/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/60Rb1vTzffI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:05:55",
+  "thumbnail": "https://i.ytimg.com/vi/60Rb1vTzffI/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/un2_yqdc72g",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:02:00",
+  "thumbnail": "https://i.ytimg.com/vi/un2_yqdc72g/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/BEOF3t0fM9g",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/BEOF3t0fM9g/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/BMNofD53P2U",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:06:15",
+  "thumbnail": "https://i.ytimg.com/vi/BMNofD53P2U/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/kmfHkL7u7IY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2022",
+  "month": "05",
+  "duration": "00:04:06",
+  "thumbnail": "https://i.ytimg.com/vi/kmfHkL7u7IY/maxresdefault.jpg",
+  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
+  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)"
+},
+
+{
+  "link": "https://youtu.be/P62kgQCuxGE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
+  "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)"
+},
+
+{
+  "link": "https://youtu.be/3ism5AMppCM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "02",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/3ism5AMppCM/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Audio Teaser (2021-02-03)",
+  "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Audio Teaser (2021-02-03)"
+},
+
+{
+  "link": "https://youtu.be/ZEqbiI2HHGQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:01:07",
+  "thumbnail": "https://i.ytimg.com/vi/ZEqbiI2HHGQ/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN) (2020-09-22)"
+},
+
+{
+  "link": "https://youtu.be/G-HmfEBRHB4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/G-HmfEBRHB4/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)"
+},
+
+{
+  "link": "https://youtu.be/0B1rjWurMFU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/0B1rjWurMFU/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)"
+},
+
+{
+  "link": "https://youtu.be/-RLQFpuvru4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "09",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/-RLQFpuvru4/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)"
+},
+
+{
+  "link": "https://youtu.be/NEBneT2X6o0",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "07",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/NEBneT2X6o0/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - Trailer (2020-07-04)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - Trailer (2020-07-04)"
+},
+
+{
+  "link": "https://youtu.be/sF5pj1CZv2o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "06",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/sF5pj1CZv2o/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)"
+},
+
+{
+  "link": "https://youtu.be/6iM5pZtvbis",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "06",
+  "duration": "00:00:48",
+  "thumbnail": "https://i.ytimg.com/vi/6iM5pZtvbis/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)"
+},
+
+{
+  "link": "https://youtu.be/VLrEJnJSh6s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "06",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/VLrEJnJSh6s/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)"
+},
+
+{
+  "link": "https://youtu.be/HnvWJehjYQA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "05",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/HnvWJehjYQA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)"
 }
+
 
 
     ];
