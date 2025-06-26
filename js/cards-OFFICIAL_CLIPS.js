@@ -7880,6 +7880,233 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
   "duration": "00:38:30"
+},
+  {
+  "link": "https://youtu.be/Ks2SkLVEx4s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/Ks2SkLVEx4s/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) Relay Dance (2020-08-26)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) Relay Dance (2020-08-26)"
+},
+
+{
+  "link": "https://youtu.be/vUpyKv4BIqE",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/vUpyKv4BIqE/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction (2020-08-24)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction (2020-08-24)"
+},
+
+{
+  "link": "https://youtu.be/B76OrD9JmeI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:04",
+  "thumbnail": "https://i.ytimg.com/vi/B76OrD9JmeI/maxresdefault.jpg",
+  "alt": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
+  "title": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)"
+},
+
+{
+  "link": "https://youtu.be/2ofiMw4oJbA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/2ofiMw4oJbA/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser (2020-08-18)",
+  "title": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser (2020-08-18)"
+},
+
+{
+  "link": "https://youtu.be/eogel7-rvrU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/eogel7-rvrU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA) (2020-08-17)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA) (2020-08-17)"
+},
+
+{
+  "link": "https://youtu.be/cDJUEVXFXuI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/cDJUEVXFXuI/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI) (2020-08-16)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI) (2020-08-16)"
+},
+
+{
+  "link": "https://youtu.be/2Hg0VnufnEg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/2Hg0VnufnEg/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON) (2020-08-15)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON) (2020-08-15)"
+},
+
+{
+  "link": "https://youtu.be/1hnA1WUO5PU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/1hnA1WUO5PU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN) (2020-08-14)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN) (2020-08-14)"
+},
+
+{
+  "link": "https://youtu.be/UZOIqpTtZdw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/UZOIqpTtZdw/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE) (2020-08-13)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE) (2020-08-13)"
+},
+
+{
+  "link": "https://youtu.be/w77Is2MsynU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/w77Is2MsynU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON) (2020-08-12)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON) (2020-08-12)"
+},
+
+{
+  "link": "https://youtu.be/5mfsByNYsIc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:01:57",
+  "thumbnail": "https://i.ytimg.com/vi/5mfsByNYsIc/maxresdefault.jpg",
+  "alt": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet (2020-08-11)",
+  "title": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet (2020-08-11)"
+},
+
+{
+  "link": "https://youtu.be/ydQ6tQNOzys",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/ydQ6tQNOzys/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO (2019-07-19)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO (2019-07-19)"
+},
+
+{
+  "link": "https://youtu.be/hWoAD89V5Kw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/hWoAD89V5Kw/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (2019-07-07)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (2019-07-07)"
+},
+
+{
+  "link": "https://youtu.be/AdGKH1fjA1M",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/AdGKH1fjA1M/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA) (2019-07-06)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA) (2019-07-06)"
+},
+
+{
+  "link": "https://youtu.be/9mLIX-AwQuQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/9mLIX-AwQuQ/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (YUQI) (2019-07-05)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (YUQI) (2019-07-05)"
+},
+
+{
+  "link": "https://youtu.be/eqqzvSNMJHg",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/eqqzvSNMJHg/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOYEON) (2019-07-04)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOYEON) (2019-07-04)"
+},
+
+{
+  "link": "https://youtu.be/csTEFg3Cefs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/csTEFg3Cefs/sddefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOOJIN) (2019-07-03)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOOJIN) (2019-07-03)"
+},
+
+{
+  "link": "https://youtu.be/G80FyC2_UyY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/G80FyC2_UyY/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MINNIE) (2019-07-02)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MINNIE) (2019-07-02)"
+},
+
+{
+  "link": "https://youtu.be/aud0TbYbcRc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/aud0TbYbcRc/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MIYEON) (2019-07-01)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MIYEON) (2019-07-01)"
 }
 
 
