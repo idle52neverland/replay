@@ -609,6 +609,28 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/fnW6z7a5Hm8/maxresdefault.jpg",
   "alt": "미연 - 너는 나의 숨이었다 (2021-05-28)",
   "title": "미연 - 너는 나의 숨이었다 (2021-05-28)"
+},
+  {
+  "link": "https://youtu.be/9qLXSI7soLw",
+  "category": "RECORDING_BEHIND",
+  "member": "민니",
+  "year": "2025",
+  "month": "04",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/9qLXSI7soLw/maxresdefault.jpg",
+  "alt": "'blue (with MINNIE)' by yung kai Recording Behind | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-22)",
+  "title": "'blue (with MINNIE)' by yung kai Recording Behind | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-22)"
+},
+{
+  "link": "https://youtu.be/KSFu__HZVf8",
+  "category": "RECORDING_BEHIND",
+  "member": "우기",
+  "year": "2024",
+  "month": "04",
+  "duration": "00:07:00",
+  "thumbnail": "https://i.ytimg.com/vi/KSFu__HZVf8/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'Could It Be' Recording Behind (ENG/CHN) (2024-04-09)",
+  "title": "우기(YUQI) - 'Could It Be' Recording Behind (ENG/CHN) (2024-04-09)"
 }
 
   ];
