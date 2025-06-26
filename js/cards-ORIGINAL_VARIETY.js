@@ -390,8 +390,8 @@ const originalVarietyCards = [
   "month": "06",
   "duration": "00:27:41",
   "thumbnail": "https://i.ytimg.com/vi/cHdtMzIGVeY/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.1 (2022-06-23)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.1 (2022-06-23)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.1 |(G)I‑DLE: Handle with Care (2022-06-23)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.1 |(G)I‑DLE: Handle with Care  (2022-06-23)"
 },
 
 {
@@ -402,8 +402,8 @@ const originalVarietyCards = [
   "month": "06",
   "duration": "00:30:57",
   "thumbnail": "https://i.ytimg.com/vi/n7z0y9rntug/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.2 (2022-06-30)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.2 (2022-06-30)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.2 |(G)I‑DLE: Handle with Care  (2022-06-30)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.2 |(G)I‑DLE: Handle with Care  (2022-06-30)"
 },
 
 {
@@ -414,8 +414,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:29:01",
   "thumbnail": "https://i.ytimg.com/vi/Q8hx7ivQZNI/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 (2022-07-07)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 (2022-07-07)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 |(G)I‑DLE: Handle with Care  (2022-07-07)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 |(G)I‑DLE: Handle with Care  (2022-07-07)"
 },
 
 {
@@ -426,8 +426,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/H9DdJL73eD8/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind (2022-07-12)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind (2022-07-12)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind |(G)I‑DLE: Handle with Care  (2022-07-12)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind |(G)I‑DLE: Handle with Care  (2022-07-12)"
 },
 
 {
@@ -438,8 +438,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:32:05",
   "thumbnail": "https://i.ytimg.com/vi/7DrSDGbS_iE/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 (2022-07-14)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 (2022-07-14)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 |(G)I‑DLE: Handle with Care  (2022-07-14)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 |(G)I‑DLE: Handle with Care  (2022-07-14)"
 },
 
 {
@@ -450,8 +450,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/ASJlcRmvz6c/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind (2022-07-19)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind (2022-07-19)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind |(G)I‑DLE: Handle with Care  (2022-07-19)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind |(G)I‑DLE: Handle with Care  (2022-07-19)"
 },
 
 {
@@ -462,8 +462,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:34:27",
   "thumbnail": "https://i.ytimg.com/vi/t81p5JxJPVo/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 (2022-07-21)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 (2022-07-21)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 |(G)I‑DLE: Handle with Care  (2022-07-21)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 |(G)I‑DLE: Handle with Care  (2022-07-21)"
 },
 
 {
@@ -474,8 +474,8 @@ const originalVarietyCards = [
   "month": "07",
   "duration": "00:04:55",
   "thumbnail": "https://i.ytimg.com/vi/0zyIqbyz6zM/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind (2022-07-26)",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind (2022-07-26)"
+  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind |(G)I‑DLE: Handle with Care  (2022-07-26)",
+  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind |(G)I‑DLE: Handle with Care  (2022-07-26)"
 },
 
 {
@@ -486,8 +486,8 @@ const originalVarietyCards = [
   "month": "09",
   "duration": "00:28:07",
   "thumbnail": "https://i.ytimg.com/vi/1rTlSErNfzM/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.1 (2022-09-22)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.1 (2022-09-22)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.1 |(G)I‑DLE: Handle with Care  (2022-09-22)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.1 |(G)I‑DLE: Handle with Care  (2022-09-22)"
 },
 
 {
@@ -498,8 +498,8 @@ const originalVarietyCards = [
   "month": "10",
   "duration": "00:04:00",
   "thumbnail": "https://i.ytimg.com/vi/WVwCF8NDAPk/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 Behind  (2022-10-28)",
-  "title": "(여자)아이들 외 취급주의 시즌2 Behind  (2022-10-28)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 Behind |(G)I‑DLE: Handle with Care   (2022-10-28)",
+  "title": "(여자)아이들 외 취급주의 시즌2 Behind |(G)I‑DLE: Handle with Care   (2022-10-28)"
 },
 
 {
@@ -510,8 +510,8 @@ const originalVarietyCards = [
   "month": "09",
   "duration": "00:25:27",
   "thumbnail": "https://i.ytimg.com/vi/QZGXnGH2hA8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.2 (2022-09-29)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.2 (2022-09-29)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.2 |(G)I‑DLE: Handle with Care  (2022-09-29)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.2 |(G)I‑DLE: Handle with Care  (2022-09-29)"
 },
 
 {
@@ -522,8 +522,8 @@ const originalVarietyCards = [
   "month": "10",
   "duration": "00:26:36",
   "thumbnail": "https://i.ytimg.com/vi/Y-WAKb5frs0/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.3 (2022-10-06)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.3 (2022-10-06)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.3 |(G)I‑DLE: Handle with Care  (2022-10-06)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.3 |(G)I‑DLE: Handle with Care  (2022-10-06)"
 },
 
 {
@@ -534,8 +534,8 @@ const originalVarietyCards = [
   "month": "10",
   "duration": "00:24:58",
   "thumbnail": "https://i.ytimg.com/vi/-EUwuAGZBBs/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.4 (2022-10-13)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.4 (2022-10-13)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.4 |(G)I‑DLE: Handle with Care  (2022-10-13)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.4 |(G)I‑DLE: Handle with Care  (2022-10-13)"
 },
 
 {
@@ -546,8 +546,8 @@ const originalVarietyCards = [
   "month": "10",
   "duration": "00:26:48",
   "thumbnail": "https://i.ytimg.com/vi/xrKH2_vSOm8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.5 (2022-10-20)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.5 (2022-10-20)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.5 |(G)I‑DLE: Handle with Care  (2022-10-20)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.5 |(G)I‑DLE: Handle with Care  (2022-10-20)"
 },
 
 {
@@ -558,8 +558,8 @@ const originalVarietyCards = [
   "month": "10",
   "duration": "00:29:23",
   "thumbnail": "https://i.ytimg.com/vi/4tcDGRZ2MIo/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.6 (2022-10-27)",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.6 (2022-10-27)"
+  "alt": "(여자)아이들 외 취급주의 시즌2 EP.6 |(G)I‑DLE: Handle with Care  (2022-10-27)",
+  "title": "(여자)아이들 외 취급주의 시즌2 EP.6 |(G)I‑DLE: Handle with Care  (2022-10-27)"
 },
 
 {
@@ -570,8 +570,8 @@ const originalVarietyCards = [
   "month": "09",
   "duration": "01:13:08",
   "thumbnail": "https://i.ytimg.com/vi/hJ0iu7dxrEw/sddefault.jpg",
-  "alt": "방해금지모드+ (FULL VER.) (2022-09-14)",
-  "title": "방해금지모드+ (FULL VER.) (2022-09-14)"
+  "alt": "방해금지모드+ (FULL VER.) | Do Not Disturb (2022-09-14)",
+  "title": "방해금지모드+ (FULL VER.) | Do Not Disturb (2022-09-14)"
 },
 
 {
@@ -582,8 +582,8 @@ const originalVarietyCards = [
   "month": "09",
   "duration": "00:04:18",
   "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg",
-  "alt": "방해금지모드+ BEHIND (2022-09-15)",
-  "title": "방해금지모드+ BEHIND (2022-09-15) "
+  "alt": "방해금지모드+ BEHIND | Do Not Disturb (2022-09-15)",
+  "title": "방해금지모드+ BEHIND | Do Not Disturb (2022-09-15) "
 },
 
 {
