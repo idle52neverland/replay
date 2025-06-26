@@ -36,18 +36,6 @@ const interviewCards = [
 },
 
 {
-  "link": "https://youtu.be/Yeed17jb814",
-  "category": "INTERVIEW",
-  "member": "아이들",
-  "year": "2018",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/Yeed17jb814/sddefault.jpg",
-  "alt": "[Celuv.TV/셀럽티비] '(여자)아이들' 데뷔 쇼케이스 (2018-05-03)",
-  "title": "[Celuv.TV/셀럽티비] '(여자)아이들' 데뷔 쇼케이스 (2018-05-03)",
-  "duration": "01:08:19"
-},
-
-{
   "link": "https://youtu.be/qDnFFHosNUg",
   "category": "INTERVIEW",
   "member": "미연",
