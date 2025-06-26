@@ -7318,6 +7318,17 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/2NhGrE9HJl0/hqdefault.jpg",
   "alt": "'Good Thing' 음악방송 비하인드 PART 2 [i-talk] #202 | i-dle (아이들)ㅣSUB (2025-06-21)",
   "title": "'Good Thing' 음악방송 비하인드 PART 2 [i-talk] #202 | i-dle (아이들)ㅣSUB (2025-06-21)"
+},
+  {
+  "link": "https://youtu.be/c_e7-ZTxp5Q",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:18:32",
+  "thumbnail": "https://i.ytimg.com/vi/c_e7-ZTxp5Q/maxresdefault.jpg",
+  "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
+  "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)"
 }
 
 
