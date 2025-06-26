@@ -11997,6 +11997,17 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/_Im0pI0HL9M/hqdefault.jpg",
   "alt": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)",
   "title": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)"
+},
+  {
+  "link": "https://drive.google.com/file/d/1C9tMeZNrYaHSEwIKFOsoAjRS3EPSMAII/view?usp=sharing",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/아이돌리그.png",
+  "alt": "아이돌리그(IDOL LEAGUE) (여자)아이들 FULL (2021.01.29)",
+  "title": "아이돌리그(IDOL LEAGUE) (여자)아이들 FULL (2021.01.29)",
+  "duration": "00:48:04"
 }
 
 
