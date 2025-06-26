@@ -11971,7 +11971,56 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WY2pw9uICzY/maxresdefault.jpg",
   "alt": "MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10 (2023-07-18)",
   "title": "민니 우기, 이제 그만,.. 집에 가주세요. 촬영 끝났단 말이에요 😂 | 대박쇼 S3 EP10 / MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10  (2023-07-18)"
+},
+  
+{
+  "link": "https://youtu.be/b0KpttfcRGo",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2022",
+  "month": "02",
+  "duration": "00:14:44",
+  "thumbnail": "https://i.ytimg.com/vi/b0KpttfcRGo/maxresdefault.jpg",
+  "alt": "민니의 스노우월드 EP.01 (여자)아이들 민니, 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat. ⛄)  (2022-02-09)",
+  "title": "민니의 스노우월드 EP.01 - 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat. ⛄)  (2022-02-09)"
+},
+
+{
+  "link": "https://youtu.be/7N2L81kwCyo",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2022",
+  "month": "02",
+  "duration": "00:11:35",
+  "thumbnail": "https://i.ytimg.com/vi/7N2L81kwCyo/maxresdefault.jpg",
+  "alt": "민니의 스노우월드 EP.02 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기 (2022-02-16)",
+  "title": "민니의 스노우월드 EP.02 - 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기 (2022-02-16)"
+},
+
+{
+  "link": "https://youtu.be/amhPkN3nlj8",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2022",
+  "month": "02",
+  "duration": "00:11:21",
+  "thumbnail": "https://i.ytimg.com/vi/amhPkN3nlj8/maxresdefault.jpg",
+  "alt": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat. 일석이조) (2022-02-23)",
+  "title": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat. 일석이조) (2022-02-23)"
+},
+
+{
+  "link": "https://youtu.be/mkdsk6d4s1M",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2022",
+  "month": "03",
+  "duration": "00:11:28",
+  "thumbnail": "https://i.ytimg.com/vi/mkdsk6d4s1M/maxresdefault.jpg",
+  "alt": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥 (2022-03-02)",
+  "title": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥 (2022-03-02)"
 }
+
 
 
 ];
