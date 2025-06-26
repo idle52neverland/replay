@@ -4992,18 +4992,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/l7zC_68Zc1E",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/l7zC_68Zc1E/sddefault.jpg",
-  "alt": "그래서 LATATA가 뭐야🤔 작사가와 함께하는 (여자)아이들의 세종대왕 도전 [아이돌리그 선공개]",
-  "title": "그래서 LATATA가 뭐야🤔 작사가와 함께하는 (여자)아이들의 세종대왕 도전 [아이돌리그 선공개] (2021-01-29)",
-  "duration": "00:03:35"
-},
-
-{
   "link": "https://youtu.be/SwZXbGFjnQY",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -5013,18 +5001,6 @@ const mediaContentsCards = [
   "alt": "(여자)아이들이 같이 곡 작업을 해보고 싶은 사람은 아이유🎼, 아이돌리그 대기실에서 전해드립니다.｜DOL터뷰 #STATV (2021-01-29)",
   "title": "(여자)아이들이 같이 곡 작업을 해보고 싶은 사람은 아이유🎼, 아이돌리그 대기실에서 전해드립니다.｜DOL터뷰 #STATV (2021-01-29)",
   "duration": "00:12:43"
-},
-
-{
-  "link": "https://youtu.be/VvSDq_VagNw",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/VvSDq_VagNw/sddefault.jpg",
-  "alt": "[ENG] [아이돌리그] (여자)아이들｜토요일 저녁 8시 공개 (2021-01-29)",
-  "title": "[ENG] [아이돌리그] (여자)아이들｜토요일 저녁 8시 공개 (2021-01-29)",
-  "duration": "00:48:05"
 },
 
 {
@@ -7080,30 +7056,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/h91jdKHoe0c",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/h91jdKHoe0c/sddefault.jpg",
-  "alt": "(sub) [쑈잇] 솔직히 미연이는 태어날 때부터 이랬을 거 같아❤️‍🔥 | 꿀로그잼 : 네버버 예술학교 (여자)아이들",
-  "title": "(sub) [쑈잇] 솔직히 미연이는 태어날 때부터 이랬을 거 같아❤️‍🔥 | 꿀로그잼 : 네버버 예술학교 (여자)아이들 (2022-05-19)",
-  "duration": "00:02:08"
-},
-
-{
-  "link": "https://youtu.be/GHuUBvl_qkw",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/GHuUBvl_qkw/sddefault.jpg",
-  "alt": "(sub) [88클립] 남친에게 관심 있는 귀여운 여자 VS 남친의 10년지기 여사친 | 꿀로그잼 : 네버버 예술학교 (여자)아이들",
-  "title": "(sub) [88클립] 남친에게 관심 있는 귀여운 여자 VS 남친의 10년지기 여사친 | 꿀로그잼 : 네버버 예술학교 (여자)아이들 (2022-05-21)",
-  "duration": "00:01:29"
-},
-
-{
   "link": "https://youtu.be/sLQGNQsTBqo",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -7113,18 +7065,6 @@ const mediaContentsCards = [
   "alt": "존재가 Princess 어쩌면 공주병👑 미연 공주님의 동스케 행차! 조나단과 동성동본? | 동네스타K EP.10 (2022-05-21)",
   "title": "존재가 Princess 어쩌면 공주병👑 미연 공주님의 동스케 행차! 조나단과 동성동본? | 동네스타K EP.10 (2022-05-21)",
   "duration": "00:15:40"
-},
-
-{
-  "link": "https://youtu.be/Aa8MD7jlyLA",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/Aa8MD7jlyLA/sddefault.jpg",
-  "alt": "(sub) [FULL] (여자)아이들 꿀로그잼 : 네버버예술학교 Ep.01 (2022-05-25)",
-  "title": "(sub) [FULL] (여자)아이들 꿀로그잼 : 네버버예술학교 Ep.01 (2022-05-25)",
-  "duration": "00:16:57"
 },
 
 {
@@ -12005,8 +11945,8 @@ const mediaContentsCards = [
   "year": "2021",
   "month": "01",
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/아이돌리그.png",
-  "alt": "아이돌리그(IDOL LEAGUE) (여자)아이들 FULL (2021.01.29)",
-  "title": "아이돌리그(IDOL LEAGUE) (여자)아이들 FULL (2021.01.29)",
+  "alt": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.) (2021-01-29)",
+  "title": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.) (2021-01-29)",
   "duration": "00:48:04"
 }
 
