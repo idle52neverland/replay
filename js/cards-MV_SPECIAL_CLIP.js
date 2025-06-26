@@ -992,6 +992,29 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/b01dBTBzyz0/mqdefault.jpg",
   "alt": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭) (2018-02-28)",
   "title": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭) (2018-02-28)"
+},
+  {
+  "link": "https://youtu.be/u7wSlAgEcvg",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2020",
+  "month": "08",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/u7wSlAgEcvg/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) MUSIC VIDEO (2020-08-19)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) MUSIC VIDEO (2020-08-19)"
+},
+
+{
+  "link": "https://youtu.be/ZlKoeJ3xlx4",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2020",
+  "month": "07",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZlKoeJ3xlx4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
+  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)"
 }
 
 
