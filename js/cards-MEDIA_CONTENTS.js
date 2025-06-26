@@ -11960,6 +11960,17 @@ const mediaContentsCards = [
   "alt": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.) (2021-01-29)",
   "title": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.) (2021-01-29)",
   "duration": "00:48:04"
+},
+  {
+  "link": "https://youtu.be/WY2pw9uICzY",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니, 우기",
+  "year": "2023",
+  "month": "07",
+  "duration": "00:57:27",
+  "thumbnail": "https://i.ytimg.com/vi/WY2pw9uICzY/maxresdefault.jpg",
+  "alt": "MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10 (2023-07-18)",
+  "title": "MINNIE & YUQI of (G)I-DLE, It's Time to Go Home... Filming is Over! 😂 | DAEBAK SHOW S3 EP 10 (2023-07-18)"
 }
 
 
