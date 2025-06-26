@@ -7869,6 +7869,17 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/HnvWJehjYQA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)"
+},
+  {
+  "link": "https://youtu.be/W59VCFYAzrg",
+  "category": "INTERVIEW",
+  "member": "아이들",
+  "year": "2020",
+  "month": "04",
+  "thumbnail": "https://i.ytimg.com/vi/W59VCFYAzrg/sddefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
+  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
+  "duration": "00:38:30"
 }
 
 
