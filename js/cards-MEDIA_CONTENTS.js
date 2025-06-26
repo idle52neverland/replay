@@ -3516,27 +3516,15 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/3XIEZAOlEuk",
+  "link": "https://youtu.be/INnu2QKwpyc",
   "category": "MEDIA_CONTENTS",
-  "member": "소연",
+  "member": "아이들",
   "year": "2020",
   "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/3XIEZAOlEuk/sddefault.jpg",
-  "alt": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회 (2020-08-22)",
-  "title": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회 (2020-08-22)",
-  "duration": "00:02:24"
-},
-
-{
-  "link": "https://youtu.be/mbDKSPfSvvA",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연, 미연",
-  "year": "2020",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/mbDKSPfSvvA/sddefault.jpg",
-  "alt": "[#하이라이트#] (대세)아이들 소연&미연 놀토 출격! 예능도 잘하지연♥ | 놀라운 토요일-도레미마켓 amazingsaturday EP.122",
-  "title": "[#하이라이트#] (대세)아이들 소연&미연 놀토 출격! 예능도 잘하지연♥ | 놀라운 토요일-도레미마켓 amazingsaturday EP.122 (2020-08-22)",
-  "duration": "00:09:16"
+  "thumbnail": "https://i.ytimg.com/vi/INnu2QKwpyc/sddefault.jpg",
+  "alt": "[#도레미가족] 놀토에 불을 지피고 간 (여자)아이들의 출연분 다시보기🔥 열심히 하는 거 너무 귀여움,,^_ㅜ | #놀라운토요일 Amazing Saturday",
+  "title": "[#도레미가족] 놀토에 불을 지피고 간 (여자)아이들의 출연분 다시보기🔥 열심히 하는 거 너무 귀여움,,^_ㅜ | #놀라운토요일 Amazing Saturday (2020-08-22)",
+  "duration": "00:18:23"
 },
 
 {
@@ -3552,15 +3540,15 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/INnu2QKwpyc",
+  "link": "https://youtu.be/3XIEZAOlEuk",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "소연",
   "year": "2020",
   "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/INnu2QKwpyc/sddefault.jpg",
-  "alt": "[#도레미가족] 놀토에 불을 지피고 간 (여자)아이들의 출연분 다시보기🔥 열심히 하는 거 너무 귀여움,,^_ㅜ | #놀라운토요일 Amazing Saturday",
-  "title": "[#도레미가족] 놀토에 불을 지피고 간 (여자)아이들의 출연분 다시보기🔥 열심히 하는 거 너무 귀여움,,^_ㅜ | #놀라운토요일 Amazing Saturday (2020-08-22)",
-  "duration": "00:18:23"
+  "thumbnail": "https://i.ytimg.com/vi/3XIEZAOlEuk/sddefault.jpg",
+  "alt": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회 (2020-08-22)",
+  "title": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회 (2020-08-22)",
+  "duration": "00:02:24"
 },
 
 {
@@ -3573,6 +3561,18 @@ const mediaContentsCards = [
   "alt": "[티라이트] 받쓰 후 설렘..아닌 긴장😱?! 주목 공포증 때문에 게스트 최초 제일 맨끝자리에 앉은 (여자)아이들 소연! 서바이벌이 낳은 괴물 전소연의 반전 낯가림 | 놀라운토요일 (2020-08-22)",
   "title": "[티라이트] 받쓰 후 설렘..아닌 긴장😱?! 주목 공포증 때문에 게스트 최초 제일 맨끝자리에 앉은 (여자)아이들 소연! 서바이벌이 낳은 괴물 전소연의 반전 낯가림 | 놀라운토요일 (2020-08-22)",
   "duration": "00:14:35"
+},
+
+{
+  "link": "https://youtu.be/mbDKSPfSvvA",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연, 미연",
+  "year": "2020",
+  "month": "08",
+  "thumbnail": "https://i.ytimg.com/vi/mbDKSPfSvvA/sddefault.jpg",
+  "alt": "[#하이라이트#] (대세)아이들 소연&미연 놀토 출격! 예능도 잘하지연♥ | 놀라운 토요일-도레미마켓 amazingsaturday EP.122",
+  "title": "[#하이라이트#] (대세)아이들 소연&미연 놀토 출격! 예능도 잘하지연♥ | 놀라운 토요일-도레미마켓 amazingsaturday EP.122 (2020-08-22)",
+  "duration": "00:09:16"
 },
 
 {
@@ -3638,25 +3638,13 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/Nb7Vy0wJO-E",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "year": "2020",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/Nb7Vy0wJO-E/sddefault.jpg",
   "alt": "휴덕엔딩프로젝트 [큐브통신(All That CUBE] 8회 : (여자)아이들 외국인즈 텐션이 하늘 찔러 지구 뿌셔! (2020-09-13)",
   "title": "휴덕엔딩프로젝트 [큐브통신(All That CUBE] 8회 : (여자)아이들 외국인즈 텐션이 하늘 찔러 지구 뿌셔! (2020-09-13)",
   "duration": "00:27:27"
-},
-
-{
-  "link": "https://youtu.be/SgExF1KUY4U",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2020",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/SgExF1KUY4U/sddefault.jpg",
-  "alt": "[동동신기│11회 예고] (여자)아이들((G)I-DLE)x동동신기 콜라보 무대 공개!│TTXQ EP.11 Preview",
-  "title": "[동동신기│11회 예고] (여자)아이들((G)I-DLE)x동동신기 콜라보 무대 공개!│TTXQ EP.11 Preview (2020-09-14)",
-  "duration": "00:00:33"
 },
 
 {
@@ -3674,7 +3662,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/AsSZB44wGO4",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기",
   "year": "2020",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/AsSZB44wGO4/sddefault.jpg",
@@ -4692,18 +4680,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/u7XMXL88XaU",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/u7XMXL88XaU/sddefault.jpg",
-  "alt": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14",
-  "title": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14 (2021-01-08)",
-  "duration": "00:13:44"
-},
-
-{
   "link": "https://youtu.be/LZopkL3xwxM",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -4713,6 +4689,18 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/LZopkL3xwxM/mqdefault.jpg",
   "alt": "[2021년을 빛낼 핫 스타] (여자)아이들! 미니 4집 [I burn] 오는 11일 공개 [연중 라이브] (2021-01-08)",
   "title": "[2021년을 빛낼 핫 스타] (여자)아이들! 미니 4집 [I burn] 오는 11일 공개 [연중 라이브] (2021-01-08)"
+},
+
+{
+  "link": "https://youtu.be/u7XMXL88XaU",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/u7XMXL88XaU/sddefault.jpg",
+  "alt": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14",
+  "title": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14 (2021-01-08)",
+  "duration": "00:13:44"
 },
 
 {
@@ -4737,18 +4725,6 @@ const mediaContentsCards = [
   "alt": "[Weekly Idol] (여자)아이들의 신곡 ＜화(火花)＞ 탄생 비하인드! l EP.494 (ENG) (2021-01-13)",
   "title": "[Weekly Idol] (여자)아이들의 신곡 ＜화(火花)＞ 탄생 비하인드! l EP.494 (ENG) (2021-01-13)",
   "duration": "00:01:24"
-},
-
-{
-  "link": "https://youtu.be/s0iOh4wh7DA",
-  "category": "MEDIA_CONTENTS",
-  "member": "민니",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/s0iOh4wh7DA/sddefault.jpg",
-  "alt": "[ENG] 찐 패션 전문가에게 인정받은 (여자)아이들 민니 수진의 온앤오프 스타일링 l i'M THE TREND EP. 9 l (2021-01-13)",
-  "title": "[ENG] 찐 패션 전문가에게 인정받은 (여자)아이들 민니 수진의 온앤오프 스타일링 l i'M THE TREND EP. 9 l (2021-01-13)",
-  "duration": "00:15:57"
 },
 
 {
@@ -4800,30 +4776,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/31CxRZGiFuc",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2021",
-  "month": "01",
-  "duration": "00:03:04",
-  "thumbnail": "https://i.ytimg.com/vi/31CxRZGiFuc/mqdefault.jpg",
-  "alt": "[Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)",
-  "title": "[주간아이돌/Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)"
-},
-
-{
-  "link": "https://youtu.be/7h0TLEFR8uE",
-  "category": "MEDIA_CONTENTS",
-  "member": "민니",
-  "year": "2021",
-  "month": "01",
-  "duration": "00:03:07",
-  "thumbnail": "https://i.ytimg.com/vi/7h0TLEFR8uE/hqdefault.jpg",
-  "alt": "[Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)",
-  "title": "[주간아이돌/Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)"
-},
-
-{
   "link": "https://youtu.be/hEzb_FOmSiE",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -4848,6 +4800,54 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/s0iOh4wh7DA",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/s0iOh4wh7DA/sddefault.jpg",
+  "alt": "[ENG] 찐 패션 전문가에게 인정받은 (여자)아이들 민니 수진의 온앤오프 스타일링 l i'M THE TREND EP. 9 l (2021-01-13)",
+  "title": "[ENG] 찐 패션 전문가에게 인정받은 (여자)아이들 민니 수진의 온앤오프 스타일링 l i'M THE TREND EP. 9 l (2021-01-13)",
+  "duration": "00:15:57"
+},
+
+{
+  "link": "https://youtu.be/7h0TLEFR8uE",
+  "category": "MEDIA_CONTENTS",
+  "member": "민니",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/7h0TLEFR8uE/hqdefault.jpg",
+  "alt": "[Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] 얼굴만 봐도 눈물나는 (여자)아이들 민니ㅠ # 민낯 # 금발 # 안쓰러움 l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/31CxRZGiFuc",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2021",
+  "month": "01",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/31CxRZGiFuc/mqdefault.jpg",
+  "alt": "[Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)",
+  "title": "[주간아이돌/Weekly Idol] (여자)아이들 우기x 슈퍼주니어 은혁 기타 컬래버 보는 날까지 존중하며 버티기 시자악! l EP.494 (ENG) (2021-01-13)"
+},
+
+{
+  "link": "https://youtu.be/qKadA2hr01Y",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "thumbnail": "https://i.ytimg.com/vi/qKadA2hr01Y/sddefault.jpg",
+  "alt": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS ",
+  "title": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS (2021-01-15)",
+  "duration": "00:03:19"
+},
+
+{
   "link": "https://youtu.be/stVV5UFAwaE",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
@@ -4869,18 +4869,6 @@ const mediaContentsCards = [
   "alt": "(여자)아이들 우기 X 리듬체조 손연재 🧚 아육대 요정과 찐요정의 귀염뽀짝 리본 갈라쇼쇼쇼! 🎀 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.15",
   "title": "(여자)아이들 우기 X 리듬체조 손연재 🧚 아육대 요정과 찐요정의 귀염뽀짝 리본 갈라쇼쇼쇼! 🎀 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.15 (2021-01-15)",
   "duration": "00:15:53"
-},
-
-{
-  "link": "https://youtu.be/qKadA2hr01Y",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/qKadA2hr01Y/sddefault.jpg",
-  "alt": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS ",
-  "title": "(여자)아이들 - 화(火花) [유희열의 스케치북/You Heeyeol’s Sketchbook] | KBS (2021-01-15)",
-  "duration": "00:03:19"
 },
 
 {
@@ -4965,18 +4953,6 @@ const mediaContentsCards = [
   "alt": "(ENG) 전학 첫 날, 첫사랑을 직감하다💕 | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 01 너의 이름은",
   "title": "(ENG) 전학 첫 날, 첫사랑을 직감하다💕 | 웹드라마 '리플레이 : 다시 시작되는 순간' EP 01 너의 이름은 (2021-01-26)",
   "duration": "00:14:53"
-},
-
-{
-  "link": "https://youtu.be/g6yUORLbJIc",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/g6yUORLbJIc/sddefault.jpg",
-  "alt": "서로를 잘 모르는 서 이사와 (여자)아이들,,☆ 아이돌리그에서 친해지길 바라❤️ [아이돌리그] (2021-01-27)",
-  "title": "서로를 잘 모르는 서 이사와 (여자)아이들,,☆ 아이돌리그에서 친해지길 바라❤️ [아이돌리그] (2021-01-27)",
-  "duration": "00:00:31"
 },
 
 {
@@ -5126,7 +5102,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/dGMQho6513E",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "미연",
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/dGMQho6513E/sddefault.jpg",
@@ -5268,18 +5244,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/0vPbgZMKo1o",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/0vPbgZMKo1o/sddefault.jpg",
-  "alt": "[FULL] SSAP-DANCE (여자)아이들 Ep.1",
-  "title": "[FULL] SSAP-DANCE (여자)아이들 Ep.1 (2021-02-12)",
-  "duration": "00:08:20"
-},
-
-{
   "link": "https://youtu.be/FaRAJCckRuA",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -5378,12 +5342,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/h8it_zBeoS4",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니, 소연",
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/h8it_zBeoS4/sddefault.jpg",
-  "alt": "Ep.3 미방영분 | (G)I-DLE (여자)아이들 환장파티! 비하인드 풀고 항마력 테스트 😹 《소파어웨이》 (EN) (2021-02-18)",
-  "title": "Ep.3 미방영분 | (G)I-DLE (여자)아이들 환장파티! 비하인드 풀고 항마력 테스트 😹 《소파어웨이》 (EN) (2021-02-18)",
+  "alt": "Ep.3 미방영분 | (G)I-DLE (여자)아이들 환장파티! 비하인드 풀고 항마력 테스트 😹 《소파어웨이/SOFA AWAY》 (EN) (2021-02-18)",
+  "title": "Ep.3 미방영분 | (G)I-DLE (여자)아이들 환장파티! 비하인드 풀고 항마력 테스트 😹 《소파어웨이/SOFA AWAY》 (EN) (2021-02-18)",
   "duration": "00:03:35"
 },
 
@@ -5474,12 +5438,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/mGLQSc1cejQ",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니, 소연",
   "year": "2021",
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/mGLQSc1cejQ/sddefault.jpg",
-  "alt": "Ep.3-3 [최초공개] 우리가 몰랐던 (G)I-DLE (여자)아이들 연습생 시절 썰 & 멤버별 관계 《소파어웨이》 (EN) (2021-02-24)",
-  "title": "Ep.3-3 [최초공개] 우리가 몰랐던 (G)I-DLE (여자)아이들 연습생 시절 썰 & 멤버별 관계 《소파어웨이》 (EN) (2021-02-24)",
+  "alt": "Ep.3-3 [최초공개] 우리가 몰랐던 (G)I-DLE (여자)아이들 연습생 시절 썰 & 멤버별 관계 《소파어웨이/SOFA AWAY》 (EN) (2021-02-24)",
+  "title": "Ep.3-3 [최초공개] 우리가 몰랐던 (G)I-DLE (여자)아이들 연습생 시절 썰 & 멤버별 관계 《소파어웨이/SOFA AWAY》 (EN) (2021-02-24)",
   "duration": "00:19:03"
 },
 
@@ -6600,18 +6564,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/IkSNcmTPzys",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/IkSNcmTPzys/sddefault.jpg",
-  "alt": "멍 때리는 아이들 I 티저 I 미적분 - 휴멍비잉 I Google Play",
-  "title": "멍 때리는 아이들 I 티저 I 미적분 - 휴멍비잉 I Google Play (2022-02-04)",
-  "duration": "00:00:31"
-},
-
-{
   "link": "https://youtu.be/SjUxTj7yfUE",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
@@ -6871,7 +6823,7 @@ const mediaContentsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/p2827vnIZAk/sddefault.jpg",
   "alt": "(ENG)🏠 아이들 오신 날 (2022-04-19)",
-  "title": "(ENG)🏠 아이들 오신 날 (2022-04-19)",
+  "title": "(ENG)땡깡🏠 아이들 오신 날 (2022-04-19)",
   "duration": "00:15:56"
 },
 
@@ -7022,7 +6974,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/sbFnwvixOgY",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기, 슈화",
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/sbFnwvixOgY/sddefault.jpg",
@@ -7053,18 +7005,6 @@ const mediaContentsCards = [
   "alt": "구이 멍 x ( 이은지 + 미연 ) = ? I 미적분 - 휴멍비잉 I Google Play (2022-05-13)",
   "title": "구이 멍 x ( 이은지 + 미연 ) = ? I 미적분 - 휴멍비잉 I Google Play (2022-05-13)",
   "duration": "00:10:00"
-},
-
-{
-  "link": "https://youtu.be/ZWEuXZUeitk",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연, 민니, 슈화",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/ZWEuXZUeitk/sddefault.jpg",
-  "alt": "[Eng 아이☁️클라우드] 카일로 X 누나들💜초코에 빠진 아이들(IDLE)🍫 미연 민니 슈화ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-13)",
-  "title": "[Eng 아이☁️클라우드] 카일로 X 누나들💜초코에 빠진 아이들(IDLE)🍫 미연 민니 슈화ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-13)",
-  "duration": "00:22:16"
 },
 
 {
@@ -7113,6 +7053,18 @@ const mediaContentsCards = [
   "alt": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 (2024-10-12)",
   "title": "[#나혼산] 전소연이 제 킥입니다. 아이들부터 QWER까지 완벽 디렉팅하는 소연의 본업 모먼트 몰아보기ㅣ#전소연 #아이들 (2022-05-13)",
   "duration": "00:25:29"
+},
+
+{
+  "link": "https://youtu.be/ZWEuXZUeitk",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 민니, 슈화",
+  "year": "2022",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/ZWEuXZUeitk/sddefault.jpg",
+  "alt": "[Eng 아이☁️클라우드] 카일로 X 누나들💜초코에 빠진 아이들(IDLE)🍫 미연 민니 슈화ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-13)",
+  "title": "[Eng 아이☁️클라우드] 카일로 X 누나들💜초코에 빠진 아이들(IDLE)🍫 미연 민니 슈화ㅣ순둥이 베이비｜Adorable Babyㅣ아이돌ㅣ아이들ㅣ네버랜드 (2022-05-13)",
+  "duration": "00:22:16"
 },
 
 {
@@ -7178,7 +7130,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/MkPJ9pdZFPM",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기, 슈화",
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/MkPJ9pdZFPM/sddefault.jpg",
@@ -7190,7 +7142,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/xNaN0kT9EjE",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기, 슈화",
   "year": "2022",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/xNaN0kT9EjE/sddefault.jpg",
@@ -7430,7 +7382,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/FqYq5YXF_40",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "미연, 민니, 우기",
   "year": "2022",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/FqYq5YXF_40/sddefault.jpg",
@@ -7560,42 +7512,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/GIWO-98pCIc",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/GIWO-98pCIc/sddefault.jpg",
-  "alt": "(sub) [쑈잇] Ok I'll show you what's in my bag👜 | 방해금지모드+ (여자)아이들",
-  "title": "(sub) [쑈잇] Ok I'll show you what's in my bag👜 | 방해금지모드+ (여자)아이들 (2022-09-08)",
-  "duration": "00:03:14"
-},
-
-{
-  "link": "https://youtu.be/2erQxIbK5Z4",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/2erQxIbK5Z4/sddefault.jpg",
-  "alt": "(sub) [88클립] 사람은 5명 사진은 2장? 4컷 사진은 왜 홀수가 왜 없어요? | 방해금지모드+ (여자)아이들",
-  "title": "(sub) [88클립] 사람은 5명 사진은 2장? 4컷 사진은 왜 홀수가 왜 없어요? | 방해금지모드+ (여자)아이들 (2022-09-10)",
-  "duration": "00:01:32"
-},
-
-{
-  "link": "https://youtu.be/p9WC5nqHB_Q",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/p9WC5nqHB_Q/sddefault.jpg",
-  "alt": "(sub) [FULL] 방해금지모드+ (여자)아이들 Ep.01",
-  "title": "(sub) [FULL] 방해금지모드+ (여자)아이들 Ep.01 (2022-09-14)",
-  "duration": "00:13:21"
-},
-
-{
   "link": "https://youtu.be/vPCLHG8jUuU",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -7653,18 +7569,6 @@ const mediaContentsCards = [
   "alt": "[EN/ID][EP.17] 또 제 발로 술트파에 찾아온 여돌! (여자)아이들과 하이볼 시~원하게 들이켰습니다 #술트리트파이터2 17회 (2022-10-13)",
   "title": "[EN/ID][EP.17] 또 제 발로 술트파에 찾아온 여돌! (여자)아이들과 하이볼 시~원하게 들이켰습니다 #술트리트파이터2 17회 (2022-10-13)",
   "duration": "00:21:59"
-},
-
-{
-  "link": "https://youtu.be/JjyS2Ds0dC8",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/JjyS2Ds0dC8/sddefault.jpg",
-  "alt": "[선공개] ⭐(여자)아이들 Nxde 퍼포먼스 공개⭐ 퍼포 맛집 아이들 또 무대를 뒤집으셨따따랏따라~❤💜 #술트리트파이터2",
-  "title": "[선공개] ⭐(여자)아이들 Nxde 퍼포먼스 공개⭐ 퍼포 맛집 아이들 또 무대를 뒤집으셨따따랏따라~❤💜 #술트리트파이터2 (2022-10-18)",
-  "duration": "00:00:31"
 },
 
 {
@@ -7764,18 +7668,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/283IMq_tkwo",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2022",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/283IMq_tkwo/sddefault.jpg",
-  "alt": "[🕶Teaser] 얘들아-❗ (···조용) 내가 11월에 큰 거 온다고 했지? ✨˚‧｡맺민수 드림스 컴-트루 쑨｡‧˚🌟 #매드지니어스 EP.0",
-  "title": "[🕶Teaser] 얘들아-❗ (···조용) 내가 11월에 큰 거 온다고 했지? ✨˚‧｡맺민수 드림스 컴-트루 쑨｡‧˚🌟 #매드지니어스 EP.0 (2022-10-27)",
-  "duration": "00:01:28"
-},
-
-{
   "link": "https://youtu.be/1Xu2Ev5ZUfA",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -7785,6 +7677,18 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/1Xu2Ev5ZUfA/mqdefault.jpg",
   "alt": "【형친소】내가 제일 댄스 (여자)아이들↗💜 귀엽고 예삐예삐 다~보여주는 아이들 보고 가세요 | 아는 형님 356회 (2022-10-27)",
   "title": "【형친소】내가 제일 댄스 (여자)아이들↗💜 귀엽고 예삐예삐 다~보여주는 아이들 보고 가세요 | 아는 형님 356회 (2022-10-27)"
+},
+
+{
+  "link": "https://youtu.be/283IMq_tkwo",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/283IMq_tkwo/sddefault.jpg",
+  "alt": "[🕶Teaser] 얘들아-❗ (···조용) 내가 11월에 큰 거 온다고 했지? ✨˚‧｡맺민수 드림스 컴-트루 쑨｡‧˚🌟 #매드지니어스 EP.0",
+  "title": "[🕶Teaser] 얘들아-❗ (···조용) 내가 11월에 큰 거 온다고 했지? ✨˚‧｡맺민수 드림스 컴-트루 쑨｡‧˚🌟 #매드지니어스 EP.0 (2022-10-27)",
+  "duration": "00:01:28"
 },
 
 {
@@ -7845,30 +7749,6 @@ const mediaContentsCards = [
   "alt": "[#동네스타K2] 1위 가수 (여자)아이들 냅다 트월킹 갈기고 감ㅋㅋㅋㅋㅋ 1위 가수는 역시 다르다~ (ft. nxde 라이브) | EP.9 (2022-10-29)",
   "title": "[#동네스타K2] 1위 가수 (여자)아이들 냅다 트월킹 갈기고 감ㅋㅋㅋㅋㅋ 1위 가수는 역시 다르다~ (ft. nxde 라이브) | EP.9 (2022-10-29)",
   "duration": "00:28:45"
-},
-
-{
-  "link": "https://youtu.be/bc0uFY5LySk",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연",
-  "year": "2022",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/bc0uFY5LySk/sddefault.jpg",
-  "alt": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
-  "title": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
-  "duration": "00:10:31"
-},
-
-{
-  "link": "https://youtu.be/kuYPHEuxx0o",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연",
-  "year": "2022",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/kuYPHEuxx0o/sddefault.jpg",
-  "alt": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
-  "title": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
-  "duration": "00:08:04"
 },
 
 {
@@ -8085,6 +7965,30 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/oBl2XmzLxbs/mqdefault.jpg",
   "alt": "＂𝒀𝒆𝒔 𝑰'𝒎 𝒂 𝒏𝒖𝒅𝒆＂ (여자)아이들 - 'Nxde'♬ 퍼포먼스로 아형 찢었다↗ | 아는 형님 356회 | (2022-10-29)",
   "title": "＂𝒀𝒆𝒔 𝑰'𝒎 𝒂 𝒏𝒖𝒅𝒆＂ (여자)아이들 - 'Nxde'♬ 퍼포먼스로 아형 찢었다↗ | 아는 형님 356회 | (2022-10-29)"
+},
+
+{
+  "link": "https://youtu.be/bc0uFY5LySk",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2022",
+  "month": "10",
+  "thumbnail": "https://i.ytimg.com/vi/bc0uFY5LySk/sddefault.jpg",
+  "alt": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
+  "title": "[아는형님] TOMBOY 때문에 적자 기록했다고요..? ★하지만 갓쏘는 해냅니다★ 저작권 부자 전소연 히트곡 비하인드｜핫클립｜JTBC (2022-10-29)",
+  "duration": "00:10:31"
+},
+
+{
+  "link": "https://youtu.be/kuYPHEuxx0o",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2022",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/kuYPHEuxx0o/sddefault.jpg",
+  "alt": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
+  "title": "[티엠아] 믿고 듣는 천재 작곡돌 전소연 I-DLE 레전드곡 탄생 비하인드✨ 소연이는 다 계획이 있구나?ㅣ아는형님ㅣJTBC (2022-10-29)",
+  "duration": "00:08:04"
 },
 
 {
@@ -8424,18 +8328,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/buGB6_Z47-8",
-  "category": "MEDIA_CONTENTS",
-  "member": "슈화",
-  "year": "2023",
-  "month": "04",
-  "duration": "00:45:46",
-  "thumbnail": "https://i.ytimg.com/vi/buGB6_Z47-8/hqdefault.jpg",
-  "alt": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)",
-  "title": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)"
-},
-
-{
   "link": "https://youtu.be/us-Tl4WAIWM",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -8445,6 +8337,18 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/us-Tl4WAIWM/maxresdefault.jpg",
   "alt": "사주로 자존감 높이려다 충격적인 팔자 발견한 썰 I 미스태리 x 포스텔러 (2023-04-03)",
   "title": "사주로 자존감 높이려다 충격적인 팔자 발견한 썰 I 미스태리 x 포스텔러 (2023-04-03)"
+},
+
+{
+  "link": "https://youtu.be/buGB6_Z47-8",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "04",
+  "duration": "00:45:46",
+  "thumbnail": "https://i.ytimg.com/vi/buGB6_Z47-8/hqdefault.jpg",
+  "alt": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)",
+  "title": "(G)I-DLE舒華可愛來襲！小Ｓ秒變粉絲求留聯絡方式！跟女兒炫耀笑喊：在家可以橫著走！【#小姐不熙娣】 完整版 EP273 舒華 薔薔 (2023-04-03)"
 },
 
 {
@@ -8664,18 +8568,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/kXzdibrb5Sw",
-  "category": "MEDIA_CONTENTS",
-  "member": "슈화",
-  "year": "2023",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/kXzdibrb5Sw/sddefault.jpg",
-  "alt": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
-  "title": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
-  "duration": "00:03:50"
-},
-
-{
   "link": "https://youtu.be/3c6WMB5qikY",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -8700,6 +8592,18 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/kXzdibrb5Sw",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/kXzdibrb5Sw/sddefault.jpg",
+  "alt": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
+  "title": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
+  "duration": "00:03:50"
+},
+
+{
   "link": "https://youtu.be/iE4pcQuvfWM",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -8709,6 +8613,18 @@ const mediaContentsCards = [
   "alt": "(SUB) “맞아요 저 인기 많았어요^^“ 당당히 퀸카였던 과거들 밝히는 아이들 역시 모두가 키쓰 키쓰를 원할만 하네요 / [문명특급 EP.292] (2023-05-25)",
   "title": "(SUB) “맞아요 저 인기 많았어요^^“ 당당히 퀸카였던 과거들 밝히는 아이들 역시 모두가 키쓰 키쓰를 원할만 하네요 / [문명특급 EP.292] (2023-05-25)",
   "duration": "00:22:55"
+},
+
+{
+  "link": "https://youtu.be/_kUBP3G9gQg",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2023",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/_kUBP3G9gQg/sddefault.jpg",
+  "alt": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
+  "title": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
+  "duration": "00:19:50"
 },
 
 {
@@ -8748,15 +8664,15 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/_kUBP3G9gQg",
+  "link": "https://youtu.be/VQS73e0AE28",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
   "year": "2023",
   "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/_kUBP3G9gQg/sddefault.jpg",
-  "alt": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
-  "title": "[#소년판타지] 소연 프로듀서의 맞춤형 프로듀싱으로 소년들의 실력과 매력이 뿜뿜🤩 '스페이스맨'팀의 무대🎵 | #전소연 #진영 #강승윤 (2023-05-25)",
-  "duration": "00:19:50"
+  "thumbnail": "https://i.ytimg.com/vi/VQS73e0AE28/sddefault.jpg",
+  "alt": "[#놀라운토요일] \"와 이거 미쳤다\" 키도 당황한 최고 난이도 전소연 곡ㄷㄷ 놀토 역대 최소 글자인데 하나도 안 들림ㅋㅋㅋ (2023-05-27)",
+  "title": "[#놀라운토요일] \"와 이거 미쳤다\" 키도 당황한 최고 난이도 전소연 곡ㄷㄷ 놀토 역대 최소 글자인데 하나도 안 들림ㅋㅋㅋ (2023-05-27)",
+  "duration": "00:19:58"
 },
 
 {
@@ -8793,18 +8709,6 @@ const mediaContentsCards = [
   "alt": "원샷이 4명?! 선장님 등판에 긴장감 최고조 #highlight#놀라운토요일 | amazingsaturday EP.265 (2023-05-27)",
   "title": "원샷이 4명?! 선장님 등판에 긴장감 최고조 #highlight#놀라운토요일 | amazingsaturday EP.265 (2023-05-27)",
   "duration": "00:19:26"
-},
-
-{
-  "link": "https://youtu.be/VQS73e0AE28",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연",
-  "year": "2023",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/VQS73e0AE28/sddefault.jpg",
-  "alt": "[#놀라운토요일] \"와 이거 미쳤다\" 키도 당황한 최고 난이도 전소연 곡ㄷㄷ 놀토 역대 최소 글자인데 하나도 안 들림ㅋㅋㅋ (2023-05-27)",
-  "title": "[#놀라운토요일] \"와 이거 미쳤다\" 키도 당황한 최고 난이도 전소연 곡ㄷㄷ 놀토 역대 최소 글자인데 하나도 안 들림ㅋㅋㅋ (2023-05-27)",
-  "duration": "00:19:58"
 },
 
 {
@@ -9312,18 +9216,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/ghoT4CfPHo0",
-  "category": "MEDIA_CONTENTS",
-  "member": "슈화",
-  "year": "2023",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/ghoT4CfPHo0/sddefault.jpg",
-  "alt": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
-  "title": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
-  "duration": "00:15:34"
-},
-
-{
   "link": "https://youtu.be/gKXUT9HVGyU",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -9333,6 +9225,18 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/gKXUT9HVGyU/maxresdefault.jpg",
   "alt": "무한의 계단 공식 PC버전 미리보기 I 구글플레이 보물섬 Part1 I 미스태리 x 무한의 계단 (2023-11-02)",
   "title": "무한의 계단 공식 PC버전 미리보기 I 구글플레이 보물섬 Part1 I 미스태리 x 무한의 계단 (2023-11-02)"
+},
+
+{
+  "link": "https://youtu.be/ghoT4CfPHo0",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/ghoT4CfPHo0/sddefault.jpg",
+  "alt": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
+  "title": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
+  "duration": "00:15:34"
 },
 
 {
@@ -9348,18 +9252,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/o6lmdLyH3E0",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2023",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/o6lmdLyH3E0/sddefault.jpg",
-  "alt": "[ENG/3화 FULL] 영어 공포증 이겨내 이겨내! 영어가 안 되면 우기스쿨 OPEN✨ 우주에서 살아남기 위한 별걸즈의 고군분투 #별의별걸 EP.03 (2023-11-06)",
-  "title": "[ENG/3화 FULL] 영어 공포증 이겨내 이겨내! 영어가 안 되면 우기스쿨 OPEN✨ 우주에서 살아남기 위한 별걸즈의 고군분투 #별의별걸 EP.03 (2023-11-06)",
-  "duration": "00:29:01"
-},
-
-{
   "link": "https://youtu.be/bgKMZDdbkOA",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -9369,6 +9261,18 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/bgKMZDdbkOA/maxresdefault.jpg",
   "alt": "우리 둘은 그렇게 별이 되었다 I 구글플레이 보물섬 Part2 I 미스태리 x 별이되어라2 (2023-11-06)",
   "title": "우리 둘은 그렇게 별이 되었다 I 구글플레이 보물섬 Part2 I 미스태리 x 별이되어라2 (2023-11-06)"
+},
+
+{
+  "link": "https://youtu.be/o6lmdLyH3E0",
+  "category": "MEDIA_CONTENTS",
+  "member": "우기",
+  "year": "2023",
+  "month": "11",
+  "thumbnail": "https://i.ytimg.com/vi/o6lmdLyH3E0/sddefault.jpg",
+  "alt": "[ENG/3화 FULL] 영어 공포증 이겨내 이겨내! 영어가 안 되면 우기스쿨 OPEN✨ 우주에서 살아남기 위한 별걸즈의 고군분투 #별의별걸 EP.03 (2023-11-06)",
+  "title": "[ENG/3화 FULL] 영어 공포증 이겨내 이겨내! 영어가 안 되면 우기스쿨 OPEN✨ 우주에서 살아남기 위한 별걸즈의 고군분투 #별의별걸 EP.03 (2023-11-06)",
+  "duration": "00:29:01"
 },
 
 {
@@ -9588,6 +9492,42 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/Z7swxITmE_U",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:04:42",
+  "thumbnail": "https://i.ytimg.com/vi/Z7swxITmE_U/sddefault.jpg",
+  "alt": "【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞ (2024-02-01)",
+  "title": "【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞ (2024-02-01)"
+},
+
+{
+  "link": "https://youtu.be/NKEKkdgFP40",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:02:02",
+  "thumbnail": "https://i.ytimg.com/vi/NKEKkdgFP40/sddefault.jpg",
+  "alt": "[선공개] 슈퍼 히트곡 메이커✨ (여자)아이들의 '퀸카+LION+TOMBOY' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)",
+  "title": "[선공개] 슈퍼 히트곡 메이커✨ (여자)아이들의 '퀸카+LION+TOMBOY' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)"
+},
+
+{
+  "link": "https://youtu.be/G7dySc4IN60",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/G7dySc4IN60/hqdefault.jpg",
+  "alt": "[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)",
+  "title": "[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)"
+},
+
+{
   "link": "https://youtu.be/N_1XDDzPjNE",
   "category": "MEDIA_CONTENTS",
   "member": "민니",
@@ -9636,42 +9576,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/Z7swxITmE_U",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2024",
-  "month": "02",
-  "duration": "00:04:42",
-  "thumbnail": "https://i.ytimg.com/vi/Z7swxITmE_U/sddefault.jpg",
-  "alt": "【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞ (2024-02-01)",
-  "title": "【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞ (2024-02-01)"
-},
-
-{
-  "link": "https://youtu.be/NKEKkdgFP40",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2024",
-  "month": "02",
-  "duration": "00:02:02",
-  "thumbnail": "https://i.ytimg.com/vi/NKEKkdgFP40/sddefault.jpg",
-  "alt": "[선공개] 슈퍼 히트곡 메이커✨ (여자)아이들의 '퀸카+LION+TOMBOY' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)",
-  "title": "[선공개] 슈퍼 히트곡 메이커✨ (여자)아이들의 '퀸카+LION+TOMBOY' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)"
-},
-
-{
-  "link": "https://youtu.be/G7dySc4IN60",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2024",
-  "month": "02",
-  "duration": "00:01:14",
-  "thumbnail": "https://i.ytimg.com/vi/G7dySc4IN60/hqdefault.jpg",
-  "alt": "[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)",
-  "title": "[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬ | 아는 형님 419회 (2024-02-01)"
-},
-
-{
   "link": "https://youtu.be/bAODB5c8Xz4",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -9681,18 +9585,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/bAODB5c8Xz4/maxresdefault.jpg",
   "alt": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리 (2024-02-02)",
   "title": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리 (2024-02-02)"
-},
-
-{
-  "link": "https://youtu.be/SsITRxMFZn8",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2024",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/SsITRxMFZn8/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC  (2024-02-03)",
-  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC (2024-02-03)",
-  "duration": "00:29:24"
 },
 
 {
@@ -9888,6 +9780,18 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/SsITRxMFZn8",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2024",
+  "month": "02",
+  "thumbnail": "https://i.ytimg.com/vi/SsITRxMFZn8/sddefault.jpg",
+  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC  (2024-02-03)",
+  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC (2024-02-03)",
+  "duration": "00:29:24"
+},
+
+{
   "link": "https://youtu.be/PTWyWh1Oeow",
   "category": "MEDIA_CONTENTS",
   "member": "슈화",
@@ -9926,12 +9830,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/Wff4Ip_SHBw",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2024",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/Wff4Ip_SHBw/sddefault.jpg",
   "alt": "คำต้องห้าม EP.106 | เทพลีลา x มินนี่ (G)I-DLE (2024-03-19)",
-  "title": "คำต้องห้าม EP.106 | เทพลีลา x มินนี่ (G)I-DLE (2024-03-19)",
+  "title": "(민니) คำต้องห้าม EP.106 | เทพลีลา x มินนี่ (G)I-DLE (2024-03-19)",
   "duration": "00:20:07"
 },
 
@@ -9962,12 +9866,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/i3edDXjiv7U",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2024",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/i3edDXjiv7U/sddefault.jpg",
   "alt": "ยังไงไหนเล่า EP. 89 มินนี่ (G)I-DLE พร้อมตอบเรื่องความรัก! [GoyNattyDream] (2024-03-25)",
-  "title": "ยังไงไหนเล่า EP. 89 มินนี่ (G)I-DLE พร้อมตอบเรื่องความรัก! [GoyNattyDream] (2024-03-25)",
+  "title": "(민니) ยังไงไหนเล่า EP. 89 มินนี่ (G)I-DLE พร้อมตอบเรื่องความรัก! [GoyNattyDream] (2024-03-25)",
   "duration": "00:18:31"
 },
 
@@ -10046,12 +9950,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/dhH9LVytAhY",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2024",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/dhH9LVytAhY/sddefault.jpg",
   "alt": "พา \"มินนี่ (G)I-DLE\" นั่งรถตุ๊กตุ๊ก ตะลุยกินของไทยอร่อยๆ ย่านพระนคร | ถ้าโลกนี้ไม่มี GPS Survey (2024-04-12)",
-  "title": "พา \"มินนี่ (G)I-DLE\" นั่งรถตุ๊กตุ๊ก ตะลุยกินของไทยอร่อยๆ ย่านพระนคร | ถ้าโลกนี้ไม่มี GPS Survey (2024-04-12)",
+  "title": "(민니) พา \"มินนี่ (G)I-DLE\" นั่งรถตุ๊กตุ๊ก ตะลุยกินของไทยอร่อยๆ ย่านพระนคร | ถ้าโลกนี้ไม่มี GPS Survey (2024-04-12)",
   "duration": "00:22:04"
 },
 
@@ -10094,7 +9998,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/drfCoH6pVvs",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니, 우기",
   "year": "2024",
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/drfCoH6pVvs/sddefault.jpg",
@@ -10262,7 +10166,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/8XSgO4JNhi4",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "미연, 소연",
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/8XSgO4JNhi4/sddefault.jpg",
@@ -10346,25 +10250,13 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/OsYO6tj89vA",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기",
   "year": "2024",
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/OsYO6tj89vA/sddefault.jpg",
   "alt": "[EN/JP] 요즘 아이들과 친해지기 쉽네 막이래ㅋ| 집대성 ep.14 (2024-07-12)",
   "title": "[EN/JP] 요즘 아이들과 친해지기 쉽네 막이래ㅋ| 집대성 ep.14 (2024-07-12)",
   "duration": "00:31:59"
-},
-
-{
-  "link": "https://youtu.be/bm1dFHxZ-Kk",
-  "category": "MEDIA_CONTENTS",
-  "member": "소연",
-  "year": "2024",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/bm1dFHxZ-Kk/sddefault.jpg",
-  "alt": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
-  "title": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
-  "duration": "00:02:40"
 },
 
 {
@@ -10377,6 +10269,18 @@ const mediaContentsCards = [
   "alt": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) (2024-07-12)",
   "title": "[#더시즌즈] 쏟아지는 비하인드~ 지코가 부르는 (여자)아이들의 신곡😎(feat. 짱구 춤🤣) (2024-07-12)",
   "duration": "00:10:20"
+},
+
+{
+  "link": "https://youtu.be/bm1dFHxZ-Kk",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "year": "2024",
+  "month": "07",
+  "thumbnail": "https://i.ytimg.com/vi/bm1dFHxZ-Kk/sddefault.jpg",
+  "alt": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
+  "title": "(여자)아이들 소연이 직접 디렉팅 본 이번 신곡! 멤버들의 끊임없이 쏟아지는 비하인드🤣 [더 시즌즈-지코의 아티스트] (2024-07-12)",
+  "duration": "00:02:40"
 },
 
 {
@@ -10502,7 +10406,7 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/83SW5et3ruI",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "미연, 우기, 슈화",
   "year": "2024",
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/83SW5et3ruI/sddefault.jpg",
@@ -10538,12 +10442,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/KGc4boeRMJI",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2024",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/KGc4boeRMJI/sddefault.jpg",
   "alt": "กว่าจะได้เป็น \"ไอดอล\" กับ 7 ปีในวงการ Kpop ของ มินนี่ (G)I-DLE | เมาท์มอยกับพลอยหอ",
-  "title": "กว่าจะได้เป็น \"ไอดอล\" กับ 7 ปีในวงการ Kpop ของ มินนี่ (G)I-DLE | เมาท์มอยกับพลอยหอ (2024-10-07)",
+  "title": "(민니) กว่าจะได้เป็น \"ไอดอล\" กับ 7 ปีในวงการ Kpop ของ มินนี่ (G)I-DLE | เมาท์มอยกับพลอยหอ (2024-10-07)",
   "duration": "01:01:25"
 },
 
@@ -10574,12 +10478,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/npr7MDAUAoU",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2024",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/npr7MDAUAoU/sddefault.jpg",
   "alt": "นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133 (2024-10-16)",
-  "title": "นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133 (2024-10-16)",
+  "title": "(민니) นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133 (2024-10-16)",
   "duration": "00:41:09"
 },
 
@@ -11282,12 +11186,12 @@ const mediaContentsCards = [
 {
   "link": "https://youtu.be/m8hR8X3whAY",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "민니",
   "year": "2025",
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/m8hR8X3whAY/sddefault.jpg",
   "alt": "ท้ามินนี่ (G)I-DLE ทายราคาอาหารไทยในดวงใจ | MARCHU EP.172 (2025-03-02)",
-  "title": "ท้ามินนี่ (G)I-DLE ทายราคาอาหารไทยในดวงใจ | MARCHU EP.172 (2025-03-02)",
+  "title": "(민니) ท้ามินนี่ (G)I-DLE ทายราคาอาหารไทยในดวงใจ | MARCHU EP.172 (2025-03-02)",
   "duration": "00:37:10"
 },
 
@@ -11544,42 +11448,6 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/TgvalhlblJo",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2025",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/TgvalhlblJo/sddefault.jpg",
-  "alt": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |",
-  "title": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |(2025-05-17)",
-  "duration": "00:28:51"
-},
-
-{
-  "link": "https://youtu.be/cJkmXQTa_1s",
-  "category": "MEDIA_CONTENTS",
-  "member": "우기",
-  "year": "2025",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/cJkmXQTa_1s/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
-  "title": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
-  "duration": "00:03:58"
-},
-
-{
-  "link": "https://youtu.be/MTllcSxjwtk",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연, 우기",
-  "year": "2025",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/MTllcSxjwtk/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
-  "title": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
-  "duration": "00:03:42"
-},
-
-{
   "link": "https://youtu.be/khZTXMEu-A0",
   "category": "MEDIA_CONTENTS",
   "member": "아이들",
@@ -11628,6 +11496,30 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/ZWiX7ljJ4mc",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/ZWiX7ljJ4mc/sddefault.jpg",
+  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| ((2025-05-17)",
+  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| (2025-05-17)",
+  "duration": "01:30:46"
+},
+
+{
+  "link": "https://youtu.be/TgvalhlblJo",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/TgvalhlblJo/sddefault.jpg",
+  "alt": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |",
+  "title": "[하이라이트] 이건 못 참지😋 해외에서도 🔥반응 폭발🔥한 K-국룰 라면 정식🍜에 외국인들 폭풍 면치기 SHOW 시작↗ | 대결! 팽봉팽봉 |(2025-05-17)",
+  "duration": "00:28:51"
+},
+
+{
   "link": "https://youtu.be/TLOxJsRB0s8",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -11640,15 +11532,27 @@ const mediaContentsCards = [
 },
 
 {
-  "link": "https://youtu.be/ZWiX7ljJ4mc",
+  "link": "https://youtu.be/cJkmXQTa_1s",
   "category": "MEDIA_CONTENTS",
-  "member": "아이들",
+  "member": "우기",
   "year": "2025",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/ZWiX7ljJ4mc/sddefault.jpg",
-  "alt": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| ((2025-05-17)",
-  "title": "[픽잇] 완전체 재계약 성공 기념 아이들(i-dle) 예능 90분 모음.zip #전참시 #나혼산 |전지적 참견 시점| (2025-05-17)",
-  "duration": "01:30:46"
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/cJkmXQTa_1s/sddefault.jpg",
+  "alt": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
+  "title": "[전지적 참견 시점] 아침부터 텐션 최고인 우기의 출근길🎤 차 안에서 노래 열창 (2025-05-17)",
+  "duration": "00:03:58"
+},
+
+{
+  "link": "https://youtu.be/MTllcSxjwtk",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연, 우기",
+  "year": "2025",
+  "month": "05",
+  "thumbnail": "https://i.ytimg.com/vi/MTllcSxjwtk/sddefault.jpg",
+  "alt": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
+  "title": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 (2025-05-17)",
+  "duration": "00:03:42"
 },
 
 {
@@ -11712,6 +11616,18 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/AyfSEQTaxz4",
+  "category": "MEDIA_CONTENTS",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:15:52",
+  "thumbnail": "https://i.ytimg.com/vi/AyfSEQTaxz4/maxresdefault.jpg",
+  "alt": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)",
+  "title": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)"
+},
+
+{
   "link": "https://youtu.be/37Bf68jEZew",
   "category": "MEDIA_CONTENTS",
   "member": "미연",
@@ -11745,18 +11661,6 @@ const mediaContentsCards = [
   "alt": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점| (2025-05-22)",
   "title": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점| (2025-05-22)",
   "duration": "00:01:05"
-},
-
-{
-  "link": "https://youtu.be/AyfSEQTaxz4",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "year": "2025",
-  "month": "05",
-  "duration": "00:15:52",
-  "thumbnail": "https://i.ytimg.com/vi/AyfSEQTaxz4/maxresdefault.jpg",
-  "alt": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)",
-  "title": "[#픽플] 아이들 한번에 모아보기👍 #아이들 #idle #미연 #민니 #소연 #우기 #슈화 #사당귀 #홍김동전 #안녕하세요 #1박2일ㅣ KBS방송 [픽플] (2025-05-22)"
 },
 
 {
@@ -11856,6 +11760,18 @@ const mediaContentsCards = [
 },
 
 {
+  "link": "https://youtu.be/dK7lLKYtDEE",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:01:24",
+  "thumbnail": "https://i.ytimg.com/vi/dK7lLKYtDEE/sddefault.jpg",
+  "alt": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)",
+  "title": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)"
+},
+
+{
   "link": "https://youtu.be/YouyFmKwGz8",
   "category": "MEDIA_CONTENTS",
   "member": "우기",
@@ -11901,18 +11817,6 @@ const mediaContentsCards = [
   "thumbnail": "https://i.ytimg.com/vi/mPUtbO58feM/mqdefault.jpg",
   "alt": "극과 극 #런닝맨 #RunningMan #sbsenter (2025-05-25)",
   "title": "극과 극 #런닝맨 #RunningMan #sbsenter (2025-05-25)"
-},
-
-{
-  "link": "https://youtu.be/dK7lLKYtDEE",
-  "category": "MEDIA_CONTENTS",
-  "member": "미연",
-  "year": "2025",
-  "month": "05",
-  "duration": "00:01:24",
-  "thumbnail": "https://i.ytimg.com/vi/dK7lLKYtDEE/sddefault.jpg",
-  "alt": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)",
-  "title": "미연, 독특한 추리로 지석진에게 10배 시작↗ (2025-05-25)"
 },
 
 {
@@ -12094,6 +11998,7 @@ const mediaContentsCards = [
   "alt": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)",
   "title": "[선공개] 재료가 전부 공짜(!) 팬트리 대방출 앞둔 유승호vs곽동연의 기싸움🔥  〈대결! 팽봉팽봉〉 6/21(토) 저녁 7시 10분 방송! (2025-06-19)"
 }
+
 
 ];
 
