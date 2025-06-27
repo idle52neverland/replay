@@ -1682,6 +1682,17 @@ const radioPodcastCards = [
   "alt": "[FULL] 다시 시작! 2막을 시작하다!!💞 완전체로 돌아온 아이들(i-dle)의 미연, 민니 보는 라디오 | 박소현의 러브게임 | 250601 (2025-06-01)",
   "title": "[FULL] 다시 시작! 2막을 시작하다!!💞 완전체로 돌아온 아이들(i-dle)의 미연, 민니 보는 라디오 | 박소현의 러브게임 | (2025-06-01)",
   "duration": "00:37:43"
+},
+  {
+  "link": "https://youtu.be/PIEIaBctxlg",
+  "category": "RADIO_PODCAST",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:53:41",
+  "thumbnail": "https://i.ytimg.com/vi/PIEIaBctxlg/maxresdefault.jpg",
+  "alt": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️  | 정오의 희망곡 김신영입니다 (2025-06-27)",
+  "title": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️  | 정오의 희망곡 김신영입니다 (2025-06-27)"
 }
 
 
