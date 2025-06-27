@@ -204,7 +204,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase (2018-05-03)",
   "duration": "00:04:28",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -1699,7 +1699,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE (2020-04-08)",
   "duration": "00:38:30",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -1764,7 +1764,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip (2020-04-16)",
   "duration": "00:03:25",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -2128,7 +2128,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip (2020-08-07)",
   "duration": "00:03:32",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -3337,7 +3337,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video (2022-03-07)",
   "duration": "00:01:07",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -3650,136 +3650,6 @@ const officialClipCards = [
   "title": "(여자)아이들((G)I-DLE) - I-TALK #97: 미연 \"MY\" 재킷 촬영 현장 비하인드 (ENG) (2022-04-30)",
   "duration": "00:05:37",
   "subtag": "아이톡 | I-TALK"
-},
-
-{
-  "link": "https://youtu.be/bNEp5XtJwow",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:05:05",
-  "thumbnail": "https://i.ytimg.com/vi/bNEp5XtJwow/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/kKDd451WWAw",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:09:40",
-  "thumbnail": "https://i.ytimg.com/vi/kKDd451WWAw/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/69oSaVo3wPo",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:04:06",
-  "thumbnail": "https://i.ytimg.com/vi/69oSaVo3wPo/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/_Sbv4c1PxwI",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:01:30",
-  "thumbnail": "https://i.ytimg.com/vi/_Sbv4c1PxwI/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/cY0Va2TgsfI",
-  "category": "OFFICIAL_CLIPS",
-  "member": "우기",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:01:31",
-  "thumbnail": "https://i.ytimg.com/vi/cY0Va2TgsfI/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/60Rb1vTzffI",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:05:55",
-  "thumbnail": "https://i.ytimg.com/vi/60Rb1vTzffI/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/un2_yqdc72g",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:02:00",
-  "thumbnail": "https://i.ytimg.com/vi/un2_yqdc72g/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/BEOF3t0fM9g",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:03:26",
-  "thumbnail": "https://i.ytimg.com/vi/BEOF3t0fM9g/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/BMNofD53P2U",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:06:15",
-  "thumbnail": "https://i.ytimg.com/vi/BMNofD53P2U/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
-  "subtag": "기타 | Etc."
-},
-
-{
-  "link": "https://youtu.be/kmfHkL7u7IY",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2022",
-  "month": "05",
-  "duration": "00:04:06",
-  "thumbnail": "https://i.ytimg.com/vi/kmfHkL7u7IY/maxresdefault.jpg",
-  "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
-  "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
-  "subtag": "기타 | Etc."
 },
 
 {
@@ -4273,7 +4143,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - X-FILE VIDEO (2022-10-11)",
   "title": "(여자)아이들((G)I-DLE) - X-FILE VIDEO (2022-10-11)",
   "duration": "00:01:27",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -4325,7 +4195,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
   "duration": "00:57:28",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -8004,7 +7874,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/j1dICgQi-gU/maxresdefault.jpg",
   "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer (2025-01-22)",
   "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer (2025-01-22)",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "콘서트 | WORLD TOUR"
 },
 
 {
@@ -8277,7 +8147,7 @@ const officialClipCards = [
   "alt": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
   "title": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
   "duration": "00:15:41",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "아이톡 | I-TALK"
 },
 
 {
@@ -8681,19 +8551,6 @@ const officialClipCards = [
   "title": "(G) EXHIBITON & 미니 8집 [We are] 기자 간담회 비하인드 [i-talk] #199 | i-dle (아이들)ㅣSUB (2025-05-31)",
   "duration": "00:13:45",
   "subtag": "아이톡 | I-TALK"
-},
-
-{
-  "link": "https://youtu.be/McgN9q0zLyE",
-  "category": "OFFICIAL_CLIPS",
-  "member": "아이들",
-  "year": "2025",
-  "month": "06",
-  "duration": "00:02:52",
-  "thumbnail": "https://i.ytimg.com/vi/McgN9q0zLyE/maxresdefault.jpg",
-  "alt": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
-  "title": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
-  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
