@@ -399,7 +399,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)",
   "title": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)' (2018-08-16)",
   "duration": "00:02:11",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -3805,7 +3805,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)",
   "title": "(여자)아이들((G)I-DLE) - I-LOG Teaser (ENG) (2022-05-05)",
   "duration": "00:01:07",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -6028,7 +6028,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
   "duration": "00:00:17",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -6197,7 +6197,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)",
   "title": "(여자)아이들((G)I-DLE) - I-TALK #151 : 2nd Full Album [2] Story Film & Comeback Trailer 촬영 비하인드 (ENG/CHN) (2024-02-23)",
   "duration": "00:16:34",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "아이톡 | I-TALK"
 },
 
 {
@@ -7276,7 +7276,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)",
   "title": "(여자)아이들((G)I-DLE) - I-TALK #168 : 7th Mini Album [I SWAY] Concept Trailer 촬영 비하인드 (ENG/CHN) (2024-07-16)",
   "duration": "00:11:03",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "아이톡 | I-TALK"
 },
 
 {
@@ -8550,7 +8550,7 @@ const officialClipCards = [
   "alt": "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)",
   "title": "'i-dentity Trailer' 촬영 비하인드 [i-talk] #195 | i-dle (아이들)ㅣSUB (2025-05-09)",
   "duration": "00:17:19",
-  "subtag": "프로모션 | Comeback Promotion"
+  "subtag": "아이톡 | I-TALK"
 },
 
 {
