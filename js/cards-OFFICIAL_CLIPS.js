@@ -412,7 +412,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)",
   "title": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)' (2018-08-16)",
   "duration": "00:01:24",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -1400,7 +1400,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)",
   "title": "[#HASHTALK] EP.1 큰손 우기가 주문하는 방법 & 슈화가 과자를 먹는 방법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-06)",
   "duration": "00:01:15",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1413,7 +1413,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)",
   "title": "[#HASHTALK] EP.2 프린세스 면 언니와 단호박 수진 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-13)",
   "duration": "00:02:04",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1426,7 +1426,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)",
   "title": "[#HASHTALK] EP.3 리액션 장인 욘따라락의 행복적 모먼트 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-17)",
   "duration": "00:01:09",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1452,7 +1452,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)",
   "title": "[#HASHTALK] EP.4 큐브어학당 출신 막내라인의 식사시간 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-22)",
   "duration": "00:02:00",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1478,7 +1478,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)",
   "title": "[#HASHTALK] EP.5 감튀러버 소연이의 룸서비스 먹방 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-01-28)",
   "duration": "00:02:20",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1504,7 +1504,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)",
   "title": "[#HASHTALK] EP.6 민니 우기 슈화의 완벽한 하루 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-03)",
   "duration": "00:01:36",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1530,7 +1530,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)",
   "title": "[#HASHTALK] EP.7 마사지 마니아 민우슈의 힐링타임 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-06)",
   "duration": "00:02:42",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1543,7 +1543,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)",
   "title": "[#HASHTALK] EP.8 미연이와 수진이의 야시장 나들이 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-11)",
   "duration": "00:02:32",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1556,7 +1556,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)",
   "title": "[#HASHTALK] EP.9 흥정의 달인 서수진의 원피스 쇼핑 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-13)",
   "duration": "00:02:44",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1569,7 +1569,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)",
   "title": "[#HASHTALK] EP.10 베트남 전통모자 '농' 구입기 (Feat. 잠자조또이) (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-17)",
   "duration": "00:02:16",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1582,7 +1582,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)",
   "title": "[#HASHTALK] EP.11 소연이의 브이로그: 쏘트레스 해소법 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-19)",
   "duration": "00:03:27",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1595,7 +1595,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)",
   "title": "[#HASHTALK] EP.12 소연이의 브이로그 : 소연이와 LION 운명의 데스티니🦁 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-02-21)",
   "duration": "00:01:29",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1777,7 +1777,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)",
   "title": "[#HASHTALK] EP.13 행복을 찾아 떠난 예슈화의 콘셉트 프리뷰 비하인드 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-04-17)",
   "duration": "00:03:13",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -1790,7 +1790,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video (2020-04-17)",
   "duration": "00:03:17",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "기타 | Etc."
 },
 
 {
@@ -1868,7 +1868,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/HnvWJehjYQA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "기타 | Etc."
 },
 
 {
@@ -2310,7 +2310,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)",
   "title": "[#HASHTALK] EP.14 🥁덤디덤디🌴(오에오에오❗)🔥덤디덤디🌊전현무🎁선물🥤 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-08-22)",
   "duration": "00:02:49",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -2570,7 +2570,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)",
   "title": "[#HASHTALK] EP.15 아이들에게 셀프 캠을 주면 생기는 일❓❗ (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2020-12-25)",
   "duration": "00:04:47",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -2804,7 +2804,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)",
   "title": "[#HASHTALK] EP.16 귀여운 사람🐶 옆에 귀여운 사람🐰 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-01-15)",
   "duration": "00:04:55",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -2882,7 +2882,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
   "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
   "duration": "00:03:19",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "기타 | Etc."
 },
 
 {
@@ -3168,7 +3168,7 @@ const officialClipCards = [
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (2021-07-12)",
   "duration": "00:02:57",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "안무영상 | Choreography Practice Video"
 },
 
 {
@@ -3194,7 +3194,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)",
   "title": "[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭 (ENG)ㅣ(여자)아이들 ((G)I-DLE) (2021-07-22)",
   "duration": "00:03:58",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -3207,7 +3207,7 @@ const officialClipCards = [
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) (2021-08-01)",
   "duration": "00:02:59",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "안무영상 | Choreography Practice Video"
 },
 
 {
@@ -4637,7 +4637,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)",
   "title": "[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2022-12-21)",
   "duration": "00:05:48",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -4754,7 +4754,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)",
   "title": "[#HASHTALK] EP.19 민니와 로띠 싸이마이의 상관관계 🍽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-02-12)",
   "duration": "00:04:40",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -4793,7 +4793,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)",
   "title": "[#HASHTALK] EP.20 무대를 찢기 위해 다리도 찢는 (여자)아이들 🔥 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-03-07)",
   "duration": "00:02:43",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -4858,7 +4858,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)",
   "title": "[#HASHTALK] EP.21 유닛 계획 중인 미연? 🤭 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-01)",
   "duration": "00:02:41",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -4897,7 +4897,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)",
   "title": "[#HASHTALK] EP.22 칭찬은 소연을 춤추게 한다 💛🖤 (Feat. 투쿨포스쿨) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-04-15)",
   "duration": "00:02:57",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -5105,7 +5105,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)",
   "title": "[#HASHTALK] EP.23 우기의 좌충우돌 비행기 룸 투어 🙌 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-22)",
   "duration": "00:03:35",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -5131,7 +5131,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)",
   "title": "[#HASHTALK] EP.24 You wanna be the 퀸카 (Feat. 소연의 퀸카 박스 제작기 👑🎀) (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-05-24)",
   "duration": "00:04:26",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -5417,7 +5417,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)",
   "title": "[#HASHTALK] EP.25 슈화의 소원은 P.R.O 모델 💚 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-08-04)",
   "duration": "00:03:48",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -5690,7 +5690,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)",
   "title": "[#HASHTALK] EP.26 글로벌 앰버서더 미연의 나들이 😎 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-11-03)",
   "duration": "00:03:07",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -5833,7 +5833,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)",
   "title": "[#HASHTALK] EP.27 성수동에 연자매가 떴다 💚💛 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2023-12-27)",
   "duration": "00:06:49",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -6184,7 +6184,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)",
   "title": "[#HASHTALK] EP.28 똑같은 하루에 천사 소연 등장 🪽 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-02-20)",
   "duration": "00:04:01",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -6249,7 +6249,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)",
   "title": "[#HASHTALK] EP.29 '연애남매' 제작 발표회 현장에 나타난 공감 요정 미연 🧚(ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-03-11)",
   "duration": "00:03:08",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -7055,7 +7055,7 @@ const officialClipCards = [
   "alt": "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)",
   "title": "[#HASHTALK] EP.30 미연이 두통에 시달린 이유 😣 (ENG/CHN)ㅣ(여자)아이들 ((G)I-DLE) (2024-06-22)",
   "duration": "00:02:31",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -7432,7 +7432,7 @@ const officialClipCards = [
   "alt": "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)",
   "title": "소연이의 연기 비법 대공개 😆 [#HASHTALK] EP.31ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-11)",
   "duration": "00:03:34",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -7471,7 +7471,7 @@ const officialClipCards = [
   "alt": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)",
   "title": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.) (2024-09-24)",
   "duration": "00:02:39",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "기타 | Etc."
 },
 
 {
@@ -7549,7 +7549,7 @@ const officialClipCards = [
   "alt": "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)",
   "title": "게스트에서 고정이 되다⁉️ 미연의 '시골에 간 도시 Z' 제작 발표회 현장 🥰 [#HASHTALK] EP.32ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-15)",
   "duration": "00:04:11",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -7679,7 +7679,7 @@ const officialClipCards = [
   "alt": "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)",
   "title": "잠실 야구장에 등판한 승리 요정 미연 ⚾💗 [#HASHTALK] EP.33ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-11)",
   "duration": "00:06:02",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8212,7 +8212,7 @@ const officialClipCards = [
   "alt": "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)",
   "title": "CGV 무대 인사에 등장한 (여자)아이들 🎬❤️ [#HASHTALK] EP.34ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-19)",
   "duration": "00:07:07",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8342,7 +8342,7 @@ const officialClipCards = [
   "alt": "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)",
   "title": "오늘 시구도 잘해보자! 잠실에 재등판한 승리 요정 미연 💖 [#HASHTALK] EP.35ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-07)",
   "duration": "00:04:39",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8368,7 +8368,7 @@ const officialClipCards = [
   "alt": "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)",
   "title": "다양하게 예쁜 슈화의 势界POWERCIRCLES 4월호 화보 촬영 현장 ❣️ [#HASHTALK] EP.36ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-23)",
   "duration": "00:04:38",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8420,7 +8420,7 @@ const officialClipCards = [
   "alt": "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)",
   "title": "TAMBURINS 행사 & 윌과 함께한 우기의 하루 😘 [#HASHTALK] EP.37ㅣ(여자)아이들 ((G)I-DLE)ㅣSUB (2025-05-01)",
   "duration": "00:06:27",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8602,7 +8602,7 @@ const officialClipCards = [
   "alt": "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)",
   "title": "오늘은 소연이 반삭하는 날 🎵 [#HASHTALK] EP.38ㅣi-dle (아이들)ㅣSUB (2025-05-16)",
   "duration": "00:04:32",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8667,7 +8667,7 @@ const officialClipCards = [
   "alt": "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)",
   "title": "ELLEgirl JAPAN 화보 촬영 현장의 들망진창 아이들 😆 [#HASHTALK] EP.39ㅣi-dle (아이들)ㅣSUB (2025-05-30)",
   "duration": "00:09:22",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
@@ -8719,7 +8719,7 @@ const officialClipCards = [
   "alt": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
   "title": "지미추 행사장에 조미추의 등장이라 🎀💗 [#HASHTALK] EP.40ㅣi-dle (아이들)ㅣSUB (2025-06-07)",
   "duration": "00:05:01",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "해시톡 | HASHTALK"
 },
 
 {
