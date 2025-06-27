@@ -642,7 +642,18 @@ const originalVarietyCards = [
   "thumbnail": "https://i.ytimg.com/vi/gVf9lWF-6wQ/maxresdefault.jpg",
   "alt": "들망진창력 MAX 찍은 마성의 피지컬 업데이트 [네맘대로 아이들] EP. 4 | i-dle (아이들)ㅣSUB (2025-06-26)",
   "title": "들망진창력 MAX 찍은 마성의 피지컬 업데이트 [네맘대로 아이들] EP. 4 | i-dle (아이들)ㅣSUB (2025-06-26)"
-}
+},
+  {
+  "link": "https://youtu.be/McgN9q0zLyE",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/McgN9q0zLyE/maxresdefault.jpg",
+  "alt": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
+  "title": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
+  },
   
 
   
