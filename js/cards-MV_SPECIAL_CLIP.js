@@ -37,30 +37,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/4gxMgJSSVaQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2019",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/4gxMgJSSVaQ/maxresdefault.jpg",
-  "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
-  "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
-  "duration": "00:02:58"
-},
-
-{
-  "link": "https://youtu.be/0Hk8qGSoHnA",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "소연",
-  "year": "2019",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/0Hk8qGSoHnA/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)",
-  "title": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)",
-  "duration": "00:03:25"
-},
-
-{
   "link": "https://youtu.be/I66oFXdf0KU",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -133,30 +109,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/Q8mioC2TpLg",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2020",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/Q8mioC2TpLg/maxresdefault.jpg",
-  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover) (2020-09-22)",
-  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover) (2020-09-22)",
-  "duration": "00:03:16"
-},
-
-{
-  "link": "https://youtu.be/eiHCe0kGy3M",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2020",
-  "month": "11",
-  "thumbnail": "https://i.ytimg.com/vi/eiHCe0kGy3M/maxresdefault.jpg",
-  "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Why Do You Love Me (Acoustic)' / Charlotte Lawrence (Cover) (2020-11-12)",
-  "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Why Do You Love Me (Acoustic)' / Charlotte Lawrence (Cover) (2020-11-12)",
-  "duration": "00:02:04"
-},
-
-{
   "link": "https://youtu.be/z3szNvgQxHo",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -168,17 +120,7 @@ const mvSpecialClipCards = [
   "duration": "00:03:19"
 },
 
-{
-  "link": "https://youtu.be/P62kgQCuxGE",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2021",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
-  "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
-  "duration": "00:02:56"
-},
+
 
 {
   "link": "https://youtu.be/wxDHQT0iBKM",
@@ -214,42 +156,6 @@ const mvSpecialClipCards = [
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Music Video (2021-07-05)",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Music Video (2021-07-05)",
   "duration": "00:02:53"
-},
-
-{
-  "link": "https://youtu.be/fyk0U2BpiQg",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2021",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/fyk0U2BpiQg/maxresdefault.jpg",
-  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover) (2021-09-23)",
-  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover) (2021-09-23)",
-  "duration": "00:03:24"
-},
-
-{
-  "link": "https://youtu.be/iA04XJDdyrg",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2021",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/iA04XJDdyrg/maxresdefault.jpg",
-  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover) (2021-12-31)",
-  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover) (2021-12-31)",
-  "duration": "00:03:39"
-},
-
-{
-  "link": "https://youtu.be/eqB57puP5vQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2022",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/eqB57puP5vQ/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
-  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. (2022-03-14)",
-  "duration": "00:02:56"
 },
 
 {
@@ -301,30 +207,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/cKqxdDg-d9I",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2022",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/cKqxdDg-d9I/maxresdefault.jpg",
-  "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Nothing / Bruno Major' (Cover) (LIVE ver.) (2022-05-08)",
-  "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Nothing / Bruno Major' (Cover) (LIVE ver.) (2022-05-08)",
-  "duration": "00:04:01"
-},
-
-{
-  "link": "https://youtu.be/xDBvRbiy9aI",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2022",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/xDBvRbiy9aI/maxresdefault.jpg",
-  "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)",
-  "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover) (2022-09-22)",
-  "duration": "00:02:51"
-},
-
-{
   "link": "https://youtu.be/fCO7f0SmrDc",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -334,18 +216,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video (2022-10-17)",
   "duration": "00:03:04"
-},
-
-{
-  "link": "https://youtu.be/uPU1l6fBEEQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2022",
-  "month": "10",
-  "thumbnail": "https://i.ytimg.com/vi/uPU1l6fBEEQ/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' X-LOVE SHOW Ver. (2022-10-18)",
-  "title": "(여자)아이들((G)I-DLE) - 'Nxde' X-LOVE SHOW Ver. (2022-10-18)",
-  "duration": "00:03:03"
 },
 
 {
@@ -373,54 +243,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/qRrV31S7oO0",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2022",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/qRrV31S7oO0/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
-  "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
-  "duration": "00:02:48"
-},
-
-{
-  "link": "https://youtu.be/P7zU8MNxAoU",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니",
-  "year": "2022",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/P7zU8MNxAoU/maxresdefault.jpg",
-  "alt": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover) (2022-12-25)",
-  "title": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover) (2022-12-25)",
-  "duration": "00:02:46"
-},
-
-{
-  "link": "https://youtu.be/wMmL0Ufb7u4",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2023",
-  "month": "02",
-  "thumbnail": "https://i.ytimg.com/vi/wMmL0Ufb7u4/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-05)",
-  "title": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-05)",
-  "duration": "00:03:13"
-},
-
-{
-  "link": "https://youtu.be/0X4XGrK_PwM",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2023",
-  "month": "03",
-  "thumbnail": "https://i.ytimg.com/vi/0X4XGrK_PwM/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Flowers / Miley Cyrus' (Cover) (2023-03-14)",
-  "title": "우기(YUQI) - 'Flowers / Miley Cyrus' (Cover) (2023-03-14)",
-  "duration": "00:03:38"
-},
-
-{
   "link": "https://youtu.be/XZaBkbvteBc",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -445,30 +267,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/P2WN35hWy4A",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2023",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/P2WN35hWy4A/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Special Performance Video (2023-05-15)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Special Performance Video (2023-05-15)",
-  "duration": "00:02:47"
-},
-
-{
-  "link": "https://youtu.be/AKg_9dn_VmA",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2023",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/AKg_9dn_VmA/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' M/V (Performance Ver.) (2023-05-28)",
-  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' M/V (Performance Ver.) (2023-05-28)",
-  "duration": "00:02:45"
-},
-
-{
   "link": "https://youtu.be/PITjb4VZHpQ",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -478,18 +276,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Allergy' LIVE CLIP (2023-05-29)",
   "title": "(여자)아이들((G)I-DLE) - 'Allergy' LIVE CLIP (2023-05-29)",
   "duration": "00:02:44"
-},
-
-{
-  "link": "https://youtu.be/SWC8DXoV7ts",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2023",
-  "month": "06",
-  "thumbnail": "https://i.ytimg.com/vi/SWC8DXoV7ts/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Allergy' Special Performance Video (2023-06-04)",
-  "title": "(여자)아이들((G)I-DLE) - 'Allergy' Special Performance Video (2023-06-04)",
-  "duration": "00:02:45"
 },
 
 {
@@ -505,30 +291,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/dUro-rg2Uz8",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2023",
-  "month": "08",
-  "thumbnail": "https://i.ytimg.com/vi/dUro-rg2Uz8/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'I DO' NYC Skyline Performance Video (2023-08-08)",
-  "title": "(여자)아이들((G)I-DLE) - 'I DO' NYC Skyline Performance Video (2023-08-08)",
-  "duration": "00:03:11"
-},
-
-{
-  "link": "https://youtu.be/Zi2kJvHwk1k",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2023",
-  "month": "09",
-  "thumbnail": "https://i.ytimg.com/vi/Zi2kJvHwk1k/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'ghost town / JVKE' (Cover) (2023-09-22)",
-  "title": "우기(YUQI) - 'ghost town / JVKE' (Cover) (2023-09-22)",
-  "duration": "00:03:02"
-},
-
-{
   "link": "https://youtu.be/Iewisp9KYRw",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
@@ -540,17 +302,6 @@ const mvSpecialClipCards = [
   "duration": "00:03:33"
 },
 
-{
-  "link": "https://youtu.be/H6pLWC7zvA8",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "미연",
-  "year": "2023",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/H6pLWC7zvA8/maxresdefault.jpg",
-  "alt": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN) (2023-12-24)",
-  "title": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN) (2023-12-24)",
-  "duration": "00:18:43"
-},
 
 {
   "link": "https://youtu.be/baaNwRAhHBo",
@@ -562,18 +313,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Wife' Official Music Video (2024-01-21)",
   "title": "(여자)아이들((G)I-DLE) - 'Wife' Official Music Video (2024-01-21)",
   "duration": "00:02:17"
-},
-
-{
-  "link": "https://youtu.be/IIgWfz6FTSM",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2024",
-  "month": "01",
-  "thumbnail": "https://i.ytimg.com/vi/IIgWfz6FTSM/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Special Performance Video (2024-01-29)",
-  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Special Performance Video (2024-01-29)",
-  "duration": "00:03:15"
 },
 
 {
@@ -637,114 +376,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/mBJfHXE5fKU",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/mBJfHXE5fKU/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'FREAK' LIVE CLIP (FAN SHOWCASE Ver.) (2024-04-24)",
-  "title": "우기(YUQI) - 'FREAK' LIVE CLIP (FAN SHOWCASE Ver.) (2024-04-24)",
-  "duration": "00:03:00"
-},
-
-{
-  "link": "https://youtu.be/6FvfiaskXbQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "04",
-  "thumbnail": "https://i.ytimg.com/vi/6FvfiaskXbQ/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Red Rover' LIVE CLIP (2024-04-30)",
-  "title": "우기(YUQI) - 'Red Rover' LIVE CLIP (2024-04-30)",
-  "duration": "00:02:13"
-},
-
-{
-  "link": "https://youtu.be/i_r3Ni7jdNw",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/i_r3Ni7jdNw/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' Special Performance Video (2024-05-03)",
-  "title": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' Special Performance Video (2024-05-03)",
-  "duration": "00:02:06"
-},
-
-{
-  "link": "https://youtu.be/iBtilCDEU4E",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "민니, 우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/iBtilCDEU4E/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:03:20"
-},
-
-{
-  "link": "https://youtu.be/N9Q0T7OWhuA",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/N9Q0T7OWhuA/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:02:06"
-},
-
-{
-  "link": "https://youtu.be/EpRflTq7iEg",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/EpRflTq7iEg/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'My Way' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'My Way' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:02:56"
-},
-
-{
-  "link": "https://youtu.be/XVlVpYDaQMQ",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/XVlVpYDaQMQ/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Red Rover' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'Red Rover' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:02:52"
-},
-
-{
-  "link": "https://youtu.be/ChiQ0Ukh470",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/ChiQ0Ukh470/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Giant' + 'Bonnie & Clyde' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'Giant' + 'Bonnie & Clyde' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:03:27"
-},
-
-{
-  "link": "https://youtu.be/J_2r39dcPAM",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "우기",
-  "year": "2024",
-  "month": "05",
-  "thumbnail": "https://i.ytimg.com/vi/J_2r39dcPAM/maxresdefault.jpg",
-  "alt": "우기(YUQI) - 'Could It Be' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "title": "우기(YUQI) - 'Could It Be' LIVE CLIP (FAN SHOWCASE Ver.) (2024-05-05)",
-  "duration": "00:03:17"
-},
-
-{
   "link": "https://youtu.be/uSddv1T7Byg",
   "category": "MV_SPECIAL_CLIP",
   "member": "민니, 우기",
@@ -754,18 +385,6 @@ const mvSpecialClipCards = [
   "alt": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Special Clip (2024-05-08)",
   "title": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Special Clip (2024-05-08)",
   "duration": "00:03:20"
-},
-
-{
-  "link": "https://youtu.be/pS_dBL63oAc",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2024",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/pS_dBL63oAc/maxresdefault.jpg",
-  "alt": "제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon) (2024-07-08)",
-  "title": "제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon) (2024-07-08)",
-  "duration": "00:03:14"
 },
 
 {
@@ -838,18 +457,6 @@ const mvSpecialClipCards = [
   "alt": "미연(MIYEON) - 'Sky Walking' SPECIAL CLIP (2024-12-19)",
   "title": "미연(MIYEON) - 'Sky Walking' SPECIAL CLIP (2024-12-19)",
   "duration": "00:04:18"
-},
-
-{
-  "link": "https://youtu.be/EV2NXUYZ3Js",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "미연",
-  "year": "2024",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/EV2NXUYZ3Js/maxresdefault.jpg",
-  "alt": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB (2024-12-24)",
-  "title": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB (2024-12-24)",
-  "duration": "00:22:19"
 },
 
 {
@@ -935,18 +542,7 @@ const mvSpecialClipCards = [
   "alt": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "title": "i-dle (아이들) 'Good Thing' Official Music Video (2025-05-19)",
   "duration": "00:02:56"
-},
-  {
-  "link": "https://youtu.be/F4K1mMDlsj0",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "슈화",
-  "year": "PRE-DEBUT",
-  "month": "09",
-  "duration": "00:04:04",
-  "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
-  "alt": "[MV] 10cm _ pet (2017-09-04)",
-  "title": "[슈화] - [MV] 10cm _ pet (2017-09-04)"
-},
+
   {
   "link": "https://youtu.be/U6DG3TBcV6s",
   "category": "MV_SPECIAL_CLIP",
