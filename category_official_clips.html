@@ -266,154 +266,156 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
-  <script>
-    const container = document.getElementById("allCards");
-    const loadMoreBtn = document.getElementById("loadMoreBtn");
-    const cardCountEl = document.getElementById("cardCount");
-    const searchInput = document.getElementById("searchInput");
-    const searchBtn = document.getElementById("searchBtn");
-    const resetBtn = document.getElementById("resetSearchBtn");
-    const scrollTopBtn = document.getElementById("scrollTopBtn");
-    const subtagFilter = document.getElementById("subtagFilter");
+ <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+<script>
+  const container = document.getElementById("allCards");
+  const loadMoreBtn = document.getElementById("loadMoreBtn");
+  const cardCountEl = document.getElementById("cardCount");
+  const searchInput = document.getElementById("searchInput");
+  const searchBtn = document.getElementById("searchBtn");
+  const resetBtn = document.getElementById("resetSearchBtn");
+  const scrollTopBtn = document.getElementById("scrollTopBtn");
+  const subtagFilter = document.getElementById("subtagFilter");
 
-    let currentIndex = 0;
-    const batchSize = 20;
-    let filtered = [];
-    let sortOrder = "newest";
-    let selectedSubtag = "";
+  let currentIndex = 0;
+  const batchSize = 20;
+  let filtered = [];
+  let sortOrder = "newest";
+  let selectedSubtag = "";
 
-    const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
+  const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
 
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
+  function extractDate(title) {
+    const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+    return match ? match[1] : '2000-01-01';
+  }
 
-    function updateCardCount(count) {
-      cardCountEl.textContent = `총 ${count}개 영상`;
-    }
+  function updateCardCount(count) {
+    cardCountEl.textContent = `총 ${count}개 영상`;
+  }
 
-    function renderCards(data) {
-      const next = data.slice(currentIndex, currentIndex + batchSize);
-      next.forEach(card => {
-        const el = document.createElement('a');
-        el.className = 'card';
-        el.innerHTML = `
-          <div class="card-meta">
-            <span>${card.category || ''}</span>
-            <span>${card.member || ''} | ${card.duration || ''}</span>
-          </div>
-          <div class="thumbnail-wrapper">
-            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
-          </div>
-          <div class="card-title">${card.title}</div>
-        `;
-        el.onclick = e => {
-          e.preventDefault();
-          window.open(card.link, '_blank');
-        };
+  function renderCards(data) {
+    const next = data.slice(currentIndex, currentIndex + batchSize);
+    next.forEach(card => {
+      const el = document.createElement('a');
+      el.className = 'card';
+      el.innerHTML = `
+        <div class="card-meta">
+          <span>${card.category || ''}</span>
+          <span>${card.member || ''} | ${card.duration || ''}</span>
+        </div>
+        <div class="thumbnail-wrapper">
+          <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
+        </div>
+        <div class="card-title">${card.title}</div>
+      `;
+      el.onclick = e => {
+        e.preventDefault();
+        window.open(card.link, '_blank');
+      };
 
-        const img = el.querySelector('img');
-        img.onload = function () {
-          const isVertical = img.naturalHeight > img.naturalWidth;
-          img.style.objectFit = isVertical ? 'contain' : 'cover';
-          img.style.backgroundColor = '#000';
-        };
+      const img = el.querySelector('img');
+      img.onload = function () {
+        const isVertical = img.naturalHeight > img.naturalWidth;
+        img.style.objectFit = isVertical ? 'contain' : 'cover';
+        img.style.backgroundColor = '#000';
+      };
 
-        container.appendChild(el);
-      });
+      container.appendChild(el);
+    });
 
-      currentIndex += batchSize;
-      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
-      updateCardCount(data.length);
-    }
+    currentIndex += batchSize;
+    loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+    updateCardCount(data.length);
+  }
 
-    function createFilterButtons(containerId, items) {
-      const filterContainer = document.getElementById(containerId);
-      filterContainer.innerHTML = '';
-      items.forEach(item => {
-        const btn = document.createElement("button");
-        btn.textContent = item;
-        btn.className = "category-btn";
-        btn.onclick = () => {
-          btn.classList.toggle("active");
-          applyFilters();
-        };
-        filterContainer.appendChild(btn);
-      });
-    }
-
-    function applyFilters() {
-      const normalize = str =>
-        str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-      const rawKeywords = searchInput.value
-        .toLowerCase()
-        .replace(/[^\w\uac00-\ud7af]+/g, ' ')
-        .split(/\s+/)
-        .filter(Boolean);
-      const normalizedKeywords = rawKeywords.map(k => normalize(k));
-
-      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
-
-      const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent);
-      const members = Array.from(memberBtns).map(b => b.textContent);
-
-      filtered = all.filter(card => {
-        if (selectedSubtag && card.subtag !== selectedSubtag) return false;
-
-        if (normalizedKeywords.length) {
-          const targetText = normalize(card.title + ' ' + card.member);
-          if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
-        }
-
-        if (years.length && !years.includes(card.year)) return false;
-
-        if (months.length) {
-          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-          if (!months.includes(m)) return false;
-        }
-
-        if (members.length && !members.some(m => card.member.includes(m))) return false;
-
-        return true;
-      });
-
-      currentIndex = 0;
-      container.innerHTML = '';
-      filtered.sort((a, b) => {
-        const dateA = new Date(extractDate(a.title));
-        const dateB = new Date(extractDate(b.title));
-        return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
-      });
-      renderCards(filtered);
-    }
-
-    window.onload = function () {
-      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
-      createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
-      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
-
-      subtagFilter.addEventListener("change", () => {
-        selectedSubtag = subtagFilter.value;
-        applyFilters();
-      });
-      searchBtn.onclick = applyFilters;
-      searchInput.onkeydown = e => { if (e.key === "Enter") applyFilters(); };
-      resetBtn.onclick = () => location.reload();
-      scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-      document.getElementById("toggleSortBtn").onclick = () => {
-        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
-        document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
+  function createFilterButtons(containerId, items) {
+    const filterContainer = document.getElementById(containerId);
+    filterContainer.innerHTML = '';
+    items.forEach(item => {
+      const btn = document.createElement("button");
+      btn.textContent = item;
+      btn.className = "category-btn";
+      btn.onclick = () => {
+        btn.classList.toggle("active");
         applyFilters();
       };
-      loadMoreBtn.onclick = () => renderCards(filtered);
+      filterContainer.appendChild(btn);
+    });
+  }
 
+  function applyFilters() {
+    const normalize = str =>
+      str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
+
+    const rawKeywords = searchInput.value
+      .toLowerCase()
+      .replace(/[^\w\uac00-\ud7af]+/g, ' ')
+      .split(/\s+/)
+      .filter(Boolean);
+    const normalizedKeywords = rawKeywords.map(k => normalize(k));
+
+    const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+    const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+    const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
+
+    const years = Array.from(yearBtns).map(b => b.textContent);
+    const months = Array.from(monthBtns).map(b => b.textContent);
+    const members = Array.from(memberBtns).map(b => b.textContent);
+
+    filtered = all.filter(card => {
+      if (selectedSubtag && normalize(card.subtag || '') !== normalize(selectedSubtag)) return false;
+
+      if (normalizedKeywords.length) {
+        const targetText = normalize(card.title + ' ' + card.member);
+        if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
+      }
+
+      if (years.length && !years.includes(card.year)) return false;
+
+      if (months.length) {
+        const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
+        if (!months.includes(m)) return false;
+      }
+
+      if (members.length && !members.some(m => card.member.includes(m))) return false;
+
+      return true;
+    });
+
+    currentIndex = 0;
+    container.innerHTML = '';
+    filtered.sort((a, b) => {
+      const dateA = new Date(extractDate(a.title));
+      const dateB = new Date(extractDate(b.title));
+      return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+    });
+    renderCards(filtered);
+  }
+
+  window.onload = function () {
+    createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+    createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
+    createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
+
+    subtagFilter.addEventListener("change", () => {
+      selectedSubtag = subtagFilter.value;
+      applyFilters();
+    });
+    searchBtn.onclick = applyFilters;
+    searchInput.onkeydown = e => { if (e.key === "Enter") applyFilters(); };
+    resetBtn.onclick = () => location.reload();
+    scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+    document.getElementById("toggleSortBtn").onclick = () => {
+      sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+      document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
       applyFilters();
     };
-  </script>
+    loadMoreBtn.onclick = () => renderCards(filtered);
+
+    applyFilters();
+  };
+</script>
+
 </body>
 </html>
