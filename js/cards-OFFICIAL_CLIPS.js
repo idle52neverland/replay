@@ -1894,7 +1894,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/VLrEJnJSh6s/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
-  "subtag": "기타 | Etc."
+  "subtag": "콘서트 | WORLD TOUR"
 },
 
 {
@@ -2791,7 +2791,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
   "duration": "00:03:23",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -2973,7 +2973,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)",
   "title": "(여자)아이들((G)I-DLE) - PROLOGUE : THE WITCH QUEEN (2021-04-23)",
   "duration": "00:00:41",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -3051,7 +3051,7 @@ const officialClipCards = [
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
   "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
   "duration": "00:10:38",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -3064,7 +3064,7 @@ const officialClipCards = [
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
   "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
   "duration": "00:07:10",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -3090,7 +3090,7 @@ const officialClipCards = [
   "alt": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
   "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
   "duration": "00:07:13",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
