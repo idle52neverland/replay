@@ -1608,7 +1608,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1 (2020-03-26)",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1 (2020-03-26)",
   "duration": "00:00:21",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -1621,7 +1621,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2 (2020-03-29)",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2 (2020-03-29)",
   "duration": "00:00:18",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -2609,7 +2609,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview (2021-01-01)",
   "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview (2021-01-01)",
   "duration": "00:00:22",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -4286,7 +4286,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview (2022-10-13)",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview (2022-10-13)",
   "duration": "00:01:18",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -4715,7 +4715,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING (2023-02-03)",
   "duration": "00:03:05",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -4910,7 +4910,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes (2023-04-23)",
   "title": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes (2023-04-23)",
   "duration": "00:01:18",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -4923,7 +4923,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - Character Introduction : [I feel] (2023-04-25)",
   "title": "(여자)아이들((G)I-DLE) - Character Introduction : [I feel] (2023-04-25)",
   "duration": "00:00:51",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -5040,7 +5040,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)",
   "title": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN) (2023-05-13)",
   "duration": "00:09:31",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -5066,7 +5066,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
   "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
   "duration": "00:44:21",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -5248,7 +5248,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)",
   "title": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel] (2023-06-04)",
   "duration": "00:01:09",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -5885,7 +5885,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion (2024-01-07)",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion (2024-01-07)",
   "duration": "00:00:19",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -6028,7 +6028,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
   "duration": "00:00:17",
-  "subtag": "퍼포먼스 | Performance Clip"
+  "subtag": "안무영상 | Choreography Practice Video"
 },
 
 {
@@ -6171,7 +6171,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)",
   "title": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G) (2024-02-19)",
   "duration": "00:01:35",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -6314,7 +6314,7 @@ const officialClipCards = [
   "alt": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)",
   "title": "우기(YUQI) - April Fools' Day? (ENG/CHN) (2024-03-31)",
   "duration": "00:01:00",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -6327,7 +6327,7 @@ const officialClipCards = [
   "alt": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)",
   "title": "우기(YUQI) - April YUQI's Day! (ENG/CHN) (2024-04-01)",
   "duration": "00:00:45",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -6405,7 +6405,7 @@ const officialClipCards = [
   "alt": "우기(YUQI) - Invitation from the RABBIT (2024-04-16)",
   "title": "우기(YUQI) - Invitation from the RABBIT (2024-04-16)",
   "duration": "00:00:31",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -7003,7 +7003,7 @@ const officialClipCards = [
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)",
   "title": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN) (2024-06-01)",
   "duration": "00:13:37",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -7367,7 +7367,7 @@ const officialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World (2024-08-01)",
   "duration": "00:03:18",
-  "subtag": "기타 | Etc."
+  "subtag": "퍼포먼스 | Performance Clip"
 },
 
 {
@@ -7458,7 +7458,7 @@ const officialClipCards = [
   "alt": "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)",
   "title": "우기의 'Radio (Dum-Dum)' 작업 브이로그 🌟 [l-LOG] #35 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-24)",
   "duration": "00:10:39",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7497,7 +7497,7 @@ const officialClipCards = [
   "alt": "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)",
   "title": "우기의 운동 브이로그 💪🔥 [l-LOG] #36 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-30)",
   "duration": "00:09:21",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7575,7 +7575,7 @@ const officialClipCards = [
   "alt": "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)",
   "title": "냠냠박사 면민슈의 오프데이 [l-LOG] #37 😋 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-22)",
   "duration": "00:09:02",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7614,7 +7614,7 @@ const officialClipCards = [
   "alt": "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)",
   "title": "소연의 What's in my luggage [l-LOG] #38 🧳 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-25)",
   "duration": "00:09:39",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7627,7 +7627,7 @@ const officialClipCards = [
   "alt": "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)",
   "title": "면민슈의 행복 가득했던 디즈니랜드 [l-LOG] #39 🎡🤗 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-28)",
   "duration": "00:14:31",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7640,7 +7640,7 @@ const officialClipCards = [
   "alt": "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)",
   "title": "민니의 파리 브이로그 (Feat. Miu Miu) [l-LOG] #40 🗼🤩 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-31)",
   "duration": "00:10:40",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7731,7 +7731,7 @@ const officialClipCards = [
   "alt": "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)",
   "title": "우기의 태국 오프데이 [l-LOG] #42 🍹 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-27)",
   "duration": "00:06:56",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7835,7 +7835,7 @@ const officialClipCards = [
   "alt": "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)",
   "title": "MAMA 자유시간 모음.zip [l-LOG] #43 🦁😺🐶🐺 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-22)",
   "duration": "00:15:16",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -7887,7 +7887,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/htAKPMXNqe8/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album COMING SOON (2025-01-07)",
   "title": "민니(MINNIE) - 1st Mini Album COMING SOON (2025-01-07)",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -8069,7 +8069,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/_jsLicER8XY/maxresdefault.jpg",
   "alt": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB (2025-01-29)",
   "title": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB (2025-01-29)",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -8108,7 +8108,7 @@ const officialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZmuQSydCrhg/maxresdefault.jpg",
   "alt": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB (2025-02-06)",
   "title": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB (2025-02-06)",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
@@ -8186,7 +8186,7 @@ const officialClipCards = [
   "alt": "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)",
   "title": "베이징 여행 가이드 우기 [l-LOG] #44 ✨ | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-02-15)",
   "duration": "00:05:09",
-  "subtag": "기타 | Etc."
+  "subtag": "아이로그 | I-LOG"
 },
 
 {
@@ -8433,7 +8433,7 @@ const officialClipCards = [
   "alt": "i-dle (아이들) 'for (G)' (2025-05-01)",
   "title": "i-dle (아이들) 'for (G)' (2025-05-01)",
   "duration": "00:01:53",
-  "subtag": "기타 | Etc."
+  "subtag": "프로모션 | Comeback Promotion"
 },
 
 {
