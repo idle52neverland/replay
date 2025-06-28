@@ -10989,6 +10989,16 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/kfWSiV1nO9M/mqdefault.jpg",
   "alt": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)",
   "title": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)"
+},
+  {
+  "link": "https://naver.me/xoQ27K0O",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20250621_58/3F8Ve_1750516922781FIjd3_JPEG/zqGQMoch63_05.jpg?type=now720b",
+  "alt": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대",
+  "title": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대"
 }
 
 
