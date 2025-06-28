@@ -764,7 +764,7 @@ const specialReleasesCards = [
   "duration": "00:02:43",
   "thumbnail": "https://i.ytimg.com/vi/O_B-0iPCbaU/maxresdefault.jpg",
   "alt": "비비 (BIBI) - Sugar Rush Official M/V (2024-02-20)",
-  "title": "[Cameo: 소연] 비비 (BIBI) - Sugar Rush Official M/V (2024-02-20)"
+  "title": "[Cameo: SOYEON] 비비 (BIBI) - Sugar Rush Official M/V (2024-02-20)"
 }
 
 
