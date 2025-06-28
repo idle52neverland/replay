@@ -3666,8 +3666,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/5JM9emvFjsM/sddefault.jpg",
-  "alt": "[TEASER] 📣(여자)아이들 우기 충격 발언 \"드디어 증명할 기회가 온 거 같아요\" | 런웨이 | LEARN WAY | (G)I-DLE YUQI",
-  "title": "[TEASER] 📣(여자)아이들 우기 충격 발언 \"드디어 증명할 기회가 온 거 같아요\" | 런웨이 | LEARN WAY | (G)I-DLE YUQI (2020-09-17)",
+  "alt": "[TEASER] 📣(여자)아이들 우기 충격 발언 \"드디어 증명할 기회가 온 거 같아요\"  (G)I-DLE YUQI",
+  "title": "| 런웨이 (LEARN WAY) | [TEASER] 📣(여자)아이들 우기 충격 발언 \"드디어 증명할 기회가 온 거 같아요\" |  | (2020-09-17)",
   "duration": "00:02:13"
 },
 
@@ -3942,8 +3942,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/tPoUPnMBFHI/sddefault.jpg",
-  "alt": "(여자)아이들 우기 X 놀면 뭐하니 박토벤 = 트로트 가수 데뷔 임박?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.1",
-  "title": "(여자)아이들 우기 X 놀면 뭐하니 박토벤 = 트로트 가수 데뷔 임박?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.1 (2020-09-25)",
+  "alt": "(여자)아이들 우기 X 놀면 뭐하니 박토벤 = 트로트 가수 데뷔 임박?! | (G)I-DLE YUQI |",
+  "title": "| 런웨이 (LEARN WAY) EP.1 | (여자)아이들 우기 X 놀면 뭐하니 박토벤 = 트로트 가수 데뷔 임박?! (2020-09-25)",
   "duration": "00:12:50"
 },
 
@@ -3954,8 +3954,8 @@ const mediaContentsCards = [
   "year": "2020",
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Q16K1HwBTfs/sddefault.jpg",
-  "alt": "(여자)아이들 우기 X BTS 전문 MC 김일중 🔥다이너마이트급🔥케미 폭발! 우기의 아나운싱 도전!? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.2",
-  "title": "(여자)아이들 우기 X BTS 전문 MC 김일중 🔥다이너마이트급🔥케미 폭발! 우기의 아나운싱 도전!? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.2 (2020-10-02)",
+  "alt": "(여자)아이들 우기 X BTS 전문 MC 김일중 🔥다이너마이트급🔥케미 폭발! 우기의 아나운싱 도전!?",
+  "title": "| 런웨이 (LEARN WAY) EP.2 | (여자)아이들 우기 X BTS 전문 MC 김일중 🔥다이너마이트급🔥케미 폭발! 우기의 아나운싱 도전!? (2020-10-02)",
   "duration": "00:15:13"
 },
 
@@ -4027,7 +4027,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/DK32EVcgPH0/sddefault.jpg",
   "alt": "(여자)아이들 우기 쇼미더머니9 지원? 리듬파워가 전수하는 쇼미 우승 비법 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.3 | 보이 비 지구인 행주",
-  "title": "(여자)아이들 우기 쇼미더머니9 지원? 리듬파워가 전수하는 쇼미 우승 비법 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.3 | 보이 비 지구인 행주 (2020-10-09)",
+  "title": "| 런웨이 (LEARN WAY) EP.3 | (여자)아이들 우기 쇼미더머니9 지원? 리듬파워가 전수하는 쇼미 우승 비법 | 보이 비 지구인 행주 (2020-10-09)",
   "duration": "00:16:52"
 },
 
@@ -4051,7 +4051,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/3YkGqby0_Pk/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 기우쌤 수진 컷 도전하다 역대급 망한머리 탄생!?💇 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.4",
-  "title": "(여자)아이들 우기 X 기우쌤 수진 컷 도전하다 역대급 망한머리 탄생!?💇 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.4 (2020-10-16)",
+  "title": "| 런웨이 (LEARN WAY) EP.4 | (여자)아이들 우기 X 기우쌤 수진 컷 도전하다 역대급 망한머리 탄생!?💇 (2020-10-16)",
   "duration": "00:15:51"
 },
 
@@ -4075,7 +4075,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/00L672Fc7rU/sddefault.jpg",
   "alt": "(여자)아이들 우기 드디어 기린 만났습니다! 🦒우기린🦒 극적 상봉의 순간 大공개! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.5 | 에버랜드",
-  "title": "(여자)아이들 우기 드디어 기린 만났습니다! 🦒우기린🦒 극적 상봉의 순간 大공개! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.5 | 에버랜드 (2020-10-23)",
+  "title": "| 런웨이 (LEARN WAY) EP.5 | (여자)아이들 우기 드디어 기린 만났습니다! 🦒우기린🦒 극적 상봉의 순간 大공개! | 에버랜드 (2020-10-23)",
   "duration": "00:15:44"
 },
 
@@ -4087,7 +4087,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/3tdBGHPP2e8/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 세계 복싱 챔피언 최현미 🥊 세기의 대결! 세계 챔피언에게 선빵 날린 우기?!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.6",
-  "title": "(여자)아이들 우기 X 세계 복싱 챔피언 최현미 🥊 세기의 대결! 세계 챔피언에게 선빵 날린 우기?!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.6 (2020-10-30)",
+  "title": "| 런웨이 (LEARN WAY) EP.6 | (여자)아이들 우기 X 세계 복싱 챔피언 최현미 🥊 세기의 대결! 세계 챔피언에게 선빵 날린 우기?! (2020-10-30)",
   "duration": "00:13:30"
 },
 
@@ -4291,7 +4291,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/eNSMEpHF4SA/sddefault.jpg",
   "alt": "(여자)아이들 우기 드디어 🤸돌았다🤸 성수동 춤짱의 덤디덤디 비보잉 ver. 대공개!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.7 | 갬블러크루",
-  "title": "(여자)아이들 우기 드디어 🤸돌았다🤸 성수동 춤짱의 덤디덤디 비보잉 ver. 대공개!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.7 | 갬블러크루 (2020-11-06)",
+  "title": "| 런웨이 (LEARN WAY) EP.7 | (여자)아이들 우기 드디어 🤸돌았다🤸 성수동 춤짱의 덤디덤디 비보잉 ver. 대공개!  | 갬블러크루 (2020-11-06)",
   "duration": "00:14:22"
 },
 
@@ -4327,7 +4327,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/DOZ7amtXlCA/sddefault.jpg",
   "alt": "(여자)아이들 우기 배그 e스포츠 선수 데뷔? 아프리카 프릭스 이적설의 진실은? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.8",
-  "title": "(여자)아이들 우기 배그 e스포츠 선수 데뷔? 아프리카 프릭스 이적설의 진실은? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.8 (2020-11-13)",
+  "title": "| 런웨이 (LEARN WAY) EP.8 | (여자)아이들 우기 배그 e스포츠 선수 데뷔? 아프리카 프릭스 이적설의 진실은? (2020-11-13)",
   "duration": "00:13:40"
 },
 
@@ -4387,7 +4387,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/PcgRbaBfI4Q/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 니키 마술 공작단 결성! 미연이 지갑까지 털어버렸다고!? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.9",
-  "title": "(여자)아이들 우기 X 니키 마술 공작단 결성! 미연이 지갑까지 털어버렸다고!? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.9 (2020-11-20)",
+  "title": "| 런웨이 (LEARN WAY) EP.9 | (여자)아이들 우기 X 니키 마술 공작단 결성! 미연이 지갑까지 털어버렸다고!? (2020-11-20)",
   "duration": "00:16:38"
 },
 
@@ -4411,7 +4411,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/Ku3rhY4LMtg/sddefault.jpg",
   "alt": "(여자)아이들 우기 구속이 무려 **km?! ⚾ 새로운 야신의 탄생?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.10",
-  "title": "(여자)아이들 우기 구속이 무려 **km?! ⚾ 새로운 야신의 탄생?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.10 (2020-11-27)",
+  "title": "| 런웨이 (LEARN WAY) EP.10 | (여자)아이들 우기 구속이 무려 **km?! ⚾ 새로운 야신의 탄생?! | (G)I-DLE YUQI  (2020-11-27)",
   "duration": "00:16:09"
 },
 
@@ -4495,7 +4495,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/1ewcfeBzOjg/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 파브리 상상초월 파스타🍝로 미슐랭 찢었다?! (feat. 백종원 선배님) | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.11",
-  "title": "(여자)아이들 우기 X 파브리 상상초월 파스타🍝로 미슐랭 찢었다?! (feat. 백종원 선배님) | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.11 (2020-12-04)",
+  "title": "| 런웨이 (LEARN WAY) EP.11 | (여자)아이들 우기 X 파브리 상상초월 파스타🍝로 미슐랭 찢었다?! (feat. 백종원 선배님) (2020-12-04)",
   "duration": "00:14:59"
 },
 
@@ -4543,7 +4543,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/mEEsqS-Bcro/sddefault.jpg",
   "alt": "(여자)아이들 우기 VS 댄싱9 우승자 김솔희 🔥크럼프 댄스 배틀🔥의 승자는?!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.12",
-  "title": "(여자)아이들 우기 VS 댄싱9 우승자 김솔희 🔥크럼프 댄스 배틀🔥의 승자는?!  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.12 (2020-12-11)",
+  "title": "| 런웨이 (LEARN WAY) EP.12 | (여자)아이들 우기 VS 댄싱9 우승자 김솔희 🔥크럼프 댄스 배틀🔥의 승자는?! (2020-12-11)",
   "duration": "00:14:42"
 },
 
@@ -4603,7 +4603,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Qf5iY_w-f70/sddefault.jpg",
   "alt": "(여자)아이들 우기 충격의 크리스마스 선물 탄생🎁!? ⏰마감 임박⏰ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.13",
-  "title": "(여자)아이들 우기 충격의 크리스마스 선물 탄생🎁!? ⏰마감 임박⏰ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.13 (2020-12-25)",
+  "title": "| 런웨이 (LEARN WAY) EP.13 | (여자)아이들 우기 충격의 크리스마스 선물 탄생🎁!? ⏰마감 임박⏰ | (2020-12-25)",
   "duration": "00:16:45"
 },
 
@@ -4711,7 +4711,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/u7XMXL88XaU/sddefault.jpg",
   "alt": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14",
-  "title": "(여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다!| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.14 (2021-01-08)",
+  "title": "| 런웨이 (LEARN WAY) EP.14 | (여자)아이들 우기 신메뉴 개발까지 하는 월클 요리사🧑‍🍳?! 🥄퓨전 한식🍴을 접수한다! (2021-01-08)",
   "duration": "00:13:44"
 },
 
@@ -4879,7 +4879,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/mBnoiKdnHjs/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 리듬체조 손연재 🧚 아육대 요정과 찐요정의 귀염뽀짝 리본 갈라쇼쇼쇼! 🎀 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.15",
-  "title": "(여자)아이들 우기 X 리듬체조 손연재 🧚 아육대 요정과 찐요정의 귀염뽀짝 리본 갈라쇼쇼쇼! 🎀 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.15 (2021-01-15)",
+  "title": "| 런웨이 (LEARN WAY) EP.15 | (여자)아이들 우기 X 리듬체조 손연재 🧚 아육대 요정과 찐요정의 귀염뽀짝 리본 갈라쇼쇼쇼! 🎀 (2021-01-15)",
   "duration": "00:15:53"
 },
 
@@ -4939,7 +4939,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/88urqMyQ93A/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 영평티비 이세영 = 애드리브 레전드 탄생⭐ 송우기 진짜 개그우먼 아니냐고 ㅋㅋㅋ | (G)I-DLE YUQI |런웨이 (LEARN WAY) EP.16",
-  "title": "(여자)아이들 우기 X 영평티비 이세영 = 애드리브 레전드 탄생⭐ 송우기 진짜 개그우먼 아니냐고 ㅋㅋㅋ | (G)I-DLE YUQI |런웨이 (LEARN WAY) EP.16 (2021-01-22)",
+  "title": "| 런웨이 (LEARN WAY) EP.16 | (여자)아이들 우기 X 영평티비 이세영 = 애드리브 레전드 탄생⭐ 송우기 진짜 개그우먼 아니냐고 ㅋㅋㅋ (2021-01-22)",
   "duration": "00:15:08"
 },
 
@@ -5035,7 +5035,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/JvsYmb8H9YQ/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 소연 👑 우기 잡으러 온 리더언니의 ㅎㄷㄷ한 예능 참교육😱 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.17 (2021-01-29)",
-  "title": "(여자)아이들 우기 X 소연 👑 우기 잡으러 온 리더언니의 ㅎㄷㄷ한 예능 참교육😱 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.17 (2021-01-29)",
+  "title": "| 런웨이 (LEARN WAY) EP.17 | (여자)아이들 우기 X 소연 👑 우기 잡으러 온 리더언니의 ㅎㄷㄷ한 예능 참교육😱 (2021-01-29)",
   "duration": "00:18:12"
 },
 
@@ -5143,7 +5143,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/ohlqmcesug4/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 샒의 삶 현대미술의 새로운 획을 그을 작품 탄생?!👏  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.18",
-  "title": "(여자)아이들 우기 X 샒의 삶 현대미술의 새로운 획을 그을 작품 탄생?!👏  | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.18 (2021-02-05)",
+  "title": "| 런웨이 (LEARN WAY) EP.18 | (여자)아이들 우기 X 샒의 삶 현대미술의 새로운 획을 그을 작품 탄생?!👏 (2021-02-05)",
   "duration": "00:17:30"
 },
 
@@ -5251,7 +5251,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/ZABGvnTVZ6I/sddefault.jpg",
   "alt": "(여자)아이들 우기 Latte is horse 🐴☕ 라떼는 말이야 라떼아트 도전기! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.19",
-  "title": "(여자)아이들 우기 Latte is horse 🐴☕ 라떼는 말이야 라떼아트 도전기! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.19 (2021-02-12)",
+  "title": "| 런웨이 (LEARN WAY) EP.19 | (여자)아이들 우기 Latte is horse 🐴☕ 라떼는 말이야 라떼아트 도전기! (2021-02-12)",
   "duration": "00:17:43"
 },
 
@@ -5359,7 +5359,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/PVC08LXEC30/sddefault.jpg",
   "alt": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)",
-  "title": "(여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.20 (2021-02-19)",
+  "title": "| 런웨이 (LEARN WAY) EP.20 | (여자)아이들 우기 연애운❤ 大공개! 타로카드 때문에 미연 언니랑 싸울 뻔한 사연은?! (2021-02-19)",
   "duration": "00:17:24"
 },
 
@@ -5455,7 +5455,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/sXyiQy73MDM/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 황재근 사탄도 울고갈 패션 디자이너의 탄생🔥| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.21",
-  "title": "(여자)아이들 우기 X 황재근 사탄도 울고갈 패션 디자이너의 탄생🔥| (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.21 (2021-02-26)",
+  "title": "| 런웨이 (LEARN WAY) EP.21 | (여자)아이들 우기 X 황재근 사탄도 울고갈 패션 디자이너의 탄생🔥 (2021-02-26)",
   "duration": "00:15:57"
 },
 
@@ -5503,7 +5503,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/dwb33C0qqUc/sddefault.jpg",
   "alt": "(여자)아이들 우기의 런웨이 홈쇼핑💃 시작 5분 만에 전량 매진 달성?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.22",
-  "title": "(여자)아이들 우기의 런웨이 홈쇼핑💃 시작 5분 만에 전량 매진 달성?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.22 (2021-03-05)",
+  "title": "| 런웨이 (LEARN WAY) EP.22 | (여자)아이들 우기의 런웨이 홈쇼핑💃 시작 5분 만에 전량 매진 달성?! (2021-03-05)",
   "duration": "00:17:15"
 },
 
@@ -5515,7 +5515,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/PUqbksseJXM/sddefault.jpg",
   "alt": "(여자)아이들 우기 속마음 최초 공개! 런웨이가 원래 5회 계약이었다고?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.23",
-  "title": "(여자)아이들 우기 속마음 최초 공개! 런웨이가 원래 5회 계약이었다고?! | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.23 (2021-03-12)",
+  "title": "| 런웨이 (LEARN WAY) EP.23 | (여자)아이들 우기 속마음 최초 공개! 런웨이가 원래 5회 계약이었다고?! (2021-03-12)",
   "duration": "00:14:10"
 },
 
@@ -5527,7 +5527,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/orYDE9RekYM/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 이사배 🦒우기린🦒 되어 동물 친구들과 춤 판 벌였습니다 🎵 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.24",
-  "title": "(여자)아이들 우기 X 이사배 🦒우기린🦒 되어 동물 친구들과 춤 판 벌였습니다 🎵 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.24 (2021-03-19)",
+  "title": " | 런웨이 (LEARN WAY) EP.24 | (여자)아이들 우기 X 이사배 🦒우기린🦒 되어 동물 친구들과 춤 판 벌였습니다 🎵 (2021-03-19)",
   "duration": "00:18:47"
 },
 
@@ -5539,7 +5539,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/fAhk-jLKTHo/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 미지우 | 우기야~왜 또 칭얼거려😢쇼핑몰 막내 도전기🛍 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.25",
-  "title": "(여자)아이들 우기 X 미지우 | 우기야~왜 또 칭얼거려😢쇼핑몰 막내 도전기🛍 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.25 (2021-03-26)",
+  "title": "| 런웨이 (LEARN WAY) EP.25 | (여자)아이들 우기 X 미지우 | 우기야~왜 또 칭얼거려😢쇼핑몰 막내 도전기🛍 (2021-03-26)",
   "duration": "00:17:49"
 },
 
@@ -5551,7 +5551,7 @@ const mediaContentsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/Z9VSvA__GuY/sddefault.jpg",
   "alt": "(여자)아이들 우기 X 허경환 | 사투리 배우는 바로 이 맛 아입니까~🕺💃 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.26",
-  "title": "(여자)아이들 우기 X 허경환 | 사투리 배우는 바로 이 맛 아입니까~🕺💃 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.26 (2021-04-02)",
+  "title": "| 런웨이 (LEARN WAY) EP.26 | (여자)아이들 우기 X 허경환 | 사투리 배우는 바로 이 맛 아입니까~🕺💃 (2021-04-02)",
   "duration": "00:17:04"
 },
 
@@ -5563,7 +5563,7 @@ const mediaContentsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/CrHFyHYp8KI/sddefault.jpg",
   "alt": "🏀(여자)아이들 우기 X 하승진🏀 귀여움으로 NBA 제패?! 르브론 제임스 보고 있나? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.27",
-  "title": "🏀(여자)아이들 우기 X 하승진🏀 귀여움으로 NBA 제패?! 르브론 제임스 보고 있나? | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.27 (2021-04-09)",
+  "title": "| 런웨이 (LEARN WAY) EP.27 | 🏀(여자)아이들 우기 X 하승진🏀 귀여움으로 NBA 제패?! 르브론 제임스 보고 있나? (2021-04-09)",
   "duration": "00:17:30"
 },
 
@@ -5575,7 +5575,7 @@ const mediaContentsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/nHCE-8NnNbE/sddefault.jpg",
   "alt": "(여자)아이들 우기 시즌 1 마무리! 🍯 꿀타래 배우러 왔서예 🖌️ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.28 (2021-04-23)",
-  "title": "(여자)아이들 우기 시즌 1 마무리! 🍯 꿀타래 배우러 왔서예 🖌️ | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.28 (2021-04-23)",
+  "title": " | 런웨이 (LEARN WAY) EP.28 | (여자)아이들 우기 시즌 1 마무리! 🍯 꿀타래 배우러 왔서예 🖌️ (2021-04-23)",
   "duration": "00:15:58"
 },
 
@@ -5587,7 +5587,7 @@ const mediaContentsCards = [
   "month": "04",
   "thumbnail": "https://i.ytimg.com/vi/tuvMvLO3aJI/sddefault.jpg",
   "alt": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)",
-  "title": "(여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 | (G)I-DLE YUQI | 런웨이 (LEARN WAY) EP.29 (2021-04-30)",
+  "title": "| 런웨이 (LEARN WAY) EP.29 | (여자)아이들 우기 in 인사동! 🖐마지막 인사는 접어두길 바래😭 (2021-04-30)",
   "duration": "00:16:42"
 },
 
@@ -6511,7 +6511,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/goqX0p27O78/sddefault.jpg",
   "alt": "[EN] 고막 터짐 주의 美친 텐션의 그녀들이 만났다?! | 미주 | MIJOO | 우기 | (G)I-DLE YUQI | 런웨이2 | LEARN WAY 2 | EP.25 (2022-01-21)",
-  "title": "[EN] 고막 터짐 주의 美친 텐션의 그녀들이 만났다?! | 미주 | MIJOO | 우기 | (G)I-DLE YUQI | 런웨이2 | LEARN WAY 2 | EP.25 (2022-01-21)",
+  "title": "| 런웨이2 | LEARN WAY 2 | EP.25 | [EN] 고막 터짐 주의 美친 텐션의 그녀들이 만났다?! | 미주 | MIJOO | 우기 (2022-01-21)",
   "duration": "00:17:15"
 },
 
@@ -8551,7 +8551,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/kXzdibrb5Sw/sddefault.jpg",
   "alt": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
-  "title": "[EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화ㅣ워크돌 (2023-05-21)",
+  "title": "ㅣ워크돌 | [EN/CN] 알바 시작 전부터 급여 협상해버리는 신입ㅣ슈화(2023-05-21)",
   "duration": "00:03:50"
 },
 
@@ -8599,7 +8599,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/qVQ9UMlU9IQ/sddefault.jpg",
   "alt": "[EN/CN] 알바 첫날 이 정도면 약과지ㅣK-디저트ㅣ워크돌ㅣ슈화 (2023-05-25)",
-  "title": "[EN/CN] 알바 첫날 이 정도면 약과지ㅣK-디저트ㅣ워크돌ㅣ슈화 (2023-05-25)",
+  "title": "ㅣ워크돌 | [EN/CN] 알바 첫날 이 정도면 약과지ㅣK-디저트ㅣ워크돌ㅣ슈화 (2023-05-25)",
   "duration": "00:13:49"
 },
 
@@ -8683,7 +8683,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/Ixh2OyXsUwM/sddefault.jpg",
   "alt": "[EN/CN] 1인 1닭 하지..마.. 치킨 튀기다 노랗게 지려버렸습니다...ㅣ치킨집ㅣ워크돌ㅣ슈화 (2023-06-01)",
-  "title": "[EN/CN] 1인 1닭 하지..마.. 치킨 튀기다 노랗게 지려버렸습니다...ㅣ치킨집ㅣ워크돌ㅣ슈화 (2023-06-01)",
+  "title": "ㅣ워크돌 | [EN/CN] 1인 1닭 하지..마.. 치킨 튀기다 노랗게 지려버렸습니다...ㅣ치킨집ㅣ워크돌ㅣ슈화 (2023-06-01)",
   "duration": "00:14:03"
 },
 
@@ -8743,7 +8743,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/N-9T167CMQ4/sddefault.jpg",
   "alt": "[EN/CN] 제 2의 (여자)아이들, 아이브, 뉴진스, NCT, 블랙핑크, 세븐틴... 을 찾습니다ㅣ캐스팅 매니저ㅣ워크돌ㅣ슈화 (2023-06-08)",
-  "title": "[EN/CN] 제 2의 (여자)아이들, 아이브, 뉴진스, NCT, 블랙핑크, 세븐틴... 을 찾습니다ㅣ캐스팅 매니저ㅣ워크돌ㅣ슈화 (2023-06-08)",
+  "title": "ㅣ워크돌 | [EN/CN] 제 2의 (여자)아이들, 아이브, 뉴진스, NCT, 블랙핑크, 세븐틴... 을 찾습니다ㅣ캐스팅 매니저ㅣ워크돌ㅣ슈화 (2023-06-08)",
   "duration": "00:15:52"
 },
 
@@ -8791,7 +8791,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/zgBL5SeqsV0/sddefault.jpg",
   "alt": "[EN/CN] 떡볶이집 알바.. 이게 맞아..? 서빙,청소,디제잉,메뉴개발....닭발 먹방(?)까지🔥ㅣ신당동 떡볶이ㅣ워크돌ㅣ슈화 (2023-06-15)",
-  "title": "[EN/CN] 떡볶이집 알바.. 이게 맞아..? 서빙,청소,디제잉,메뉴개발....닭발 먹방(?)까지🔥ㅣ신당동 떡볶이ㅣ워크돌ㅣ슈화 (2023-06-15)",
+  "title": "ㅣ워크돌 | [EN/CN] 떡볶이집 알바.. 이게 맞아..? 서빙,청소,디제잉,메뉴개발....닭발 먹방(?)까지🔥ㅣ신당동 떡볶이ㅣ워크돌ㅣ슈화 (2023-06-15)",
   "duration": "00:14:25"
 },
 
@@ -8803,7 +8803,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/U5D4nDHKGn4/sddefault.jpg",
   "alt": "[EN/CN] 조교는 오늘 너희에게 무척 실망했다... (G)I-DLE 민니와 동반 입대 아니고 알바🫡ㅣ군사학과ㅣ워크돌ㅣ슈화 (2023-06-22)",
-  "title": "[EN/CN] 조교는 오늘 너희에게 무척 실망했다... (G)I-DLE 민니와 동반 입대 아니고 알바🫡ㅣ군사학과ㅣ워크돌ㅣ슈화 (2023-06-22)",
+  "title": "ㅣ워크돌 | [EN/CN] 조교는 오늘 너희에게 무척 실망했다... (G)I-DLE 민니와 동반 입대 아니고 알바🫡ㅣ군사학과ㅣ워크돌ㅣ슈화 (2023-06-22)",
   "duration": "00:14:10"
 },
 
@@ -8827,7 +8827,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/VRpdJprNTro/sddefault.jpg",
   "alt": "[EN/CN] 오늘 ㅈ 될.. 재가 될 뻔했습니다.. K극한알바 무한리필 고깃집ㅣ갈빗집ㅣ명륜진사갈비ㅣ워크돌ㅣ슈화 (2023-06-29)",
-  "title": "[EN/CN] 오늘 ㅈ 될.. 재가 될 뻔했습니다.. K극한알바 무한리필 고깃집ㅣ갈빗집ㅣ명륜진사갈비ㅣ워크돌ㅣ슈화 (2023-06-29)",
+  "title": "ㅣ워크돌 | [EN/CN] 오늘 ㅈ 될.. 재가 될 뻔했습니다.. K극한알바 무한리필 고깃집ㅣ갈빗집ㅣ명륜진사갈비ㅣ워크돌ㅣ슈화 (2023-06-29)",
   "duration": "00:16:14"
 },
 
@@ -8839,7 +8839,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/K3jHdrfM6l4/sddefault.jpg",
   "alt": "[EN/CN] 시현하다 알바생들이 증명사진을 찍으면?.......은 미모 레전드 찍은 (여자)아이들 TJ 조합🐱🐭ㅣ시현하다ㅣ워크돌ㅣ슈화, 미연 (2023-07-06)",
-  "title": "[EN/CN] 시현하다 알바생들이 증명사진을 찍으면?.......은 미모 레전드 찍은 (여자)아이들 TJ 조합🐱🐭ㅣ시현하다ㅣ워크돌ㅣ슈화, 미연 (2023-07-06)",
+  "title": "ㅣ워크돌 | [EN/CN] 시현하다 알바생들이 증명사진을 찍으면?.......은 미모 레전드 찍은 (여자)아이들 TJ 조합🐱🐭ㅣ시현하다ㅣ워크돌ㅣ슈화, 미연 (2023-07-06)",
   "duration": "00:16:12"
 },
 
@@ -8851,7 +8851,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/chkzgW9aJrg/sddefault.jpg",
   "alt": "[EN/CN] 간장게장 왤케 비싸요?! 극한직업에 나온 이유가 있었네..😇ㅣ간장게장ㅣ워크돌ㅣ슈화 (2023-07-13)",
-  "title": "[EN/CN] 간장게장 왤케 비싸요?! 극한직업에 나온 이유가 있었네..😇ㅣ간장게장ㅣ워크돌ㅣ슈화 (2023-07-13)",
+  "title": "ㅣ워크돌 | [EN/CN] 간장게장 왤케 비싸요?! 극한직업에 나온 이유가 있었네..😇ㅣ간장게장ㅣ워크돌ㅣ슈화 (2023-07-13)",
   "duration": "00:15:50"
 },
 
@@ -8875,7 +8875,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/re7FjzbWfms/sddefault.jpg",
   "alt": "[EN/CN] 찜질방 조지려다 지져짐🔥ㅣ찜질방ㅣ워크돌ㅣ슈화 (2023-07-20)",
-  "title": "[EN/CN] 찜질방 조지려다 지져짐🔥ㅣ찜질방ㅣ워크돌ㅣ슈화 (2023-07-20)",
+  "title": "ㅣ워크돌 | [EN/CN] 찜질방 조지려다 지져짐🔥ㅣ찜질방ㅣ워크돌ㅣ슈화 (2023-07-20)",
   "duration": "00:15:07"
 },
 
@@ -8911,7 +8911,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/e_YxEIZgRWg/sddefault.jpg",
   "alt": "[EN/CN] 개 크니깐 개 힘들다ㅣ대형견 목욕ㅣ워크돌ㅣ슈화 (2023-07-27)",
-  "title": "[EN/CN] 개 크니깐 개 힘들다ㅣ대형견 목욕ㅣ워크돌ㅣ슈화 (2023-07-27)",
+  "title": "ㅣ워크돌 | [EN/CN] 개 크니깐 개 힘들다ㅣ대형견 목욕ㅣ워크돌ㅣ슈화 (2023-07-27)",
   "duration": "00:13:05"
 },
 
@@ -8935,7 +8935,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/u7BoH2fchzs/sddefault.jpg",
   "alt": "[EN/CN] 플러팅 하루에 OO번 받는다고요?! 친절좌 K-승무원ㅣ승무원ㅣ워크돌ㅣ슈화",
-  "title": "[EN/CN] 플러팅 하루에 OO번 받는다고요?! 친절좌 K-승무원ㅣ승무원ㅣ워크돌ㅣ슈화 (2023-08-03)",
+  "title": "ㅣ워크돌 | [EN/CN] 플러팅 하루에 OO번 받는다고요?! 친절좌 K-승무원ㅣ승무원ㅣ워크돌ㅣ슈화 (2023-08-03)",
   "duration": "00:15:30"
 },
 
@@ -8947,7 +8947,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/SWoauIkEOF8/sddefault.jpg",
   "alt": "[EN/CN] 극 I들의 대형마트 시식 코너 알바 ... 퇴근 마렵.. (feat. 엔하이픈 제이,성훈)ㅣ마트ㅣ워크돌ㅣ슈화",
-  "title": "[EN/CN] 극 I들의 대형마트 시식 코너 알바 ... 퇴근 마렵.. (feat. 엔하이픈 제이,성훈)ㅣ마트ㅣ워크돌ㅣ슈화 (2023-08-10)",
+  "title": "ㅣ워크돌 | [EN/CN] 극 I들의 대형마트 시식 코너 알바 ... 퇴근 마렵.. (feat. 엔하이픈 제이,성훈)ㅣ마트ㅣ워크돌ㅣ슈화 (2023-08-10)",
   "duration": "00:15:23"
 },
 
@@ -8959,7 +8959,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/qaE6Tc6AlSw/sddefault.jpg",
   "alt": "[EN/CN] 대감집 노비 해야 하는 이유ㅣSKTㅣ워크돌ㅣ슈화,미연",
-  "title": "[EN/CN] 대감집 노비 해야 하는 이유ㅣSKTㅣ워크돌ㅣ슈화,미연 (2023-08-17)",
+  "title": "ㅣ워크돌 | [EN/CN] 대감집 노비 해야 하는 이유ㅣSKTㅣ워크돌ㅣ슈화,미연 (2023-08-17)",
   "duration": "00:14:25"
 },
 
@@ -8971,7 +8971,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/mDwBnEgjCyI/sddefault.jpg",
   "alt": "[EN/CN] 현직 아이돌의 코디 실력은? 찾으시는 옷 있으시면 말씀해 주세요~~ (feat.숙취)ㅣ편집샵ㅣPEERㅣ워크돌ㅣ슈화",
-  "title": "[EN/CN] 현직 아이돌의 코디 실력은? 찾으시는 옷 있으시면 말씀해 주세요~~ (feat.숙취)ㅣ편집샵ㅣPEERㅣ워크돌ㅣ슈화 (2023-08-24)",
+  "title": "ㅣ워크돌 | [EN/CN] 현직 아이돌의 코디 실력은? 찾으시는 옷 있으시면 말씀해 주세요~~ (feat.숙취)ㅣ편집샵ㅣPEERㅣ워크돌ㅣ슈화 (2023-08-24)",
   "duration": "00:15:02"
 },
 
@@ -8995,7 +8995,7 @@ const mediaContentsCards = [
   "month": "08",
   "thumbnail": "https://i.ytimg.com/vi/u1spnGXvjsQ/sddefault.jpg",
   "alt": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호",
-  "title": "[EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)",
+  "title": "ㅣ워크돌 | [EN/CN] 알바 때려 칠까...?ㅣ워크돌ㅣ슈화, 미연, 민니, 엔하이픈 제이, 성훈, 유선호 (2023-08-31)",
   "duration": "00:12:37"
 },
 
@@ -9031,7 +9031,7 @@ const mediaContentsCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/om5ax9VuWP0/sddefault.jpg",
   "alt": "[EN/CN] 대학교 CC 하고 싶으신가요? CC의 줄임말은 씨...더보기ㅣ와플대학ㅣ워크돌ㅣ슈화",
-  "title": "[EN/CN] 대학교 CC 하고 싶으신가요? CC의 줄임말은 씨...더보기ㅣ와플대학ㅣ워크돌ㅣ슈화 (2023-09-28)",
+  "title": "ㅣ워크돌 | [EN/CN] 대학교 CC 하고 싶으신가요? CC의 줄임말은 씨...더보기ㅣ와플대학ㅣ워크돌ㅣ슈화 (2023-09-28)",
   "duration": "00:14:58"
 },
 
@@ -9055,7 +9055,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/1DJovyQx7Ac/sddefault.jpg",
   "alt": "[EN/CN] ※I들 기빨림 주의※ 직원부터 손님까지 극E....E왜진...ㅣ아웃백ㅣ레스토랑ㅣ워크돌ㅣ슈화",
-  "title": "[EN/CN] ※I들 기빨림 주의※ 직원부터 손님까지 극E....E왜진...ㅣ아웃백ㅣ레스토랑ㅣ워크돌ㅣ슈화 (2023-10-05)",
+  "title": "ㅣ워크돌 | [EN/CN] ※I들 기빨림 주의※ 직원부터 손님까지 극E....E왜진...ㅣ아웃백ㅣ레스토랑ㅣ워크돌ㅣ슈화 (2023-10-05)",
   "duration": "00:13:43"
 },
 
@@ -9067,7 +9067,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/8KtoKw5tW08/sddefault.jpg",
   "alt": "[EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)",
-  "title": "[EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)",
+  "title": "ㅣ워크돌 | [EN/CN] 튀르키예 아이스크림 속임수 킹받쥬? 비법 털어왔습니다ㅣ튀르키예 음식ㅣ케밥, 아이스크림ㅣ워크돌ㅣ슈화 (2023-10-12)",
   "duration": "00:15:54"
 },
 
@@ -9127,7 +9127,7 @@ const mediaContentsCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/Y5rNy9gceHQ/sddefault.jpg",
   "alt": "[EN/CN] 나 치대나온 여자야,,, 치킨에 진심인 한국인이 세운 치킨대학🐔 | BBQ | 치킨대학 | 워크돌 | 슈화",
-  "title": "[EN/CN] 나 치대나온 여자야,,, 치킨에 진심인 한국인이 세운 치킨대학🐔 | BBQ | 치킨대학 | 워크돌 | 슈화 (2023-10-26)",
+  "title": "ㅣ워크돌 | [EN/CN] 나 치대나온 여자야,,, 치킨에 진심인 한국인이 세운 치킨대학🐔 | BBQ | 치킨대학 | 워크돌 | 슈화 (2023-10-26)",
   "duration": "00:15:18"
 },
 
@@ -9187,7 +9187,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/ghoT4CfPHo0/sddefault.jpg",
   "alt": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
-  "title": "[EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
+  "title": "ㅣ워크돌 | [EN/CN] 아이돌이 코 풀어 주고 발까지 닦아주는 알바ㅣ러쉬ㅣ워크돌ㅣ슈화 (2023-11-02)",
   "duration": "00:15:34"
 },
 
@@ -9271,7 +9271,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/xGfPcH3WT6A/sddefault.jpg",
   "alt": "[SUB] 만원으로 차은우 이동욱되는 법(feat. NMIXX 해원, 쯔위)ㅣ미용실ㅣ워크돌ㅣ슈화 (2023-11-16)",
-  "title": "[SUB] 만원으로 차은우 이동욱되는 법(feat. NMIXX 해원, 쯔위)ㅣ미용실ㅣ워크돌ㅣ슈화 (2023-11-16)",
+  "title": "ㅣ워크돌 | [SUB] 만원으로 차은우 이동욱되는 법(feat. NMIXX 해원, 쯔위)ㅣ미용실ㅣ워크돌ㅣ슈화 (2023-11-16)",
   "duration": "00:16:08"
 },
 
@@ -9295,7 +9295,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/NjJHUVAyUv4/sddefault.jpg",
   "alt": "[SUB] 역대급 난이도 알바..😇 쓰레기가 계속 나와요..ㅣ특수청소ㅣ워크돌ㅣ슈화 (2023-11-23)",
-  "title": "[SUB] 역대급 난이도 알바..😇 쓰레기가 계속 나와요..ㅣ특수청소ㅣ워크돌ㅣ슈화 (2023-11-23)",
+  "title": "ㅣ워크돌 | [SUB] 역대급 난이도 알바..😇 쓰레기가 계속 나와요..ㅣ특수청소ㅣ워크돌ㅣ슈화 (2023-11-23)",
   "duration": "00:14:07"
 },
 
@@ -9319,7 +9319,7 @@ const mediaContentsCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/YOzoLxWomMk/sddefault.jpg",
   "alt": "[SUB] 잔 깨부수고 헌팅에 폭탄주 파티ㅣ역전할머니맥주ㅣ워크돌ㅣ슈화 (2023-11-30)",
-  "title": "[SUB] 잔 깨부수고 헌팅에 폭탄주 파티ㅣ역전할머니맥주ㅣ워크돌ㅣ슈화 (2023-11-30)",
+  "title": "ㅣ워크돌 | [SUB] 잔 깨부수고 헌팅에 폭탄주 파티ㅣ역전할머니맥주ㅣ워크돌ㅣ슈화 (2023-11-30)",
   "duration": "00:15:29"
 },
 
@@ -9343,7 +9343,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/LmjoREi390I/sddefault.jpg",
   "alt": "[SUB] 게임하다 현피 뜨는 여돌ㅋㅋㅋㅋㅋ (w.이세돌, 뜨뜨뜨뜨) ㅣ게임ㅣ넷마블 지스타ㅣ워크돌ㅣ슈화, 우기 (2023-12-07)",
-  "title": "[SUB] 게임하다 현피 뜨는 여돌ㅋㅋㅋㅋㅋ (w.이세돌, 뜨뜨뜨뜨) ㅣ게임ㅣ넷마블 지스타ㅣ워크돌ㅣ슈화, 우기 (2023-12-07)",
+  "title": "ㅣ워크돌 | [SUB] 게임하다 현피 뜨는 여돌ㅋㅋㅋㅋㅋ (w.이세돌, 뜨뜨뜨뜨) ㅣ게임ㅣ넷마블 지스타ㅣ워크돌ㅣ슈화, 우기 (2023-12-07)",
   "duration": "00:15:54"
 },
 
@@ -9367,7 +9367,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/rdayY7k8xsc/sddefault.jpg",
   "alt": "[SUB] 이걸 본 당신은 주말에 대방어를 먹으러 가게 됩니다ㅣ횟집ㅣ대방어, 킹크랩ㅣ워크돌ㅣ슈화 (2023-12-14)",
-  "title": "[SUB] 이걸 본 당신은 주말에 대방어를 먹으러 가게 됩니다ㅣ횟집ㅣ대방어, 킹크랩ㅣ워크돌ㅣ슈화 (2023-12-14)",
+  "title": "ㅣ워크돌 | [SUB] 이걸 본 당신은 주말에 대방어를 먹으러 가게 됩니다ㅣ횟집ㅣ대방어, 킹크랩ㅣ워크돌ㅣ슈화 (2023-12-14)",
   "duration": "00:14:56"
 },
 
@@ -9391,7 +9391,7 @@ const mediaContentsCards = [
   "month": "12",
   "thumbnail": "https://i.ytimg.com/vi/Gdk-KV8uXvw/sddefault.jpg",
   "alt": "[SUB] 그동안 감사했습니다ㅣ2024 강원 동계청소년올림픽대회ㅣ겨울 스포츠ㅣ워크돌ㅣ슈화 (2023-12-21)",
-  "title": "[SUB] 그동안 감사했습니다ㅣ2024 강원 동계청소년올림픽대회ㅣ겨울 스포츠ㅣ워크돌ㅣ슈화 (2023-12-21)",
+  "title": "ㅣ워크돌 | [SUB] 그동안 감사했습니다ㅣ2024 강원 동계청소년올림픽대회ㅣ겨울 스포츠ㅣ워크돌ㅣ슈화 (2023-12-21)",
   "duration": "00:15:40"
 },
 
@@ -9990,8 +9990,8 @@ const mediaContentsCards = [
   "year": "2024",
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/C_3wc2k8ENA/sddefault.jpg",
-  "alt": "태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-08)",
-  "title": "태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연  (2024-05-08)",
+  "alt": "태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 쏘리사의 시골요리 대작전 | (여자)아이들 소연 (2024-05-08)",
+  "title": "| 쏘리사의 시골요리 대작전 | 태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! (여자)아이들 소연  (2024-05-08)",
   "duration": "00:21:35"
 },
 
@@ -10003,7 +10003,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/5Xlmmq_PA8w/sddefault.jpg",
   "alt": "92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-15)",
-  "title": "92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-15)",
+  "title": "| 쏘리사의 시골요리 대작전 | 92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! (여자)아이들 소연 (2024-05-15)",
   "duration": "00:25:44"
 },
 
@@ -10015,7 +10015,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/J-6OGwnSX5E/sddefault.jpg",
   "alt": "시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-22)",
-  "title": "시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-22)",
+  "title": "| 쏘리사의 시골요리 대작전 | 시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! (여자)아이들 소연 (2024-05-22)",
   "duration": "00:18:27"
 },
 
@@ -10027,7 +10027,7 @@ const mediaContentsCards = [
   "month": "05",
   "thumbnail": "https://i.ytimg.com/vi/WEKTIvHDWN4/sddefault.jpg",
   "alt": "팝콘 튀기다 집 날려 먹을 뻔했어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-29)",
-  "title": "팝콘 튀기다 집 날려 먹을 뻔했어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-29)",
+  "title": "| 쏘리사의 시골요리 대작전 | 팝콘 튀기다 집 날려 먹을 뻔했어요! | (여자)아이들 소연 (2024-05-29)",
   "duration": "00:24:04"
 },
 
@@ -10039,7 +10039,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/OB6uWq8DK0k/sddefault.jpg",
   "alt": "10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?!  | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-05)",
-  "title": "10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?!  | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-05)",
+  "title": "| 쏘리사의 시골요리 대작전 | 10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?! | (여자)아이들 소연 (2024-06-05)",
   "duration": "00:23:59"
 },
 
@@ -10051,7 +10051,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/5NH75fbpIwU/sddefault.jpg",
   "alt": "제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-12)",
-  "title": "제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-12)",
+  "title": "| 쏘리사의 시골요리 대작전 | 제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | (여자)아이들 소연 (2024-06-12)",
   "duration": "00:28:28"
 },
 
@@ -10063,7 +10063,7 @@ const mediaContentsCards = [
   "month": "06",
   "thumbnail": "https://i.ytimg.com/vi/klDyLicaaqE/sddefault.jpg",
   "alt": "여러분 꽈배기는 제발 사드세요… | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-19)",
-  "title": "여러분 꽈배기는 제발 사드세요… | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-19)",
+  "title": "| 쏘리사의 시골요리 대작전 | 여러분 꽈배기는 제발 사드세요… | (여자)아이들 소연 (2024-06-19)",
   "duration": "00:28:10"
 },
 
@@ -10099,7 +10099,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/HD1hisCITN4/sddefault.jpg",
   "alt": "우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-03)",
-  "title": "우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-03)",
+  "title": "| 쏘리사의 시골요리 대작전 | 우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | (여자)아이들 소연 (2024-07-03)",
   "duration": "00:33:30"
 },
 
@@ -10147,7 +10147,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/oU4U39WSbVA/sddefault.jpg",
   "alt": "스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-10)",
-  "title": "스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-10)",
+  "title": "| 쏘리사의 시골요리 대작전 | 스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | (여자)아이들 소연 (2024-07-10)",
   "duration": "00:31:53"
 },
 
@@ -10267,7 +10267,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/ByfTTLhXPIs/sddefault.jpg",
   "alt": "할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | 쏘리사 시골요리 대작전 | (여자)아이들 (2024-07-17)",
-  "title": "할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | 쏘리사 시골요리 대작전 | (여자)아이들 (2024-07-17)",
+  "title": "| 쏘리사의 시골요리 대작전 | 할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | (여자)아이들 (2024-07-17)",
   "duration": "00:38:56"
 },
 
@@ -10315,7 +10315,7 @@ const mediaContentsCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/nVLBGtnC2B8/sddefault.jpg",
   "alt": "과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-24)",
-  "title": "과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-24)",
+  "title": "| 쏘리사의 시골요리 대작전 | 과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | (여자)아이들 소연 (2024-07-24)",
   "duration": "02:23:35"
 },
 
@@ -10699,7 +10699,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/9SXW-JbwJiA/sddefault.jpg",
   "alt": "쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” | 쏘리사 스타!요리방 | (여자)아이들 소연 (2025-01-10)",
-  "title": "쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” | 쏘리사스타!요리방 | (여자)아이들 소연 (2025-01-10)",
+  "title": "| 쏘리사 스타!요리방 | 쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…”  (여자)아이들 소연 (2025-01-10)",
   "duration": "00:02:02"
 },
 
@@ -10747,7 +10747,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/dzVFwrkA1VM/sddefault.jpg",
   "alt": "지코씨, 제발 간짜장은 사먹어요... | 쏘리사 스타!요리방 | (여자)아이들 소연 | ZICO (2025-01-15)",
-  "title": "지코씨, 제발 간짜장은 사먹어요... | 쏘리사 스타!요리방 | (여자)아이들 소연 | ZICO (2025-01-15)",
+  "title": "| 쏘리사 스타!요리방 | 지코씨, 제발 간짜장은 사먹어요... (여자)아이들 소연 | ZICO (2025-01-15)",
   "duration": "00:19:48"
 },
 
@@ -10831,7 +10831,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/VjbVRXpSYJs/sddefault.jpg",
   "alt": "재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | 쏘리사 스타!요리방 | (여자)아이들 소연, 우기 (2025-01-22)",
-  "title": "재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | 쏘리사 스타!요리방 | (여자)아이들 소연, 우기 (2025-01-22)",
+  "title": "| 쏘리사 스타!요리방 | 재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | (여자)아이들 소연, 우기 (2025-01-22)",
   "duration": "00:17:16"
 },
 
@@ -10927,7 +10927,7 @@ const mediaContentsCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/xPFYztEnBDc/sddefault.jpg",
   "alt": "요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 쏘리사 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)",
-  "title": "요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 쏘리사 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)",
+  "title": "| 쏘리사 스타!요리방 | 요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)",
   "duration": "00:20:12"
 },
 
@@ -10975,7 +10975,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/i8Lxlr_7uO4/sddefault.jpg",
   "alt": "3세대 여자 아이돌 대표주자들의 고품격 라면 요리 | 쏘리사 스타!요리방 | (여자)아이들 소연 | ITZY 류진 (2025-02-05)",
-  "title": "3세대 여자 아이돌 대표주자들의 고품격 라면 요리 | 쏘리사 스타!요리방 | (여자)아이들 소연 | ITZY 류진 (2025-02-05)",
+  "title": "| 쏘리사 스타!요리방 | 3세대 여자 아이돌 대표주자들의 고품격 라면 요리 (여자)아이들 소연 | ITZY 류진 (2025-02-05)",
   "duration": "00:15:51"
 },
 
@@ -11023,7 +11023,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/suH9D6zt_Jk/sddefault.jpg",
   "alt": "누나, 내가 갈비찜 해줄게요 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 최현욱 (2025-02-12)",
-  "title": "누나, 내가 갈비찜 해줄게요 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 최현욱 (2025-02-12)",
+  "title": "| 쏘리사 스타!요리방 | 누나, 내가 갈비찜 해줄게요 | (여자)아이들 소연 | 최현욱 (2025-02-12)",
   "duration": "00:16:41"
 },
 
@@ -11095,7 +11095,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/u_8Av_bDP3U/sddefault.jpg",
   "alt": "연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 미미미누 (2025-02-19)",
-  "title": "연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 미미미누 (2025-02-19)",
+  "title": "| 쏘리사 스타!요리방 | 연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 (여자)아이들 소연 | 미미미누 (2025-02-19)",
   "duration": "00:25:47"
 },
 
@@ -11131,7 +11131,7 @@ const mediaContentsCards = [
   "month": "02",
   "thumbnail": "https://i.ytimg.com/vi/y8kU_KpRMRc/sddefault.jpg",
   "alt": "살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 정찬성 (2025-02-26)",
-  "title": "살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 정찬성 (2025-02-26)",
+  "title": "| 쏘리사 스타!요리방 | 살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | (여자)아이들 소연 | 정찬성 (2025-02-26)",
   "duration": "00:20:35"
 },
 
@@ -11203,7 +11203,7 @@ const mediaContentsCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/mwqtrEqqpAI/sddefault.jpg",
   "alt": "\"이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | 쏘리사 스타!요리방 | (여자)아이들 소연 | BIBI (2025-03-12)",
-  "title": "\"이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | 쏘리사 스타!요리방 | (여자)아이들 소연 | BIBI (2025-03-12)",
+  "title": "\"| 쏘리사 스타!요리방 | 이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | (여자)아이들 소연 | BIBI (2025-03-12)",
   "duration": "00:33:47"
 },
 
