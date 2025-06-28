@@ -12027,7 +12027,7 @@ const mediaContentsCards = [
   "year": "2022",
   "month": "07",
   "duration": "00:13:26",
-  "thumbnail": "",
+  "thumbnail": "https://i.ytimg.com/vi/UEy9tdNYu7U/maxresdefault.jpg",
   "alt": "[좋광고2] EP 02 잣막걸리 - 미연이와 함께 배워보는 술자리 예절 (2022-07-20)",
   "title": "[좋광고2] EP 02 잣막걸리 - 미연이와 함께 배워보는 술자리 예절 (2022-07-20)"
 }
