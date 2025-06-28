@@ -10991,7 +10991,7 @@ const stagePerformanceCards = [
   "title": "i-dle(아이들).zip 📂 LATATA부터 Good Thing까지 | Show! MusicCore (2025-05-30)"
 },
   {
-  "link": "https://naver.me/xoQ27K0O",
+  "link": "https://tv.naver.com/v/78863618",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
   "year": "2025",
