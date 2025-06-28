@@ -11019,7 +11019,56 @@ const stagePerformanceCards = [
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_5/HaA1U_1750553660094riWKn_PNG/image.png?type=f1109_624",
   "alt": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)",
   "title": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)"
+},
+  
+{
+  "link": "https://youtu.be/xwEgu6CoJ-w",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:02:42",
+  "thumbnail": "https://i.ytimg.com/vi/xwEgu6CoJ-w/maxresdefault.jpg",
+  "alt": "i dle (아이들) Good Thing Show! MusicCore MBC방송 (2025-05-31)",
+  "title": "i dle (아이들) Good Thing Show! MusicCore MBC방송 (2025-05-31)"
+},
+
+{
+  "link": "https://youtu.be/CNTRwappX-M",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/CNTRwappX-M/maxresdefault.jpg",
+  "alt": "[#음중풀캠] i dle (아이들) – Good Thing FullCam 쇼! 음악중심 MBC (2025-05-31)",
+  "title": "[#음중풀캠] i dle (아이들) – Good Thing FullCam 쇼! 음악중심 MBC (2025-05-31)"
+},
+
+{
+  "link": "https://youtu.be/sQg8VNJWW60",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/sQg8VNJWW60/maxresdefault.jpg",
+  "alt": "Good Thing I dle (아이들) [뮤직뱅크/Music Bank] KBS 방송 (2025-05-30)",
+  "title": "Good Thing I dle (아이들) [뮤직뱅크/Music Bank] KBS 방송 (2025-05-30)"
+},
+
+{
+  "link": "https://youtu.be/JIkfowtKNMY",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/JIkfowtKNMY/maxresdefault.jpg",
+  "alt": "(ENG)[MusicBank Interview Cam] 아이들 (I DLE Interview) l @MusicBank KBS (2025-05-30)",
+  "title": "(ENG)[MusicBank Interview Cam] 아이들 (I DLE Interview) l @MusicBank KBS (2025-05-30)"
 }
+
 
 
 ];
