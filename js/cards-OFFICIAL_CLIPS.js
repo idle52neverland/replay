@@ -8642,6 +8642,18 @@ const officialClipCards = [
   "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
   "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
   "subtag": "기타 | Etc."
+},
+  {
+  "link": "https://youtu.be/fJGLDA1FvQo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:09:43",
+  "thumbnail": "https://i.ytimg.com/vi/fJGLDA1FvQo/maxresdefault.jpg",
+  "alt": "우기의 OPPO 광고 촬영 비하인드 [i-talk] #203 | i-dle (아이들)ㅣSUB (2025-06-28)",
+  "title": "우기의 OPPO 광고 촬영 비하인드 [i-talk] #203 | i-dle (아이들)ㅣSUB (2025-06-28)",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
