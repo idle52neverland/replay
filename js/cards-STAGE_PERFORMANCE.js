@@ -10999,6 +10999,16 @@ const stagePerformanceCards = [
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250621_58/3F8Ve_1750516922781FIjd3_JPEG/zqGQMoch63_05.jpg?type=now720b",
   "alt": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대 (2025-06-21)",
   "title": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대 (2025-06-21)"
+},
+  {
+  "link": "https://tv.naver.com/v/78893639",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_225/wCXRr_1750581224622YKgdT_PNG/image.png",
+  "alt": "[제34회 서울가요대상 SMA 레드카펫] i-dle(아이들) (2025-06-21)",
+  "title": "제34회 서울가요대상 SMA 레드카펫 i-dle(아이들) (2025-06-21)"
 }
 
 
