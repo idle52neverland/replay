@@ -597,7 +597,7 @@ const recordingBehindCards = [
   "duration": "00:25:07",
   "thumbnail": "https://i.ytimg.com/vi/TofDu5B6OcA/hqdefault.jpg",
   "alt": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Recording Behind | SUB (2025-06-20)",
-  "title": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Recording Behind | SUB (2025-06-20)"
+  "title": "[ Prod.YUQI ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Recording Behind | SUB (2025-06-20)"
 } ,
   {
   "link": "https://youtu.be/fnW6z7a5Hm8",
