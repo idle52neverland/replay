@@ -8,7 +8,7 @@ const specialReleasesCards = [
   "month": "11",
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
   "alt": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
-  "title": "< 미연,소연 > - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
+  "title": "[ 미연,소연 ] - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends (2018-11-03)",
   "duration": "00:03:23"
 },
 {
@@ -19,7 +19,7 @@ const specialReleasesCards = [
   "month": "03",
   "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
   "alt": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
-  "title": "< Feat. SOYEON > KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
+  "title": "[ Feat. SOYEON ] KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV (2019-03-04)",
   "duration": "00:03:14"
 },
 {
@@ -41,7 +41,7 @@ const specialReleasesCards = [
   "month": "07",
   "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
   "alt": "<  Feat. SOYEON  > HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
-  "title": "< Feat. SOYEON > ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
+  "title": "[ Feat. SOYEON ] ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV (2020-07-22)",
   "duration": "00:03:23"
 },
 {
@@ -52,7 +52,7 @@ const specialReleasesCards = [
   "month": "09",
   "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/maxresdefault.jpg",
   "alt": "< Feat. MINNIE > F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
-  "title": "< Feat. MINNIE > F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
+  "title": "[ Feat. MINNIE ] F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV] (2021-09-30)",
   "duration": "00:04:16"
 },
 {
@@ -74,7 +74,7 @@ const specialReleasesCards = [
   "month": "10",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
   "alt": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
-  "title": "< Feat. MINNIE > 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
+  "title": "[ Feat. MINNIE ] 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN] (2023-10-17)",
   "duration": "00:03:33"
 },
 {
@@ -108,7 +108,7 @@ const specialReleasesCards = [
   "month": "01",
   "thumbnail": "https://i.ytimg.com/vi/ZlpxcCiCCP4/maxresdefault.jpg",
   "alt": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
-  "title": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
+  "title": "[ Starring SHUHUA ] 周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화) (2025-01-22)",
   "duration": "00:04:38"
 },
   {
@@ -120,7 +120,7 @@ const specialReleasesCards = [
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
   "alt": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)",
-  "title": "< Prod.YUQI > NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
+  "title": "[ Prod.YUQI ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (2025-06-17)"
 },
   {
   "link": "https://youtu.be/uWT79Qq52sU",
@@ -131,7 +131,7 @@ const specialReleasesCards = [
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
   "alt": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)",
-  "title": "< Prod.SOYEON > Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
+  "title": "[ Prod.SOYEON ] Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (2025-06-15)"
 },
   {
   "link": "https://youtu.be/AlirzLFEHUI",
@@ -142,7 +142,7 @@ const specialReleasesCards = [
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
   "alt": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)",
-  "title": "< Prod.SOYEON > QWER '내 이름 맑음' Official MV (2024-09-23)"
+  "title": "[ Prod.SOYEON ] QWER '내 이름 맑음' Official MV (2024-09-23)"
 },
   {
   "link": "https://youtu.be/en4BDQgflG0",
@@ -153,7 +153,7 @@ const specialReleasesCards = [
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
   "alt": "< Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)",
-  "title": "< Written by SOYEON > > (김남주) 'Bird' MV (2020-09-07)"
+  "title": "[ Written by SOYEON ] (김남주) 'Bird' MV (2020-09-07)"
 },
 
   {
@@ -165,7 +165,7 @@ const specialReleasesCards = [
   "duration": "00:03:49",
   "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
   "alt": "< Feat. YUQI > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)",
-  "title": "< Feat. YUQI > YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
+  "title": "[ Feat. YUQI ] YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV (2023-06-30)"
 },
 
   {
@@ -353,7 +353,7 @@ const specialReleasesCards = [
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/maxresdefault.jpg",
   "alt": "< Feat. SOYEON > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)",
-  "title": "< Feat. SOYEON > 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
+  "title": "[ Feat. SOYEON ] 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV (2021-12-07)"
 },
 {
   "link": "https://youtu.be/rsgyQYs4C8A",
@@ -408,7 +408,7 @@ const specialReleasesCards = [
   "duration": "00:02:26",
   "thumbnail": "https://i.ytimg.com/vi/4On_fj1ccks/mqdefault.jpg",
   "alt": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)",
-  "title": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
+  "title": "[ Prod. SOYEON ] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송 (2021-01-21)"
 },
 {
   "link": "https://youtu.be/ZvhpjERxJlQ",
@@ -419,7 +419,7 @@ const specialReleasesCards = [
   "duration": "00:03:04",
   "thumbnail": "https://i.ytimg.com/vi/ZvhpjERxJlQ/hqdefault.jpg",
   "alt": "< Written by SOYEON > [MV] CLC _ No (2019-01-30)",
-  "title": "< Written by SOYEON > [MV] CLC _ No (2019-01-30)"
+  "title": "[ Written by SOYEON ] [MV] CLC _ No (2019-01-30)"
 },
 {
   "link": "https://youtu.be/lZ2R-LKOevo",
@@ -430,7 +430,7 @@ const specialReleasesCards = [
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/lZ2R-LKOevo/mqdefault.jpg",
   "alt": "< Feat. MINNIE > 헤이즈 - 도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)",
-  "title": "< Feat. MINNIE > 헤이즈 - 도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)"
+  "title": "[ Feat. MINNIE ] 헤이즈 - 도둑놈 (Feat. 민니 of (여자)아이들) (2023-12-26)"
 },
 {
   "link": "https://youtu.be/ifh4n6eRAXU",
@@ -441,7 +441,7 @@ const specialReleasesCards = [
   "duration": "00:03:59",
   "thumbnail": "https://i.ytimg.com/vi/ifh4n6eRAXU/sddefault.jpg",
   "alt": "< Feat. SOYEON > 이민혁 - 너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)",
-  "title": "< Feat. SOYEON > 이민혁 - 너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
+  "title": "[ Feat. SOYEON ] 이민혁 - 너도? 나도! (feat. 소연 of (여자)아이들)) (2019-01-16)"
 },
 
 {
@@ -497,7 +497,7 @@ const specialReleasesCards = [
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/-kVhMnKuk_A/mqdefault.jpg",
   "alt": "< Feat. MINNIE > WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)",
-  "title": "< Feat. MINNIE > WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)"
+  "title": "[ Feat. MINNIE ] WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV) (2019-10-18)"
 },
 {
   "link": "https://youtu.be/FB2KQampTG4",
@@ -530,7 +530,7 @@ const specialReleasesCards = [
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg",
   "alt": "< Feat. MIYEON > DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)",
-  "title": "< Feat. MIYEON > DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)"
+  "title": "[ Feat. MIYEON ] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (2021-10-16)"
 },
 {
   "link": "https://youtu.be/gpzGUTDe-CE",
@@ -541,7 +541,7 @@ const specialReleasesCards = [
   "duration": "00:02:57",
   "thumbnail": "https://i.ytimg.com/vi/gpzGUTDe-CE/hqdefault.jpg",
   "alt": "< Feat. MIYEON > Raiden - Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)",
-  "title": "< Feat. MIYEON > Raiden - Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)"
+  "title": "[ Feat. MIYEON ] Raiden - Side Effect (feat. MIYEON ((G)I-DLE)) (2021-10-11)"
 },
 {
   "link": "https://youtu.be/dr1w5rju6uM",
@@ -563,7 +563,7 @@ const specialReleasesCards = [
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/U4AefkQrpnA/mqdefault.jpg",
   "alt": "Milestone",
-  "title": "Milestone"
+  "title": "미연 - Milestone"
 },
 {
   "link": "https://youtu.be/9p51YpIa0Ss",
@@ -585,7 +585,7 @@ const specialReleasesCards = [
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/fkfeTUGFq6E/sddefault.jpg",
   "alt": "< Feat. MIYEON > 행주(Hangzoo) X 미연 - 'Cart' Special Clip",
-  "title": "< Feat. MIYEON > 행주(Hangzoo) X 미연 - 'Cart' Special Clip"
+  "title": "[ Feat. MIYEON ] 행주(Hangzoo) X 미연 - 'Cart' Special Clip"
 },
 {
   "link": "https://youtu.be/_UwS-Iox8gw",
@@ -629,7 +629,7 @@ const specialReleasesCards = [
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/4xycl7eFNmE/mqdefault.jpg",
   "alt": "< Feat. MINNIE > Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
-  "title": "< Feat. MINNIE > Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
+  "title": "[ Feat. MINNIE ] Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
 },
 {
   "link": "https://youtu.be/8yM26c7RpB4",
@@ -651,7 +651,7 @@ const specialReleasesCards = [
   "duration": "00:02:18",
   "thumbnail": "https://i.ytimg.com/vi/rO1ANdXvdTg/mqdefault.jpg",
   "alt": "< Feat. YUQI > Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
-  "title": "< Feat. YUQI > Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
+  "title": "[ Feat. YUQI ] Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
 },
 {
   "link": "https://youtu.be/WF4YckoL5Qg",
@@ -674,7 +674,7 @@ const specialReleasesCards = [
   "duration": "00:02:45",
   "thumbnail": "https://i.ytimg.com/vi/KEUlytSqlsU/mqdefault.jpg",
   "alt": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)",
-  "title": "< Prod.SOYEON> Baby DONT Cry - ‘F Girl’ MV (2025-06-23)"
+  "title": "[ Prod.SOYEON ] Baby DONT Cry - ‘F Girl’ MV (2025-06-23)"
 },
   {
   "link": "https://youtu.be/KmPX5XwV9lk",
@@ -754,6 +754,17 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/sgWMWOAEkuM/hqdefault.jpg",
   "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)",
   "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE (2023-03-16)"
+},
+  {
+  "link": "https://youtu.be/O_B-0iPCbaU",
+  "category": "SPECIAL_RELEASES",
+  "member": "소연",
+  "year": "2024",
+  "month": "02",
+  "duration": "00:02:43",
+  "thumbnail": "https://i.ytimg.com/vi/O_B-0iPCbaU/maxresdefault.jpg",
+  "alt": "비비 (BIBI) - Sugar Rush Official M/V (2024-02-20)",
+  "title": "[Cameo: 소연] 비비 (BIBI) - Sugar Rush Official M/V (2024-02-20)"
 }
 
 
