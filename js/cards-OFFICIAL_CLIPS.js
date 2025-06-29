@@ -8654,6 +8654,18 @@ const officialClipCards = [
   "alt": "우기의 OPPO 광고 촬영 비하인드 [i-talk] #203 | i-dle (아이들)ㅣSUB (2025-06-28)",
   "title": "우기의 OPPO 광고 촬영 비하인드 [i-talk] #203 | i-dle (아이들)ㅣSUB (2025-06-28)",
   "subtag": "아이톡 | I-TALK"
+},
+  {
+  "link": "https://youtu.be/V-2lTBsI4_U",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:16:26",
+  "thumbnail": "https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg",
+  "alt": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)",
+  "title": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)"
+  "subtag": "아이톡 | I-TALK"
 }
 
 
