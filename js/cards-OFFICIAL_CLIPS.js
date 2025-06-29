@@ -8664,7 +8664,7 @@ const officialClipCards = [
   "duration": "00:16:26",
   "thumbnail": "https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg",
   "alt": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)",
-  "title": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)"
+  "title": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)",
   "subtag": "아이톡 | I-TALK"
 }
 
