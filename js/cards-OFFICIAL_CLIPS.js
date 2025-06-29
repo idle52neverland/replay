@@ -8666,6 +8666,18 @@ const officialClipCards = [
   "alt": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)",
   "title": "ASEA 2025 비하인드 [i-talk] #204 | i-dle (아이들)ㅣSUB (2025-06-29)",
   "subtag": "아이톡 | I-TALK"
+},
+  {
+  "link": "https://youtu.be/M9MfR2Y6unk",
+  "category": "ORIGINAL_VARIETY",
+  "member": "민니",
+  "year": "2025",
+  "month": "01",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/M9MfR2Y6unk/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'HER' 응원법ㅣSUB (2025-01-21)",
+  "title": "민니(MINNIE) - 'HER' 응원법ㅣSUB (2025-01-21)",
+  "subtag": "응원법 | Fan Chant"
 }
 
 
