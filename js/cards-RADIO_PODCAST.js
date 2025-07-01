@@ -1693,7 +1693,44 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/PIEIaBctxlg/maxresdefault.jpg",
   "alt": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️  | 정오의 희망곡 김신영입니다 (2025-06-27)",
   "title": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️  | 정오의 희망곡 김신영입니다 (2025-06-27)"
+},
+  
+{
+  "link": "https://youtu.be/JMz1m-6WVmc",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "01:20:09",
+  "thumbnail": "https://i.ytimg.com/vi/JMz1m-6WVmc/maxresdefault.jpg",
+  "alt": "🔥3부작🔥 소문의 아이들 EP.3 오늘 같이 열어볼까? (여자)아이들과 소문의 빨간 캐비넷! (2021-01-19)",
+  "title": "🔥3부작🔥 소문의 아이들 EP.3 오늘 같이 열어볼까? (여자)아이들과 소문의 빨간 캐비넷! (2021-01-19)"
+},
+
+{
+  "link": "https://youtu.be/uqB-O6fMx3g",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "01:27:36",
+  "thumbnail": "https://i.ytimg.com/vi/uqB-O6fMx3g/maxresdefault.jpg",
+  "alt": "🔥3부작🔥 소문의 아이들 EP.2 너네 소문 들었지? (여자)아이들의 컴백 PARTY NOW (2021-01-12 )",
+  "title": "🔥3부작🔥 소문의 아이들 EP.2 너네 소문 들었지? (여자)아이들의 컴백 PARTY NOW (2021-01-12 )"
+},
+
+{
+  "link": "https://youtu.be/4bP4RZhTCq8",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "year": "2021",
+  "month": "01",
+  "duration": "01:13:44",
+  "thumbnail": "https://i.ytimg.com/vi/4bP4RZhTCq8/maxresdefault.jpg",
+  "alt": "🔥3부작🔥 소문의 아이들 EP.1 너네 소문 들었어? 여자아이들이 NOW에 왔대! (2021-01-05 )",
+  "title": "🔥3부작🔥 소문의 아이들 EP.1 너네 소문 들었어? 여자아이들이 NOW에 왔대! (2021-01-05 )"
 }
+
 
 
   ];
