@@ -564,7 +564,7 @@ const recordingBehindCards = [
   "duration": "00:03:49",
   "thumbnail": "https://i.ytimg.com/vi/RwmNUJFSX2E/hqdefault.jpg",
   "alt": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]",
-  "title": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST]"
+  "title": "[MV] 우기 ((여자)아이들) - 연극 (녹음실 ver.) [내 남편과 결혼해줘 OST Special Track (Marry My Husband OST] (2024-02-27)"
 },
   {
   "link": "https://youtu.be/MAcsBbKPMtE",
