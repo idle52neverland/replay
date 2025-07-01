@@ -288,7 +288,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "05",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20230112_86/Sc5sL_1673516882678hnGYV_JPEG/9d02e5be-925d-11ed-bae5-a0369ffb33b4_03.jpg?type=now720b.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20230112_86/Sc5sL_1673516882678hnGYV_JPEG/9d02e5be-925d-11ed-bae5-a0369ffb33b4_03.jpg?type=now720b",
   "alt": "소문의 아이들에 트롯 공주님 등장 (2021-05-25)",
   "title": "소문의 아이들에 트롯 공주님 등장 |소문의 아이들| (2021-05-25)"
 },
