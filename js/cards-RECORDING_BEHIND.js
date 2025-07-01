@@ -631,6 +631,17 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/KSFu__HZVf8/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Could It Be' Recording Behind (ENG/CHN) (2024-04-09)",
   "title": "우기(YUQI) - 'Could It Be' Recording Behind (ENG/CHN) (2024-04-09)"
+},
+  {
+  "link": "https://youtu.be/aHIY4dHawsA",
+  "category": "RECORDING_BEHIND",
+  "member": "아이들",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:15:22",
+  "thumbnail": "https://i.ytimg.com/vi/aHIY4dHawsA/maxresdefault.jpg",
+  "alt": "i-dle (아이들) '그래도 돼요' Recording BehindㅣSUB (2025-07-01)",
+  "title": "i-dle (아이들) '그래도 돼요' Recording BehindㅣSUB (2025-07-01)"
 }
 
   ];
