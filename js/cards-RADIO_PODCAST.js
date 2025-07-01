@@ -112,7 +112,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "02",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_197/eGpIO_1649751802796uzeKf_JPEG/f2f6a9ea-dafb-11eb-9903-505dac8c3639_03.jpg?type=now720b.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_197/eGpIO_1649751802796uzeKf_JPEG/f2f6a9ea-dafb-11eb-9903-505dac8c3639_03.jpg?type=now720b",
   "alt": "어서와요 공쥬님~(여자)아이들 미연이 오늘부터 나우랑 1일 (2021-02-09)",
   "title": "어서와요 공쥬님~(여자)아이들 미연이 오늘부터 나우랑 1일 |소문의 아이들| (2021-02-09)"
 },
