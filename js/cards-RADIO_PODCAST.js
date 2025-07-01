@@ -123,7 +123,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_175/Zy6tj_1649751802378VnonT_JPEG/fdb5abcf-dafb-11eb-bb6d-505dac8c381b_03.jpg?type=now720b",
   "alt": "(여자)아이들 미연이랑티파티 하는 날w 고원 지원 나나 (2021-02-16)",
   "title": "(여자)아이들 미연이랑티파티 하는 날w 고원 지원 나나 |소문의 아이들| (2021-02-16)"
 },
@@ -134,7 +134,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_82/546ci_16497510127915xiMQ_JPEG/3f0adfc1-daf2-11eb-b595-505dac8c385b_03.jpg?type=now720b",
   "alt": "면호스트랑 궁물이랑레트로 여행 꼬고~! (2021-02-23)",
   "title": "면호스트랑 궁물이랑레트로 여행 꼬고~! |소문의 아이들| (2021-02-23)"
 },
@@ -145,7 +145,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_164/LR1x4_1649751012643pYAQ8_JPEG/80825d55-daf2-11eb-88da-505dac8c3721_03.jpg?type=now720b",
   "alt": "면이랑 쟤쟤랑 같이 놀 사람!! (2021-03-02)",
   "title": "면이랑 쟤쟤랑 같이 놀 사람!! |소문의 아이들| (2021-03-02)"
 },
@@ -156,7 +156,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_65/4G2R2_1649751012485xgM0l_JPEG/802374bb-daf2-11eb-98bc-a0369ff968b0_03.jpg?type=now720b",
   "alt": "만화 찢고 나온 면스트소문의 아이들도 찢었다 (2021-03-09)",
   "title": "만화 찢고 나온 면스트소문의 아이들도 찢었다 |소문의 아이들| (2021-03-09)"
 },
@@ -167,7 +167,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_162/57YNb_1649751012114FY3cJ_JPEG/e570bfed-dafb-11eb-a880-48df37ae3fca_03.jpg?type=now720b",
   "alt": "소문의 아이들 리플레이 팀 총출동! (2021-03-16)",
   "title": "소문의 아이들 리플레이 팀 총출동! |소문의 아이들| (2021-03-16)"
 },
@@ -178,7 +178,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_257/VuQMq_1649751011881XlHn2_JPEG/c1082103-daf5-11eb-9903-505dac8c3639_03.jpg?type=now720b",
   "alt": "미연이랑 루다랑우정 만만세! (2021-03-23)",
   "title": "미연이랑 루다랑우정 만만세! |소문의 아이들| (2021-03-23)"
 },
@@ -189,7 +189,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_79/DWSOR_1649751011691AHowq_JPEG/1f04ba76-daf8-11eb-b66c-48df379ccacc_03.jpg?type=now720b",
   "alt": "귀여운 힙스터들 위클리 등장이요~ (2021-03-30)",
   "title": "귀여운 힙스터들 위클리 등장이요~ |소문의 아이들| (2021-03-30)"
 },
@@ -211,7 +211,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_99/ErJN4_1649751011499gOBnF_JPEG/948e902d-dee5-11eb-bb6d-505dac8c381b_03.jpg?type=now720b",
   "alt": "소문의 아이들에 면꽃 보러 오실 분? |소문의 아이들| (2021-04-06)",
   "title": "소문의 아이들에 면꽃 보러 오실 분? |소문의 아이들| (2021-04-06)"
 },
@@ -222,7 +222,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_252/VaKxN_16497510113199UvoG_JPEG/b200dd43-dee5-11eb-81a0-505dacfbaa5c_03.jpg?type=now720b",
   "alt": "똑똑~ 로켓펀치인데요 소문 듣고 왔습니다 (2021-04-13)",
   "title": "똑똑~ 로켓펀치인데요 소문 듣고 왔습니다 |소문의 아이들| (2021-04-13)"
 },
@@ -233,7 +233,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_214/f9x7A_1649751011073cSCkU_JPEG/02981ac0-dee2-11eb-aa58-505dac8c37f3_03.jpg?type=now720b",
   "alt": "멋쁨이 뭐죠?아~ 혹시 면요원면스트 말하는 건가요? (2021-04-20)",
   "title": "멋쁨이 뭐죠?아~ 혹시 면요원면스트 말하는 건가요? |소문의 아이들| (2021-04-20)"
 },
@@ -244,7 +244,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_202/VAHjY_1649751010872s5tYo_JPEG/013222fa-dee2-11eb-91f4-a0369ff94ed0_03.jpg?type=now720b",
   "alt": "날도 좋은데! 밤꽃놀이 갈래? (2021-04-27)",
   "title": "날도 좋은데! 밤꽃놀이 갈래? |소문의 아이들| (2021-04-27)"
 },
@@ -255,7 +255,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_105/jFGEU_1649751010702ncyWz_JPEG/8bdbaf13-dee1-11eb-bde8-48df379cc9e4_03.jpg?type=now720b",
   "alt": "같이 봄파티 하자 +은서 다영 다원 (2021-05-04)",
   "title": "같이 봄파티 하자 +은서 다영 다원 |소문의 아이들| (2021-05-04)"
 },
@@ -266,7 +266,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_9/F64jR_1649751010477iIHvk_JPEG/f79dea94-decf-11eb-bde8-48df379cc9e4_03.jpg?type=now720b",
   "alt": "심봤다~ 넝쿨째 굴러온 면 (2021-05-11)",
   "title": "심봤다~ 넝쿨째 굴러온 면 |소문의 아이들| (2021-05-11)"
 },
@@ -277,7 +277,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_84/TcGta_1649751009084raXel_JPEG/bfcad588-dd52-11eb-a880-48df37ae3fca_03.jpg?type=now720b",
   "alt": "소문의 아이들! 퍼플키스로 물들다 (2021-05-18)",
   "title": "소문의 아이들! 퍼플키스로 물들다 |소문의 아이들| (2021-05-18)"
 },
@@ -288,7 +288,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20230112_86/Sc5sL_1673516882678hnGYV_JPEG/9d02e5be-925d-11ed-bae5-a0369ffb33b4_03.jpg?type=now720b.png",
   "alt": "소문의 아이들에 트롯 공주님 등장 (2021-05-25)",
   "title": "소문의 아이들에 트롯 공주님 등장 |소문의 아이들| (2021-05-25)"
 },
@@ -299,7 +299,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_24/DLFso_164975100855040BiO_JPEG/ced64550-d94d-11eb-90a6-246e963a49a8_03.jpg?type=now720b",
   "alt": "로켓펀치랑 레트로 파티! (2021-06-01)",
   "title": "로켓펀치랑 레트로 파티! |소문의 아이들| (2021-06-01)"
 },
@@ -310,7 +310,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_71/0dE3E_1649751008321LDQzt_JPEG/7f5da7e1-ded0-11eb-a02a-a0369ff963bc_03.jpg?type=now720b",
   "alt": "소문의 아이들에 산타베이비 등장 (2021-06-08)",
   "title": "소문의 아이들에 산타베이비 등장 |소문의 아이들| (2021-06-08)"
 },
@@ -321,7 +321,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_36/SmXgA_16497510081087A5RR_JPEG/a48e3a36-e446-11eb-9013-505dac8c381b_03.jpg?type=now720b",
   "alt": "면스트 친구 왔다w/ 트와이스 사나 (2021-06-15)",
   "title": "면스트 친구 왔다w/ 트와이스 사나 |소문의 아이들| (2021-06-15)"
 },
@@ -332,7 +332,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_129/pKVYN_1649751007886osX4m_JPEG/c228f044-ea9d-11eb-8a80-48df379ccacc_03.jpg?type=now720b",
   "alt": "띵동~ 선물 왔썸🎁 ✨라잇썸✨ (1) (2021-06-22)",
   "title": "띵동~ 선물 왔썸🎁 ✨라잇썸✨ (1) |소문의 아이들| (2021-06-22)"
 },
@@ -343,7 +343,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_45/gSweC_1649751007434IanQt_JPEG/d1ac48a6-ef46-11eb-9a4d-505dac8c3721_03.jpg?type=now720b",
   "alt": "면스트랑 놀 사람여기여기 붙어라👍🏻 (2021-06-29)",
   "title": "면스트랑 놀 사람여기여기 붙어라👍🏻 |소문의 아이들| (2021-06-29)"
 },
@@ -354,7 +354,7 @@ const radioPodcastCards = [
   "member": "미연, 소연",
   "year": "2021",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_58/1i3zB_16497518021780k3MW_JPEG/c61194f0-fa5f-11eb-9845-505dacfbaa5c_03.jpg?type=now720b",
   "alt": "소연이 왔당✌🏻BEAM BEAM (2021-07-06)",
   "title": "소연이 왔당✌🏻BEAM BEAM |소문의 아이들| (2021-07-06)"
 },
@@ -389,7 +389,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_265/BCfVx_1649751801998tVDM9_JPEG/0d6a1170-ffc4-11eb-8f8d-505dac8c3721_03.jpg?type=now720b",
   "alt": "짤부자 걔🎀면프로디테 입장 (2021-07-13)",
   "title": "짤부자 걔🎀면프로디테 입장 |소문의 아이들| (2021-07-13)"
 },
@@ -400,7 +400,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_179/qL8AK_16497518018176NVKC_JPEG/12604b88-1c1e-11ec-9d74-a0369ff9545c_03.jpg?type=now720b",
   "alt": "네 맘을 훔치러 온우아한 배드걸😈 (2021-07-20)",
   "title": "네 맘을 훔치러 온우아한 배드걸😈 |소문의 아이들| (2021-07-20)"
 },
@@ -435,7 +435,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_187/zdf4q_1649751801636Sw1T2_JPEG/5daf6296-0545-11ec-86ec-48df37ae3fca_03.jpg?type=now720b",
   "alt": "오늘을 기다렸다😎면이 놀리기 대회 (2021-07-27)",
   "title": "오늘을 기다렸다😎면이 놀리기 대회 |소문의 아이들| (2021-07-27)"
 },
@@ -446,7 +446,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "08",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_284/TWxfI_1649751801374BlJUd_JPEG/adb5ec63-0ad7-11ec-89ce-48df379ccacc_03.jpg?type=now720b",
   "alt": "집콕 랜선바캉스🏖w/ 트라이비 (2021-08-03)",
   "title": "집콕 랜선바캉스🏖w/ 트라이비 |소문의 아이들| (2021-08-03)"
 },
@@ -457,7 +457,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "08",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_78/rVcxt_1649751801097nCXur_JPEG/ff61b658-104e-11ec-9d7e-a0369ff952f4_03.jpg?type=now720b",
   "alt": "소문의 추리반🎀무엇이든 도와드림 (2021-08-10)",
   "title": "소문의 추리반🎀무엇이든 도와드림 |소문의 아이들| (2021-08-10)"
 },
@@ -468,7 +468,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "08",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_15/TNEvA_1649751800886JjMA5_JPEG/ecc24dd4-15c5-11ec-882d-48df37ae3dc4_03.jpg?type=now720b",
   "alt": "한여름의 힐링파티위클리랑 놀자🎀 (2021-08-17)",
   "title": "한여름의 힐링파티위클리랑 놀자🎀 |소문의 아이들| (2021-08-17)"
 },
@@ -479,7 +479,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "08",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_28/KJ6eJ_16497518006461z09A_JPEG/aabf865f-20c4-11ec-8e61-a0369ff94f34_03.jpg?type=now720b",
   "alt": "면조련사 등장😎재밌겠ZOO🐊 (2021-08-24)",
   "title": "면조련사 등장😎재밌겠ZOO🐊 |소문의 아이들| (2021-08-24)"
 },
@@ -490,7 +490,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "08",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_56/wBghf_1649751800414SiLk8_JPEG/68936c84-2bcb-11ec-bdc4-246e963a49a8_03.jpg?type=now720b",
   "alt": "소문의 비투비💙면이의 단독인터뷰 (2021-08-30)",
   "title": "소문의 비투비💙면이의 단독인터뷰 |소문의 아이들| (2021-08-30)"
 },
@@ -501,7 +501,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "09",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_75/L9vOt_16497518001629swca_JPEG/fdddc7f6-3144-11ec-bc73-a0369ff968b0_03.jpg?type=now720b",
   "alt": "소문의 소녀들🔫희진 김립 진솔 이브 (2021-09-07)",
   "title": "소문의 소녀들🔫희진 김립 진솔 이브 |소문의 아이들| (2021-09-07)"
 },
@@ -512,7 +512,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "09",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_92/kljLI_1649751799917VDI7x_JPEG/7e2a38b5-3d10-11ec-a74c-48df379ccacc_03.jpg?type=now720b",
   "alt": "좀비 습격 주의보!퍼플키스가 왔다💜 (2021-09-14)",
   "title": "좀비 습격 주의보!퍼플키스가 왔다💜 |소문의 아이들| (2021-09-14)"
 },
@@ -523,7 +523,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "09",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_27/i84Q4_1649751799670djWKq_JPEG/a99717fc-4750-11ec-9ac7-505dac8c381b_03.jpg?type=now720b",
   "alt": "소문의 심야아이돌미연 🎀 권은비추석 특집 중! (2021-09-21)",
   "title": "소문의 심야아이돌미연 🎀 권은비추석 특집 중! |소문의 아이들| (2021-09-21)"
 },
@@ -534,7 +534,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "09",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_78/9itCo_1649751799423azXXK_JPEG/edbe1f09-4cee-11ec-a74c-48df379ccacc_03.jpg?type=now720b",
   "alt": "소문의 홈카페 오픈🎀미연 x 유하 (2021-09-28)",
   "title": "소문의 홈카페 오픈🎀미연 x 유하 |소문의 아이들| (2021-09-28)"
 },
@@ -545,7 +545,7 @@ const radioPodcastCards = [
   "member": "미연, 슈화",
   "year": "2021",
   "month": "10",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_54/LR1ZD_16497517991443WU6q_JPEG/78d7f375-5281-11ec-9b44-a0369ff95678_03.jpg?type=now720b",
   "alt": "미연이랑 슈화랑소문의 홈파티🎀 (2021-10-05)",
   "title": "미연이랑 슈화랑소문의 홈파티🎀 |소문의 아이들| (2021-10-05)"
 },
@@ -556,7 +556,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "10",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_263/hdvXr_1649751798894m3akC_JPEG/2ae82a6b-5724-11ec-a331-48df379cca40_03.jpg?type=now720b",
   "alt": "꼬꼬마 미연이랑동심의 세계로🧸 (2021-10-12)",
   "title": "꼬꼬마 미연이랑동심의 세계로🧸 |소문의 아이들| (2021-10-12)"
 },
@@ -567,7 +567,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "10",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_57/2iFVa_1649751798670YuXdK_JPEG/ffc13971-5bc9-11ec-9a6e-246e963a49a8_03.jpg?type=now720b",
   "alt": "세젤예 미연이랑소문의 토론회🎀 (2021-10-19)",
   "title": "세젤예 미연이랑소문의 토론회🎀 |소문의 아이들| (2021-10-19)"
 },
@@ -578,7 +578,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "10",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_125/U1RbX_1649751798452qnr9p_JPEG/a571d682-5e48-11ec-b25e-505dac8c3721_03.jpg?type=now720b",
   "alt": "미연❤️라잇썸이랑소문의 할로윈🎃 (2021-10-26)",
   "title": "미연❤️라잇썸이랑소문의 할로윈🎃 |소문의 아이들| (2021-10-26)"
 },
@@ -589,7 +589,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "11",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_183/psDIO_1649751798217zKsvg_JPEG/02d405d1-63b6-11ec-9ac9-a0369ff94f34_03.jpg?type=now720b",
   "alt": "면스트랑 픽시랑가을 캠핑🍂 (2021-11-02)",
   "title": "면스트랑 픽시랑가을 캠핑🍂 |소문의 아이들| (2021-11-02)"
 },
@@ -612,7 +612,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "11",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_132/AdZsN_16497517980008OieC_JPEG/87f733db-67bc-11ec-a42f-505dac8c3721_03.jpg?type=now720b",
   "alt": "소문의문학반🍁#가을이었다 (2021-11-09)",
   "title": "소문의문학반🍁#가을이었다 |소문의 아이들| (2021-11-09)"
 },
@@ -623,7 +623,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "11",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_194/KqrGd_1649751797767EtLBj_JPEG/cddcc316-69ef-11ec-908e-48df379cc9e4_03.jpg?type=now720b",
   "alt": "소문의수사반💜w/ Billlie (2021-11-16)",
   "title": "소문의수사반💜w/ Billlie |소문의 아이들| (2021-11-16)"
 },
@@ -634,7 +634,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "11",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_270/wK1XC_1649751797537GP1Q3_JPEG/8b61a07c-72b9-11ec-9cfd-505dacfba98a_03.jpg?type=now720b",
   "alt": "소문의자랑회🎀무엇이든자랑하세요 (2021-11-23)",
   "title": "소문의자랑회🎀무엇이든자랑하세요 |소문의 아이들| (2021-11-23)"
 },
@@ -645,7 +645,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "11",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_154/EAtuQ_1649751797301d9AjW_JPEG/e99b3b2c-78de-11ec-8fb9-48df379cc9e4_03.jpg?type=now720b",
   "alt": "겨울이니까 모여서따뜻한 얘기 해볼까? (2021-11-30)",
   "title": "겨울이니까 모여서따뜻한 얘기 해볼까? |소문의 아이들| (2021-11-30)"
 },
@@ -656,7 +656,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "12",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_155/nCFxV_1649751797098JQjK8_JPEG/e553ae95-7cc9-11ec-bd70-505dac8c38f5_03.jpg?type=now720b",
   "alt": "미연❤️시그니처윈터 홈파티❄️ (2021-12-07)",
   "title": "미연❤️시그니처윈터 홈파티❄️ |소문의 아이들| (2021-12-07)"
 },
@@ -667,7 +667,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "12",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_23/EranV_1649751796829P04UW_JPEG/49198c18-7e7f-11ec-b3d2-48df37ae3fca_03.jpg?type=now720b",
   "alt": "소문의 퀴즈쇼😎미연 vs 궁물이 (2021-12-14)",
   "title": "소문의 퀴즈쇼😎미연 vs 궁물이 |소문의 아이들| (2021-12-14)"
 },
@@ -678,7 +678,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2021",
   "month": "12",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_132/KKY5K_1649751796652MVEWP_JPEG/6fa15c06-84b7-11ec-8fb9-48df379cc9e4_03.jpg?type=now720b",
   "alt": "산타가 필요해🎄미연💜퍼플키스 (2021-12-21)",
   "title": "산타가 필요해🎄미연💜퍼플키스 |소문의 아이들| (2021-12-21)"
 },
@@ -689,7 +689,7 @@ const radioPodcastCards = [
   "member": "미연, 민니",
   "year": "2021",
   "month": "12",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_241/UUkn0_1649751796450zECAx_JPEG/c32f5594-8890-11ec-9f69-505dac8c3639_03.jpg?type=now720b",
   "alt": "미연이랑 민니랑같이 놀아요❤️ (2021-12-28)",
   "title": "미연이랑 민니랑같이 놀아요❤️ |소문의 아이들| (2021-12-28)"
 },
@@ -700,7 +700,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_24/0uDWj_1649751796116Teq22_JPEG/03707d22-6d69-11ec-9d44-48df37ae3dc4_03.jpg?type=now720b",
   "alt": "우아스쿨 오픈🎀미연쌤 찾아요❤️ (2022-01-04)",
   "title": "우아스쿨 오픈🎀미연쌤 찾아요❤️ |소문의 아이들| (2022-01-04)"
 },
@@ -711,7 +711,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_95/Qt3xT_1649751795937ig3lP_JPEG/85c191c0-72e7-11ec-bd70-505dac8c38f5_03.jpg?type=now720b",
   "alt": "소문의 괴담부👻부원을 모십니다 (2022-01-11)",
   "title": "소문의 괴담부👻부원을 모십니다 |소문의 아이들| (2022-01-11)"
 },
@@ -722,7 +722,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_233/5Kgl3_1649751795753F5Bfd_JPEG/d3372148-7868-11ec-8e85-48df379ccacc_03.jpg?type=now720b",
   "alt": "미연❤️모모랜드신곡 얘기 나눠요 (2022-01-18)",
   "title": "미연❤️모모랜드신곡 얘기 나눠요 |소문의 아이들| (2022-01-18)"
 },
@@ -733,7 +733,7 @@ const radioPodcastCards = [
   "member": "미연, 우기",
   "year": "2022",
   "month": "01",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_195/T2HEl_1649751795510tCOY3_JPEG/c7d70e6c-7de7-11ec-9f25-246e963a49a8_03.jpg?type=now720b",
   "alt": "미연💜우기누가 더 사랑해? (2022-01-25)",
   "title": "미연💜우기누가 더 사랑해? |소문의 아이들| (2022-01-25)"
 },
@@ -744,7 +744,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_118/ibSe1_1649751795240pwgUa_JPEG/6bf1652c-837f-11ec-a810-505dac8c385b_03.jpg?type=now720b",
   "alt": "설날이 왔고✨스무살이 됐다💛 (2022-02-01)",
   "title": "설날이 왔고✨스무살이 됐다💛 |소문의 아이들| (2022-02-01)"
 },
@@ -755,7 +755,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_117/WuDiK_1649751794977fzxYL_JPEG/0b9e6f9b-88ea-11ec-99fd-a0369ff94ed0_03.jpg?type=now720b",
   "alt": "소문의 아이들🎀1주년 됐어요💖 (2022-02-08)",
   "title": "소문의 아이들🎀1주년 됐어요💖 |소문의 아이들| (2022-02-08)"
 },
@@ -766,7 +766,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_256/LjaqJ_1649751794722Qw9aG_JPEG/261b3f0e-8e6a-11ec-bef7-505dac8c38f5_03.jpg?type=now720b",
   "alt": "소문의 아이들🎀펜타곤 입장😎 (2022-02-15)",
   "title": "소문의 아이들🎀펜타곤 입장😎 |소문의 아이들| (2022-02-15)"
 },
@@ -777,7 +777,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_81/4Cw8H_1649751794466G1yNh_JPEG/a0e91c54-93e8-11ec-87d4-48df37ae3fca_03.jpg?type=now720b",
   "alt": "대장토끼 권은비소문의 아이들🐰 (2022-02-22)",
   "title": "대장토끼 권은비소문의 아이들🐰 |소문의 아이들| (2022-02-22)"
 },
@@ -788,7 +788,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_258/Cyfot_1649751794155oykrs_JPEG/072872a1-9974-11ec-9e68-a0369ff9545c_03.jpg?type=now720b",
   "alt": "미연💛로켓펀치소문의 런웨이 (2022-03-01)",
   "title": "미연💛로켓펀치소문의 런웨이 |소문의 아이들| (2022-03-01)"
 },
@@ -799,7 +799,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_54/pjcoY_1649751793940ecS1F_JPEG/dd902031-9efc-11ec-9e68-a0369ff9545c_03.jpg?type=now720b",
   "alt": "소문의 아이들🌸조미연 등장🌼 (2022-03-08)",
   "title": "소문의 아이들🌸조미연 등장🌼 |소문의 아이들| (2022-03-08)"
 },
@@ -810,7 +810,7 @@ const radioPodcastCards = [
   "member": "아이들",
   "year": "2022",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_14/k97m2_16497517937571hza1_JPEG/737552a6-a48f-11ec-bc77-505dac8c3721_03.jpg?type=now720b",
   "alt": "첫 번째 정규앨범🍷(여자)아이들 (2022-03-15)",
   "title": "첫 번째 정규앨범🍷(여자)아이들 |소문의 아이들| (2022-03-15)"
 },
@@ -857,7 +857,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_237/V4vbt_164975179358475vRK_JPEG/c69e4554-a9f7-11ec-8c0a-48df379ccacc_03.jpg?type=now720b",
   "alt": "조미연 유지애🌸봄플리 들어봄🌼 (2022-03-22)",
   "title": "조미연 유지애🌸봄플리 들어봄🌼 |소문의 아이들| (2022-03-22)"
 },
@@ -880,7 +880,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "03",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_38/mgplS_1649751793406Mkn6E_JPEG/03b08c4e-af7c-11ec-b1ad-d4f5ef590144_03.jpg?type=now720b",
   "alt": "조미연❤️위클리소문의 토크파티 (2022-03-29)",
   "title": "조미연❤️위클리소문의 토크파티 |소문의 아이들| (2022-03-29)"
 },
@@ -902,7 +902,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_77/henL2_1649751793217WeOpk_JPEG/d226a1de-b4ff-11ec-bc38-505dac8c37f3_03.jpg?type=now720b",
   "alt": "조미연🐰권은비대장토끼컴백이다 (2022-04-05)",
   "title": "조미연🐰권은비대장토끼컴백이다 |소문의 아이들| (2022-04-05)"
 },
@@ -913,7 +913,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_144/GehAZ_1650622208291wHAlh_JPEG/5bbd1960-ba67-11ec-8726-d4f5ef58ac88_03.jpg?type=now720b",
   "alt": "조미연과 퍼플키스마녀들의 모임🔮 (2022-04-12)",
   "title": "조미연과 퍼플키스마녀들의 모임🔮 |소문의 아이들| (2022-04-12)"
 },
@@ -936,7 +936,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_238/keCsa_1650622208064YQUPk_JPEG/8e17827b-bff9-11ec-91f7-d4f5ef58ad5e_03.jpg?type=now720b",
   "alt": "소문의 홈파티🎀1st MY D-8 (2022-04-19)",
   "title": "소문의 홈파티🎀1st MY D-8 |소문의 아이들| (2022-04-19)"
 },
@@ -947,7 +947,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220427_276/r0rkf_1651055754198Ddc7K_JPEG/f841c325-c608-11ec-98b3-48df379ccacc_03.jpg?type=now720b",
   "alt": "MY 솔로 데뷔💎전야제 Drive💍 (2022-04-26)",
   "title": "MY 솔로 데뷔💎전야제 Drive💍 |소문의 아이들| (2022-04-26)"
 },
@@ -1042,7 +1042,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220508_292/xPmrS_1651940867672dAV5G_JPEG/27d6bf38-ce16-11ec-a2ba-48df379cc9e4_03.jpg?type=now720b",
   "alt": "5월의 로즈🌹미연꽃 피었어요 (2022-05-03)",
   "title": "5월의 로즈🌹미연꽃 피었어요 |소문의 아이들| (2022-05-03)"
 },
@@ -1053,7 +1053,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220511_254/cP0Zz_1652217467591CtXIv_JPEG/dfc6eedb-d09a-11ec-a3bf-505dac8c3639_03.jpg?type=now720b",
   "alt": "소문의 골든벨🔔미연 vs 궁물이 (2022-05-10)",
   "title": "소문의 골든벨🔔미연 vs 궁물이 |소문의 아이들| (2022-05-10)"
 },
@@ -1064,7 +1064,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220518_248/Xpwyh_1652809191758xK3ge_JPEG/c61c978e-d5fc-11ec-bdfe-48df37ae3dc4_03.jpg?type=now720b",
   "alt": "미연 단짝찾기💖나랑 친구할래? (2022-05-17)",
   "title": "미연 단짝찾기💖나랑 친구할래? |소문의 아이들| (2022-05-17)"
 },
@@ -1075,7 +1075,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220525_95/g8ZQ7_1653416212539x3HR0_JPEG/f247d236-db81-11ec-8bba-505dac8c381b_03.jpg?type=now720b",
   "alt": "MY사랑학개론🌿너는 뭘 좋아해? (2022-05-24)",
   "title": "MY사랑학개론🌿너는 뭘 좋아해? |소문의 아이들| (2022-05-24)"
 },
@@ -1086,7 +1086,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "05",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220601_254/vHAx1_1654016812773WIUFJ_JPEG/90f0d9e0-e0f7-11ec-9fa8-505dacfba98a_03.jpg?type=now720b",
   "alt": "미연💚라잇썸소문의 하트비트 (2022-05-31)",
   "title": "미연💚라잇썸소문의 하트비트 |소문의 아이들| (2022-05-31)"
 },
@@ -1097,7 +1097,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220608_131/U7jRQ_1654619029139Tg7xy_JPEG/8354372f-e671-11ec-89b9-d4f5ef5906a4_03.jpg?type=now720b",
   "alt": "미연탐구생활🐰DO or NOT? (2022-06-07)",
   "title": "미연탐구생활🐰DO or NOT? |소문의 아이들| (2022-06-07)"
 },
@@ -1108,7 +1108,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220615_27/SniNK_1655224612817i61ou_JPEG/011e1915-ebf4-11ec-8bba-505dac8c381b_03.jpg?type=now720b",
   "alt": "미연이랑우리끼리톡N라이브🌿 (2022-06-14)",
   "title": "미연이랑우리끼리톡N라이브🌿 |소문의 아이들| (2022-06-14)"
 },
@@ -1119,7 +1119,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220622_299/1N77b_1655830010605nbfjz_JPEG/0d3ed8ab-f176-11ec-bb12-d4f5ef5a9532_03.jpg?type=now720b",
   "alt": "(G)I-DLE 메보💜조미연입니다만 (2022-06-21)",
   "title": "(G)I-DLE 메보💜조미연입니다만 |소문의 아이들| (2022-06-21)"
 },
@@ -1142,7 +1142,7 @@ const radioPodcastCards = [
   "member": "미연, 우기",
   "year": "2022",
   "month": "06",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220701_191/WuQ9A_1656652670767Pm8b8_JPEG/2c1b15d5-f6ec-11ec-bb12-d4f5ef5a9532_03.jpg?type=now720b",
   "alt": "미연🐰 우기🐶소문의 핫걸타임#소문의아이들 (2022-06-28)",
   "title": "미연🐰 우기🐶소문의 핫걸타임#소문의아이들 |소문의 아이들| (2022-06-28)"
 },
@@ -1153,7 +1153,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220718_110/07A66_1658113195416Dqhpg_PNG/08_EC868CEBACB8EC9D98EC9584EC9DB4EB93A4.png?type=f640",
   "alt": "조미연과 있으면여름 그까짓거🌴#소문의아이들 (2022-07-05)",
   "title": "조미연과 있으면여름 그까짓거🌴#소문의아이들 |소문의 아이들| (2022-07-05)"
 },
@@ -1164,7 +1164,7 @@ const radioPodcastCards = [
   "member": "미연",
   "year": "2022",
   "month": "07",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아1.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220718_110/07A66_1658113195416Dqhpg_PNG/08_EC868CEBACB8EC9D98EC9584EC9DB4EB93A4.png?type=f640",
   "alt": "조미연투어간다시즌1마지막🥺#소문의아이들 (2022-07-12)",
   "title": "조미연투어간다시즌1마지막🥺#소문의아이들 |소문의 아이들| (2022-07-12)"
 },
