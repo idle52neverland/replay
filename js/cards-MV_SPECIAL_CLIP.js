@@ -599,6 +599,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZlKoeJ3xlx4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
   "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)"
+},
+  {
+  "link": "https://youtu.be/hqWxxcs_MXE",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/hqWxxcs_MXE/maxresdefault.jpg",
+  "alt": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)",
+  "title": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)"
 }
 
 
