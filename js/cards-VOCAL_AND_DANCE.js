@@ -3198,7 +3198,18 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/nZwxHak5QyQ/hqdefault.jpg",
   "alt": "[주💥목👊] 피오 소원 성취 ㅋㅋㅋㅋ 급결성🚨 태미연💕이 부릅니다. 〈투엑스♪〉#놀라운토요일 | amazingsaturday EP.327 | tvN 240810 방송 (2024-08-10)",
   "title": "[주💥목👊] 피오 소원 성취 ㅋㅋㅋㅋ 급결성🚨 태미연💕이 To.X 부릅니다. 〈투엑스♪〉#놀라운토요일 | amazingsaturday EP.327 | tvN 240810 방송 (2024-08-10)"
-}
+},
+ {
+  "link": "https://youtu.be/4SHsRSu-fLg",
+  "category": "VOCAL_AND_DANCE",
+  "member": "소연",
+  "year": "2025",
+  "month": "06",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/4SHsRSu-fLg/maxresdefault.jpg",
+  "alt": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)",
+  "title": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)"
+} 
 
 ];
 
