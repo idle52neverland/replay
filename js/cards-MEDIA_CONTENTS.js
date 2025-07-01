@@ -12041,7 +12041,7 @@ const mediaContentsCards = [
   "duration": "00:09:21",
   "thumbnail": "https://i.ytimg.com/vi/brSMUqo05f4/maxresdefault.jpg",
   "alt": "[면log] 레전드 무대 메이크업 비하인드 공개✨아이들 대기실 모먼트까지 l 케미폭발, 굿띵 , 4K (2025-06-15)",
-  "title": "[📁미연.zip] [면log] 레전드 무대 메이크업 비하인드 공개✨아이들 대기실 모먼트까지 l 케미폭발, 굿띵 , 4K (2025-06-15)"
+  "title": "[미연.zip📁] [면log] 레전드 무대 메이크업 비하인드 공개✨아이들 대기실 모먼트까지 l 케미폭발, 굿띵 , 4K (2025-06-15)"
 },
 
 {
@@ -12053,7 +12053,7 @@ const mediaContentsCards = [
   "duration": "00:12:37",
   "thumbnail": "https://i.ytimg.com/vi/8T293iPV_-8/maxresdefault.jpg",
   "alt": "*텅장 주의* 휴가 가기 전 꼭 봐야 할 여름 코디 4가지👒ㅣ휴양지, 페스티벌, 선글라스, 살안타템, 나시 (2025-06-08)",
-  "title": "[📁미연.zip] *텅장 주의* 휴가 가기 전 꼭 봐야 할 여름 코디 4가지👒ㅣ휴양지, 페스티벌, 선글라스, 살안타템, 나시 (2025-06-08)"
+  "title": "[미연.zip📁] *텅장 주의* 휴가 가기 전 꼭 봐야 할 여름 코디 4가지👒ㅣ휴양지, 페스티벌, 선글라스, 살안타템, 나시 (2025-06-08)"
 },
 
 {
@@ -12065,7 +12065,7 @@ const mediaContentsCards = [
   "duration": "00:20:52",
   "thumbnail": "https://i.ytimg.com/vi/BVbKS6fJQOU/maxresdefault.jpg",
   "alt": "*최초공개* 미연의 찐 화장품 정보 공유 GRWM💄ㅣ올영 추천템, 립&블러셔, 팽봉팽봉 썰 (2025-06-01)",
-  "title": "[📁미연.zip] *최초공개* 미연의 찐 화장품 정보 공유 GRWM💄ㅣ올영 추천템, 립&블러셔, 팽봉팽봉 썰 (2025-06-01)"
+  "title": "[미연.zip📁] *최초공개* 미연의 찐 화장품 정보 공유 GRWM💄ㅣ올영 추천템, 립&블러셔, 팽봉팽봉 썰 (2025-06-01)"
 },
 
 {
@@ -12077,7 +12077,7 @@ const mediaContentsCards = [
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/QHFE7VoGSSw/maxresdefault.jpg",
   "alt": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)",
-  "title": "[📁미연.zip] 아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)"
+  "title": "[미연.zip📁] 아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브 (2025-05-29)"
 },
 
 {
@@ -12089,7 +12089,7 @@ const mediaContentsCards = [
   "duration": "00:29:02",
   "thumbnail": "https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg",
   "alt": "*텐션 주의* 미연 기 빨리는 아이들 완전체의 들망진창 토크🫨 | 노래 라이브, Good Thing (2025-05-25)",
-  "title": "[📁미연.zip] *텐션 주의* 미연 기 빨리는 아이들 완전체의 들망진창 토크🫨 | 노래 라이브, Good Thing (2025-05-25)"
+  "title": "[미연.zip📁] *텐션 주의* 미연 기 빨리는 아이들 완전체의 들망진창 토크🫨 | 노래 라이브, Good Thing (2025-05-25)"
 },
 
 {
@@ -12101,7 +12101,7 @@ const mediaContentsCards = [
   "duration": "00:14:57",
   "thumbnail": "https://i.ytimg.com/vi/lJAZStJcBzw/maxresdefault.jpg",
   "alt": "효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트 (2025-05-18)",
-  "title": "[📁미연.zip] 효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트 (2025-05-18)"
+  "title": "[미연.zip📁] 효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트 (2025-05-18)"
 },
 
 {
@@ -12113,7 +12113,7 @@ const mediaContentsCards = [
   "duration": "00:19:36",
   "thumbnail": "https://i.ytimg.com/vi/AQJh-psjcrY/maxresdefault.jpg",
   "alt": "*밤늦게 시청 주의* 라면 4봉 먹방🔥 최현석&윤남노 셰프님에게 내민 도전장?!👩‍🍳ㅣ유퀴즈 불닭볶음면, 짜파게티 (2025-05-11)",
-  "title": "[📁미연.zip] *밤늦게 시청 주의* 라면 4봉 먹방🔥 최현석&윤남노 셰프님에게 내민 도전장?!👩‍🍳ㅣ유퀴즈 불닭볶음면, 짜파게티 (2025-05-11)"
+  "title": "[미연.zip📁] *밤늦게 시청 주의* 라면 4봉 먹방🔥 최현석&윤남노 셰프님에게 내민 도전장?!👩‍🍳ㅣ유퀴즈 불닭볶음면, 짜파게티 (2025-05-11)"
 },
 
 {
@@ -12125,7 +12125,7 @@ const mediaContentsCards = [
   "duration": "00:28:25",
   "thumbnail": "https://i.ytimg.com/vi/kOJU1Vh8yxg/maxresdefault.jpg",
   "alt": "[면log] 컴백 전 다녀온 꿈 같은 발리 휴가🌴 | 수영복 공개, 마사지, 랍스타 먹방🦞 (2025-05-04)",
-  "title": "[📁미연.zip] [면log] 컴백 전 다녀온 꿈 같은 발리 휴가🌴 | 수영복 공개, 마사지, 랍스타 먹방🦞 (2025-05-04)"
+  "title": "[미연.zip📁] [면log] 컴백 전 다녀온 꿈 같은 발리 휴가🌴 | 수영복 공개, 마사지, 랍스타 먹방🦞 (2025-05-04)"
 },
 
 {
@@ -12137,7 +12137,7 @@ const mediaContentsCards = [
   "duration": "00:10:49",
   "thumbnail": "https://i.ytimg.com/vi/o1Em0fnedx8/maxresdefault.jpg",
   "alt": "태어날 때부터 공주 조미연👑 소름돋는 아이들 관상 궁합까지?!🫢 l 연애운, 부자관상, 공주팔자 (2025-04-27)",
-  "title": "[📁미연.zip] 태어날 때부터 공주 조미연👑 소름돋는 아이들 관상 궁합까지?!🫢 l 연애운, 부자관상, 공주팔자 (2025-04-27)"
+  "title": "[미연.zip📁] 태어날 때부터 공주 조미연👑 소름돋는 아이들 관상 궁합까지?!🫢 l 연애운, 부자관상, 공주팔자 (2025-04-27)"
 },
 
 {
@@ -12149,7 +12149,7 @@ const mediaContentsCards = [
   "duration": "00:20:14",
   "thumbnail": "https://i.ytimg.com/vi/R2-aO_hZ1Vg/maxresdefault.jpg",
   "alt": "코노 찢어버린 비주얼 메보즈🎤 8282 보러와✨｜에스파, 삐딱하게, 응급실, 수퍼소닉 (2025-03-21)",
-  "title": "[📁미연.zip] 코노 찢어버린 비주얼 메보즈🎤 8282 보러와✨｜에스파, 삐딱하게, 응급실, 수퍼소닉 (2025-03-21)"
+  "title": "[미연.zip📁] 코노 찢어버린 비주얼 메보즈🎤 8282 보러와✨｜에스파, 삐딱하게, 응급실, 수퍼소닉 (2025-03-21)"
 },
 
 {
@@ -12161,7 +12161,7 @@ const mediaContentsCards = [
   "duration": "00:15:08",
   "thumbnail": "https://i.ytimg.com/vi/SerhmD4RHu4/maxresdefault.jpg",
   "alt": "100만 구독자 공약 삭발?!😲존프어범 조미연의 첫 Q&Aㅣ짝사랑썰,솔로컴백, 악플 대처법 (2025-03-14)",
-  "title": "[📁미연.zip] 100만 구독자 공약 삭발?!😲존프어범 조미연의 첫 Q&Aㅣ짝사랑썰,솔로컴백, 악플 대처법 (2025-03-14)"
+  "title": "[미연.zip📁] 100만 구독자 공약 삭발?!😲존프어범 조미연의 첫 Q&Aㅣ짝사랑썰,솔로컴백, 악플 대처법 (2025-03-14)"
 },
 
 {
@@ -12173,7 +12173,7 @@ const mediaContentsCards = [
   "duration": "00:16:24",
   "thumbnail": "https://i.ytimg.com/vi/ZDO4SUTB7xk/maxresdefault.jpg",
   "alt": "*면카 첫공개* 붓기에 진심인 미연! 이것까지 공개한다고..?🙊ㅣ차밥한끼, 왓츠인마이카🚘 (2025-03-07)",
-  "title": "[📁미연.zip] *면카 첫공개* 붓기에 진심인 미연! 이것까지 공개한다고..?🙊ㅣ차밥한끼, 왓츠인마이카🚘 (2025-03-07)"
+  "title": "[미연.zip📁] *면카 첫공개* 붓기에 진심인 미연! 이것까지 공개한다고..?🙊ㅣ차밥한끼, 왓츠인마이카🚘 (2025-03-07)"
 },
 
 {
@@ -12185,7 +12185,7 @@ const mediaContentsCards = [
   "duration": "00:16:41",
   "thumbnail": "https://i.ytimg.com/vi/Py8G02mTzTY/maxresdefault.jpg",
   "alt": "미연&우기가 말아주는 하이디라오 꿀팁💡ㅣ아이들 싸움썰, 훠궈 먹방, 조미연 수타면 미침(positive) (2025-02-28)",
-  "title": "[📁미연.zip] 미연&우기가 말아주는 하이디라오 꿀팁💡ㅣ아이들 싸움썰, 훠궈 먹방, 조미연 수타면 미침(positive) (2025-02-28)"
+  "title": "[미연.zip📁] 미연&우기가 말아주는 하이디라오 꿀팁💡ㅣ아이들 싸움썰, 훠궈 먹방, 조미연 수타면 미침(positive) (2025-02-28)"
 },
 
 {
@@ -12197,7 +12197,7 @@ const mediaContentsCards = [
   "duration": "00:16:27",
   "thumbnail": "https://i.ytimg.com/vi/6sLTPEy6LP8/maxresdefault.jpg",
   "alt": "[면Iog] *최초 공개* 자취 n년 차 조미연의 퇴근 집밥 l 지옥에서 온 붕어빵, 지원이랑 수다☎️, 눈오리❄️ (2025-02-21)",
-  "title": "[📁미연.zip] [면Iog] *최초 공개* 자취 n년 차 조미연의 퇴근 집밥 l 지옥에서 온 붕어빵, 지원이랑 수다☎️, 눈오리❄️ (2025-02-21)"
+  "title": "[미연.zip📁] [면Iog] *최초 공개* 자취 n년 차 조미연의 퇴근 집밥 l 지옥에서 온 붕어빵, 지원이랑 수다☎️, 눈오리❄️ (2025-02-21)"
 },
 
 {
@@ -12209,7 +12209,7 @@ const mediaContentsCards = [
   "duration": "00:18:12",
   "thumbnail": "https://i.ytimg.com/vi/T_pIL2pWm1c/maxresdefault.jpg",
   "alt": "네컷사진 여기가 제일 잘 나옴!!! 6곳 솔직 리뷰📸ㅣ포즈추천, 하루필름, 포토이즘 (2025-02-14)",
-  "title": "[📁미연.zip] 네컷사진 여기가 제일 잘 나옴!!! 6곳 솔직 리뷰📸ㅣ포즈추천, 하루필름, 포토이즘 (2025-02-14)"
+  "title": "[미연.zip📁] 네컷사진 여기가 제일 잘 나옴!!! 6곳 솔직 리뷰📸ㅣ포즈추천, 하루필름, 포토이즘 (2025-02-14)"
 },
 
 {
@@ -12221,7 +12221,7 @@ const mediaContentsCards = [
   "duration": "00:26:29",
   "thumbnail": "https://i.ytimg.com/vi/icleqYi-gvc/maxresdefault.jpg",
   "alt": "[면log] 미연이의 행복한 생일 파티🎂💕 l 출연자 : 츄, 지원, 네버버 (2025-02-07)",
-  "title": "[📁미연.zip] [면log] 미연이의 행복한 생일 파티🎂💕 l 출연자 : 츄, 지원, 네버버 (2025-02-07)"
+  "title": "[미연.zip📁] [면log] 미연이의 행복한 생일 파티🎂💕 l 출연자 : 츄, 지원, 네버버 (2025-02-07)"
 },
 
 {
@@ -12233,7 +12233,7 @@ const mediaContentsCards = [
   "duration": "00:13:09",
   "thumbnail": "https://i.ytimg.com/vi/qoTMoFhKIRA/maxresdefault.jpg",
   "alt": "[공식 계정] 재계약 끝에 얻어낸 미연 유튜브 오픈🥳 (2025-01-31)",
-  "title": "[📁미연.zip] [공식 계정] 재계약 끝에 얻어낸 미연 유튜브 오픈🥳 (2025-01-31)"
+  "title": "[미연.zip📁] [공식 계정] 재계약 끝에 얻어낸 미연 유튜브 오픈🥳 (2025-01-31)"
 },
 
 {
@@ -12244,8 +12244,19 @@ const mediaContentsCards = [
   "month": "01",
   "duration": "00:00:13",
   "thumbnail": "https://i.ytimg.com/vi/5WzdUtlEVFc/maxresdefault.jpg",
-  "alt": "[📁미연.zip] 압축 해제하기 l TEASER1 (2025-01-24)",
-  "title": "[📁미연.zip] 압축 해제하기 l TEASER1 (2025-01-24)"
+  "alt": "[미연.zip📁] 압축 해제하기 l TEASER1 (2025-01-24)",
+  "title": "[미연.zip📁] 압축 해제하기 l TEASER1 (2025-01-24)"
+},
+  {
+  "link": "https://youtu.be/JVBS0hfq7JA",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:38:05",
+  "thumbnail": "https://i.ytimg.com/vi/JVBS0hfq7JA/maxresdefault.jpg",
+  "alt": "[미연이의 뮤트로] 에어컨 대신 프나 라이브? 듣자마자 바다 가고픈 미연x프나 플리 추천🌴  | 새출발썰 , LIKE YOU BETTER (2025-07-01)",
+  "title": "[미연.zip📁] [미연이의 뮤트로] 에어컨 대신 프나 라이브? 듣자마자 바다 가고픈 미연x프나 플리 추천🌴  | 새출발썰 , LIKE YOU BETTER (2025-07-01)"
 }
 
 
