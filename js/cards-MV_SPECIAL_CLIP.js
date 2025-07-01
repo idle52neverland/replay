@@ -85,18 +85,6 @@ const mvSpecialClipCards = [
 },
 
 {
-  "link": "https://youtu.be/ZlKoeJ3xlx4",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2020",
-  "month": "07",
-  "thumbnail": "https://i.ytimg.com/vi/ZlKoeJ3xlx4/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
-  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip (2020-07-07)",
-  "duration": "00:03:27"
-},
-
-{
   "link": "https://youtu.be/HPQ5mqovXHo",
   "category": "MV_SPECIAL_CLIP",
   "member": "아이들",
