@@ -598,6 +598,17 @@ const mvSpecialClipCards = [
   "thumbnail": "https://i.ytimg.com/vi/hqWxxcs_MXE/maxresdefault.jpg",
   "alt": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)",
   "title": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)"
+},
+  {
+  "link": "https://youtu.be/sTnQ24z9hIw",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2018",
+  "month": "05",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/sTnQ24z9hIw/maxresdefault.jpg",
+  "alt": "$$$ (달라($$$)) (2018-05-02)",
+  "title": "$$$ (달라($$$)) (2018-05-02)"
 }
 
 
