@@ -8657,7 +8657,7 @@ const officialClipCards = [
 },
   {
   "link": "https://youtu.be/V-2lTBsI4_U",
-  "category": "ORIGINAL_VARIETY",
+  "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "year": "2025",
   "month": "06",
@@ -8669,7 +8669,7 @@ const officialClipCards = [
 },
   {
   "link": "https://youtu.be/M9MfR2Y6unk",
-  "category": "ORIGINAL_VARIETY",
+  "category": "OFFICIAL_CLIPS",
   "member": "민니",
   "year": "2025",
   "month": "01",
