@@ -1149,7 +1149,17 @@ const mvSpecialClipCards = [
   "alt": "Rollie (Rollie) (2024-01-29)",
   "title": "Rollie (Rollie) (2024-01-29)"
 },
-
+{
+  "link": "https://youtu.be/rxlQ5OgscMo",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2025",
+  "month": "05",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/rxlQ5OgscMo/maxresdefault.jpg",
+  "alt": "LATATA (i-dle ver.) (LATATA (i-dle ver.)) (2025-05-02)",
+  "title": "LATATA (i-dle ver.) (LATATA (i-dle ver.)) (2025-05-02)"
+},
 {
   "link": "https://youtu.be/gVMx_g2EZBM",
   "category": "MV_SPECIAL_CLIP",
