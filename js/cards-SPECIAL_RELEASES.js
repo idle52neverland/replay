@@ -306,7 +306,7 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/KeMq2QKhcTE/sddefault.jpg",
   "alt": "소연(SOYEON) -Fire (With 브랜뉴차일드 & 클루씨) (2022-01-04)",
   "title": "소연(SOYEON) - Fire (With 브랜뉴차일드 & 클루씨) (2022-01-04)"
-}
+},
 {
   "link": "https://youtu.be/AHYOjs5uex0",
   "category": "SPECIAL_RELEASES",
