@@ -190,7 +190,41 @@ const mvSpecialClipCards = [
   "title": "(G)I-DLE - 「LATATA」(Japanese ver.) MUSIC VIDEO (2019-07-11)",
   "duration": "00:03:26"
 },
+{
+  "link": "https://youtu.be/ZLzBd1NDGXk",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:03:52",
+  "thumbnail": "https://i.ytimg.com/vi/ZLzBd1NDGXk/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Light My Fire (2019-07-31)",
+  "title": "(여자)아이들((G)I-DLE) - Light My Fire (2019-07-31)"
+},
 
+{
+  "link": "https://youtu.be/hpQeQaI26zg",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/hpQeQaI26zg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.) (2019-07-31)",
+  "title": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.) (2019-07-31)"
+},
+
+{
+  "link": "https://youtu.be/A2LLCUegVhs",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "아이들",
+  "year": "2019",
+  "month": "07",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/A2LLCUegVhs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - For You (2019-07-31)",
+  "title": "(여자)아이들((G)I-DLE) - For You (2019-07-31)"
+},
 {
   "link": "https://youtu.be/6oanIo_2Z4Q",
   "category": "MV_SPECIAL_CLIP",
@@ -201,42 +235,6 @@ const mvSpecialClipCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'LION' Official Music Video (2019-11-03)",
   "title": "(여자)아이들((G)I-DLE) - 'LION' Official Music Video (2019-11-03)",
   "duration": "00:03:38"
-},
-
-{
-  "link": "https://youtu.be/ZLzBd1NDGXk",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2020",
-  "month": "03",
-  "duration": "00:03:52",
-  "thumbnail": "https://i.ytimg.com/vi/ZLzBd1NDGXk/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Light My Fire (2020-03-26)",
-  "title": "(여자)아이들((G)I-DLE) - Light My Fire (2020-03-26)"
-},
-
-{
-  "link": "https://youtu.be/hpQeQaI26zg",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2020",
-  "month": "03",
-  "duration": "00:03:21",
-  "thumbnail": "https://i.ytimg.com/vi/hpQeQaI26zg/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.) (2020-03-26)",
-  "title": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.) (2020-03-26)"
-},
-
-{
-  "link": "https://youtu.be/A2LLCUegVhs",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "아이들",
-  "year": "2020",
-  "month": "03",
-  "duration": "00:03:45",
-  "thumbnail": "https://i.ytimg.com/vi/A2LLCUegVhs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - For You (2020-03-26)",
-  "title": "(여자)아이들((G)I-DLE) - For You (2020-03-26)"
 },
 
 {
