@@ -924,6 +924,17 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/wQ8oMfw2Ntc/maxresdefault.jpg",
   "alt": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)",
   "title": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)"
+},
+    {
+  "link": "https://youtu.be/F4K1mMDlsj0",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "슈화",
+  "year": "PRE-DEBUT",
+  "month": "09",
+  "duration": "00:04:04",
+  "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
+  "alt": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)",
+  "title": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)"
 }
 
 
