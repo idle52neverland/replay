@@ -315,8 +315,8 @@ const specialReleasesCards = [
   "month": "01",
   "duration": "00:02:17",
   "thumbnail": "https://i.ytimg.com/vi/AHYOjs5uex0/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - Fire  [스걸파/6회] 우리들의 불꽃축제☆彡 브랜뉴차일드&클루씨 @뉴트랙 퍼포먼스 미션#스트릿댄스걸스파이터 (2022-01-04)",
-  "title": "소연(SOYEON) - Fire [스걸파/6회] 우리들의 불꽃축제☆彡 브랜뉴차일드&클루씨 @뉴트랙 퍼포먼스 미션#스트릿댄스걸스파이터 (2022-01-04)"
+  "alt": "(Song by SOYEON) - Fire  [스걸파/6회] 우리들의 불꽃축제☆彡 브랜뉴차일드&클루씨 @뉴트랙 퍼포먼스 미션#스트릿댄스걸스파이터 (2022-01-04)",
+  "title": "(Song by SOYEON) - Fire [스걸파/6회] 우리들의 불꽃축제☆彡 브랜뉴차일드&클루씨 @뉴트랙 퍼포먼스 미션#스트릿댄스걸스파이터 (2022-01-04)"
 },
 {
   "link": "https://youtu.be/UUh3rlx3lSw",
@@ -557,8 +557,8 @@ const specialReleasesCards = [
   "month": "09",
   "duration": "00:01:50",
   "thumbnail": "https://i.ytimg.com/vi/FB2KQampTG4/mqdefault.jpg",
-  "alt": "[Song by MIYEON, YUQI] [스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 (2023-09-05)",
-  "title": "[Song by MIYEON, YUQI] [스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 (2023-09-05)"
+  "alt": "[Song by MIYEON, YUQI] [스우파2/풀버전] 루키 계급 댄스 비디오l 트월ㅋ (Prod.Czaer) 미연, 우기 #스트릿우먼파이터2 (2023-09-05)",
+  "title": "[Song by MIYEON, YUQI] [스우파2/풀버전] 루키 계급 댄스 비디오l 트월ㅋ (Prod.Czaer) 미연, 우기 #스트릿우먼파이터2 (2023-09-05)"
 },
 {
   "link": "https://youtu.be/LV36habZYuE",
@@ -635,8 +635,8 @@ const specialReleasesCards = [
   "month": "12",
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/U4AefkQrpnA/mqdefault.jpg",
-  "alt": "미연 - Milestone (엘소드 OST) (2023-12-06)",
-  "title": "미연 - Milestone (엘소드 OST) (2023-12-06)"
+  "alt": "미연(MIYEON) - Milestone (엘소드 OST) (2023-12-06)",
+  "title": "미연(MIYEON) - Milestone (엘소드 OST) (2023-12-06)"
 },
 {
   "link": "https://youtu.be/rO1ANdXvdTg",
@@ -738,6 +738,17 @@ const specialReleasesCards = [
   "alt": "[ Prod.SOYEON ] QWER '내 이름 맑음' Official MV (2024-09-23)",
   "title": "[ Prod.SOYEON ] QWER '내 이름 맑음' Official MV (2024-09-23)"
 },
+  {
+  "link": "https://youtu.be/QvqNH5c4B0g",
+  "category": "SPECIAL_RELEASES",
+  "member": "미연",
+  "year": "2024",
+  "month": "10",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/QvqNH5c4B0g/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - Swan (Prod. Czaer) (2024-10-15)",
+  "title": "미연(MIYEON) - Swan (Prod. Czaer) (2024-10-15)"
+},
 {
   "link": "https://youtu.be/dr1w5rju6uM",
   "category": "SPECIAL_RELEASES",
@@ -746,8 +757,8 @@ const specialReleasesCards = [
   "month": "10",
   "duration": "00:04:10",
   "thumbnail": "https://i.ytimg.com/vi/dr1w5rju6uM/mqdefault.jpg",
-  "alt": "[스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)",
-  "title": "[스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)"
+  "alt": "[Song by MIYEON] [스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)",
+  "title": "[Song by MIYEON] [스테파/풀버전] 발레 댄스 필름 'DEVIL SWAN' | Swan - 미연 ((여자)아이들) #스테이지파이터 (2024-10-15)"
 },
 {
   "link": "https://youtu.be/Dpopp6cgN58",
@@ -845,8 +856,8 @@ const specialReleasesCards = [
   "month": "04",
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/wcXVSOIDF4k/mqdefault.jpg",
-  "alt": "민니 ((여자)아이들｜숨 (2025-04-26)",
-  "title": "민니 ((여자)아이들｜숨 (2025-04-26)"
+  "alt": "민니(MINNIE) ((여자)아이들｜숨 (2025-04-26)",
+  "title": "민니(MINNIE) ((여자)아이들｜숨 (2025-04-26)"
 },
 {
   "link": "https://youtu.be/eOFfOLZOp0M",
@@ -862,7 +873,7 @@ const specialReleasesCards = [
 {
   "link": "https://youtu.be/fnwrXSoMWQY",
   "category": "SPECIAL_RELEASES",
-  "member": "아이들",
+  "member": "우기",
   "year": "2025",
   "month": "05",
   "duration": "00:02:03",
