@@ -12,7 +12,7 @@ const specialReleasesCards = [
 },
 {
   "link": "https://youtu.be/F4K1mMDlsj0",
-  "category": "MV_SPECIAL_CLIP",
+  "category": "SPECIAL_RELEASES",
   "member": "슈화",
   "year": "PRE-DEBUT",
   "month": "09",
