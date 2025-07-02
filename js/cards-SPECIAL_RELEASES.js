@@ -11,6 +11,17 @@ const specialReleasesCards = [
   "title": "[나다,전소연 - 무서워] Special Stage | M COUNTDOWN/엠카운트다운 EP.490 (2016-08-25)"
 },
 {
+  "link": "https://youtu.be/F4K1mMDlsj0",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "슈화",
+  "year": "PRE-DEBUT",
+  "month": "09",
+  "duration": "00:04:04",
+  "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
+  "alt": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)",
+  "title": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)"
+},
+{
   "link": "https://youtu.be/LFpGpuKZ3_A",
   "category": "SPECIAL_RELEASES",
   "member": "소연",
@@ -98,6 +109,17 @@ const specialReleasesCards = [
   "alt": "[그녀의 사생활 OST Part 1] (여자)아이들 ((G)I-DLE) - Help Me MV (2019-04-11)",
   "title": "[그녀의 사생활 OST Part 1] (여자)아이들 ((G)I-DLE) - Help Me MV (2019-04-11)"
 },
+ {
+  "link": "https://youtu.be/0Hk8qGSoHnA",
+  "category": "MV_SPECIAL_CLIP",
+  "member": "소연",
+  "year": "2019",
+  "month": "06",
+  "thumbnail": "https://i.ytimg.com/vi/0Hk8qGSoHnA/maxresdefault.jpg",
+  "alt": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)",
+  "title": "소연(SOYEON) - '애정결핍(The loveless)' Drawing Video (2019-06-08)",
+  "duration": "00:03:25"
+},   
 {
   "link": "https://youtu.be/fkfeTUGFq6E",
   "category": "SPECIAL_RELEASES",
@@ -924,17 +946,6 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/wQ8oMfw2Ntc/maxresdefault.jpg",
   "alt": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)",
   "title": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)"
-},
-    {
-  "link": "https://youtu.be/F4K1mMDlsj0",
-  "category": "MV_SPECIAL_CLIP",
-  "member": "슈화",
-  "year": "PRE-DEBUT",
-  "month": "09",
-  "duration": "00:04:04",
-  "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
-  "alt": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)",
-  "title": "[ Starring SHUHUA ] [MV] 10cm _ pet (2017-09-04)"
 }
 
 
