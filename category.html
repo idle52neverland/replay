@@ -369,7 +369,7 @@
       const members = Array.from(memberBtns).map(b => b.textContent);
 
       filtered = all.filter(card => {
-        if (selectedCategory && card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
 
         if (normalizedKeywords.length) {
           const targetText = normalize(card.title + ' ' + card.member);
