@@ -655,6 +655,18 @@ const originalVarietyCards = [
   "title": "★자컨도 (G)떼고 화려하게 컴백★ [네맘대로 아이들] TEASER | i-dle (아이들)ㅣSUB (2025-06-01)",
   },
   
+{
+  "link": "https://youtu.be/Jw9a-H7iVpk",
+  "category": "ORIGINAL_VARIETY",
+  "member": "아이들",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:20:16",
+  "thumbnail": "https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg",
+  "alt": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB (2025-07-03)",
+  "title": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB (2025-07-03)"
+}
+
 
   
 
