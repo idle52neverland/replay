@@ -294,10 +294,20 @@ const etcCards = [
   "month": "10",
   "duration": "00:24:05",
   "thumbnail": "https://i.ytimg.com/vi/zwZg-ocBEuU/sddefault.jpg",
-  "alt": "[소연] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
-  "title": "[소연] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
+  "alt": "[SOYEON] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
+  "title": "[SOYEON] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
+},
+  {
+  "link": "https://youtu.be/TYZgW0kG0-g",
+  "category": "ETC",
+  "member": "민니",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:21:17",
+  "thumbnail": "https://i.ytimg.com/vi/TYZgW0kG0-g/maxresdefault.jpg",
+  "alt": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
+  "title": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
 }
-  
 
   ];
 
