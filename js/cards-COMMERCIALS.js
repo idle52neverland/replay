@@ -250,17 +250,6 @@ const commercialsCards = [
   "duration": "00:00:34"
 },
 {
-  "link": "https://youtu.be/tuJ-6b92jaE",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2022",
-  "month": "12",
-  "thumbnail": "https://i.ytimg.com/vi/tuJ-6b92jaE/sddefault.jpg",
-  "alt": "ASUS X 소연 l Unfold the Incredible, ASUS Zenbook (30s ver.) (2022-12-05)",
-  "title": "ASUS X 소연 l Unfold the Incredible, ASUS Zenbook (30s ver.) (2022-12-05)",
-  "duration": "00:00:31"
-},
-{
   "link": "https://youtu.be/Thm6QoLkNNs",
   "category": "COMMERCIALS",
   "member": "아이들",
@@ -626,30 +615,6 @@ const commercialsCards = [
 },
 
 {
-  "link": "https://youtu.be/ZzZk-iOnJ48",
-  "category": "COMMERCIALS",
-  "member": "민니",
-  "year": "2022",
-  "month": "11",
-  "duration": "00:00:34",
-  "thumbnail": "https://i.ytimg.com/vi/ZzZk-iOnJ48/maxresdefault.jpg",
-  "alt": "말해모해💓 예쁨 그 잡채(ღ•͈ᴗ•͈ღ) 예삐예삐 민니(MINNIE)의 올겨울 태국갈때 여기어때🌎🎵 (2022-11-16)",
-  "title": "말해모해💓 예쁨 그 잡채(ღ•͈ᴗ•͈ღ) 예삐예삐 민니(MINNIE)의 올겨울 태국갈때 여기어때🌎🎵 (2022-11-16)"
-},
-
-{
-  "link": "https://youtu.be/6V7sCMVX3z8",
-  "category": "COMMERCIALS",
-  "member": "민니",
-  "year": "2022",
-  "month": "11",
-  "duration": "00:00:28",
-  "thumbnail": "https://i.ytimg.com/vi/6V7sCMVX3z8/maxresdefault.jpg",
-  "alt": "올겨울 해외갈때 여기어때🌎🎵 (ft.장기하, 민니, 이용진, 마츠다, 그렉, 미초바, 파트리샤, 파비앙) (2022-11-10)",
-  "title": "올겨울 해외갈때 여기어때🌎🎵 (ft.장기하, 민니, 이용진, 마츠다, 그렉, 미초바, 파트리샤, 파비앙) (2022-11-10)"
-},
-
-{
   "link": "https://youtu.be/rYIi8a712VE",
   "category": "COMMERCIALS",
   "member": "소연",
@@ -662,18 +627,6 @@ const commercialsCards = [
 },
 
 {
-  "link": "https://youtu.be/-58XaaS1Aqs",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2022",
-  "month": "11",
-  "duration": "00:00:16",
-  "thumbnail": "https://i.ytimg.com/vi/-58XaaS1Aqs/maxresdefault.jpg",
-  "alt": "KITKAT, My Gold Wish💫 (2022-11-07)",
-  "title": "KITKAT, My Gold Wish💫 (2022-11-07)"
-},
-
-{
   "link": "https://youtu.be/2HbCdXfKzEs",
   "category": "COMMERCIALS",
   "member": "민니, 우기",
@@ -683,30 +636,6 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2HbCdXfKzEs/sddefault.jpg",
   "alt": "[ACBF × (G)I-DLE MINNIE&YUQI] 22FW Fashion Film / 에이씨비에프 × (여자)아이들 민니, 우기 (2022-10-13)",
   "title": "[ACBF × (G)I-DLE MINNIE&YUQI] 22FW Fashion Film / 에이씨비에프 × (여자)아이들 민니, 우기 (2022-10-13)"
-},
-
-{
-  "link": "https://youtu.be/yu_85QuSNAU",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2022",
-  "month": "09",
-  "duration": "00:00:59",
-  "thumbnail": "https://i.ytimg.com/vi/yu_85QuSNAU/maxresdefault.jpg",
-  "alt": "FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)",
-  "title": "FIFA Official Licensed Product | Winter Film (Full) (2022-09-22)"
-},
-
-{
-  "link": "https://youtu.be/i834jc0BEeY",
-  "category": "COMMERCIALS",
-  "member": "민니",
-  "year": "2022",
-  "month": "09",
-  "duration": "00:00:40",
-  "thumbnail": "https://i.ytimg.com/vi/i834jc0BEeY/maxresdefault.jpg",
-  "alt": "[M·A·C X 민니] 스튜디오 픽스 파운데이션 & 쿠션 (2022-09-02)",
-  "title": "[M·A·C X 민니] 스튜디오 픽스 파운데이션 & 쿠션 (2022-09-02)"
 },
 
 {
@@ -731,18 +660,6 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/IPiAM1L6Cjo/maxresdefault.jpg",
   "alt": "[투쿨포스쿨X전소연] 쉐딩, 나 빼고 다 Fading! (2022-08-26)",
   "title": "[투쿨포스쿨X전소연] 쉐딩, 나 빼고 다 Fading! (2022-08-26)"
-},
-
-{
-  "link": "https://youtu.be/wqYEagKsRiw",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2022",
-  "month": "08",
-  "duration": "00:00:57",
-  "thumbnail": "https://i.ytimg.com/vi/wqYEagKsRiw/maxresdefault.jpg",
-  "alt": "FIFA Official Licensed Product Release | Brand Film (Full) (2022-08-16)",
-  "title": "FIFA Official Licensed Product Release | Brand Film (Full) (2022-08-16)"
 },
 
 {
@@ -782,18 +699,6 @@ const commercialsCards = [
 },
 
 {
-  "link": "https://youtu.be/n9oti9orTuM",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2022",
-  "month": "07",
-  "duration": "00:01:29",
-  "thumbnail": "https://i.ytimg.com/vi/n9oti9orTuM/maxresdefault.jpg",
-  "alt": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)",
-  "title": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV (2022-07-21)"
-},
-
-{
   "link": "https://youtu.be/RAWImxlNTPw",
   "category": "COMMERCIALS",
   "member": "우기",
@@ -803,18 +708,6 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/RAWImxlNTPw/maxresdefault.jpg",
   "alt": "SONG YUQI (宋雨琦，우기) Ray-Ban sunglasses Promotion Ambassador New Promotional Video - (G)I-DLE (여자)아이들 (2021-12-23)",
   "title": "SONG YUQI (宋雨琦，우기) Ray-Ban sunglasses Promotion Ambassador New Promotional Video - (G)I-DLE (여자)아이들 (2021-12-23)"
-},
-
-{
-  "link": "https://youtu.be/-pMAHu9i180",
-  "category": "COMMERCIALS",
-  "member": "소연",
-  "year": "2021",
-  "month": "12",
-  "duration": "00:02:09",
-  "thumbnail": "https://i.ytimg.com/vi/-pMAHu9i180/maxresdefault.jpg",
-  "alt": "세상의 기준을 불태워라! 불닭볶음면(Main casting \"(여자) 아이들 소연\") (2021-12-17)",
-  "title": "세상의 기준을 불태워라! 불닭볶음면(Main casting \"(여자) 아이들 소연\") (2021-12-17)"
 },
 
 {
