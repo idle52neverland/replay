@@ -13254,7 +13254,20 @@ const mediaContentsCards = [
   "alt": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉",
   "title": "＂복덩이가 들어왔어＂ ✨팽락 부부 마음에 쏙 든 천재 알바생 등장✨ 첫 주문부터 극찬받은 붕어빵 천재 미연(I-DLE MIYEON)❤️｜대결! 팽봉팽봉(2025-05-10)",
   "duration": "00:18:27"
+},
+  
+{
+  "link": "https://youtu.be/r8uZHp5U6Q8",
+  "category": "MEDIA_CONTENTS",
+  "member": "슈화",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:25:12",
+  "thumbnail": "https://i.ytimg.com/vi/r8uZHp5U6Q8/maxresdefault.jpg",
+  "alt": "?여행할 때 계획을 해..? | 슈화, 유연 | 어떡행 ep.1 (2025-07-03)",
+  "title": "?여행할 때 계획을 해..? | 슈화, 유연 | 어떡행 ep.1 (2025-07-03)"
 }
+
 
 
 
