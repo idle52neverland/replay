@@ -846,12 +846,59 @@ const commercialsCards = [
   "link": "https://youtu.be/lr0Ekoxa5bA",
   "category": "COMMERCIALS",
   "member": "소연",
-  "year": "2016",
+  "year": "PRE-DEBUT",
   "month": "10",
   "duration": "00:01:00",
   "thumbnail": "https://i.ytimg.com/vi/lr0Ekoxa5bA/maxresdefault.jpg",
   "alt": "[G마켓X에잇세컨즈] 8초만에 반할거야♪ - Rap by 전소연 (2016-10-13)",
   "title": "[G마켓X에잇세컨즈] 8초만에 반할거야♪ - Rap by 전소연 (2016-10-13)"
+},
+  {
+  "link": "https://youtu.be/S_aNZUsquIk",
+  "category": "COMMERCIALS",
+  "member": "민니",
+  "year": "PRE-DEBUT",
+  "month": "06",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/S_aNZUsquIk/maxresdefault.jpg",
+  "alt": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Minnie (2017-06-01)",
+  "title": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Minnie (2017-06-01)"
+},
+
+{
+  "link": "https://youtu.be/SqTAiLzrxD8",
+  "category": "COMMERCIALS",
+  "member": "우기",
+  "year": "PRE-DEBUT",
+  "month": "06",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/SqTAiLzrxD8/maxresdefault.jpg",
+  "alt": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Song Woogi (2017-06-01)",
+  "title": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Song Woogi (2017-06-01)"
+},
+
+{
+  "link": "https://youtu.be/Mqk0b5xnTic",
+  "category": "COMMERCIALS",
+  "member": "슈화",
+  "year": "PRE-DEBUT",
+  "month": "06",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/Mqk0b5xnTic/maxresdefault.jpg",
+  "alt": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Shuwha (2017-06-01)",
+  "title": "라이징스타 워터뱅뱅앰플미스트 걸그룹 연습생 (rising star water bangbang ample mist for girlgroup trainees) Shuwha (2017-06-01)"
+},
+
+{
+  "link": "https://youtu.be/NuJy4SGOd_w",
+  "category": "COMMERCIALS",
+  "member": "민니, 우기, 슈화",
+  "year": "PRE-DEBUT",
+  "month": "06",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/NuJy4SGOd_w/maxresdefault.jpg",
+  "alt": "비포앤애프터바이오 라이징스타 워터뱅뱅앰플미스트 걸그룹연습생 화장품광고 영상 (Jiwoo, Shuwha, Woogi, Minnie (2017-06-01)",
+  "title": "비포앤애프터바이오 라이징스타 워터뱅뱅앰플미스트 걸그룹연습생 화장품광고 영상 (Jiwoo, Shuwha, Woogi, Minnie (2017-06-01)"
 }
 
 
