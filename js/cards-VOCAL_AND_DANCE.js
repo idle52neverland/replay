@@ -3209,7 +3209,18 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/4SHsRSu-fLg/maxresdefault.jpg",
   "alt": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)",
   "title": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)"
-} 
+},
+  {
+  "link": "https://youtu.be/ZWNput8epfo",
+  "category": "STAGE_PERFORMANCE",
+  "member": "민니",
+  "year": "2025",
+  "month": "02",
+  "duration": "00:04:10",
+  "thumbnail": "https://i.ytimg.com/vi/ZWNput8epfo/maxresdefault.jpg",
+  "alt": "[WE LIVE] 민니(MINNIE) - Obsession (Feat. TEN of WayV) (4K) (2025-02-12)",
+  "title": "[WE LIVE] 민니(MINNIE) - Obsession (Feat. TEN of WayV) (4K) (2025-02-12)"
+}
 
 ];
 
