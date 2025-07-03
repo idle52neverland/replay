@@ -416,6 +416,17 @@ const commercialsCards = [
   "alt": "플레이를 더 특별하게 | 모두의 모든 순간에 함께하는 #구글플레이 | Google Play",
   "title": "플레이를 더 특별하게 | 모두의 모든 순간에 함께하는 #구글플레이 | Google Play (2023-08-25)",
   "duration": "00:00:59"
+},
+  {
+  "link": "https://youtu.be/tWfxxfZHB9k",
+  "category": "COMMERCIALS",
+  "member": "미연",
+  "year": "2025",
+  "month": "07",
+  "duration": "00:01:39",
+  "thumbnail": "https://i.ytimg.com/vi/tWfxxfZHB9k/maxresdefault.jpg",
+  "alt": "[세라핀 with i-dle (아이들) 미연] 메이킹 필름 공개💙 (2025-07-01)",
+  "title": "[세라핀 with i-dle (아이들) 미연] 메이킹 필름 공개💙 (2025-07-01)"
 }
 
 
