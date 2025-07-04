@@ -369,8 +369,7 @@
       const members = Array.from(memberBtns).map(b => b.textContent);
 
       filtered = all.filter(card => {
-        if (selectedCategory && card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
-
+        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
 
         if (normalizedKeywords.length) {
           const targetText = normalize(card.title + ' ' + card.member);
@@ -392,11 +391,10 @@
       currentIndex = 0;
       container.innerHTML = '';
       filtered.sort((a, b) => {
-  const dateA = new Date(a.date || '2000-01-01');
-  const dateB = new Date(b.date || '2000-01-01');
-  return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
-});
-
+        const dateA = new Date(extractDate(a.title));
+        const dateB = new Date(extractDate(b.title));
+        return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+      });
       renderCards(filtered);
     }
 
@@ -428,4 +426,3 @@
   </script>
 </body>
 </html>
-
