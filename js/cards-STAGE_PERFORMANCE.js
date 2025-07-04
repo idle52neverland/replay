@@ -11019,15 +11019,7 @@ const stagePerformanceCards = [
   "alt": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)",
   "title": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)"
 },
-    {
-  "link": "https://naver.me/xKtDDC20",
-  "category": "STAGE_PERFORMANCE",
-  "member": "미연",
-  "date": "2025-06-21",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_5/HaA1U_1750553660094riWKn_PNG/image.png?type=f1109_624",
-  "alt": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)",
-  "title": "제34회 서울가요대상 SMA 레드카펫  MC 수빈-미연-강승윤 (2025-06-21)"
-},
+
 {
   "link": "https://youtu.be/xwEgu6CoJ-w",
   "category": "STAGE_PERFORMANCE",
