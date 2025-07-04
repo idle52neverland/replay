@@ -2899,16 +2899,7 @@ const mediaContentsCards = [
   "alt": "'대세 걸그룹' (여자)아이들((G)I-DLE) 미연&민니&우기의 TMI MOMENTS! (2020-08-06)",
   "title": "'대세 걸그룹' (여자)아이들((G)I-DLE) 미연&민니&우기의 TMI MOMENTS! (2020-08-06)"
 },
-{
-  "link": "https://youtu.be/GPMvdjNSO-c",
-  "category": "MEDIA_CONTENTS",
-  "member": "아이들",
-  "date": "2020-08-10",
-  "duration": "00:09:26",
-  "thumbnail": "https://i.ytimg.com/vi/GPMvdjNSO-c/sddefault.jpg",
-  "alt": "🌼(여자)아이들🌼 이준의 영스트리트 (2020-08-10)",
-  "title": "🌼(여자)아이들🌼 이준의 영스트리트 (2020-08-10)"
-},
+
 {
   "link": "https://youtu.be/tYgD_bJysfw",
   "category": "MEDIA_CONTENTS",
