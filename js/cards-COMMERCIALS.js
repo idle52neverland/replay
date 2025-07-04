@@ -768,6 +768,39 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/tWfxxfZHB9k/maxresdefault.jpg",
   "alt": "[세라핀 with i-dle (아이들) 미연] 메이킹 필름 공개💙 (2025-07-01)",
   "title": "[세라핀 with i-dle (아이들) 미연] 메이킹 필름 공개💙 (2025-07-01)"
+},
+  
+{
+  "link": "https://youtu.be/4Tp4mmHlvRY",
+  "category": "COMMERCIALS",
+  "member": "아이들",
+  "date": "2025-07-04",
+  "duration": "00:01:18",
+  "thumbnail": "https://i.ytimg.com/vi/4Tp4mmHlvRY/maxresdefault.jpg",
+  "alt": "[Solo Leveling:ARISE x i-dle] “ARISE”🎵 Music Video Short Film Version Revealed! (2025-07-04)",
+  "title": "[Solo Leveling:ARISE x i-dle] “ARISE”🎵 Music Video Short Film Version Revealed! (2025-07-04)"
+},
+
+{
+  "link": "https://youtu.be/evf93sMeJz8",
+  "category": "COMMERCIALS",
+  "member": "슈화",
+  "date": "2025-07-04",
+  "duration": "00:01:47",
+  "thumbnail": "https://i.ytimg.com/vi/evf93sMeJz8/maxresdefault.jpg",
+  "alt": "[Solo Leveling:ARISE] Hunter Analysis File: SHUHUA (2025-07-04)",
+  "title": "[Solo Leveling:ARISE] Hunter Analysis File: SHUHUA (2025-07-04)"
+},
+
+{
+  "link": "https://youtu.be/EvIjorsY-JY",
+  "category": "COMMERCIALS",
+  "member": "미연",
+  "date": "2025-07-04",
+  "duration": "00:01:45",
+  "thumbnail": "https://i.ytimg.com/vi/EvIjorsY-JY/maxresdefault.jpg",
+  "alt": "[Solo Leveling:ARISE] Hunter Analysis File: MIYEON (2025-07-04)",
+  "title": "[Solo Leveling:ARISE] Hunter Analysis File: MIYEON (2025-07-04)"
 }
 
 
