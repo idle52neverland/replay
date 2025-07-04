@@ -174,29 +174,36 @@
       const rawKeywords = keywordInput.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ').split(/\s+/).filter(Boolean);
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
-      const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent);
-      const members = Array.from(memberBtns).map(b => b.textContent);
+const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
-      filtered = all.filter(card => {
-        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
-        if (normalizedKeywords.length) {
-          const targetText = normalize(card.title + ' ' + card.member);
-          if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
-        }
-        if (years.length) {
-          const cardYear = (card.date || extractDate(card.title) || '').split('-')[0];
-          if (!years.includes(cardYear)) return false;
-        }
-        if (months.length) {
-          const cardMonth = (card.date || extractDate(card.title) || '').split('-')[1];
-          if (!months.includes(cardMonth)) return false;
-        }
-        if (members.length && !members.some(m => card.member.includes(m))) return false;
-        return true;
-      });
+const years = Array.from(yearBtns).map(b => b.textContent);
+const months = Array.from(monthBtns).map(b => b.textContent);
+const members = Array.from(memberBtns).map(b => b.textContent);
+
+filtered = all.filter(card => {
+  if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+
+  if (normalizedKeywords.length) {
+    const targetText = normalize(card.title + ' ' + card.member);
+    if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
+  }
+
+   if (years.length) {
+    const cardYear = (card.date || extractDate(card.title)).slice(0, 4);
+    if (!years.includes(cardYear)) return false;
+  }
+
+  if (months.length) {
+    const cardMonth = (card.date || extractDate(card.title)).slice(5, 7);
+    if (!months.includes(cardMonth)) return false;
+  }
+
+  if (members.length && !members.some(m => card.member.includes(m))) return false;
+
+  return true;
+});
+
 
       filtered.sort((a, b) => {
         const dateA = new Date(a.date || extractDate(a.title));
