@@ -124,6 +124,10 @@
 
     function renderCards(data) {
       const next = data.slice(currentIndex, currentIndex + batchSize);
+      if (next.length === 0) {
+        loadMoreBtn.style.display = 'none';
+        return;
+      }
       next.forEach(card => {
         const el = document.createElement('a');
         el.className = 'card';
@@ -194,13 +198,14 @@
         return true;
       });
 
-      currentIndex = 0;
-      container.innerHTML = '';
       filtered.sort((a, b) => {
         const dateA = new Date(a.date || extractDate(a.title));
         const dateB = new Date(b.date || extractDate(b.title));
         return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
       });
+
+      currentIndex = 0;
+      container.innerHTML = '';
       renderCards(filtered);
     }
 
