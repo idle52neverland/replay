@@ -90,16 +90,6 @@ const vocalAndDanceCards = [
   "title": "독기로 언니들을 올킬하기 위해 나선 당찬 연습생! 전소연((여자)아이들) 언프리티 랩스타3 랩 모음 (2016-09-30)"
 },
 {
-  "link": "https://youtu.be/lr0Ekoxa5bA",
-  "category": "VOCAL_AND_DANCE",
-  "member": "소연",
-  "date": "2016-10-13",
-  "duration": "00:01:00",
-  "thumbnail": "https://i.ytimg.com/vi/lr0Ekoxa5bA/sddefault.jpg",
-  "alt": "[G마켓X에잇세컨즈] 8초만에 반할거야♪ - Rap by 전소연 (2016-10-13)",
-  "title": "[G마켓X에잇세컨즈] 8초만에 반할거야♪ - Rap by 전소연 (2016-10-13)"
-},
-{
   "link": "https://youtu.be/WUK4X97Fzzc",
   "category": "VOCAL_AND_DANCE",
   "member": "아이들",
