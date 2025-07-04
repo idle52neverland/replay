@@ -4,9 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>OFFICIAL_CLIPS - I-DLE 몰아보기</title>
-   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
+  <link rel="icon" href="images/i-dle logo.png" type="image/png" />
   <style>
-      body {
+    body {
       margin: 0;
       font-family: 'Helvetica Neue', sans-serif;
       background-color: #111;
@@ -176,7 +176,6 @@
       font-size: 14px;
       color: #ccc;
     }
-
     @media (min-width: 769px) {
       .card-container {
         grid-template-columns: repeat(4, 1fr);
@@ -192,7 +191,6 @@
         font-weight: 600;
       }
     }
-
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(1, 1fr);
@@ -225,29 +223,25 @@
   <div class="header-bar">
     <div id="mainTitle">OFFICIAL_CLIPS</div>
   </div>
-
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
     <div class="category-line" id="monthFilters"></div>
     <div class="category-line" id="memberFilters"></div>
   </div>
-
   <div class="top-bar">
     <select id="subtagFilter">
-  <option value="">🡻 서브필터 (전체)</option>
-  <option value="퍼포먼스 | Performance Clip">퍼포먼스 | Performance Clip</option>
-  <option value="안무영상 | Choreography Practice Video">안무영상 | Choreography Practice Video</option>
-  <option value="아이톡 | I-TALK">아이톡 | I-TALK</option>
-  <option value="해시톡 | HASHTALK">해시톡 | HASHTALK</option>
-  <option value="아이로그 | I-LOG">아이로그 | I-LOG</option>
-  <option value="콘서트 | WORLD TOUR">콘서트 | WORLD TOUR</option>
-  <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>
-  <option value="응원법 | Fan Chant">응원법 | Fan Chant</option>
-  <option value="생일영상 | Birthday Content">생일영상 | Birthday Content</option>
-  <option value="기타 | Etc.">기타 | Etc.</option>
-</select>
-
-
+      <option value="">🡻 서브필터 (전체)</option>
+      <option value="퍼포먼스 | Performance Clip">퍼포먼스 | Performance Clip</option>
+      <option value="안무영상 | Choreography Practice Video">안무영상 | Choreography Practice Video</option>
+      <option value="아이톡 | I-TALK">아이톡 | I-TALK</option>
+      <option value="해시톡 | HASHTALK">해시톡 | HASHTALK</option>
+      <option value="아이로그 | I-LOG">아이로그 | I-LOG</option>
+      <option value="콘서트 | WORLD TOUR">콘서트 | WORLD TOUR</option>
+      <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>
+      <option value="응원법 | Fan Chant">응원법 | Fan Chant</option>
+      <option value="생일영상 | Birthday Content">생일영상 | Birthday Content</option>
+      <option value="기타 | Etc.">기타 | Etc.</option>
+    </select>
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search in category">
       <button id="searchBtn" title="검색 실행">🔍</button>
@@ -255,168 +249,147 @@
     <button id="resetSearchBtn" title="검색 초기화"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'" title="홈으로"><img src="images/홈.jpg" alt="홈"></button>
   </div>
-
   <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
     <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
     <div id="cardCount"></div>
   </div>
-
   <div class="card-container" id="allCards"></div>
   <div class="button-wrapper">
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
+  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+  <script>
+    const container = document.getElementById("allCards");
+    const loadMoreBtn = document.getElementById("loadMoreBtn");
+    const cardCountEl = document.getElementById("cardCount");
+    const searchInput = document.getElementById("searchInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const resetBtn = document.getElementById("resetSearchBtn");
+    const scrollTopBtn = document.getElementById("scrollTopBtn");
+    const subtagFilter = document.getElementById("subtagFilter");
 
- <script src="js/cards-OFFICIAL_CLIPS.js"></script>
-<script>
-  const container = document.getElementById("allCards");
-  const loadMoreBtn = document.getElementById("loadMoreBtn");
-  const cardCountEl = document.getElementById("cardCount");
-  const searchInput = document.getElementById("searchInput");
-  const searchBtn = document.getElementById("searchBtn");
-  const resetBtn = document.getElementById("resetSearchBtn");
-  const scrollTopBtn = document.getElementById("scrollTopBtn");
-  const subtagFilter = document.getElementById("subtagFilter");
+    let currentIndex = 0;
+    const batchSize = 20;
+    let filtered = [];
+    let sortOrder = "newest";
+    let selectedSubtag = "";
 
-  let currentIndex = 0;
-  const batchSize = 20;
-  let filtered = [];
-  let sortOrder = "newest";
-  let selectedSubtag = "";
+    const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
 
-  const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
+    function updateCardCount(count) {
+      cardCountEl.textContent = `총 ${count}개 영상`;
+    }
 
-  function extractDate(title) {
-    const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-    return match ? match[1] : '2000-01-01';
-  }
+    function renderCards(data) {
+      const next = data.slice(currentIndex, currentIndex + batchSize);
+      next.forEach(card => {
+        const el = document.createElement('a');
+        el.className = 'card';
+        el.innerHTML = `
+          <div class="card-meta">
+            <span>${card.category || ''}</span>
+            <span>${card.member || ''} | ${card.duration || ''}</span>
+          </div>
+          <div class="thumbnail-wrapper">
+            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
+          </div>
+          <div class="card-title">${card.title}</div>
+        `;
+        el.onclick = e => {
+          e.preventDefault();
+          window.open(card.link, '_blank');
+        };
+        const img = el.querySelector('img');
+        img.onload = function () {
+          const isVertical = img.naturalHeight > img.naturalWidth;
+          img.style.objectFit = isVertical ? 'contain' : 'cover';
+          img.style.backgroundColor = '#000';
+        };
+        container.appendChild(el);
+      });
+      currentIndex += batchSize;
+      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+      updateCardCount(data.length);
+    }
 
-  function updateCardCount(count) {
-    cardCountEl.textContent = `총 ${count}개 영상`;
-  }
+    function createFilterButtons(containerId, items) {
+      const filterContainer = document.getElementById(containerId);
+      filterContainer.innerHTML = '';
+      items.forEach(item => {
+        const btn = document.createElement("button");
+        btn.textContent = item;
+        btn.className = "category-btn";
+        btn.onclick = () => {
+          btn.classList.toggle("active");
+          applyFilters();
+        };
+        filterContainer.appendChild(btn);
+      });
+    }
 
-  function renderCards(data) {
-    const next = data.slice(currentIndex, currentIndex + batchSize);
-    next.forEach(card => {
-      const el = document.createElement('a');
-      el.className = 'card';
-      el.innerHTML = `
-        <div class="card-meta">
-          <span>${card.category || ''}</span>
-          <span>${card.member || ''} | ${card.duration || ''}</span>
-        </div>
-        <div class="thumbnail-wrapper">
-          <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
-        </div>
-        <div class="card-title">${card.title}</div>
-      `;
-      el.onclick = e => {
-        e.preventDefault();
-        window.open(card.link, '_blank');
-      };
+    function applyFilters() {
+      const normalize = str =>
+        str.toLowerCase().replace(/[^가-힣\w]+/g, '').replace(/\s+/g, '');
 
-      const img = el.querySelector('img');
-      img.onload = function () {
-        const isVertical = img.naturalHeight > img.naturalWidth;
-        img.style.objectFit = isVertical ? 'contain' : 'cover';
-        img.style.backgroundColor = '#000';
-      };
+      const rawKeywords = searchInput.value.toLowerCase().replace(/[^가-힣\w]+/g, ' ').split(/\s+/).filter(Boolean);
+      const normalizedKeywords = rawKeywords.map(k => normalize(k));
 
-      container.appendChild(el);
-    });
+      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
-    currentIndex += batchSize;
-    loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
-    updateCardCount(data.length);
-  }
+      const years = Array.from(yearBtns).map(b => b.textContent);
+      const months = Array.from(monthBtns).map(b => b.textContent);
+      const members = Array.from(memberBtns).map(b => b.textContent);
 
-  function createFilterButtons(containerId, items) {
-    const filterContainer = document.getElementById(containerId);
-    filterContainer.innerHTML = '';
-    items.forEach(item => {
-      const btn = document.createElement("button");
-      btn.textContent = item;
-      btn.className = "category-btn";
-      btn.onclick = () => {
-        btn.classList.toggle("active");
+      filtered = all.filter(card => {
+        if (selectedSubtag && normalize(card.subtag || '') !== normalize(selectedSubtag)) return false;
+
+        if (normalizedKeywords.length) {
+          const targetText = normalize(card.title + ' ' + card.member);
+          if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
+        }
+
+        const [y, m] = (card.date || '').split('-');
+        if (years.length && !years.includes(y)) return false;
+        if (months.length && !months.includes(m)) return false;
+        if (members.length && !members.some(mem => card.member.includes(mem))) return false;
+
+        return true;
+      });
+
+      currentIndex = 0;
+      container.innerHTML = '';
+      filtered.sort((a, b) => {
+        const dateA = new Date(a.date || '2000-01-01');
+        const dateB = new Date(b.date || '2000-01-01');
+        return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+      });
+      renderCards(filtered);
+    }
+
+    window.onload = function () {
+      createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
+      createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
+      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
+
+      subtagFilter.addEventListener("change", () => {
+        selectedSubtag = subtagFilter.value;
+        applyFilters();
+      });
+      searchBtn.onclick = applyFilters;
+      searchInput.onkeydown = e => { if (e.key === "Enter") applyFilters(); };
+      resetBtn.onclick = () => location.reload();
+      scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+      document.getElementById("toggleSortBtn").onclick = () => {
+        sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+        document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
         applyFilters();
       };
-      filterContainer.appendChild(btn);
-    });
-  }
-
-  function applyFilters() {
-    const normalize = str =>
-      str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-
-    const rawKeywords = searchInput.value
-      .toLowerCase()
-      .replace(/[^\w\uac00-\ud7af]+/g, ' ')
-      .split(/\s+/)
-      .filter(Boolean);
-    const normalizedKeywords = rawKeywords.map(k => normalize(k));
-
-    const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-    const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-    const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
-
-    const years = Array.from(yearBtns).map(b => b.textContent);
-    const months = Array.from(monthBtns).map(b => b.textContent);
-    const members = Array.from(memberBtns).map(b => b.textContent);
-
-    filtered = all.filter(card => {
-      if (selectedSubtag && normalize(card.subtag || '') !== normalize(selectedSubtag)) return false;
-
-      if (normalizedKeywords.length) {
-        const targetText = normalize(card.title + ' ' + card.member);
-        if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
-      }
-
-      if (years.length && !years.includes(card.year)) return false;
-
-      if (months.length) {
-        const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-        if (!months.includes(m)) return false;
-      }
-
-      if (members.length && !members.some(m => card.member.includes(m))) return false;
-
-      return true;
-    });
-
-    currentIndex = 0;
-    container.innerHTML = '';
-    filtered.sort((a, b) => {
-      const dateA = new Date(extractDate(a.title));
-      const dateB = new Date(extractDate(b.title));
-      return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
-    });
-    renderCards(filtered);
-  }
-
-  window.onload = function () {
-    createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
-    createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
-    createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
-
-    subtagFilter.addEventListener("change", () => {
-      selectedSubtag = subtagFilter.value;
-      applyFilters();
-    });
-    searchBtn.onclick = applyFilters;
-    searchInput.onkeydown = e => { if (e.key === "Enter") applyFilters(); };
-    resetBtn.onclick = () => location.reload();
-    scrollTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-    document.getElementById("toggleSortBtn").onclick = () => {
-      sortOrder = sortOrder === "newest" ? "oldest" : "newest";
-      document.getElementById("toggleSortBtn").textContent = sortOrder === "newest" ? "최신순" : "오래된순";
+      loadMoreBtn.onclick = () => renderCards(filtered);
       applyFilters();
     };
-    loadMoreBtn.onclick = () => renderCards(filtered);
-
-    applyFilters();
-  };
-</script>
-
+  </script>
 </body>
 </html>
