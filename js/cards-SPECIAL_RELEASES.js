@@ -858,6 +858,16 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/wQ8oMfw2Ntc/maxresdefault.jpg",
   "alt": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)",
   "title": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)"
+},
+  {
+  "link": "https://youtu.be/nG5USDluWxA",
+  "category": "SPECIAL_RELEASES",
+  "member": "아이들",
+  "date": "2025-07-03",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg",
+  "alt": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)",
+  "title": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)"
 }
 
 
