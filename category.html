@@ -376,12 +376,16 @@
           if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
         }
 
-        if (years.length && !years.includes(card.year)) return false;
+        if (years.length) {
+  const cardYear = (card.date || extractDate(card.title) || '').split('-')[0];
+  if (!years.includes(cardYear)) return false;
+}
 
-        if (months.length) {
-          const m = (card.title.match(/\d{4}-(\d{2})-\d{2}/) || [])[1];
-          if (!months.includes(m)) return false;
-        }
+if (months.length) {
+  const cardMonth = (card.date || extractDate(card.title) || '').split('-')[1];
+  if (!months.includes(cardMonth)) return false;
+}
+
 
         if (members.length && !members.some(m => card.member.includes(m))) return false;
 
