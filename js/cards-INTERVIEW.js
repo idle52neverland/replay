@@ -1778,6 +1778,16 @@ const interviewCards = [
   "thumbnail": "https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg",
   "alt": "얘랑 더 친하다고?? 유치빤스 전쟁 시작된 아이들💔 소연, 미연, 민니, 우기, 슈화의 우정 쟁탈전ㅣ i-dle (아이들) 젤리 텔미 | COSMOPOLITAN KOREA (2025-05-28)",
   "title": "얘랑 더 친하다고?? 유치빤스 전쟁 시작된 아이들💔 소연, 미연, 민니, 우기, 슈화의 우정 쟁탈전ㅣ i-dle (아이들) 젤리 텔미 | COSMOPOLITAN KOREA (2025-05-28)"
+},
+  {
+  "link": "https://youtu.be/J6E6wQl6Xac",
+  "category": "INTERVIEW",
+  "member": "우기",
+  "date": "2020-11-04",
+  "duration": "01:06:11",
+  "thumbnail": "https://i.ytimg.com/vi/J6E6wQl6Xac/maxresdefault.jpg",
+  "alt": "우기 - [나는 살아있다] 제작발표회 생중계 (2020-11-04)",
+  "title": "우기 - [나는 살아있다] 제작발표회 생중계 (2020-11-04)"
 }
 
 
