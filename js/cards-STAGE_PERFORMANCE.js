@@ -10054,28 +10054,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/sQg8VNJWW60",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2025-05-30",
-  "duration": "00:02:53",
-  "thumbnail": "https://i.ytimg.com/vi/sQg8VNJWW60/maxresdefault.jpg",
-  "alt": "Good Thing I-dle (아이들) [뮤직뱅크/Music Bank] (2025-05-30)",
-  "title": "Good Thing I-dle (아이들) [뮤직뱅크/Music Bank] (2025-05-30)"
-},
-
-{
-  "link": "https://youtu.be/JIkfowtKNMY",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2025-05-30",
-  "duration": "00:02:10",
-  "thumbnail": "https://i.ytimg.com/vi/JIkfowtKNMY/maxresdefault.jpg",
-  "alt": "(ENG)[MusicBank Interview Cam] 아이들 (I-DLE Interview) l [뮤직뱅크/Music Bank] (2025-05-30)",
-  "title": "(ENG)[MusicBank Interview Cam] 아이들 (I-DLE Interview) l [뮤직뱅크/Music Bank] (2025-05-30)"
-},
-
-{
   "link": "https://youtu.be/xwEgu6CoJ-w",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -10094,28 +10072,6 @@ const stagePerformanceCards = [
   "duration": "00:03:07",
   "thumbnail": "https://i.ytimg.com/vi/CNTRwappX-M/maxresdefault.jpg",
   "alt": "[#음중풀캠] i-dle (아이들) – Good Thing FullCam | 쇼! 음악중심 | MBC (2025-05-31)",
-  "title": "[#음중풀캠] i-dle (아이들) – Good Thing FullCam [쇼!음악중심/Show!MusicCore] (2025-05-31)"
-},
-
-{
-  "link": "https://youtu.be/xwEgu6CoJ-w",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2025-05-31",
-  "duration": "00:02:42",
-  "thumbnail": "https://i.ytimg.com/vi/xwEgu6CoJ-w/maxresdefault.jpg",
-  "alt": "i-dle (아이들) Good Thing [쇼!음악중심/Show!MusicCore] (2025-05-31)",
-  "title": "i-dle (아이들) Good Thing [쇼!음악중심/Show!MusicCore] (2025-05-31)"
-},
-
-{
-  "link": "https://youtu.be/CNTRwappX-M",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2025-05-31",
-  "duration": "00:03:07",
-  "thumbnail": "https://i.ytimg.com/vi/CNTRwappX-M/maxresdefault.jpg",
-  "alt": "[#음중풀캠] i-dle (아이들) – Good Thing FullCam [쇼!음악중심/Show!MusicCore] (2025-05-31)",
   "title": "[#음중풀캠] i-dle (아이들) – Good Thing FullCam [쇼!음악중심/Show!MusicCore] (2025-05-31)"
 },
 
