@@ -801,6 +801,16 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/EvIjorsY-JY/maxresdefault.jpg",
   "alt": "[Solo Leveling:ARISE] Hunter Analysis File: MIYEON (2025-07-04)",
   "title": "[Solo Leveling:ARISE] Hunter Analysis File: MIYEON (2025-07-04)"
+},
+  {
+  "link": "https://youtu.be/hKtzmYCI7mw",
+  "category": "COMMERCIALS",
+  "member": "우기",
+  "date": "2024-07-24",
+  "duration": "00:00:44",
+  "thumbnail": "https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg",
+  "alt": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_COLORFUL ENERGY (2024-07-24)",
+  "title": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_COLORFUL ENERGY (2024-07-24)"
 }
 
 
