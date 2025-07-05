@@ -7672,6 +7672,17 @@ const officialClipCards = [
   "duration": "00:03:02",
   "subtag": "퍼포먼스 | Performance Clip",
   "date": "2023-09-22"
+},
+  {
+  "link": "https://youtu.be/JQC5nQiOURY",
+  "category": "OFFICIAL_CLIPS",
+  "member": "우기",
+  "thumbnail": "https://i.ytimg.com/vi/JQC5nQiOURY/maxresdefault.jpg",
+  "alt": "우기의 JJ LIN “JJ20 FINAL LAP” WORLD TOUR 특별 무대 비하인드 [i-talk] #205 | i-dle (아이들)ㅣSUB (2025-07-05)",
+  "title": "우기의 JJ LIN “JJ20 FINAL LAP” WORLD TOUR 특별 무대 비하인드 [i-talk] #205 | i-dle (아이들)ㅣSUB (2025-07-05)",
+  "duration": "00:12:03",
+  "subtag": "아이톡 | I-TALK",
+  "date": "2025-07-05"
 }
 
 
