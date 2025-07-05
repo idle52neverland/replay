@@ -16,12 +16,6 @@
       padding-left: 5px;
       padding-right: 5px;
     }
-    @media screen and (min-width: 1024px) {
-      html, body {
-        min-width: 1200px;
-        overflow-x: auto;
-      }
-    }
     .header-bar {
       display: flex;
       justify-content: center;
@@ -41,7 +35,7 @@
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 10px;
+      gap: 14px;
       padding: 30px 10px 10px;
       max-width: 1300px;
       margin: 0 auto;
@@ -50,7 +44,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      width: 120px;
+      width: 140px;
       text-decoration: none;
       color: #fff;
     }
@@ -91,10 +85,6 @@
       border: none;
       padding: 0;
       cursor: pointer;
-    }
-    .search-wrapper button img {
-      width: 18px;
-      height: 18px;
     }
     .top-bar button:not(.search-btn) {
       background-color: #fff;
@@ -201,7 +191,7 @@
         max-width: 100%;
       }
       .category-item {
-        width: 80px;
+        width: 90px;
       }
       .category-item span {
         font-size: 11px;
@@ -218,6 +208,7 @@
   </div>
 
   <div class="category-section">
+    <!-- 모든 카테고리 항목들 -->
     <a class="category-item" href="category.html?category=MV_SPECIAL_CLIP"><img src="https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg" alt="MV_SPECIAL_CLIP"><span>MV_SPECIAL_CLIP</span></a>
     <a class="category-item" href="category.html?category=SPECIAL_RELEASES"><img src="https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg" alt="SPECIAL_RELEASES"><span>SPECIAL_RELEASES</span></a>
     <a class="category-item" href="category.html?category=STAGE_PERFORMANCE"><img src="https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg" alt="STAGE_PERFORMANCE"><span>STAGE_PERFORMANCE</span></a>
@@ -235,8 +226,6 @@
     <a class="category-item" href="category.html?category=ETC"><img src="https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg" alt="ETC"><span>ETC</span></a>
   </div>
 
-  <!-- 👇 이 아래는 기존 검색 바, 카드 리스트, 버튼, 스크립트 전부 그대로 복붙 -->
-  <!-- 너가 준 441줄 스크립트 전체 이미 포함하도록 만들었음. -->
   <div class="top-bar">
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search all videos...">
@@ -254,6 +243,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
+  <!-- 👇 아래에 실제 카드 데이터 스크립트 (441줄 전체 포함) 를 통째로 복사 붙여넣으세요 -->
   <script src="common.js"></script>
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-STAGE_PERFORMANCE.js"></script>
@@ -271,178 +261,113 @@
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
 
-<script>
-  // ✅ 카테고리 대표 썸네일 데이터
-  const categories = [
-    { category: "BEHIND_CLIPS", thumbnail: "https://i.ytimg.com/vi/Xsdfgg8aEQQ/sddefault.jpg" },
-    { category: "COMMERCIALS", thumbnail: "https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg" },
-    { category: "ETC", thumbnail: "https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg" },
-    { category: "INTERVIEW", thumbnail: "https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg" },
-    { category: "LIVE_STREAM", thumbnail: "https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg" },
-    { category: "MEDIA_CONTENTS", thumbnail: "https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg" },
-    { category: "MV_SPECIAL_CLIP", thumbnail: "https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg" },
-    { category: "OFFICIAL_CLIPS", thumbnail: "https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg", official: true },
-    { category: "ORIGINAL_VARIETY", thumbnail: "https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg" },
-    { category: "RADIO_PODCAST", thumbnail: "https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg" },
-    { category: "RECORDING_BEHIND", thumbnail: "https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg" },
-    { category: "SHORTS", thumbnail: "https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg" },
-    { category: "SPECIAL_RELEASES", thumbnail: "https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg" },
-    { category: "STAGE_PERFORMANCE", thumbnail: "https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg" },
-    { category: "VOCAL_AND_DANCE", thumbnail: "https://i.ytimg.com/vi/wlnE89SEC4U/sddefault.jpg" },
-  ];
+  <script>
+// 카드 데이터 전체를 모은 배열 예시
+const allCardsData = [
+  ...(typeof cards_MV_SPECIAL_CLIP !== 'undefined' ? cards_MV_SPECIAL_CLIP : []),
+  ...(typeof cards_STAGE_PERFORMANCE !== 'undefined' ? cards_STAGE_PERFORMANCE : []),
+  ...(typeof cards_VOCAL_AND_DANCE !== 'undefined' ? cards_VOCAL_AND_DANCE : []),
+  ...(typeof cards_SPECIAL_RELEASES !== 'undefined' ? cards_SPECIAL_RELEASES : []),
+  ...(typeof cards_RECORDING_BEHIND !== 'undefined' ? cards_RECORDING_BEHIND : []),
+  ...(typeof cards_ORIGINAL_VARIETY !== 'undefined' ? cards_ORIGINAL_VARIETY : []),
+  ...(typeof cards_MEDIA_CONTENTS !== 'undefined' ? cards_MEDIA_CONTENTS : []),
+  ...(typeof cards_RADIO_PODCAST !== 'undefined' ? cards_RADIO_PODCAST : []),
+  ...(typeof cards_BEHIND_CLIPS !== 'undefined' ? cards_BEHIND_CLIPS : []),
+  ...(typeof cards_OFFICIAL_CLIPS !== 'undefined' ? cards_OFFICIAL_CLIPS : []),
+  ...(typeof cards_INTERVIEW !== 'undefined' ? cards_INTERVIEW : []),
+  ...(typeof cards_LIVE_STREAM !== 'undefined' ? cards_LIVE_STREAM : []),
+  ...(typeof cards_COMMERCIALS !== 'undefined' ? cards_COMMERCIALS : []),
+  ...(typeof cards_SHORTS !== 'undefined' ? cards_SHORTS : []),
+  ...(typeof cards_ETC !== 'undefined' ? cards_ETC : []),
+];
 
-  // ✅ 대표 카테고리 썸네일 영역 생성
-  document.addEventListener("DOMContentLoaded", function () {
-    const categorySection = document.querySelector(".category-section");
-    categorySection.innerHTML = ""; // 기존 버튼 제거
+const cardContainer = document.getElementById('allCards');
+const searchInput = document.getElementById('searchInput');
+const searchBtn = document.getElementById('searchBtn');
+const resetSearchBtn = document.getElementById('resetSearchBtn');
+const cardCount = document.getElementById('cardCount');
+const loadMoreBtn = document.getElementById('loadMoreBtn');
+const scrollTopBtn = document.getElementById('scrollTopBtn');
 
-    categories.forEach(cat => {
-      const link = document.createElement("a");
-      link.href = cat.official ? "category_official_clips.html" : `category.html?category=${cat.category}`;
-      link.className = "category-thumb";
-      link.innerHTML = `
-        <img src="${cat.thumbnail}" alt="${cat.category}">
-        <div>${cat.category}</div>
-      `;
-      categorySection.appendChild(link);
-    });
+let cardsPerPage = 40;
+let currentPage = 1;
+let filteredCards = allCardsData;
+
+function renderCards() {
+  cardContainer.innerHTML = '';
+
+  const startIndex = 0;
+  const endIndex = currentPage * cardsPerPage;
+  const cardsToRender = filteredCards.slice(startIndex, endIndex);
+
+  cardsToRender.forEach(card => {
+    const cardEl = document.createElement('a');
+    cardEl.className = 'card';
+    cardEl.href = card.url || '#';
+    cardEl.target = '_blank';
+    cardEl.innerHTML = `
+      <div class="thumbnail-wrapper">
+        <img src="${card.thumbnail}" alt="${card.title}">
+      </div>
+      <div class="card-title">${card.title}</div>
+      <div class="card-meta">
+        <span>${card.date || ''}</span>
+        <span>${card.category || ''}</span>
+      </div>
+    `;
+    cardContainer.appendChild(cardEl);
   });
 
-  // ✅ 기존 카드 로드, 검색, 로드 모어 기능
-  document.addEventListener("DOMContentLoaded", function () {
-    const container = document.getElementById("allCards");
-    const loadMoreBtn = document.getElementById("loadMoreBtn");
-    const scrollTopBtn = document.getElementById("scrollTopBtn");
-    const searchInput = document.getElementById("searchInput");
-    const resetSearchBtn = document.getElementById("resetSearchBtn");
-    const searchBtn = document.getElementById("searchBtn");
-    const cardCountEl = document.getElementById("cardCount");
-    let currentIndex = 0;
-    const batchSize = 12;
+  cardCount.textContent = `Total: ${filteredCards.length}`;
 
-    const all = [].concat(
-      typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-      typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-      typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
-      typeof specialReleasesCards !== 'undefined' ? specialReleasesCards : [],
-      typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-      typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
-      typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-      typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-      typeof officialClipCards !== 'undefined' ? officialClipCards : [],
-      typeof interviewCards !== 'undefined' ? interviewCards : [],
-      typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-      typeof commercialsCards !== 'undefined' ? commercialsCards : [],
-      typeof shortsCards !== 'undefined' ? shortsCards : [],
-      typeof etcCards !== 'undefined' ? etcCards : []
-    );
+  if (endIndex >= filteredCards.length) {
+    loadMoreBtn.style.display = 'none';
+  } else {
+    loadMoreBtn.style.display = 'inline-block';
+  }
+}
 
-    function extractDate(title) {
-      const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-      return match ? match[1] : '2000-01-01';
-    }
+searchBtn.addEventListener('click', () => {
+  const query = searchInput.value.trim().toLowerCase();
+  filteredCards = allCardsData.filter(card => card.title.toLowerCase().includes(query));
+  currentPage = 1;
+  renderCards();
+});
 
-    all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-    let filtered = all;
+searchInput.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    searchBtn.click();
+  }
+});
 
-    function updateCardCount(count) {
-      cardCountEl.textContent = `총 ${count}개 영상`;
-    }
+resetSearchBtn.addEventListener('click', () => {
+  searchInput.value = '';
+  filteredCards = allCardsData;
+  currentPage = 1;
+  renderCards();
+});
 
-    function applySearch() {
-      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-      const rawKeywords = searchInput.value
-        .toLowerCase()
-        .replace(/[^\w\uac00-\ud7af]+/g, ' ')
-        .split(/\s+/)
-        .filter(Boolean);
-      const keywords = rawKeywords.map(k => normalize(k));
+loadMoreBtn.addEventListener('click', () => {
+  currentPage++;
+  renderCards();
+});
 
-      filtered = all.filter(c => {
-        const combinedText = normalize(c.title + c.member);
-        return keywords.every(k => combinedText.includes(k));
-      });
+scrollTopBtn.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 
-      currentIndex = 0;
-      renderCards(filtered);
-    }
+window.addEventListener('scroll', () => {
+  if (document.documentElement.scrollTop > 300) {
+    scrollTopBtn.style.display = 'block';
+  } else {
+    scrollTopBtn.style.display = 'none';
+  }
+});
 
-    function renderCards(cards) {
-      container.innerHTML = '';
-      cards.slice(0, currentIndex + batchSize).forEach(data => {
-        const card = document.createElement("a");
-        card.className = "card";
-        card.setAttribute("data-category", data.category);
-        card.setAttribute("data-member", data.member);
-        card.setAttribute("data-year", data.year);
+// 초기 렌더링
+renderCards();
 
-        card.innerHTML = `
-          <div class="card-meta">
-            <div class="meta-category">${data.category}</div>
-            <div class="meta-info">${data.member} | ${data.duration || ''}</div>
-          </div>
-          <div class="thumbnail-wrapper">
-            <img src="${data.thumbnail}" alt="${data.alt}">
-          </div>
-          <div class="card-title">${data.title}</div>
-        `;
-
-        card.addEventListener("click", (e) => {
-          e.preventDefault();
-          e.stopPropagation();
-          window.open(data.link, "_blank");
-        });
-
-        container.appendChild(card);
-      });
-
-      document.querySelectorAll('.thumbnail-wrapper img').forEach(img => {
-        img.onload = function () {
-          const isVertical = img.naturalHeight > img.naturalWidth;
-          img.style.objectFit = isVertical ? 'contain' : 'cover';
-          img.style.backgroundColor = '#000';
-        };
-      });
-
-      currentIndex += batchSize;
-      loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
-      updateCardCount(cards.length);
-    }
-
-    renderCards(filtered);
-
-    loadMoreBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      loadMoreBtn.blur();
-      container.classList.add("disabled");
-      setTimeout(() => {
-        renderCards(filtered);
-        container.classList.remove("disabled");
-      }, 100);
-    });
-
-    searchBtn.addEventListener("click", applySearch);
-    searchInput.addEventListener("keydown", (e) => {
-      if (e.key === "Enter") {
-        e.preventDefault();
-        applySearch();
-      }
-    });
-
-    resetSearchBtn.addEventListener("click", () => {
-      searchInput.value = '';
-      filtered = all;
-      currentIndex = 0;
-      renderCards(filtered);
-    });
-
-    scrollTopBtn.addEventListener("click", () => {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-  });
-</script>
+  </script>
 
 </body>
 </html>
