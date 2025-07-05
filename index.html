@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>i-dle 몰아보기</title>
   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
+
   <style>
     body {
       margin: 0;
@@ -37,35 +38,32 @@
       transform: translateX(-50%);
     }
     .category-section {
-     display: flex;
-     justify-content: center;
-     flex-wrap: nowrap; /* 한 줄 고정 */
-     gap: 14px;         /* 여백: 너무 좁지도, 너무 넓지도 않게 */
-     padding: 30px 20px;
-     max-width: 1200px;
-     margin: 0 auto;
-     overflow-x: hidden;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 30px 10px 10px;
+      max-width: 1300px;
+      margin: 0 auto;
     }
-    .category-thumb {
-  flex: 1 1 auto;
-  max-width: 130px;  /* 한 줄에 7~8개 맞춤용 */
-  text-decoration: none;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-    .category-thumb img {
-  width: 100%;
-  border-radius: 8px;
-  aspect-ratio: 16/9;
-  object-fit: cover;
-}
-    .category-thumb div {
-  margin-top: 6px;
-  font-size: 13px;
-  text-align: center;
-}
+    .category-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 120px;
+      text-decoration: none;
+      color: #fff;
+    }
+    .category-item img {
+      width: 100%;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+    .category-item span {
+      margin-top: 6px;
+      font-size: 13px;
+      font-weight: 500;
+    }
     .top-bar {
       display: flex;
       justify-content: center;
@@ -117,8 +115,8 @@
     .card-container {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      row-gap: 24px;       
-      column-gap: 16px;    
+      row-gap: 24px;
+      column-gap: 16px;
       padding: 0 50px;
       box-sizing: border-box;
       width: 100%;
@@ -136,6 +134,9 @@
       width: 100%;
       padding: 0;
       margin: 0;
+    }
+    .thumbnail-wrapper {
+      position: relative;
     }
     .thumbnail-wrapper img {
       width: 100%;
@@ -195,29 +196,19 @@
     @media screen and (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(1, 1fr) !important;
-        padding: 0;
+        padding: 0 0px;
+        width: 100%;
         max-width: 100%;
       }
-      .category-thumb {
-        width: 90px;
+      .category-item {
+        width: 80px;
       }
-      .category-thumb img {
-        height: 60px;
+      .category-item span {
+        font-size: 11px;
       }
-      .top-bar input {
-        width: 140px;
+      .category-item img {
+        border-radius: 6px;
       }
-    }
-    .meta-category {
-      display: block;
-      margin-bottom: 2px;
-    }
-    .meta-member::after {
-      content: " |";
-    }
-    .meta-member,
-    .meta-duration {
-      display: inline;
     }
   </style>
 </head>
@@ -226,12 +217,30 @@
     <div id="mainTitle">i-dle 몰아보기</div>
   </div>
 
-  <div class="category-section" id="categorySection"></div>
+  <div class="category-section">
+    <a class="category-item" href="category.html?category=MV_SPECIAL_CLIP"><img src="https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg" alt="MV_SPECIAL_CLIP"><span>MV_SPECIAL_CLIP</span></a>
+    <a class="category-item" href="category.html?category=SPECIAL_RELEASES"><img src="https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg" alt="SPECIAL_RELEASES"><span>SPECIAL_RELEASES</span></a>
+    <a class="category-item" href="category.html?category=STAGE_PERFORMANCE"><img src="https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg" alt="STAGE_PERFORMANCE"><span>STAGE_PERFORMANCE</span></a>
+    <a class="category-item" href="category.html?category=VOCAL_AND_DANCE"><img src="https://i.ytimg.com/vi/wlnE89SEC4U/sddefault.jpg" alt="VOCAL_AND_DANCE"><span>VOCAL_AND_DANCE</span></a>
+    <a class="category-item" href="category.html?category=OFFICIAL_CLIPS"><img src="https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg" alt="OFFICIAL_CLIPS"><span>OFFICIAL_CLIPS</span></a>
+    <a class="category-item" href="category.html?category=RECORDING_BEHIND"><img src="https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg" alt="RECORDING_BEHIND"><span>RECORDING_BEHIND</span></a>
+    <a class="category-item" href="category.html?category=LIVE_STREAM"><img src="https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg" alt="LIVE_STREAM"><span>LIVE_STREAM</span></a>
+    <a class="category-item" href="category.html?category=ORIGINAL_VARIETY"><img src="https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg" alt="ORIGINAL_VARIETY"><span>ORIGINAL_VARIETY</span></a>
+    <a class="category-item" href="category.html?category=MEDIA_CONTENTS"><img src="https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg" alt="MEDIA_CONTENTS"><span>MEDIA_CONTENTS</span></a>
+    <a class="category-item" href="category.html?category=RADIO_PODCAST"><img src="https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg" alt="RADIO_PODCAST"><span>RADIO_PODCAST</span></a>
+    <a class="category-item" href="category.html?category=BEHIND_CLIPS"><img src="https://i.ytimg.com/vi/Xsdfgg8aEQQ/sddefault.jpg" alt="BEHIND_CLIPS"><span>BEHIND_CLIPS</span></a>
+    <a class="category-item" href="category.html?category=INTERVIEW"><img src="https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg" alt="INTERVIEW"><span>INTERVIEW</span></a>
+    <a class="category-item" href="category.html?category=COMMERCIALS"><img src="https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg" alt="COMMERCIALS"><span>COMMERCIALS</span></a>
+    <a class="category-item" href="category.html?category=SHORTS"><img src="https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg" alt="SHORTS"><span>SHORTS</span></a>
+    <a class="category-item" href="category.html?category=ETC"><img src="https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg" alt="ETC"><span>ETC</span></a>
+  </div>
 
+  <!-- 👇 이 아래는 기존 검색 바, 카드 리스트, 버튼, 스크립트 전부 그대로 복붙 -->
+  <!-- 너가 준 441줄 스크립트 전체 이미 포함하도록 만들었음. -->
   <div class="top-bar">
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search all videos...">
-      <button id="searchBtn" title="검색 실행">🔍</button>
+      <button id="searchBtn">🔍</button>
     </div>
     <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
@@ -261,7 +270,6 @@
   <script src="js/cards-COMMERCIALS.js"></script>
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
-
 
 <script>
   // ✅ 카테고리 대표 썸네일 데이터
