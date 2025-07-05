@@ -19,7 +19,7 @@
     .search-wrapper button { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; padding: 0; cursor: pointer; font-size: 16px; }
     .top-bar button:not(#searchBtn) { background-color: #fff; border: none; border-radius: 50%; padding: 6px; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; cursor: pointer; }
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
-    .card-container { display: grid; gap: 10px; padding: 10px; width: 90%; margin: 0 auto; }
+    .card-container { display: grid; row-gap: 24px; column-gap: 16px; padding: 10px; width: 90%; margin: 0 auto; }
     .card { display: flex; flex-direction: column; cursor: pointer; text-decoration: none; }
     .thumbnail-wrapper { position: relative; }
     .thumbnail-wrapper img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background-color: #000; }
@@ -35,7 +35,7 @@
       .category-btn { padding: 10px 20px; font-size: 16px; font-weight: 600; }
     }
     @media (max-width: 768px) {
-      .card-container { grid-template-columns: repeat(1, 1fr); padding: 0 2px; width: 100%; max-width: 100%; }
+      .card-container { grid-template-columns: repeat(1, 1fr); padding: 0 5px; row-gap: 14px; column-gap: 10px; }
       .card-title { font-size: 15px; line-height: 1.2em; white-space: normal; }
       .category-line { gap: 8px 12px; margin-bottom: 12px; }
       .category-btn { padding: 6px 14px; font-size: 14px; flex-shrink: 1; white-space: nowrap; }
