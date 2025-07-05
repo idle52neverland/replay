@@ -106,15 +106,15 @@
       width: 24px;
       height: 24px;
     }
-    .card-container {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      row-gap: 24px;       /* 세로 간격 */
-      column-gap: 16px;    /* 가로 간격 */
-      padding: 10px;
-      width: 90%;
-      margin: 0 auto;
-    }
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 24px;
+  column-gap: 16px;
+  padding: 10px 0; /* 상하 10px, 좌우 0 */
+  width: 100%;
+  margin: 0;       /* 좌우 딱 붙음 */
+}
     .card {
       display: flex;
       flex-direction: column;
