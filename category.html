@@ -16,23 +16,27 @@
     header {
       display: flex;
       align-items: center;
+      justify-content: center;
       padding: 10px 20px;
       background-color: #fff;
       border-bottom: 1px solid #ddd;
-    }
-    .logo {
-      font-size: 24px;
-      font-weight: bold;
-      color: #ff0000;
-      margin-right: 20px;
-    }
-    .search-wrapper {
-      flex-grow: 1;
       position: relative;
     }
+    .logo {
+      font-size: 20px;
+      font-weight: bold;
+      color: #ff0000;
+      position: absolute;
+      left: 20px;
+    }
+    .search-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
     .search-wrapper input {
-      width: 100%;
-      padding: 10px 40px 10px 14px;
+      width: 300px;
+      padding: 8px 12px;
       border-radius: 20px;
       border: 1px solid #ccc;
       font-size: 14px;
@@ -40,14 +44,39 @@
       color: #0f0f0f;
     }
     .search-wrapper button {
-      position: absolute;
-      right: 12px;
-      top: 50%;
-      transform: translateY(-50%);
       background: none;
       border: none;
       font-size: 16px;
       cursor: pointer;
+    }
+    .main {
+      display: flex;
+    }
+    .sidebar {
+      width: 200px;
+      padding: 10px;
+      border-right: 1px solid #ddd;
+    }
+    .sidebar h3 {
+      font-size: 14px;
+      margin: 16px 0 8px;
+    }
+    .sidebar .category-btn {
+      display: block;
+      width: 100%;
+      background: none;
+      border: none;
+      text-align: left;
+      padding: 6px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .sidebar .category-btn:hover {
+      background: #f1f1f1;
+    }
+    .content {
+      flex-grow: 1;
     }
     .category-bar {
       display: flex;
@@ -123,10 +152,16 @@
       .card-container {
         grid-template-columns: repeat(3, 1fr);
       }
+      .sidebar {
+        display: none;
+      }
     }
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(2, 1fr);
+      }
+      .search-wrapper input {
+        width: 200px;
       }
     }
     @media (max-width: 480px) {
@@ -138,21 +173,61 @@
 </head>
 <body>
   <header>
-    <div class="logo">YouTube</div>
+    <div class="logo">i-dle 몰아보기</div>
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="검색">
       <button id="searchBtn" title="검색 실행">🔍</button>
+      <button id="resetSearchBtn" title="검색 초기화">⟳</button>
+      <button onclick="location.href='index.html'" title="홈으로">🏠</button>
     </div>
   </header>
-  <div class="category-bar">
-    <button class="category-btn">전체</button>
-    <button class="category-btn">음악</button>
-    <button class="category-btn">믹스</button>
-    <button class="category-btn">라이브</button>
-    <button class="category-btn">게임</button>
-    <button class="category-btn">최근 업로드</button>
-  </div>
-  <div class="card-container" id="allCards">
+  <div class="main">
+    <aside class="sidebar">
+      <h3>카테고리</h3>
+      <button class="category-btn">MV_SPECIAL_CLIP</button>
+      <button class="category-btn">STAGE_PERFORMANCE</button>
+      <button class="category-btn">VOCAL_AND_DANCE</button>
+      <button class="category-btn">SPECIAL_RELEASES</button>
+      <button class="category-btn">RECORDING_BEHIND</button>
+      <button class="category-btn">ORIGINAL_VARIETY</button>
+      <button class="category-btn">MEDIA_CONTENTS</button>
+      <button class="category-btn">RADIO_PODCAST</button>
+      <button class="category-btn">BEHIND_CLIPS</button>
+      <button class="category-btn">OFFICIAL_CLIPS</button>
+      <button class="category-btn">INTERVIEW</button>
+      <button class="category-btn">LIVE_STREAM</button>
+      <button class="category-btn">COMMERCIALS</button>
+      <button class="category-btn">SHORTS</button>
+      <button class="category-btn">ETC</button>
+    </aside>
+    <div class="content">
+      <div class="category-bar">
+        <button class="category-btn">2025</button>
+        <button class="category-btn">2024</button>
+        <button class="category-btn">2023</button>
+        <button class="category-btn">2022</button>
+        <button class="category-btn">2021</button>
+        <button class="category-btn">2020</button>
+        <button class="category-btn">2019</button>
+        <button class="category-btn">2018</button>
+        <button class="category-btn">PRE-DEBUT</button>
+      </div>
+      <div class="category-bar">
+        <button class="category-btn">01</button>
+        <button class="category-btn">02</button>
+        <button class="category-btn">03</button>
+        <button class="category-btn">04</button>
+        <button class="category-btn">05</button>
+        <button class="category-btn">06</button>
+        <button class="category-btn">07</button>
+        <button class="category-btn">08</button>
+        <button class="category-btn">09</button>
+        <button class="category-btn">10</button>
+        <button class="category-btn">11</button>
+        <button class="category-btn">12</button>
+      </div>
+
+
    
   
 
