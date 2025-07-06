@@ -2964,6 +2964,6 @@ const shortsCards = [
 
 ];
 const parseDate = (d) => new Date(d.includes("T") ? d : `${d}T00:00:00`);
-shortsCards.sort((a, b) => parseDate(b.date) - parseDate(a.date));
+liveStreamCards.sort((a, b) => parseDate(b.date) - parseDate(a.date));
 
 window.shortsCards = shortsCards;
