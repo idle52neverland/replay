@@ -417,48 +417,55 @@
       const cardCountEl = document.getElementById("cardCount");
       let currentIndex = 0;
       const batchSize = 12;
-      const all = [].concat(
-        typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
-        typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
-        typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
-        typeof specialReleasesCards !== 'undefined' ? specialReleasesCards : [],
-        typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
-        typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
-        typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
-        typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-        typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
-        typeof officialClipCards !== 'undefined' ? officialClipCards : [],
-        typeof interviewCards !== 'undefined' ? interviewCards : [],
-        typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
-        typeof commercialsCards !== 'undefined' ? commercialsCards : [],
-        typeof shortsCards !== 'undefined' ? shortsCards : [],
-        typeof etcCards !== 'undefined' ? etcCards : []
-      );
+  // 1) 여러 카드 배열 합치기 (버야님 원본)
+const all = [].concat(
+  typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
+  typeof stagePerformanceCards !== 'undefined' ? stagePerformanceCards : [],
+  typeof vocalAndDanceCards !== 'undefined' ? vocalAndDanceCards : [],
+  typeof specialReleasesCards !== 'undefined' ? specialReleasesCards : [],
+  typeof recordingBehindCards !== 'undefined' ? recordingBehindCards : [],
+  typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
+  typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
+  typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
+  typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
+  typeof officialClipCards !== 'undefined' ? officialClipCards : [],
+  typeof interviewCards !== 'undefined' ? interviewCards : [],
+  typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
+  typeof commercialsCards !== 'undefined' ? commercialsCards : [],
+  typeof shortsCards !== 'undefined' ? shortsCards : [],
+  typeof etcCards !== 'undefined' ? etcCards : []
+);
 
-      function extractDate(title) {
-        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-        return match ? match[1] : '2000-01-01';
-      }
+// 2) 제목에서 날짜 추출 함수 (필요하면)
+function extractDate(title) {
+  const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+  return match ? match[1] : '2000-01-01';
+}
 
+// 3) all 배열에 인덱스와 날짜 필드 추가
+const allWithIndex = all.map((item, index) => ({
+  ...item,
+  __index: index,            // 원래 순서 저장
+  date: extractDate(item.title),  // 제목에서 날짜 추출
+}));
+
+// 4) 정렬: 날짜 내림차순 + 같은 날짜면 등록순서 유지
 allWithIndex.sort((a, b) => {
   const timeA = new Date(a.date).getTime();
   const timeB = new Date(b.date).getTime();
 
+  if (timeA > timeB) return -1;  // 최신 날짜 앞으로
   if (timeA < timeB) return 1;
-  if (timeA > timeB) return -1;
 
-  // 날짜 같으면: 같은 카테고리 내에서 등록된 순서대로
-  if (a.category === b.category) {
-    return a.__index - b.__index;
-  }
-
-  // 다른 카테고리는 섞이지 않도록 (선택사항: category 이름순 정렬)
-  return 0; // 또는 return a.category.localeCompare(b.category)
+  // 날짜 같으면 원래 등록된 순서대로 정렬
+  return a.__index - b.__index;
 });
 
+// 5) 보조키 제거 후 다시 배열 만들기
+const allSorted = allWithIndex.map(({ __index, ...rest }) => rest);
 
-
-      let filtered = allSorted;
+// 6) 정렬된 배열을 앞으로 사용
+let filtered = allSorted;
 
       function updateCardCount(count) {
         cardCountEl.textContent = `총 ${count}개 영상`;
