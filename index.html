@@ -64,13 +64,11 @@
 
 .category-section.cards .category-thumbnail {
   width: 100%;
-  aspect-ratio: 16 / 9;
+  padding-top: 56.25%; /* 9/16 = 0.5625 → 56.25% */
   background-size: cover;
   background-position: center;
+  position: relative;
   border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .category-section.cards .category-title {
