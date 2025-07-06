@@ -440,21 +440,19 @@
         return match ? match[1] : '2000-01-01';
       }
 
-     const allWithIndex = all.map((item, index) => ({ ...item, __index: index }));
+const allWithIndex = all.map((item, index) => ({ ...item, __index: index }));
 
 allWithIndex.sort((a, b) => {
-  const dateA = new Date(a.date);
-  const dateB = new Date(b.date);
+  const timeA = new Date(a.date).getTime();
+  const timeB = new Date(b.date).getTime();
 
-  if (dateA < dateB) return 1;
-  if (dateA > dateB) return -1;
+  if (timeA < timeB) return 1;
+  if (timeA > timeB) return -1;
   return a.__index - b.__index;
 });
 
-const allSorted = allWithIndex.map(item => {
-  delete item.__index;
-  return item;
-});
+const allSorted = allWithIndex.map(({ __index, ...rest }) => rest);
+
 
 
 
