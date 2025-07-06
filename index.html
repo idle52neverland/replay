@@ -60,30 +60,28 @@
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
+  text-align: center; /* 텍스트 중앙 정렬 */
 }
 
 .category-section.cards .category-thumbnail {
   width: 100%;
-  padding-top: 56.25%; /* 9/16 = 0.5625 → 56.25% */
+  height: 200px; /* 이미지 높이 */
   background-size: cover;
   background-position: center;
-  position: relative;
   border-radius: 10px;
 }
 
 .category-section.cards .category-title {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 14px;
+  display: block;
+  padding: 10px;
+  font-size: 16px;
   font-weight: bold;
-  color: white;
-  background: rgba(0, 0, 0, 0.6);
-  padding: 5px 8px;
-  border-radius: 5px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
+  width: 100%;
+  text-align: center; /* 텍스트 중앙 정렬 */
+  margin-top: 5px; /* 이미지와 텍스트 사이에 간격 추가 */
 }
-
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
