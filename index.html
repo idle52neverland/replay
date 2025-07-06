@@ -454,9 +454,7 @@ allWithIndex.sort((a, b) => {
 const allSorted = allWithIndex.map(({ __index, ...rest }) => rest);
 
 
-
-
-      let filtered = all;
+      let filtered = allSorted;
 
       function updateCardCount(count) {
         cardCountEl.textContent = `총 ${count}개 영상`;
