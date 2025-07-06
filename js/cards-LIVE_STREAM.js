@@ -4138,6 +4138,36 @@ const liveStreamCards = [
   "thumbnail": "https://i.ytimg.com/vi/oMmJRKj4jhU/hqdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are] COMEBACK LIVE (2025-05-19)",
   "title": "i-dle (아이들) 8th Mini Album [We are] COMEBACK LIVE (2025-05-19)"
+},
+  {
+  "link": "https://weverse.io/i-dle/live/3-203467331",
+  "category": "LIVE_STREAM",
+  "member": "우기",
+  "date": "2025-07-05",
+  "duration": "00:20:26",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDVfMjYg/MDAxNzUxNzEyMzYxMTEz.J-_N5HwGKc0vo86Qv6Y1BoYf8i2gq0ehhs6yOuVDxbAg.ghRrRsjiWy185a7rt25MYcTYKAMaoExiQ0ZYSKgkeUkg.JPEG/thumb.jpg?type=f_or_off_640_360",
+  "alt": "🐶 (2025-07-05)",
+  "title": "🐶 (2025-07-05)"
+},
+{
+  "link": "https://weverse.io/i-dle/live/1-161400746",
+  "category": "LIVE_STREAM",
+  "member": "우기",
+  "date": "2025-07-05",
+  "duration": "00:04:19",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDVfMzYg/MDAxNzUxNzEyNjYwODI4.gne6OfqqAtwWRAWKZsjdtzNIvf5wxfz9Wucz40a2J2Yg.R0o-uZOzajO8LJKV-unrH70noN35gN3ykzcS9hVj88Yg.JPEG/thumb.jpg?type=f_or_off_640_360",
+  "alt": "??? (2025-07-05)",
+  "title": "??? (2025-07-05)"
+},
+{
+  "link": "https://weverse.io/i-dle/live/3-203468363",
+  "category": "LIVE_STREAM",
+  "member": "우기",
+  "date": "2025-07-05",
+  "duration": "00:24:43",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDVfNDYg/MDAxNzUxNzE0MDM5MTAz.0qqYFuVNo_-CCE1vGIulmxicXcZyR4CnFcuIGFZj6lwg.XWebblALtRw235m0EXJFftW8Lg2xxkjPbTz5SvAYRFsg.JPEG/thumb.jpg?type=f_or_off_640_360",
+  "alt": "😡 (2025-07-05)",
+  "title": "😡 (2025-07-05)"
 }
 
 
