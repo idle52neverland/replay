@@ -258,16 +258,6 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/TYZgW0kG0-g/maxresdefault.jpg",
   "alt": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
   "title": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
-},
-  {
-  "link": "https://youtu.be/Jw9a-H7iVpk",
-  "category": "ETC",
-  "member": "아이들",
-  "date": "2025-07-03",
-  "duration": "00:20:16",
-  "thumbnail": "https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg",
-  "alt": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB (2025-07-03)",
-  "title": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB (2025-07-03)"
 }
 
 
