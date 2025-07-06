@@ -72,13 +72,16 @@
 }
 
 .category-section.cards .category-title {
-  position: static; /* 이제 타이틀이 이미지를 덮지 않고 아래로 떨어지게 됨 */
-  margin-top: 8px; /* 이미지와 타이틀 간 간격 추가 */
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
   font-size: 14px;
   font-weight: bold;
   color: white;
-  background: none; /* 배경 제거 */
-  text-align: center; /* 타이틀을 가운데 정렬 */
+  background: rgba(0, 0, 0, 0.6);
+  padding: 5px 8px;
+  border-radius: 5px;
 }
 
     .category-btn {
