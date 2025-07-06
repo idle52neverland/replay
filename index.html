@@ -56,31 +56,28 @@
 }
 
 .category-section.cards .category-card {
-  position: relative;
+  position: relative;  /* 부모 카드에 상대 위치 추가 */
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
+  text-align: center;
 }
 
 .category-section.cards .category-thumbnail {
   width: 100%;
-  padding-top: 56.25%; /* 9/16 = 0.5625 → 56.25% */
-  background-size: cover;
+  height: 200px; /* 높이를 고정 */
+  background-size: cover; /* 이미지 비율 유지 */
   background-position: center;
-  position: relative;
+  background-repeat: no-repeat;
   border-radius: 10px;
 }
 
 .category-section.cards .category-title {
-  position: absolute;
-  bottom: 0; /* 이미지 바로 아래로 고정 */
-  left: 50%;
-  transform: translateX(-50%); /* 중앙 정렬 */
+  display: block; /* 타이틀을 블록 요소로 바꿈 */
+  margin-top: 8px; /* 이미지와 타이틀 간 간격 추가 */
   font-size: 14px;
   font-weight: bold;
   color: white;
-  padding: 5px 8px;
-  border-radius: 5px;
 }
 
     .category-btn {
