@@ -46,6 +46,46 @@
       max-width: 1100px;
       margin: 0 auto;
     }
+    /* 카테고리 카드만 영향을 미치게 수정 */
+.category-section.cards {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개씩 배치 */
+  gap: 15px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.category-section.cards .category-card {
+  position: relative;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.category-section.cards .category-thumbnail {
+  width: 100%;
+  height: 150px; /* 썸네일의 높이 */
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.category-section.cards .category-title {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
@@ -241,24 +281,108 @@
   <div class="header-bar">
    <div id="mainTitle">i-dle 몰아보기</div>
 </div>
-
-
-  <div class="category-section">
-    <a class="category-btn" href="category.html?category=MV_SPECIAL_CLIP">MV_SPECIAL_CLIP</a>
-    <a class="category-btn" href="category.html?category=STAGE_PERFORMANCE">STAGE_PERFORMANCE</a>
-    <a class="category-btn" href="category.html?category=VOCAL_AND_DANCE">VOCAL_AND_DANCE</a>
-    <a class="category-btn" href="category.html?category=SPECIAL_RELEASES">SPECIAL_RELEASES</a>
-    <a class="category-btn" href="category.html?category=RECORDING_BEHIND">RECORDING_BEHIND</a>
-    <a class="category-btn" href="category.html?category=ORIGINAL_VARIETY">ORIGINAL_VARIETY</a>
-    <a class="category-btn" href="category.html?category=MEDIA_CONTENTS">MEDIA_CONTENTS</a>
-    <a class="category-btn" href="category.html?category=RADIO_PODCAST">RADIO_PODCAST</a>
-    <a class="category-btn" href="category_official_clips.html">OFFICIAL_CLIPS</a>
-    <a class="category-btn" href="category.html?category=INTERVIEW">INTERVIEW</a>
-    <a class="category-btn" href="category.html?category=LIVE_STREAM">LIVE_STREAM</a>
-    <a class="category-btn" href="category.html?category=COMMERCIALS">COMMERCIALS</a>
-    <a class="category-btn" href="category.html?category=SHORTS">SHORTS</a>
-    <a class="category-btn" href="category.html?category=ETC">ETC</a>
+<div class="category-section">
+  <div class="category-card">
+    <a href="category.html?category=MV_SPECIAL_CLIP">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg');">
+        <span class="category-title">MV_SPECIAL_CLIP</span>
+      </div>
+    </a>
   </div>
+  <div class="category-card">
+    <a href="category.html?category=SPECIAL_RELEASES">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg');">
+        <span class="category-title">SPECIAL_RELEASES</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=STAGE_PERFORMANCE">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg');">
+        <span class="category-title">STAGE_PERFORMANCE</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=VOCAL_AND_DANCE">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wlnE89SEC4U/sddefault.jpg');">
+        <span class="category-title">VOCAL_AND_DANCE</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=RECORDING_BEHIND">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg');">
+        <span class="category-title">RECORDING_BEHIND</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=LIVE_STREAM">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg');">
+        <span class="category-title">LIVE_STREAM</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=INTERVIEW">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg');">
+        <span class="category-title">INTERVIEW</span>
+      </div>
+    </a>
+  </div>
+  <!-- 두 번째 줄 -->
+  <div class="category-card">
+    <a href="category.html?category=ORIGINAL_VARIETY">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg');">
+        <span class="category-title">ORIGINAL_VARIETY</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=OFFICIAL_CLIPS">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg');">
+        <span class="category-title">OFFICIAL_CLIPS</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=MEDIA_CONTENTS">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg');">
+        <span class="category-title">MEDIA_CONTENTS</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=RADIO_PODCAST">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg');">
+        <span class="category-title">RADIO_PODCAST</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=SHORTS">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg');">
+        <span class="category-title">SHORTS</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=COMMERCIALS">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg');">
+        <span class="category-title">COMMERCIALS</span>
+      </div>
+    </a>
+  </div>
+  <div class="category-card">
+    <a href="category.html?category=ETC">
+      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg');">
+        <span class="category-title">ETC</span>
+      </div>
+    </a>
+  </div>
+</div>
+
 
   <div class="top-bar">
     <div class="search-wrapper">
