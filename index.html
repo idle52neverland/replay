@@ -47,46 +47,42 @@
       margin: 0 auto;
     }
     /* 카테고리 카드만 영향을 미치게 수정 */
+.category-section.cards {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개 */
+  gap: 15px;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
 .category-section.cards .category-card {
   position: relative;
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
-  text-align: center; /* 텍스트 중앙 정렬 */
 }
 
 .category-section.cards .category-thumbnail {
   width: 100%;
-  padding-top: 56.25%; /* 16:9 비율 유지 */
+  padding-top: 56.25%; /* 9/16 = 0.5625 → 56.25% */
   background-size: cover;
   background-position: center;
+  position: relative;
   border-radius: 10px;
 }
 
 .category-section.cards .category-title {
-  display: block;
-  padding: 10px;
-  font-size: 16px;
+  position: absolute;
+  bottom: 0; /* 이미지 바로 아래로 고정 */
+  left: 50%;
+  transform: translateX(-50%); /* 중앙 정렬 */
+  font-size: 14px;
   font-weight: bold;
-  color: #fff;
-  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
-  width: 100%;
-  text-align: center; /* 텍스트 중앙 정렬 */
-  margin-top: 5px; /* 이미지와 텍스트 사이에 간격 추가 */
+  color: white;
+  padding: 5px 8px;
+  border-radius: 5px;
 }
 
-
-.category-section.cards .category-title {
-  display: block;
-  padding: 10px;
-  font-size: 16px;
-  font-weight: bold;
-  color: #fff;
-  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
-  width: 100%;
-  text-align: center; /* 텍스트 중앙 정렬 */
-  margin-top: 5px; /* 이미지와 텍스트 사이에 간격 추가 */
-}
     .category-btn {
       padding: 10px 20px;
       background-color: #333;
