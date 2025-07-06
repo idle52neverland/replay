@@ -49,7 +49,7 @@
     /* 카테고리 카드만 영향을 미치게 수정 */
 .category-section.cards {
   display: grid;
-  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개씩 배치 */
+  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개 */
   gap: 15px;
   max-width: 1100px;
   margin: 0 auto;
@@ -64,7 +64,7 @@
 
 .category-section.cards .category-thumbnail {
   width: 100%;
-  height: 150px; /* 썸네일의 높이 */
+  height: 150px;
   background-size: cover;
   background-position: center;
   border-radius: 10px;
@@ -78,11 +78,11 @@
   bottom: 10px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
   color: white;
-  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
-  padding: 5px 10px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 5px 8px;
   border-radius: 5px;
 }
 
@@ -281,7 +281,7 @@
   <div class="header-bar">
    <div id="mainTitle">i-dle 몰아보기</div>
 </div>
-<div class="category-section">
+<div class="category-section cards">
   <div class="category-card">
     <a href="category.html?category=MV_SPECIAL_CLIP">
       <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg');">
@@ -331,6 +331,7 @@
       </div>
     </a>
   </div>
+
   <!-- 두 번째 줄 -->
   <div class="category-card">
     <a href="category.html?category=ORIGINAL_VARIETY">
@@ -340,7 +341,7 @@
     </a>
   </div>
   <div class="category-card">
-    <a href="category.html?category=OFFICIAL_CLIPS">
+    <a href="category_official_clips.html">
       <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg');">
         <span class="category-title">OFFICIAL_CLIPS</span>
       </div>
