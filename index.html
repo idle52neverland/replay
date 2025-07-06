@@ -440,18 +440,22 @@
         return match ? match[1] : '2000-01-01';
       }
 
-const allWithIndex = all.map((item, index) => ({ ...item, __index: index }));
-
 allWithIndex.sort((a, b) => {
   const timeA = new Date(a.date).getTime();
   const timeB = new Date(b.date).getTime();
 
   if (timeA < timeB) return 1;
   if (timeA > timeB) return -1;
-  return a.__index - b.__index;
+
+  // 날짜 같으면: 같은 카테고리 내에서 등록된 순서대로
+  if (a.category === b.category) {
+    return a.__index - b.__index;
+  }
+
+  // 다른 카테고리는 섞이지 않도록 (선택사항: category 이름순 정렬)
+  return 0; // 또는 return a.category.localeCompare(b.category)
 });
 
-const allSorted = allWithIndex.map(({ __index, ...rest }) => rest);
 
 
       let filtered = allSorted;
