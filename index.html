@@ -104,7 +104,7 @@
       justify-content: center;
       align-items: center;
       gap: 10px;
-      margin: 20px 0 100px;
+      margin: 20px 0;
       flex-wrap: wrap;
     }
     .search-wrapper {
@@ -435,8 +435,12 @@
         typeof etcCards !== 'undefined' ? etcCards : []
       );
 
-        all.sort((a, b) => new Date(b.date) - new Date(a.date));
+      function extractDate(title) {
+        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
+        return match ? match[1] : '2000-01-01';
+      }
 
+      all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
       let filtered = all;
 
       function updateCardCount(count) {
