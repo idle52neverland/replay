@@ -440,7 +440,7 @@
         return match ? match[1] : '2000-01-01';
       }
 
-      all.sort((a, b) => new Date(b.date || '2000-01-01') - new Date(a.date || '2000-01-01'));
+     all.sort((a, b) => new Date(b.date) - new Date(a.date));
 
       let filtered = all;
 
