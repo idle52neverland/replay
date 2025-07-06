@@ -47,14 +47,6 @@
       margin: 0 auto;
     }
     /* 카테고리 카드만 영향을 미치게 수정 */
-.category-section.cards {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개 */
-  gap: 15px;
-  max-width: 1500px;
-  margin: 0 auto;
-}
-
 .category-section.cards .category-card {
   position: relative;
   width: 100%;
@@ -70,6 +62,19 @@
   background-position: center;
   border-radius: 10px;
 }
+
+.category-section.cards .category-title {
+  display: block;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6); /* 배경 흐림 효과 */
+  width: 100%;
+  text-align: center; /* 텍스트 중앙 정렬 */
+  margin-top: 5px; /* 이미지와 텍스트 사이에 간격 추가 */
+}
+
 
 .category-section.cards .category-title {
   display: block;
