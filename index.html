@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>i-dle 몰아보기</title>
   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
-
   <style>
     body {
       margin: 0;
@@ -13,8 +12,7 @@
       background-color: #111;
       color: #fff;
       text-align: center;
-      padding-left: 5px;
-      padding-right: 5px;
+      padding: 0 5px;
     }
     @media screen and (min-width: 1024px) {
       html, body {
@@ -37,66 +35,36 @@
       left: 50%;
       transform: translateX(-50%);
     }
-    .category-section {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 18px 10px;
-      padding: 30px 10px 10px;
-      max-width: 1100px;
+    .category-section.cards {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 15px;
+      max-width: 1500px;
       margin: 0 auto;
     }
-    /* 카테고리 카드만 영향을 미치게 수정 */
-.category-section.cards {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr); /* 1줄에 7개 */
-  gap: 15px;
-  max-width: 1500px;
-  margin: 0 auto;
-}
-
-.category-section.cards .category-card {
-  position: relative;
-  width: 100%;
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.category-section.cards .category-thumbnail {
-  width: 100%;
-  padding-top: 56.25%; /* 9/16 = 0.5625 → 56.25% */
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  border-radius: 10px;
-}
-
-.category-section.cards .category-title {
-  position: static;
-  transform: none;
-  background: none;
-  padding: 6px 0 0;
-  font-size: 13px;
-  font-weight: 600;
-  color: white;
-  text-align: center;
-}
-.category-section.cards .category-card a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-decoration: none;
-}
-
-    .category-btn {
-      padding: 10px 20px;
-      background-color: #333;
-      border-radius: 20px;
-      font-size: 15px;
+    .category-card {
+      width: 100%;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .category-thumbnail {
+      width: 100%;
+      padding-top: 56.25%;
+      background-size: cover;
+      background-position: center;
+      border-radius: 10px;
+    }
+    .category-title {
+      padding: 6px 0 0;
+      font-size: 13px;
       font-weight: 600;
-      color: #fff;
-      cursor: pointer;
-      border: none;
+      color: white;
+      text-align: center;
+    }
+    .category-card a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       text-decoration: none;
     }
     .top-bar {
@@ -124,7 +92,6 @@
       transform: translateY(-50%);
       background: none;
       border: none;
-      padding: 0;
       cursor: pointer;
     }
     .search-wrapper button img {
@@ -150,36 +117,25 @@
     .card-container {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      row-gap: 24px;       
-      column-gap: 16px;    
+      gap: 24px 16px;
       padding: 0 50px;
+      margin: 0 auto;
       box-sizing: border-box;
       width: 100%;
-      margin: 0 auto;
-   }
+    }
     .card {
       display: flex;
       flex-direction: column;
-      background-color: transparent;
-      border-radius: 0;
-      overflow: hidden;
-      text-align: left;
       text-decoration: none;
       cursor: pointer;
-      width: 100%;
-      padding: 0;
-      margin: 0;
-    }
-    .thumbnail-wrapper {
-      position: relative;
     }
     .thumbnail-wrapper img {
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      display: block;
       background-color: #000;
       border-radius: 8px;
+      display: block;
     }
     .card-title {
       font-size: 17px;
@@ -193,7 +149,6 @@
       -webkit-line-clamp: 4;
       -webkit-box-orient: vertical;
       text-overflow: ellipsis;
-      box-sizing: content-box;
     }
     .card-meta {
       font-size: 11px;
@@ -203,7 +158,6 @@
       gap: 10px;
       padding: 2px 6px 4px;
       opacity: 0.85;
-      flex-wrap: nowrap;
       text-align: left;
     }
     .button-wrapper {
@@ -230,167 +184,135 @@
     }
     @media screen and (max-width: 768px) {
       .card-container {
-        grid-template-columns: repeat(1, 1fr) !important;
-        padding: 0 0px;
-        width: 100%;
-        max-width: 100%;
+        grid-template-columns: 1fr !important;
+        padding: 0;
       }
       .category-btn {
         padding: 6px 14px;
         font-size: 13px;
-      }
-      .top-bar input {
-        width: 140px;
       }
       .top-bar {
         flex-wrap: nowrap;
         justify-content: center;
         gap: 6px;
       }
-      .search-wrapper {
-        flex-shrink: 1;
+      .search-wrapper input {
+        width: 140px;
       }
-      .top-bar button:not(.search-btn) {
-        flex-shrink: 0;
-      }
-    }
-
-    @media screen and (max-width: 768px) {
       .card-meta {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        text-align: left;
       }
     }
-
-    .meta-category {
-      display: block;
-      margin-bottom: 2px;
-    }
-
     .meta-member::after {
       content: " |";
-    }
-
-    .meta-member,
-    .meta-duration {
-      display: inline;
     }
   </style>
 </head>
 <body>
   <div class="header-bar">
-   <div id="mainTitle">i-dle 몰아보기</div>
+    <div id="mainTitle">i-dle 몰아보기</div>
+  </div>
+  <div class="category-card">
+  <a href="category.html?category=MV_SPECIAL_CLIP">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg');"></div>
+    <div class="category-title">MV_SPECIAL_CLIP</div>
+  </a>
 </div>
-<div class="category-section cards">
-  <div class="category-card">
-    <a href="category.html?category=MV_SPECIAL_CLIP">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg');"></div>
-      <div class="category-title">MV_SPECIAL_CLIP</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=SPECIAL_RELEASES">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg');"></div>
-      <div class="category-title">SPECIAL_RELEASES</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=STAGE_PERFORMANCE">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg');"></div>
-      <div class="category-title">STAGE_PERFORMANCE</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=VOCAL_AND_DANCE">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wlnE89SEC4U/sddefault.jpg');"></div>
-      <div class="category-title">VOCAL_AND_DANCE</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=RECORDING_BEHIND">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg');"></div>
-      <div class="category-title">RECORDING_BEHIND</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=LIVE_STREAM">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg');"></div>
-      <div class="category-title">LIVE_STREAM</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=INTERVIEW">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg');"></div>
-      <div class="category-title">INTERVIEW</div>
-    </a>
-  </div>
-
-  <!-- 두 번째 줄 -->
-  <div class="category-card">
-    <a href="category.html?category=ORIGINAL_VARIETY">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg');"></div>
-      <div class="category-title">ORIGINAL_VARIETY</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category_official_clips.html">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg');"></div>
-      <div class="category-title">OFFICIAL_CLIPS</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=MEDIA_CONTENTS">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg');"></div>
-      <div class="category-title">MEDIA_CONTENTS</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=RADIO_PODCAST">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg');"></div>
-      <div class="category-title">RADIO_PODCAST</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=COMMERCIALS">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg');"></div>
-      <div class="category-title">COMMERCIALS</div>
-    </a>
-  </div>
-  <div class="category-card">
-    <a href="category.html?category=ETC">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg');"></div>
-      <div class="category-title">ETC</div>
-    </a>
-      </div>
-  <div class="category-card">
-    <a href="category.html?category=SHORTS">
-      <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg');"></div>
-      <div class="category-title">SHORTS</div>
-    </a>
-  </div>
+<div class="category-card">
+  <a href="category.html?category=SPECIAL_RELEASES">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg');"></div>
+    <div class="category-title">SPECIAL_RELEASES</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=STAGE_PERFORMANCE">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wf2el46VZEA/maxresdefault.jpg');"></div>
+    <div class="category-title">STAGE_PERFORMANCE</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=VOCAL_AND_DANCE">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wlnE89SEC4U/sddefault.jpg');"></div>
+    <div class="category-title">VOCAL_AND_DANCE</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=RECORDING_BEHIND">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg');"></div>
+    <div class="category-title">RECORDING_BEHIND</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=LIVE_STREAM">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg');"></div>
+    <div class="category-title">LIVE_STREAM</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=INTERVIEW">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg');"></div>
+    <div class="category-title">INTERVIEW</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=ORIGINAL_VARIETY">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg');"></div>
+    <div class="category-title">ORIGINAL_VARIETY</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category_official_clips.html">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/V-2lTBsI4_U/maxresdefault.jpg');"></div>
+    <div class="category-title">OFFICIAL_CLIPS</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=MEDIA_CONTENTS">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg');"></div>
+    <div class="category-title">MEDIA_CONTENTS</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=RADIO_PODCAST">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg');"></div>
+    <div class="category-title">RADIO_PODCAST</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=COMMERCIALS">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg');"></div>
+    <div class="category-title">COMMERCIALS</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=ETC">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg');"></div>
+    <div class="category-title">ETC</div>
+  </a>
+</div>
+<div class="category-card">
+  <a href="category.html?category=SHORTS">
+    <div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg');"></div>
+    <div class="category-title">SHORTS</div>
+  </a>
 </div>
 
-
-
-  <div class="top-bar">
+   <div class="top-bar">
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search all videos...">
-      <button id="searchBtn" title="검색 실행" style="font-size: 16px; background: none; border: none; cursor: pointer;">🔍</button>
+      <button id="searchBtn" title="검색 실행">🔍</button>
     </div>
     <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
     <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
   </div>
-
   <div id="cardCount" style="text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc;"></div>
   <div class="card-container" id="allCards"></div>
-
   <div class="button-wrapper">
-    <button id="loadMoreBtn" type="button">More</button>
+    <button id="loadMoreBtn">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
-
   <script src="common.js"></script>
   <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
   <script src="js/cards-STAGE_PERFORMANCE.js"></script>
@@ -407,6 +329,7 @@
   <script src="js/cards-SHORTS.js"></script>
   <script src="js/cards-ETC.js"></script>
   <script>
+    const normalize = str => str.toLowerCase().replace(/[^가-힯\w]+/g, '').replace(/\s+/g, '');
     document.addEventListener("DOMContentLoaded", function () {
       const container = document.getElementById("allCards");
       const loadMoreBtn = document.getElementById("loadMoreBtn");
@@ -434,47 +357,26 @@
         typeof shortsCards !== 'undefined' ? shortsCards : [],
         typeof etcCards !== 'undefined' ? etcCards : []
       );
-
-      function extractDate(title) {
-        const match = title.match(/\((\d{4}-\d{2}-\d{2})\)/);
-        return match ? match[1] : '2000-01-01';
-      }
-
-     all.sort((a, b) => new Date(b.date) - new Date(a.date));
-
+      all.sort((a, b) => new Date(b.date) - new Date(a.date));
       let filtered = all;
-
       function updateCardCount(count) {
         cardCountEl.textContent = `총 ${count}개 영상`;
       }
-
       function applySearch() {
-        const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-        const rawKeywords = searchInput.value
-          .toLowerCase()
-          .replace(/[^\w\uac00-\ud7af]+/g, ' ')
-          .split(/\s+/)
-          .filter(Boolean);
+        const rawKeywords = searchInput.value.toLowerCase().replace(/[^가-힯\w]+/g, ' ').split(/\s+/).filter(Boolean);
         const keywords = rawKeywords.map(k => normalize(k));
-
         filtered = all.filter(c => {
           const combinedText = normalize(c.title + c.member);
           return keywords.every(k => combinedText.includes(k));
         });
-
         currentIndex = 0;
         renderCards(filtered);
       }
-
       function renderCards(cards) {
         container.innerHTML = '';
         cards.slice(0, currentIndex + batchSize).forEach(data => {
           const card = document.createElement("a");
           card.className = "card";
-          card.setAttribute("data-category", data.category);
-          card.setAttribute("data-member", data.member);
-          card.setAttribute("data-year", data.year);
-
           card.innerHTML = `
             <div class="card-meta">
               <div class="meta-category">${data.category}</div>
@@ -485,61 +387,27 @@
             </div>
             <div class="card-title">${data.title}</div>
           `;
-
-          card.addEventListener("click", (e) => {
+          card.addEventListener("click", e => {
             e.preventDefault();
-            e.stopPropagation();
             window.open(data.link, "_blank");
           });
-
           container.appendChild(card);
         });
-
-        // ✅ 썸네일 비율 판별하여 스타일 적용
-        document.querySelectorAll('.thumbnail-wrapper img').forEach(img => {
-          img.onload = function () {
-            const isVertical = img.naturalHeight > img.naturalWidth;
-            img.style.objectFit = isVertical ? 'contain' : 'cover';
-            img.style.backgroundColor = '#000';
-          };
-        });
-
         currentIndex += batchSize;
         loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
         updateCardCount(cards.length);
       }
-
       renderCards(filtered);
-
-      loadMoreBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        loadMoreBtn.blur();
-        container.classList.add("disabled");
-        setTimeout(() => {
-          renderCards(filtered);
-          container.classList.remove("disabled");
-        }, 100);
-      });
-
+      loadMoreBtn.addEventListener("click", () => renderCards(filtered));
       searchBtn.addEventListener("click", applySearch);
-      searchInput.addEventListener("keydown", (e) => {
-        if (e.key === "Enter") {
-          e.preventDefault();
-          applySearch();
-        }
-      });
-
+      searchInput.addEventListener("keydown", e => e.key === "Enter" && applySearch());
       resetSearchBtn.addEventListener("click", () => {
         searchInput.value = '';
         filtered = all;
         currentIndex = 0;
         renderCards(filtered);
       });
-
-      scrollTopBtn.addEventListener("click", () => {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
+      scrollTopBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
     });
   </script>
 </body>
