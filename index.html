@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>i-dle 몰아보기</title>
-  <link rel="icon" href="images/i-dle logo.png" type="image/png" />
   <style>
   body {
     margin: 0;
@@ -26,18 +25,17 @@
     margin-bottom: 40px;
   }
   .category-row {
-    display: grid;
-    justify-content: center;
-    gap: 16px;
-  }
-  .category-row.row1 {
-    grid-template-columns: repeat(7, 1fr);
-    max-width: 90%;
-  }
-  .category-row.row2 {
-    grid-template-columns: repeat(8, 1fr);
-    max-width: 95%;
-  }
+  display: grid;
+  grid-template-columns: repeat(7, 1fr); /* 한 줄에 7개씩 */
+  gap: 20px; /* 썸네일 사이 간격 */
+  max-width: 95%;
+  margin: 0 auto;
+}
+.category-thumbnail {
+  flex: 0 0 calc(100% / 7 - 20px); /* 7개씩 들어가도록 */
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
   .category-item {
     display: flex;
     flex-direction: column;
@@ -178,7 +176,6 @@
   <script src="js/cards-ORIGINAL_VARIETY.js"></script>
   <script src="js/cards-MEDIA_CONTENTS.js"></script>
   <script src="js/cards-RADIO_PODCAST.js"></script>
-  <script src="js/cards-BEHIND_CLIPS.js"></script>
   <script src="js/cards-OFFICIAL_CLIPS.js"></script>
   <script src="js/cards-INTERVIEW.js"></script>
   <script src="js/cards-LIVE_STREAM.js"></script>
@@ -205,7 +202,6 @@
       "https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg",
       "https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg",
       "https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg",
-      "https://i.ytimg.com/vi/Xsdfgg8aEQQ/sddefault.jpg",
       "https://i.ytimg.com/vi/-xcOOq9bWYI/sddefault.jpg",
       "https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg",
       "https://i.ytimg.com/vi/7D-CxMpyqOQ/sddefault.jpg",
@@ -243,7 +239,6 @@
       typeof originalVarietyCards !== 'undefined' ? originalVarietyCards : [],
       typeof mediaContentsCards !== 'undefined' ? mediaContentsCards : [],
       typeof radioPodcastCards !== 'undefined' ? radioPodcastCards : [],
-      typeof behindClipsCards !== 'undefined' ? behindClipsCards : [],
       typeof officialClipCards !== 'undefined' ? officialClipCards : [],
       typeof interviewCards !== 'undefined' ? interviewCards : [],
       typeof liveStreamCards !== 'undefined' ? liveStreamCards : [],
