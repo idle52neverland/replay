@@ -1,7 +1,7 @@
 const commercialsCards = [
 {
   "link": "https://youtu.be/B-UdZ9a7rH4",
-  "category": "INTERVIEW",
+  "category": "COMMERCIALS",
   "member": "소연",
   "date": "2016-10-07",
   "duration": "00:00:58",
