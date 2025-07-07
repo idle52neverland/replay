@@ -521,9 +521,10 @@ let filtered = allSorted;
 
           card.innerHTML = `
             <div class="card-meta">
-              <div class="meta-category">${data.category}</div>
-              <div class="meta-info">${data.member} | ${data.duration || ''}</div>
-            </div>
+  <div class="meta-category">${data.category}</div>
+  <div class="meta-info">${data.member}</div> 
+</div>
+
             <div class="thumbnail-wrapper">
   <img src="${data.thumbnail}" alt="${data.alt}">
   <div class="duration-overlay">${data.duration || ''}</div> 
