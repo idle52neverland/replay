@@ -564,14 +564,9 @@ let filtered = allSorted;
       });
 
       resetSearchBtn.addEventListener("click", () => {
-  searchInput.value = '';
-  
-  all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
-
-  filtered = all;
-  currentIndex = 0;
-  renderCards(filtered);
+  location.reload();
 });
+
 
 
       scrollTopBtn.addEventListener("click", () => {
