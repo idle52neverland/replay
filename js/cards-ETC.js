@@ -256,8 +256,8 @@ const etcCards = [
   "date": "2025-07-02",
   "duration": "00:21:17",
   "thumbnail": "https://i.ytimg.com/vi/TYZgW0kG0-g/maxresdefault.jpg",
-  "alt": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
-  "title": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
+  "alt": "[민니] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
+  "title": "[민니] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
 },
   {
   "link": "https://youtu.be/o7cWHJSSVN0",
@@ -266,8 +266,8 @@ const etcCards = [
   "date": "2025-06-04",
   "duration": "00:23:18",
   "thumbnail": "https://i.ytimg.com/vi/o7cWHJSSVN0/maxresdefault.jpg",
-  "alt": "[소연: 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)",
-  "title": "[소연: 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)"
+  "alt": "[소연- 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)",
+  "title": "[소연- 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)"
 },
 {
   "link": "https://youtu.be/Ql_FFV6N5bs",
@@ -276,8 +276,8 @@ const etcCards = [
   "date": "2025-02-11",
   "duration": "00:12:54",
   "thumbnail": "https://i.ytimg.com/vi/Ql_FFV6N5bs/maxresdefault.jpg",
-  "alt": "[소연: 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)",
-  "title": "[소연: 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)"
+  "alt": "[소연- 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)",
+  "title": "[소연- 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)"
 }
 
 
