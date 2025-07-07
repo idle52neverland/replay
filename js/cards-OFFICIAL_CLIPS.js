@@ -7683,6 +7683,17 @@ const officialClipCards = [
   "duration": "00:12:03",
   "subtag": "아이톡 | I-TALK",
   "date": "2025-07-05"
+},
+  {
+  "link": "https://youtu.be/vFA56rcyljU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2025-07-07",
+  "duration": "00:10:24",
+  "thumbnail": "https://i.ytimg.com/vi/vFA56rcyljU/maxresdefault.jpg",
+  "alt": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB (2025-07-07)",
+  "title": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB (2025-07-07)",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
