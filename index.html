@@ -265,18 +265,14 @@
         text-align: left;
       }
    .category-section.cards {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
     gap: 10px;
     padding: 20px 10px;
   }
   
-  .category-section.cards .category-card {
-    flex: 0 0 auto;
-    width: 160px; /* 원하는 크기로 조절 */
-    scroll-snap-align: start;
+  category-section.cards .category-card {
+    width: 100%; /* grid에서 자동으로 맞게 들어갑니다 */
   }
 }
 
