@@ -2,53 +2,66 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>I-DLE 몰아보기 - 카테고리</title>
   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
   <style>
-    body { margin: 0; font-family: 'Helvetica Neue', sans-serif; background-color: #111; color: #fff; text-align: center; }
+    body { margin: 0; font-family: 'Helvetica Neue', sans-serif; background-color: #111; color: #fff; text-align: center; padding: 0 5px; }
     .header-bar { display: flex; justify-content: center; align-items: center; padding: 60px 20px 30px; position: relative; }
     #mainTitle { font-size: 28px; color: #fff; position: absolute; left: 50%; transform: translateX(-50%); margin: 0; }
-    .category-section { display: flex; justify-content: center; gap: 20px; padding: 20px; flex-wrap: wrap; }
- .dropdown-select {
-  padding: 10px 16px;
-  border: 1px solid #666;
-  border-radius: 6px;
-  background-color: rgba(255, 255, 255, 0.05); /* 반투명 배경 */
-  color: #fff;
-  font-size: 16px;
-  cursor: pointer;
-  appearance: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7'%3E%3Cpath fill='white' d='M6 7L0 0h12z'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 12px center;
-  background-size: 12px 7px;
-  transition: border-color 0.3s, background-color 0.3s;
-}
+    .category-section { display: flex; flex-direction: column; gap: 10px; padding: 30px 10px 10px; }
 
-.dropdown-select:hover {
-  border-color: #aaa;
-  background-color: rgba(255, 255, 255, 0.1);
-}
+    .toggle-header-btn {
+      padding: 10px 20px;
+      border-radius: 20px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      margin: 5px auto;
+      display: inline-block;
+      transition: background-color 0.3s;
+    }
+    .toggle-header-btn:hover {
+      background-color: #555;
+    }
 
-.dropdown-select:focus {
-  outline: none;
-  border-color: #fff;
-  background-color: rgba(255, 255, 255, 0.15);
-}
+    .toggle-group {
+      display: none;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 10px;
+    }
 
-
+    .category-btn {
+      background-color: #333;
+      border-radius: 20px;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      padding: 8px 16px;
+      font-size: 14px;
+      transition: all 0.3s;
+    }
+    .category-btn.active {
+      background-color: #fff !important;
+      color: #111 !important;
+    }
+    .category-btn:hover {
+      background-color: #555;
+    }
 
     .top-bar { display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0; flex-wrap: wrap; }
     .search-wrapper { position: relative; }
     .search-wrapper input { padding: 12px 40px 12px 16px; border-radius: 24px; border: none; font-size: 16px; }
-    .search-wrapper button { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; padding: 0; cursor: pointer; font-size: 16px; }
+    .search-wrapper button { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; font-size: 16px; }
     .top-bar button:not(#searchBtn) { background-color: #fff; border: none; border-radius: 50%; padding: 6px; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; cursor: pointer; }
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
     .card-container { display: grid; grid-template-columns: repeat(4, 1fr); row-gap: 24px; column-gap: 16px; padding: 0 50px; box-sizing: border-box; width: 100%; margin: 0 auto; }
     .card { display: flex; flex-direction: column; cursor: pointer; text-decoration: none; }
+    .thumbnail-wrapper { position: relative; }
     .thumbnail-wrapper img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background-color: #000; border-radius: 8px; }
     .card-meta { font-size: 13px; color: #ccc; text-align: left; padding: 4px 6px 6px; display: flex; justify-content: space-between; flex-wrap: nowrap; opacity: 0.9; }
     .card-title { background-color: #111; color: #fff; padding: 6px; text-align: left; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
@@ -57,42 +70,22 @@
     #scrollTopBtn:hover { background-color: #ddd; }
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
     @media (max-width: 768px) {
-      .card-container { grid-template-columns: repeat(1, 1fr); padding: 0 2px; width: 100%; max-width: 100%; }
+      .card-container { grid-template-columns: repeat(1, 1fr); padding: 0 2px; }
+      .card-title { font-size: 15px; line-height: 1.2em; white-space: normal; }
     }
   </style>
 </head>
 <body>
   <div class="header-bar"><div id="mainTitle">I-DLE 몰아보기</div></div>
-  <div class="category-section">
-    <select class="dropdown-select" id="yearSelect">
-      <option value="">연도 선택</option>
-      <option value="2025">2025</option>
-      <option value="2024">2024</option>
-      <option value="2023">2023</option>
-      <option value="2022">2022</option>
-      <option value="2021">2021</option>
-      <option value="2020">2020</option>
-      <option value="2019">2019</option>
-      <option value="2018">2018</option>
-      <option value="PRE-DEBUT">PRE-DEBUT</option>
-    </select>
 
-    <select class="dropdown-select" id="monthSelect">
-      <option value="">월 선택</option>
-      <option value="01">01</option>
-      <option value="02">02</option>
-      <option value="03">03</option>
-      <option value="04">04</option>
-      <option value="05">05</option>
-      <option value="06">06</option>
-      <option value="07">07</option>
-      <option value="08">08</option>
-      <option value="09">09</option>
-      <option value="10">10</option>
-      <option value="11">11</option>
-      <option value="12">12</option>
-    </select>
+  <div class="category-section">
+    <button class="toggle-header-btn" id="yearToggleBtn">연도 선택 ⌄</button>
+    <div class="toggle-group" id="yearGroup"></div>
+
+    <button class="toggle-header-btn" id="monthToggleBtn">월 선택 ⌄</button>
+    <div class="toggle-group" id="monthGroup"></div>
   </div>
+
   <div class="top-bar">
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search in category">
@@ -196,12 +189,15 @@
     function applyFilters() {
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       const keywordInput = document.getElementById("searchInput").value;
-      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-      const rawKeywords = keywordInput.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ').split(/\s+/).filter(Boolean);
+      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\d]+/g, '').replace(/\s+/g, '');
+      const rawKeywords = keywordInput.toLowerCase().replace(/[^\w\uac00-\d]+/g, ' ').split(/\s+/).filter(Boolean);
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
 
-      const year = document.getElementById("yearSelect").value;
-      const month = document.getElementById("monthSelect").value;
+      const yearBtns = document.querySelectorAll("#yearGroup .category-btn.active");
+      const monthBtns = document.querySelectorAll("#monthGroup .category-btn.active");
+
+      const years = Array.from(yearBtns).map(b => b.textContent);
+      const months = Array.from(monthBtns).map(b => b.textContent);
 
       filtered = all.filter(card => {
         if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
@@ -211,18 +207,14 @@
           if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
         }
 
-        if (year && year !== "PRE-DEBUT") {
+        if (years.length) {
           const cardYear = (card.date || extractDate(card.title)).slice(0, 4);
-          if (cardYear !== year) return false;
+          if (!years.includes(cardYear)) return false;
         }
 
-        if (month) {
+        if (months.length) {
           const cardMonth = (card.date || extractDate(card.title)).slice(5, 7);
-          if (cardMonth !== month) return false;
-        }
-
-        if (year === "PRE-DEBUT") {
-          return (card.date || extractDate(card.title)).startsWith("PRE");
+          if (!months.includes(cardMonth)) return false;
         }
 
         return true;
@@ -239,12 +231,53 @@
       renderCards(filtered);
     }
 
+    function createYearButtons() {
+      const years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"];
+      const container = document.getElementById("yearGroup");
+      years.forEach(year => {
+        const btn = document.createElement("button");
+        btn.textContent = year;
+        btn.className = "category-btn";
+        btn.onclick = () => {
+          btn.classList.toggle("active");
+          applyFilters();
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function createMonthButtons() {
+      const months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
+      const container = document.getElementById("monthGroup");
+      months.forEach(month => {
+        const btn = document.createElement("button");
+        btn.textContent = month;
+        btn.className = "category-btn";
+        btn.onclick = () => {
+          btn.classList.toggle("active");
+          applyFilters();
+        };
+        container.appendChild(btn);
+      });
+    }
+
     window.onload = function () {
       const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
       mainTitle.textContent = selectedCategory || "전체 영상";
 
-      document.getElementById("yearSelect").addEventListener("change", applyFilters);
-      document.getElementById("monthSelect").addEventListener("change", applyFilters);
+      createYearButtons();
+      createMonthButtons();
+
+      document.getElementById("yearToggleBtn").onclick = () => {
+        const group = document.getElementById("yearGroup");
+        group.style.display = group.style.display === "flex" ? "none" : "flex";
+      };
+
+      document.getElementById("monthToggleBtn").onclick = () => {
+        const group = document.getElementById("monthGroup");
+        group.style.display = group.style.display === "flex" ? "none" : "flex";
+      };
+
       document.getElementById("searchBtn").onclick = applyFilters;
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
