@@ -186,8 +186,8 @@ const etcCards = [
   "date": "2024-05-04",
   "duration": "00:14:56",
   "thumbnail": "https://i.ytimg.com/vi/Zr-Kx53WMe4/sddefault.jpg",
-  "alt": "[놀토- 아딱질 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)",
-  "title": "[놀토- 아딱질 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)"
+  "alt": "[놀토- FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)",
+  "title": "[놀토- FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |(2024-05-04)"
 },
 {
   "link": "https://youtu.be/zwZg-ocBEuU",
@@ -258,6 +258,26 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/TYZgW0kG0-g/maxresdefault.jpg",
   "alt": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
   "title": "[MINNIE] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
+},
+  {
+  "link": "https://youtu.be/o7cWHJSSVN0",
+  "category": "ETC",
+  "member": "소연",
+  "date": "2025-06-04",
+  "duration": "00:23:18",
+  "thumbnail": "https://i.ytimg.com/vi/o7cWHJSSVN0/maxresdefault.jpg",
+  "alt": "[소연: 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)",
+  "title": "[소연: 08:33~10:56] WAV 덕분에 더 빛났던 2주 차 음방🏆💖 | EN JP CN | tripleS ASSEMBLE25 (2025-06-04)"
+},
+{
+  "link": "https://youtu.be/Ql_FFV6N5bs",
+  "category": "ETC",
+  "member": "소연",
+  "date": "2025-02-11",
+  "duration": "00:12:54",
+  "thumbnail": "https://i.ytimg.com/vi/Ql_FFV6N5bs/maxresdefault.jpg",
+  "alt": "[소연: 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)",
+  "title": "[소연: 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)"
 }
 
 
