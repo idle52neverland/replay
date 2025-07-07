@@ -400,6 +400,7 @@
       <input type="text" id="searchInput" placeholder="Search all videos...">
       <button id="searchBtn" style="font-size: 16px; background: none; border: none; cursor: pointer;">🔍</button>
     </div>
+      <button id="resetSearchBtn"><img src="images/뒤로가기.jpg" alt="검색 초기화"></button>
       <button onclick="location.href='index.html'"><img src="images/홈.jpg" alt="홈"></button>
   </div>
 
@@ -563,11 +564,15 @@ let filtered = allSorted;
       });
 
       resetSearchBtn.addEventListener("click", () => {
-        searchInput.value = '';
-        filtered = all;
-        currentIndex = 0;
-        renderCards(filtered);
-      });
+  searchInput.value = '';
+  
+  all.sort((a, b) => new Date(extractDate(b.title)) - new Date(extractDate(a.title)));
+
+  filtered = all;
+  currentIndex = 0;
+  renderCards(filtered);
+});
+
 
       scrollTopBtn.addEventListener("click", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
