@@ -241,7 +241,8 @@
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
     <div class="category-line" id="monthFilters"></div>
-   </div>
+  
+  </div>
   <div class="top-bar">
     <select id="subtagFilter">
       <option value="">🡻 서브필터 (전체)</option>
@@ -354,7 +355,8 @@
 
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
       const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-    
+      const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
+
       const years = Array.from(yearBtns).map(b => b.textContent);
       const months = Array.from(monthBtns).map(b => b.textContent);
       const members = Array.from(memberBtns).map(b => b.textContent);
@@ -388,7 +390,7 @@
     window.onload = function () {
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
-   
+    
       subtagFilter.addEventListener("change", () => {
         selectedSubtag = subtagFilter.value;
         applyFilters();
