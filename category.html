@@ -48,8 +48,7 @@
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
     <div class="category-line" id="monthFilters"></div>
-    <div class="category-line" id="memberFilters"></div>
-  </div>
+      </div>
   <div class="top-bar">
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search in category">
@@ -173,11 +172,9 @@
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
 const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-const memberBtns = document.querySelectorAll("#memberFilters .category-btn.active");
 
 const years = Array.from(yearBtns).map(b => b.textContent);
 const months = Array.from(monthBtns).map(b => b.textContent);
-const members = Array.from(memberBtns).map(b => b.textContent);
 
 filtered = all.filter(card => {
   if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
@@ -197,9 +194,7 @@ filtered = all.filter(card => {
     if (!months.includes(cardMonth)) return false;
   }
 
-  if (members.length && !members.some(m => card.member.includes(m))) return false;
-
-  return true;
+    return true;
 });
 
 
@@ -219,7 +214,6 @@ filtered = all.filter(card => {
       mainTitle.textContent = selectedCategory || "전체 영상";
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
-      createFilterButtons("memberFilters", ["미연", "민니", "소연", "우기", "슈화", "아이들"]);
       document.getElementById("searchBtn").onclick = applyFilters;
       document.getElementById("searchInput").onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       document.getElementById("resetSearchBtn").onclick = () => location.reload();
