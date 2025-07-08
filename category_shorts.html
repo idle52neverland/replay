@@ -49,6 +49,10 @@
       border: none;
       cursor: pointer;
       text-decoration: none;
+      padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+      
     }
     .category-btn.active {
       background-color: #fff !important;
@@ -185,7 +189,13 @@
     @media (max-width: 768px) {
       .card-container {
         grid-template-columns: repeat(1, 1fr);
-        padding: 0 2px;
+      .category-btn {
+    padding: 6px 14px;
+    font-size: 12px;
+    flex-shrink: 1;
+    white-space: nowrap;
+  }
+}
       }
       .card-title {
         font-size: 15px;
