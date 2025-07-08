@@ -20,7 +20,7 @@
     .top-bar button:not(#searchBtn) { background-color: #fff; border: none; border-radius: 50%; padding: 6px; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; cursor: pointer; }
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
     .card-container { display: grid; grid-template-columns: repeat(4, 1fr); row-gap: 24px; column-gap: 16px; padding: 0 50px; box-sizing: border-box; width: 100%; margin: 0 auto; }
-    .card { display: flex; flex-direction: column; cursor: pointer; text-decoration: none; }
+    .card { display: flex; flex-direction: column; cursor: pointer; text-decoration: none; border-radius: 8px; overflow: hidden; background-color: #111; }
     .thumbnail-wrapper { position: relative; }
     .duration-overlay {
       position: absolute;
@@ -33,7 +33,7 @@
       font-size: 12px;
       font-weight: 600;
     }
-    .thumbnail-wrapper img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background-color: #000; border-radius: 8px; }
+    .thumbnail-wrapper img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background-color: #000; }
     .card-meta {
       font-size: 11px;
       color: #ccc;
@@ -58,9 +58,16 @@
     }
 
     /* 세로형 카드 스타일 */
+    .card.vertical {
+      aspect-ratio: 9 / 16;
+    }
     .card.vertical .thumbnail-wrapper img {
       aspect-ratio: 9 / 16;
+      height: 100%;
       object-fit: cover;
+    }
+    .card.vertical .card-title {
+      -webkit-line-clamp: 2;
     }
   </style>
 </head>
