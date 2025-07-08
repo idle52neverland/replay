@@ -10494,8 +10494,267 @@ const shortsCards = [
     "thumbnail": "https://i.ytimg.com/vi/J3TANTDWmTQ/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
     "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)"
+  },
+{
+    "link": "https://youtu.be/TA108gdXXdw",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-09-07",
+    "duration": "00:00:27",
+    "thumbnail": "https://i.ytimg.com/vi/TA108gdXXdw/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN TACOMA 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-09-07)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN TACOMA 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-09-07)"
+  },
+  {
+    "link": "https://youtu.be/Ta1U3aOtMoM",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-09-03",
+    "duration": "00:00:29",
+    "thumbnail": "https://i.ytimg.com/vi/Ta1U3aOtMoM/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN TOKYO 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-09-03)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN TOKYO 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-09-03)"
+  },
+{
+    "link": "https://youtu.be/Z2zNUUVUOBo",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-24",
+    "duration": "00:00:29",
+    "thumbnail": "https://i.ytimg.com/vi/Z2zNUUVUOBo/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN HONG KONG 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-08-24)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN HONG KONG 💟 NEVERLAND #여자아이들 #GIDLE #iDOL #2024_GIDLE_WORLDTOUR (2024-08-24)"
+  },
+ {
+    "link": "https://youtu.be/EhU2F8FIrGw",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-04",
+    "duration": "00:00:23",
+    "thumbnail": "https://i.ytimg.com/vi/EhU2F8FIrGw/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL 💟 NEVERLAND (2024-08-04)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL 💟 NEVERLAND (2024-08-04)"
+  },
+  {
+    "link": "https://youtu.be/oOuhGolXhnM",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-02",
+    "duration": "00:00:23",
+    "thumbnail": "https://i.ytimg.com/vi/oOuhGolXhnM/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-1 (2024-08-02)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-1 (2024-08-02)"
+  },
+  {
+    "link": "https://youtu.be/Hm5yO9w7tq0",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-12-19",
+    "duration": "00:00:17",
+    "thumbnail": "https://i.ytimg.com/vi/Hm5yO9w7tq0/maxresdefault.jpg",
+    "alt": "(여자)아이들 월드투어 [아이돌] 인 시네마 Moving Poster (2024-12-19)",
+    "title": "(여자)아이들 월드투어 [아이돌] 인 시네마 Moving Poster (2024-12-19)"
+  },
+{
+    "link": "https://youtu.be/q8H-s35UB64",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-09-10",
+    "duration": "00:00:24",
+    "thumbnail": "https://i.ytimg.com/vi/q8H-s35UB64/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN OAKLAND 💟 NEVERLAND (2024-09-10)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN OAKLAND 💟 NEVERLAND (2024-09-10)"
+  },
+    {
+    "link": "https://youtu.be/HxFpi1BO_Cw",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-02",
+    "duration": "00:00:56",
+    "thumbnail": "https://i.ytimg.com/vi/HxFpi1BO_Cw/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] Would you rather Questions…⁉ (2024-08-02)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] Would you rather Questions…⁉ (2024-08-02)"
+  },
+  {
+    "link": "https://youtu.be/2e_kZPkMkzc",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-01",
+    "duration": "00:00:29",
+    "thumbnail": "https://i.ytimg.com/vi/2e_kZPkMkzc/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-2 (2024-08-01)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-2 (2024-08-01)"
+  },
+  {
+    "link": "https://youtu.be/htMfuKyOxlQ",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-31",
+    "duration": "00:00:19",
+    "thumbnail": "https://i.ytimg.com/vi/htMfuKyOxlQ/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-3 (2024-07-31)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-3 (2024-07-31)"
+  },
+  {
+    "link": "https://youtu.be/gwFimmodMAU",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-30",
+    "duration": "00:00:29",
+    "thumbnail": "https://i.ytimg.com/vi/gwFimmodMAU/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-4 (2024-07-30)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-4 (2024-07-30)"
+  },
+  {
+    "link": "https://youtu.be/um_igb6XISs",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-29",
+    "duration": "00:00:24",
+    "thumbnail": "https://i.ytimg.com/vi/um_igb6XISs/maxresdefault.jpg",
+    "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-5 (2024-07-29)",
+    "title": "2024 (G)I-DLE WORLD TOUR [iDOL] IN SEOUL D-5 (2024-07-29)"
+  },
+  {
+    "link": "https://youtu.be/GcKtY7NKfcA",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-14",
+    "duration": "00:00:24",
+    "thumbnail": "https://i.ytimg.com/vi/GcKtY7NKfcA/maxresdefault.jpg",
+    "alt": "내가 클락션 누르면 넌 Hon hon honk 해줘 ✋with #TWS #투어스 #YOUNGJAE #영재 #KYUNGMIN #경민 (2024-07-14)",
+    "title": "내가 클락션 누르면 넌 Hon hon honk 해줘 ✋with #TWS #투어스 #YOUNGJAE #영재 #KYUNGMIN #경민 (2024-07-14)"
+  },
+ {
+    "link": "https://youtu.be/D1PRgpUYgW8",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-16",
+    "duration": "00:00:19",
+    "thumbnail": "https://i.ytimg.com/vi/D1PRgpUYgW8/maxresdefault.jpg",
+    "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-1 (2023-06-16)",
+    "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-1 (2023-06-16)"
+  },
+  {
+    "link": "https://youtu.be/zUSFQybLGYw",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-15",
+    "duration": "00:00:23",
+    "thumbnail": "https://i.ytimg.com/vi/zUSFQybLGYw/maxresdefault.jpg",
+    "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-2 (2023-06-15)",
+    "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-2 (2023-06-15)"
+  },
+  {
+    "link": "https://youtu.be/eCTBv5gSWF0",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-14",
+    "duration": "00:00:20",
+    "thumbnail": "https://i.ytimg.com/vi/eCTBv5gSWF0/maxresdefault.jpg",
+    "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-3 (2023-06-14)",
+    "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-3 (2023-06-14)"
+  },
+  {
+    "link": "https://youtu.be/OI8pTqM_UFE",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-13",
+    "duration": "00:00:19",
+    "thumbnail": "https://i.ytimg.com/vi/OI8pTqM_UFE/maxresdefault.jpg",
+    "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-4 (2023-06-13)",
+    "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-4 (2023-06-13)"
+  },
+  {
+    "link": "https://youtu.be/6FRE5URQ9dY",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-12",
+    "duration": "00:00:18",
+    "thumbnail": "https://i.ytimg.com/vi/6FRE5URQ9dY/maxresdefault.jpg",
+    "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-5 (2023-06-12)",
+    "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] D-5 (2023-06-12)"
+  },
+  {
+    "link": "https://youtu.be/opNQ8H7KcIQ",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2022-06-22",
+    "duration": "00:00:19",
+    "thumbnail": "https://i.ytimg.com/vi/opNQ8H7KcIQ/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - Highlight #Shorts (2022-06-22)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - Highlight #Shorts (2022-06-22)"
+  },
+  {
+    "link": "https://youtu.be/mRsPSsPgvgk",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2022-06-16",
+    "duration": "00:00:14",
+    "thumbnail": "https://i.ytimg.com/vi/mRsPSsPgvgk/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-1 #Shorts (2022-06-16)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-1 #Shorts (2022-06-16)"
+  },
+  {
+    "link": "https://youtu.be/ULM3psUwRxk",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2022-06-15",
+    "duration": "00:00:26",
+    "thumbnail": "https://i.ytimg.com/vi/ULM3psUwRxk/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-2 #Shorts (2022-06-15)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-2 #Shorts (2022-06-15)"
+  },
+  {
+    "link": "https://youtu.be/gZ01UJvitlQ",
+    "category": "SHORTS",
+    "member": "미연",
+    "date": "2022-06-14",
+    "duration": "00:00:23",
+    "thumbnail": "https://i.ytimg.com/vi/gZ01UJvitlQ/sddefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-3 #미연 #Shorts (2022-06-14)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-3 #미연 #Shorts (2022-06-14)"
+  },
+  {
+    "link": "https://youtu.be/ZRpdrGC8DYs",
+    "category": "SHORTS",
+    "member": "소연",
+    "date": "2022-06-13",
+    "duration": "00:00:17",
+    "thumbnail": "https://i.ytimg.com/vi/ZRpdrGC8DYs/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-4 #소연 #Shorts (2022-06-13)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-4 #소연 #Shorts (2022-06-13)"
+  },
+{
+    "link": "https://youtu.be/2wK9zd4e2uQ",
+    "category": "SHORTS",
+    "member": "슈화",
+    "date": "2022-06-12",
+    "duration": "00:00:20",
+    "thumbnail": "https://i.ytimg.com/vi/2wK9zd4e2uQ/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-5 #슈화 #Shorts (2022-06-12)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-5 #슈화 #Shorts (2022-06-12)"
+  },
+  {
+    "link": "https://youtu.be/SynbN0oF8gM",
+    "category": "SHORTS",
+    "member": "우기",
+    "date": "2022-06-11",
+    "duration": "00:00:20",
+    "thumbnail": "https://i.ytimg.com/vi/SynbN0oF8gM/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-6 #우기 #Shorts (2022-06-11)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-6 #우기 #Shorts (2022-06-11)"
+  },
+  {
+    "link": "https://youtu.be/TNRgL8Mv4C8",
+    "category": "SHORTS",
+    "member": "민니",
+    "date": "2022-06-10",
+    "duration": "00:00:27",
+    "thumbnail": "https://i.ytimg.com/vi/TNRgL8Mv4C8/maxresdefault.jpg",
+    "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-7 #민니 #Shorts (2022-06-10)",
+    "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-7 #민니 #Shorts (2022-06-10)"
   }
-
 
 
   ];
