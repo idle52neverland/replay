@@ -10754,7 +10754,97 @@ const shortsCards = [
     "thumbnail": "https://i.ytimg.com/vi/TNRgL8Mv4C8/maxresdefault.jpg",
     "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-7 #민니 #Shorts (2022-06-10)",
     "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL D-7 #민니 #Shorts (2022-06-10)"
-  }
+  },
+  {
+  "link": "https://youtu.be/Cv9GTQbE668",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-07-22",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/Cv9GTQbE668/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK#170 '클락션 (Klaxon)' 퍼포먼스 비디오 비하인드 PM 19:00 | 팬들한테 어리광부리는 쿼카 (2024-07-22)",
+  "title": "[선공개] I-TALK#170 '클락션 (Klaxon)' 퍼포먼스 비디오 비하인드 PM 19:00 | 팬들한테 어리광부리는 쿼카 (2024-07-22)"
+},
+{
+  "link": "https://youtu.be/hb-NTVO4MUQ",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-07-22",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/hb-NTVO4MUQ/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK#170 '클락션 (Klaxon)' 퍼포먼스 비디오 비하인드 PM 19:00 | 우기가 강아지인 이유 (2024-07-22)",
+  "title": "[선공개] I-TALK#170 '클락션 (Klaxon)' 퍼포먼스 비디오 비하인드 PM 19:00 | 우기가 강아지인 이유 (2024-07-22)"
+},
+{
+  "link": "https://youtu.be/U4KKS82vs7Y",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-07-25",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/U4KKS82vs7Y/maxresdefault.jpg",
+  "alt": "I-TALK #171 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 | 더위 좋아 송허세 (2024-07-25)",
+  "title": "I-TALK #171 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 1 | 더위 좋아 송허세 (2024-07-25)"
+},
+{
+  "link": "https://youtu.be/iVE0O6tvaFM",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-07-28",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/iVE0O6tvaFM/maxresdefault.jpg",
+  "alt": "I-TALK #172 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 | 태국인도 못 참는 태국의 더위 (2024-07-28)",
+  "title": "I-TALK #172 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 2 | 태국인도 못 참는 태국의 더위 (2024-07-28)"
+},
+{
+  "link": "https://youtu.be/7dhQva7dRZE",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-07-30",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/7dhQva7dRZE/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK #173 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 | 태국에서 더위를 이기는 법 (2024-07-30)",
+  "title": "[선공개] I-TALK #173 '클락션 (Klaxon)' M/V 촬영 비하인드 PART 3 | 태국에서 더위를 이기는 법 (2024-07-30)"
+},
+{
+  "link": "https://youtu.be/8o3R4lIXJ5s",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-08-07",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/8o3R4lIXJ5s/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK #174 '클락션 (Klaxon)' 음악방송 비하인드 PART 1 8월 7일 PM 19:00 | 대한민국이 안전합니다 (2024-08-07)",
+  "title": "[선공개] I-TALK #174 '클락션 (Klaxon)' 음악방송 비하인드 PART 1 8월 7일 PM 19:00 | 대한민국이 안전합니다 (2024-08-07)"
+},
+{
+  "link": "https://youtu.be/ELpRUHpJqKw",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-08-07",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/ELpRUHpJqKw/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK #174 '클락션 (Klaxon)' 음악방송 비하인드 PART 1 8월 7일 PM 19:00 | 송미연 vs 예미연 그리고 조미연 (2024-08-07)",
+  "title": "[선공개] I-TALK #174 '클락션 (Klaxon)' 음악방송 비하인드 PART 1 8월 7일 PM 19:00 | 송미연 vs 예미연 그리고 조미연 (2024-08-07)"
+},
+{
+  "link": "https://youtu.be/Vt3fS4ZYUkI",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-08-13",
+  "duration": "00:00:41",
+  "thumbnail": "https://i.ytimg.com/vi/Vt3fS4ZYUkI/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드 | 연자매가 보여주는 Y2K 감성 (2024-08-13)",
+  "title": "[선공개] I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드 | 연자매가 보여주는 Y2K 감성 (2024-08-13)"
+},
+{
+  "link": "https://youtu.be/ROln3LHlfdY",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2024-08-13",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/ROln3LHlfdY/maxresdefault.jpg",
+  "alt": "[선공개] I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드 | 청순 섹시 배틀 (?) (2024-08-13)",
+  "title": "[선공개] I-TALK #176 : 'Last Forever' LIVE CLIP & 'Bloom' SPECIAL CLIP 촬영 비하인드 | 청순 섹시 배틀 (?) (2024-08-13)"
+}
 
 
   ];
