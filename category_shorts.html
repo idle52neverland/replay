@@ -21,7 +21,7 @@
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
     .card-container {
       display: grid;
-      grid-template-columns: repeat(6, 1fr); /* PC: 한 줄에 6개 */
+      grid-template-columns: repeat(5, 1fr); 
       row-gap: 24px;
       column-gap: 16px;
       padding: 0 50px;
@@ -71,8 +71,8 @@
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
     @media (max-width: 768px) {
       .card-container {
-        grid-template-columns: repeat(3, 1fr); /* 모바일: 한 줄에 3개 */
-        padding: 0; /* 모바일 좌우 여백 제거 */
+        grid-template-columns: repeat(2, 1fr); 
+        padding: 0; 
         width: 100%;
         max-width: 100%;
       }
