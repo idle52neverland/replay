@@ -4168,7 +4168,17 @@ const liveStreamCards = [
   "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDVfNDYg/MDAxNzUxNzE0MDM5MTAz.0qqYFuVNo_-CCE1vGIulmxicXcZyR4CnFcuIGFZj6lwg.XWebblALtRw235m0EXJFftW8Lg2xxkjPbTz5SvAYRFsg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "😡 (2025-07-05)",
   "title": "😡 (2025-07-05)"
-}
+},
+    {
+    "link": "https://youtu.be/GRfahi0102k",
+    "category": "LIVE_STREAM",
+    "member": "민니",
+    "date": "2025-01-21",
+    "duration": "01:25:59",
+    "thumbnail": "https://i.ytimg.com/vi/GRfahi0102k/maxresdefault.jpg",
+    "alt": "민니(MINNIE) 1st Mini Album [HER] YOUTUBE LIVE (2025-01-21)",
+    "title": "민니(MINNIE) 1st Mini Album [HER] YOUTUBE LIVE (2025-01-21)"
+  }
 
 
 
