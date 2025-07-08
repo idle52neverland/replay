@@ -10309,7 +10309,18 @@ const shortsCards = [
     "thumbnail": "https://i.ytimg.com/vi/EnPWYCLUyMA/maxresdefault.jpg",
     "alt": "I-MISSION Ep.MINNIE's happy Only on #Shorts #IMISSION #아이미션 #GIDLE #여자아이들 #MINNIE #민니 (2022-11-06)",
     "title": "I-MISSION Ep.MINNIE's happy Only on #Shorts #IMISSION #아이미션 #GIDLE #여자아이들 #MINNIE #민니 (2022-11-06)"
-  }
+  },
+    {
+    "link": "https://youtu.be/-xHzmqNrZxg",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2025-01-22",
+    "duration": "00:00:38",
+    "thumbnail": "https://i.ytimg.com/vi/-xHzmqNrZxg/maxresdefault.jpg",
+    "alt": "CONCEPT BEHIND FILMS 📹 (2025-01-22)",
+    "title": "CONCEPT BEHIND FILMS 📹 (2025-01-22)"
+  },
+  
 
 
 
