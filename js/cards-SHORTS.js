@@ -10320,7 +10320,180 @@ const shortsCards = [
     "alt": "CONCEPT BEHIND FILMS 📹 (2025-01-22)",
     "title": "CONCEPT BEHIND FILMS 📹 (2025-01-22)"
   },
-  
+  추가숏츠
+
+  {
+    "link": "https://youtu.be/H-BTVHzXnyk",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2025-05-30",
+    "duration": "00:00:17",
+    "thumbnail": "https://i.ytimg.com/vi/H-BTVHzXnyk/maxresdefault.jpg",
+    "alt": "The MIYEON Dance 🤍 (i-dle ver.) (2025-05-30)",
+    "title": "The MIYEON Dance 🤍 (i-dle ver.) (2025-05-30)"
+  },
+  {
+    "link": "https://youtu.be/EkWCfEtChwM",
+    "category": "SHORTS",
+    "member": "소연",
+    "date": "2025-05-27",
+    "duration": "00:00:25",
+    "thumbnail": "https://i.ytimg.com/vi/EkWCfEtChwM/maxresdefault.jpg",
+    "alt": "𝗧𝗵𝗲 𝗠𝗜𝗬𝗘𝗢𝗡 𝗗𝗮𝗻𝗰𝗲 🕺✨ (소연 ver.) (2025-05-27)",
+    "title": "𝗧𝗵𝗲 𝗠𝗜𝗬𝗘𝗢𝗡 𝗗𝗮𝗻𝗰𝗲 🕺✨ (소연 ver.) (2025-05-27)"
+  },
+
+    
+  {
+    "link": "https://youtu.be/nYsQ1vbTQ2k",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2025-05-22",
+    "duration": "00:00:31",
+    "thumbnail": "https://i.ytimg.com/vi/nYsQ1vbTQ2k/maxresdefault.jpg",
+    "alt": "Good Thing (CUBE Entertainment's 8th floor office ver.) (2025-05-22)",
+    "title": "Good Thing (CUBE Entertainment's 8th floor office ver.) (2025-05-22)"
+  },
+  {
+    "link": "https://youtu.be/QbhxLuHumCo",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-11-01",
+    "duration": "00:00:33",
+    "thumbnail": "https://i.ytimg.com/vi/QbhxLuHumCo/maxresdefault.jpg",
+    "alt": "YUQI's city dance! Radio Hand Dance Ver. 📻 YUQI in MELBOURNE (2024-11-01)",
+    "title": "YUQI's city dance! Radio Hand Dance Ver. 📻 YUQI in MELBOURNE (2024-11-01)"
+  },
+  {
+    "link": "https://youtu.be/yueE6ZS4BpU",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-08-09",
+    "duration": "00:00:36",
+    "thumbnail": "https://i.ytimg.com/vi/yueE6ZS4BpU/maxresdefault.jpg",
+    "alt": "[선공개] I-TALK #175 '클락션 (Klaxon)' 음악방송 비하인드 PART 2 8월 9일 PM 19:00 | ‘클락션 (Klaxon)’ 즉석 작곡 ver. (2024-08-09)",
+    "title": "[선공개] I-TALK #175 '클락션 (Klaxon)' 음악방송 비하인드 PART 2 8월 9일 PM 19:00 | ‘클락션 (Klaxon)’ 즉석 작곡 ver. (2024-08-09)"
+  },
+  {
+    "link": "https://youtu.be/v7VhGaXlK4M",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-21",
+    "duration": "00:00:21",
+    "thumbnail": "https://i.ytimg.com/vi/v7VhGaXlK4M/maxresdefault.jpg",
+    "alt": "Honk honk hit the 클락션 🚘 (Sped Up Ver.) (2024-07-21)",
+    "title": "Honk honk hit the 클락션 🚘 (Sped Up Ver.) (2024-07-21)"
+  },
+ {
+    "link": "https://youtu.be/Va9YtBsvLpE",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-07-14",
+    "duration": "00:00:11",
+    "thumbnail": "https://i.ytimg.com/vi/Va9YtBsvLpE/maxresdefault.jpg",
+    "alt": "다리에 힘이 풀려버린 슈슈 (NG Ver.) (2024-07-14)",
+    "title": "다리에 힘이 풀려버린 슈슈 (NG Ver.) (2024-07-14)"
+  },
+  {
+    "link": "https://youtu.be/9YWSAQ5VhOA",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-05",
+    "duration": "00:00:12",
+    "thumbnail": "https://i.ytimg.com/vi/9YWSAQ5VhOA/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-06-05)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-06-05)"
+  },
+  {
+    "link": "https://youtu.be/nADgygUfV3w",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-06-05",
+    "duration": "00:00:12",
+    "thumbnail": "https://i.ytimg.com/vi/nADgygUfV3w/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-06-05)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-06-05)"
+  },
+  {
+    "link": "https://youtu.be/3Cs4bh5UKpU",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-05-31",
+    "duration": "00:00:13",
+    "thumbnail": "https://i.ytimg.com/vi/3Cs4bh5UKpU/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-05-31)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-05-31)"
+  },
+  {
+    "link": "https://youtu.be/eGPJShDtqAw",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-05-31",
+    "duration": "00:00:13",
+    "thumbnail": "https://i.ytimg.com/vi/eGPJShDtqAw/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-05-31)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-05-31)"
+  },
+  {
+    "link": "https://youtu.be/6pYYypiDKLo",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-05-31",
+    "duration": "00:00:15",
+    "thumbnail": "https://i.ytimg.com/vi/6pYYypiDKLo/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-05-31)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-05-31)"
+  },
+ {
+    "link": "https://youtu.be/H4qQmqJmmlY",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-05-26",
+    "duration": "00:00:14",
+    "thumbnail": "https://i.ytimg.com/vi/H4qQmqJmmlY/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-05-26)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-05-26)"
+  },
+  {
+    "link": "https://youtu.be/K9sq1kqfy4M",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-05-26",
+    "duration": "00:00:13",
+    "thumbnail": "https://i.ytimg.com/vi/K9sq1kqfy4M/maxresdefault.jpg",
+    "alt": "#AllergyChallenge Sped ver. 💕 (2023-05-26)",
+    "title": "#AllergyChallenge Sped ver. 💕 (2023-05-26)"
+  },
+  {
+    "link": "https://youtu.be/lsXXzvXzNY0",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-02-19",
+    "duration": "00:00:35",
+    "thumbnail": "https://i.ytimg.com/vi/lsXXzvXzNY0/maxresdefault.jpg",
+    "alt": "#나는_아픈_건_딱_질색이니까 cover Reaction 👍 (2024-02-19)",
+    "title": "#나는_아픈_건_딱_질색이니까 cover Reaction 👍 (2024-02-19)"
+  },
+ {
+    "link": "https://youtu.be/B4XqRotIJyA",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-02-03",
+    "duration": "00:00:17",
+    "thumbnail": "https://i.ytimg.com/vi/B4XqRotIJyA/maxresdefault.jpg",
+    "alt": "I am the top, Super Lady #SOYEON Reaction 👍 (2024-02-03)",
+    "title": "I am the top, Super Lady #SOYEON Reaction 👍 (2024-02-03)"
+  },
+  {
+    "link": "https://youtu.be/J3TANTDWmTQ",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-01-26",
+    "duration": "00:00:17",
+    "thumbnail": "https://i.ytimg.com/vi/J3TANTDWmTQ/maxresdefault.jpg",
+    "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)",
+    "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Dance Practice Video (With Kirsten) Teaser (2024-01-26)"
+  }
 
 
 
