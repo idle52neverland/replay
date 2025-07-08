@@ -19,7 +19,16 @@
     .search-wrapper button { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; padding: 0; cursor: pointer; font-size: 16px; }
     .top-bar button:not(#searchBtn) { background-color: #fff; border: none; border-radius: 50%; padding: 6px; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; cursor: pointer; }
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
-    .card-container { display: grid; grid-template-columns: repeat(4, 1fr); row-gap: 24px; column-gap: 16px; padding: 0 50px; box-sizing: border-box; width: 100%; margin: 0 auto; }
+    .card-container {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr); /* PC: 한 줄에 6개 */
+      row-gap: 24px;
+      column-gap: 16px;
+      padding: 0 50px;
+      box-sizing: border-box;
+      width: 100%;
+      margin: 0 auto;
+    }
     .card { display: flex; flex-direction: column; cursor: pointer; text-decoration: none; border-radius: 8px; overflow: hidden; background-color: #111; }
     .thumbnail-wrapper { position: relative; }
     .thumbnail-wrapper img { width: 100%; aspect-ratio: 9 / 16; object-fit: cover; background-color: #000; }
@@ -61,11 +70,12 @@
     #scrollTopBtn:hover { background-color: #ddd; }
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
     @media (max-width: 768px) {
-      .card-container { grid-template-columns: repeat(1, 1fr); padding: 0 2px; width: 100%; max-width: 100%; }
-      .card-title { font-size: 15px; line-height: 1.2em; white-space: normal; }
-      .category-line { gap: 8px 12px; margin-bottom: 12px; }
-      .category-btn { padding: 6px 14px !important; font-size: 12px !important; flex-shrink: 1; white-space: nowrap; }
-      .top-bar input { width: 140px; }
+      .card-container {
+        grid-template-columns: repeat(3, 1fr); /* 모바일: 한 줄에 3개 */
+        padding: 0; /* 모바일 좌우 여백 제거 */
+        width: 100%;
+        max-width: 100%;
+      }
     }
   </style>
 </head>
@@ -116,7 +126,7 @@
       const next = data.slice(currentIndex, currentIndex + batchSize);
       next.forEach(card => {
         const el = document.createElement('a');
-        el.className = 'card vertical'; // 세로형 클래스 추가
+        el.className = 'card vertical';
         el.innerHTML = `
           <div class="card-meta"><span>${card.member || ''}</span></div>
           <div class="thumbnail-wrapper">
