@@ -243,20 +243,7 @@
     <div class="category-line" id="monthFilters"></div>
   
   </div>
-  <div class="top-bar">
-    <select id="subtagFilter">
-      <option value="">🡻 서브필터 (전체)</option>
-      <option value="퍼포먼스 | Performance Clip">퍼포먼스 | Performance Clip</option>
-      <option value="안무영상 | Choreography Practice Video">안무영상 | Choreography Practice Video</option>
-      <option value="아이톡 | I-TALK">아이톡 | I-TALK</option>
-      <option value="해시톡 | HASHTALK">해시톡 | HASHTALK</option>
-      <option value="아이로그 | I-LOG">아이로그 | I-LOG</option>
-      <option value="콘서트 | WORLD TOUR">콘서트 | WORLD TOUR</option>
-      <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>
-      <option value="응원법 | Fan Chant">응원법 | Fan Chant</option>
-      <option value="생일영상 | Birthday Content">생일영상 | Birthday Content</option>
-      <option value="기타 | Etc.">기타 | Etc.</option>
-    </select>
+
     <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Search in category">
       <button id="searchBtn" title="검색 실행">🔍</button>
@@ -282,8 +269,7 @@
     const searchBtn = document.getElementById("searchBtn");
     const resetBtn = document.getElementById("resetSearchBtn");
     const scrollTopBtn = document.getElementById("scrollTopBtn");
-    const subtagFilter = document.getElementById("subtagFilter");
-
+   
     let currentIndex = 0;
     const batchSize = 20;
     let filtered = [];
@@ -391,10 +377,6 @@
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
       createFilterButtons("monthFilters", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]);
     
-      subtagFilter.addEventListener("change", () => {
-        selectedSubtag = subtagFilter.value;
-        applyFilters();
-      });
       searchBtn.onclick = applyFilters;
       searchInput.onkeydown = e => { if (e.key === "Enter") applyFilters(); };
       resetBtn.onclick = () => location.reload();
