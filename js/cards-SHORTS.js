@@ -10269,8 +10269,47 @@ const shortsCards = [
     "thumbnail": "https://i.ytimg.com/vi/r32aAP_Orgo/maxresdefault.jpg",
     "alt": "I-MISSION Ep.1 Only #Shorts #IMISSION #아이미션 #GIDLE #여자아이들#MINNIE #민니 (2022-10-22)",
     "title": "I-MISSION Ep.1 Only #Shorts #IMISSION #아이미션 #GIDLE #여자아이들#MINNIE #민니 (2022-10-22)"
+  },
+    {
+    "link": "https://youtu.be/eLdyonSrXmQ",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-11-25",
+    "duration": "00:00:34",
+    "thumbnail": "https://i.ytimg.com/vi/eLdyonSrXmQ/maxresdefault.jpg",
+    "alt": "HAPPY (G)I-DLE's DINNER TIME 🏆🥰🏆 (2024-11-25)",
+    "title": "HAPPY (G)I-DLE's DINNER TIME 🏆🥰🏆 (2024-11-25)"
+  },
+    {
+    "link": "https://youtu.be/-VMdrffY09k",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2024-01-01",
+    "duration": "00:00:10",
+    "thumbnail": "https://i.ytimg.com/vi/-VMdrffY09k/maxresdefault.jpg",
+    "alt": "Happy New Year 💜 (2024-01-01)",
+    "title": "Happy New Year 💜 (2024-01-01)"
+  },
+  {
+    "link": "https://youtu.be/G_OmbpY8z9g",
+    "category": "SHORTS",
+    "member": "아이들",
+    "date": "2023-12-25",
+    "duration": "00:00:08",
+    "thumbnail": "https://i.ytimg.com/vi/G_OmbpY8z9g/maxresdefault.jpg",
+    "alt": "Happy Christmas 💜 (2023-12-25)",
+    "title": "Happy Christmas 💜 (2023-12-25)"
+  },
+    {
+    "link": "https://youtu.be/EnPWYCLUyMA",
+    "category": "SHORTS",
+    "member": "민니",
+    "date": "2022-11-06",
+    "duration": "00:00:08",
+    "thumbnail": "https://i.ytimg.com/vi/EnPWYCLUyMA/maxresdefault.jpg",
+    "alt": "I-MISSION Ep.MINNIE's happy Only on #Shorts #IMISSION #아이미션 #GIDLE #여자아이들 #MINNIE #민니 (2022-11-06)",
+    "title": "I-MISSION Ep.MINNIE's happy Only on #Shorts #IMISSION #아이미션 #GIDLE #여자아이들 #MINNIE #민니 (2022-11-06)"
   }
-
 
 
 
