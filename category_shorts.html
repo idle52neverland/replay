@@ -98,18 +98,29 @@
       border: none;
     }
     #closeBtn {
-  position: absolute;
-  top: 30px;
-  right: 350px;
-  background: rgba(255,255,255,0.8);
-  border: none;
-  border-radius: 4px;
-  padding: 4px 8px;    
-  cursor: pointer;
-  font-size: 14px;    
-  z-index: 10000;
-}
-
+      position: absolute;
+      background: rgba(255,255,255,0.8);
+      border: none;
+      border-radius: 4px;
+      padding: 4px 8px;
+      cursor: pointer;
+      font-size: 14px;
+      z-index: 10000;
+    }
+    /* PC 버전 */
+    @media (min-width: 769px) {
+      #closeBtn {
+        top: 20px;
+        right: 0;
+      }
+    }
+    /* 모바일 버전 */
+    @media (max-width: 768px) {
+      #closeBtn {
+        top: 20px;
+        right: 20px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -136,7 +147,7 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 전체화면 영상 오버레이 -->
+  <!-- 영상 오버레이 -->
   <div id="videoOverlay">
     <button id="closeBtn">닫기 ✖</button>
     <iframe id="videoFrame" src="" allowfullscreen></iframe>
