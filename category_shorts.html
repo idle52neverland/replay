@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OFFICIAL_CLIPS - i-dle 몰아보기</title>
+  <title>SHORTS - i-dle 몰아보기</title>
   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
   <style>
     body {
@@ -273,7 +273,7 @@
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
-  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+  <script src="js/cards-SHORTS.js"></script>
   <script>
     const container = document.getElementById("allCards");
     const loadMoreBtn = document.getElementById("loadMoreBtn");
@@ -290,7 +290,7 @@
     let sortOrder = "newest";
     let selectedSubtag = "";
 
-    const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
+    const all = typeof shortsCards !== "undefined" ? shortsCards : [];
 
     function updateCardCount(count) {
       cardCountEl.textContent = `총 ${count}개 영상`;
