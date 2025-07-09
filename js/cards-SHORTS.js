@@ -11801,17 +11801,7 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WMyvMTFFH_A/maxresdefault.jpg",
   "alt": "Peace 🕊️🎻 (2025-07-03)",
   "title": "Peace 🕊️🎻 (2025-07-03)"
-},
-{
-    "link": "https://www.tiktok.com/@official_i_dle/video/6766878560801148161",
-    "category": "SHORTS",
-    "member": "아이들",
-    "thumbnail": "https://www.ainet.link/data/ainet_link/mainimages/202506/2025063023308860.png",
-    "alt": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle (2025-07-10)",
-    "title": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle (2025-07-10)",
-    "duration": "00:00:23",
-    "date": "2025-07-10"
-  }
+}
 
   ];
 
