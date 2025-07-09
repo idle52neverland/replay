@@ -109,18 +109,19 @@
     #closeBtn {
   position: fixed;
   top: 10px;
-  left: 10px;
+  right: 10px;
   background: rgba(255,255,255,0.8);
   border: none;
   border-radius: 4px;
-  padding: 4px 8px;
+  padding: 6px 12px;
   cursor: pointer;
   font-size: 14px;
   z-index: 100000;
-  width: auto !important;
-  display: inline-block !important;
-  max-width: fit-content !important;
+  opacity: 0; /* 기본적으로 안보이게 */
+  transition: opacity 0.3s;
+  pointer-events: none; /* 클릭 막기 */
 }
+
 
 
     /* PC 버전 */
