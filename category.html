@@ -51,11 +51,9 @@
       box-sizing: border-box; width: 100%; margin: 0 auto;
     }
     .card {
-  display: flex;
-  flex-direction: column;
-  cursor: pointer;
-  text-decoration: none;
-}
+      display: flex; flex-direction: column; cursor: pointer;
+      text-decoration: none;
+    }
     .thumbnail-wrapper { position: relative; }
     .thumbnail-wrapper img {
       width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
@@ -66,29 +64,18 @@
       background-color: rgba(0, 0, 0, 0.7); color: #fff;
       padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 600;
     }
-    .card-meta {
-      font-size: 11px; color: #ccc; display: flex;
-      justify-content: flex-end; gap: 10px;
-      padding: 2px 6px 4px; opacity: 0.85;
+    .card-text {
+      background-color: #111; color: #fff; padding: 6px; text-align: left;
     }
     .card-title {
-  background-color: #111;
-  color: #fff;
-  padding: 6px;
-  text-align: left;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-.card-badge {
-  display: block;
-  text-align: left;
-  color: #aaa;
-  font-size: 13px;
-  margin: 4px 6px 0 6px;
-  margin-top: auto; 
-}
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+      overflow: hidden;
+      font-size: 15px;
+      line-height: 1.3em;
+    }
+    .card-member {
+      color: #aaa; font-size: 13px; margin-top: 4px;
+    }
 
     .button-wrapper {
       display: flex; justify-content: center; align-items: center;
@@ -104,7 +91,7 @@
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
 
     @media (min-width: 769px) {
-      .card-title { font-size: 17px; line-height: 1.3em; height: 80px; }
+      .card-title { font-size: 17px; line-height: 1.3em; }
       .category-btn { padding: 10px 20px; font-size: 14px; font-weight: 600; }
     }
     @media (max-width: 768px) {
@@ -191,35 +178,37 @@
     }
 
     function renderCards(data) {
-  const next = data.slice(currentIndex, currentIndex + batchSize);
-  if (!next.length) { loadMoreBtn.style.display = 'none'; return; }
+      const next = data.slice(currentIndex, currentIndex + batchSize);
+      if (!next.length) { loadMoreBtn.style.display = 'none'; return; }
 
-  next.forEach(card => {
-    const el = document.createElement('a');
-    el.className = 'card';
-    el.innerHTML = `
-      <div class="thumbnail-wrapper">
-        <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
-        <div class="duration-overlay">${card.duration || ''}</div>
-      </div>
-      <div class="card-title">${card.title}</div>
-      ${card.member ? `<div class="card-badge">#${card.member}</div>` : ''}
-    `;
-    el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
-    container.appendChild(el);
+      next.forEach(card => {
+        const el = document.createElement('a');
+        el.className = 'card';
+        el.innerHTML = `
+          <div class="thumbnail-wrapper">
+            <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
+            <div class="duration-overlay">${card.duration || ''}</div>
+          </div>
+          <div class="card-text">
+            <div class="card-title">${card.title}</div>
+            ${card.member ? `<div class="card-member">#${card.member}</div>` : ''}
+          </div>
+        `;
+        el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
+        container.appendChild(el);
 
-    const img = el.querySelector('img');
-    img.onload = () => {
-      const isVertical = img.naturalHeight > img.naturalWidth;
-      img.style.objectFit = isVertical ? 'contain' : 'cover';
-      img.style.backgroundColor = '#000';
-    };
-  });
+        const img = el.querySelector('img');
+        img.onload = () => {
+          const isVertical = img.naturalHeight > img.naturalWidth;
+          img.style.objectFit = isVertical ? 'contain' : 'cover';
+          img.style.backgroundColor = '#000';
+        };
+      });
 
-  currentIndex += batchSize;
-  loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
-  updateCardCount(data.length);
-}
+      currentIndex += batchSize;
+      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+      updateCardCount(data.length);
+    }
 
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
