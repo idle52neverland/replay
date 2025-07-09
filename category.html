@@ -190,13 +190,15 @@
     const el = document.createElement('a');
     el.className = 'card';
     el.innerHTML = `
-      <div class="thumbnail-wrapper">
-        <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
-        <div class="duration-overlay">${card.duration || ''}</div>
-      </div>
-      ${card.member ? `<div class="card-badge">#${card.member}</div>` : ''}
-      <div class="card-title">${card.title}</div>
-    `;
+     el.innerHTML = `
+  <div class="thumbnail-wrapper">
+    <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
+    <div class="duration-overlay">${card.duration || ''}</div>
+  </div>
+  ${card.member ? `<div class="card-badge">#${card.member}</div>` : ''}
+  <div class="card-title">${card.title}</div>
+`;
+
     el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
     container.appendChild(el);
 
