@@ -106,7 +106,7 @@
       border: none;
     }
     #closeBtn {
-  position: fixed; /* absolute → fixed */
+  position: fixed;
   top: 10px;
   left: 10px;
   background: rgba(255,255,255,0.8);
@@ -115,8 +115,10 @@
   padding: 4px 8px;
   cursor: pointer;
   font-size: 14px;
-  z-index: 100000; /* 확실히 맨 위로 */
+  z-index: 100000;
+  width: auto; /* ✅ 추가! */
 }
+
 
     /* PC 버전 */
     @media (min-width: 769px) {
