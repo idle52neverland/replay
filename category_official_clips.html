@@ -65,15 +65,14 @@
       background-color: rgba(0, 0, 0, 0.7); color: #fff;
       padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 600;
     }
-    .card-text-wrapper {
-      background-color: #111; color: #fff; padding: 6px; text-align: left;
-    }
     .card-title {
+      background-color: #111; color: #fff; padding: 6px; text-align: left;
       display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical;
-      overflow: hidden;
+      overflow: hidden; margin-bottom: 0;
     }
     .card-member {
-      display: block; color: #aaa; font-size: 13px; margin-top: 4px;
+      display: block; color: #aaa; font-size: 13px;
+      text-align: left; padding: 0 6px 4px; margin-top: 0;
     }
     .button-wrapper {
       display: flex; justify-content: center; align-items: center;
@@ -89,7 +88,7 @@
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
 
     @media (min-width: 769px) {
-      .card-title { font-size: 17px; line-height: 1.3em; height: 80px; }
+      .card-title { font-size: 17px; line-height: 1.3em; }
       .category-btn { padding: 10px 20px; font-size: 14px; font-weight: 600; }
     }
     @media (max-width: 768px) {
@@ -119,7 +118,7 @@
       <option value="아이로그 | I-LOG">아이로그 | I-LOG</option>
       <option value="스페셜컨텐츠 | Special Contents">스페셜컨텐츠 | Special Contents</option>
       <option value="안무연습 | Choreography Practice Video">안무연습 | Choreography Practice Video</option>
-      <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>     
+      <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>
       <option value="응원법 | Fan Chant">응원법 | Fan Chant</option>
       <option value="기타 | Etc.">기타 | Etc.</option>
     </select>
@@ -172,10 +171,8 @@
             <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
             <div class="duration-overlay">${card.duration || ''}</div>
           </div>
-          <div class="card-text-wrapper">
-            <div class="card-title">${card.title}</div>
-            ${card.member ? `<span class="card-member">#${card.member}</span>` : ''}
-          </div>
+          <div class="card-title">${card.title}</div>
+          ${card.member ? `<div class="card-member">#${card.member}</div>` : ''}
         `;
         el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
         container.appendChild(el);
