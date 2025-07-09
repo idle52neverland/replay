@@ -106,15 +106,18 @@
       border: none;
     }
     #closeBtn {
-      position: absolute;
-      background: rgba(255,255,255,0.8);
-      border: none;
-      border-radius: 4px;
-      padding: 4px 8px;
-      cursor: pointer;
-      font-size: 14px;
-      z-index: 10000;
-    }
+  position: fixed; /* absolute → fixed */
+  top: 10px;
+  left: 10px;
+  background: rgba(255,255,255,0.8);
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 100000; /* 확실히 맨 위로 */
+}
+
     /* PC 버전 */
     @media (min-width: 769px) {
       #closeBtn {
