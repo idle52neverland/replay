@@ -8368,7 +8368,7 @@ const mediaContentsCards = [
   "duration": "00:01:35",
   "thumbnail": "https://i.ytimg.com/vi/EZW70Fq5v78/sddefault.jpg",
   "alt": "미쉐린 셰프 사이에 숨은 가짜 요리사 찾기 (feat. (여자)아이들 소연) | PIXID 쏘리사 (2024-05-03)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.00] 미쉐린 셰프 사이에 숨은 가짜 요리사 찾기 (feat. (여자)아이들 소연) | PIXID 쏘리사 (2024-05-03)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.00] 미쉐린 셰프 사이에 숨은 가짜 요리사 찾기 (feat. (여자)아이들 소연) | PIXID 쏘리사 (2024-05-03)"
 },
 {
   "link": "https://youtu.be/3c3hU4qtiRM",
@@ -8388,7 +8388,7 @@ const mediaContentsCards = [
   "duration": "00:21:35",
   "thumbnail": "https://i.ytimg.com/vi/C_3wc2k8ENA/sddefault.jpg",
   "alt": "태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! | 쏘리사의 시골요리 대작전 | (여자)아이들 소연 (2024-05-08)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.01] 태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! (여자)아이들 소연 (2024-05-08)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.01] 태어나서 처음으로 뿌링클을 먹어본 시골 할머니들의 반응은?! (여자)아이들 소연 (2024-05-08)"
 },
 {
   "link": "https://youtu.be/5Xlmmq_PA8w",
@@ -8398,7 +8398,7 @@ const mediaContentsCards = [
   "duration": "00:25:44",
   "thumbnail": "https://i.ytimg.com/vi/5Xlmmq_PA8w/sddefault.jpg",
   "alt": "92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-15)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.02] 92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! (여자)아이들 소연 (2024-05-15)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.02] 92년 만에 처음으로 마라탕을 먹어본 할머니의 반응은?! (여자)아이들 소연 (2024-05-15)"
 },
 {
   "link": "https://youtu.be/J-6OGwnSX5E",
@@ -8408,7 +8408,7 @@ const mediaContentsCards = [
   "duration": "00:18:27",
   "thumbnail": "https://i.ytimg.com/vi/J-6OGwnSX5E/sddefault.jpg",
   "alt": "시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-22)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.03] 시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! (여자)아이들 소연 (2024-05-22)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.03] 시골 초등학교에서 탕후루 100개 챌린지 하고 왔어요! (여자)아이들 소연 (2024-05-22)"
 },
 {
   "link": "https://youtu.be/WEKTIvHDWN4",
@@ -8418,7 +8418,7 @@ const mediaContentsCards = [
   "duration": "00:24:04",
   "thumbnail": "https://i.ytimg.com/vi/WEKTIvHDWN4/sddefault.jpg",
   "alt": "팝콘 튀기다 집 날려 먹을 뻔했어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-05-29)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.04] 팝콘 튀기다 집 날려 먹을 뻔했어요! | (여자)아이들 소연 (2024-05-29)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.04] 팝콘 튀기다 집 날려 먹을 뻔했어요! | (여자)아이들 소연 (2024-05-29)"
 },
 {
   "link": "https://youtu.be/OB6uWq8DK0k",
@@ -8428,7 +8428,7 @@ const mediaContentsCards = [
   "duration": "00:23:59",
   "thumbnail": "https://i.ytimg.com/vi/OB6uWq8DK0k/sddefault.jpg",
   "alt": "10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-05)",
-  "title": "[쏘리사🍳시골요리 대작전 EP.05] 10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?! | (여자)아이들 소연 (2024-06-05)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.05] 10단 딸기시루를 생일 케이크로 받은 부처님의 반응은?! | (여자)아이들 소연 (2024-06-05)"
 },
 {
   "link": "https://youtu.be/5NH75fbpIwU",
@@ -8438,7 +8438,7 @@ const mediaContentsCards = [
   "duration": "00:28:28",
   "thumbnail": "https://i.ytimg.com/vi/5NH75fbpIwU/sddefault.jpg",
   "alt": "제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-12)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.06] 제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | (여자)아이들 소연 (2024-06-12)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.06] 제 얼굴보다 큰 대왕 토마호크를 솥뚜껑에 구워 먹었어요! | (여자)아이들 소연 (2024-06-12)"
 },
 {
   "link": "https://youtu.be/klDyLicaaqE",
@@ -8448,7 +8448,7 @@ const mediaContentsCards = [
   "duration": "00:28:10",
   "thumbnail": "https://i.ytimg.com/vi/klDyLicaaqE/sddefault.jpg",
   "alt": "여러분 꽈배기는 제발 사드세요… | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-06-19)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.07] 여러분 꽈배기는 제발 사드세요… | (여자)아이들 소연 (2024-06-19)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.07] 여러분 꽈배기는 제발 사드세요… | (여자)아이들 소연 (2024-06-19)"
 },
 {
   "link": "https://youtu.be/EQfwcrdHHKA",
@@ -8478,7 +8478,7 @@ const mediaContentsCards = [
   "duration": "00:33:30",
   "thumbnail": "https://i.ytimg.com/vi/HD1hisCITN4/sddefault.jpg",
   "alt": "우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-03)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.08] 우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | (여자)아이들 소연 (2024-07-03)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.08] 우원재 오빠랑 제 몸보다 큰 대왕 랍스터를 잡아먹었어요! | (여자)아이들 소연 (2024-07-03)"
 },
 {
   "link": "https://youtu.be/YRcHfWAfRis",
@@ -8518,7 +8518,7 @@ const mediaContentsCards = [
   "duration": "00:31:53",
   "thumbnail": "https://i.ytimg.com/vi/oU4U39WSbVA/sddefault.jpg",
   "alt": "스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-10)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.09] 스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | (여자)아이들 소연 (2024-07-10)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.09] 스몰 걸 대표로서 영지랑 한판 떴습니다. (feat.솥뚜껑 막창,불닭) | (여자)아이들 소연 (2024-07-10)"
 },
 {
   "link": "https://youtu.be/Jcv9THBalhM",
@@ -8618,7 +8618,7 @@ const mediaContentsCards = [
   "duration": "00:38:56",
   "thumbnail": "https://i.ytimg.com/vi/ByfTTLhXPIs/sddefault.jpg",
   "alt": "할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | 쏘리사 시골요리 대작전 | (여자)아이들 (2024-07-17)",
-  "title": "[쏘리사🍳 시골요리 대작전 EP.10] 할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | (여자)아이들 (2024-07-17)"
+  "title": "[쏘리사🔪시골요리 대작전 EP.10] 할머니들이 \"아픈 건 딱 질색이니까\" 황제 삼계탕 만들어 드렸어요! | (여자)아이들 (2024-07-17)"
 },
 {
   "link": "https://youtu.be/VvNbMvVRYcs",
@@ -8658,7 +8658,7 @@ const mediaContentsCards = [
   "duration": "02:23:35",
   "thumbnail": "https://i.ytimg.com/vi/nVLBGtnC2B8/sddefault.jpg",
   "alt": "과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | 쏘리사 시골요리 대작전 | (여자)아이들 소연 (2024-07-24)",
-  "title": "[쏘리사🍳 시골요리 대작전] 과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | (여자)아이들 소연 (2024-07-24)"
+  "title": "[쏘리사🔪시골요리 대작전] 과정은 우당탕 결과는 대성공🌟 쏘리사 요리 장면 모아보기 | (여자)아이들 소연 (2024-07-24)"
 },
 {
   "link": "https://youtu.be/x1EpdKKy4vk",
@@ -8978,7 +8978,7 @@ const mediaContentsCards = [
   "duration": "00:02:02",
   "thumbnail": "https://i.ytimg.com/vi/9SXW-JbwJiA/sddefault.jpg",
   "alt": "쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” | 쏘리사 스타!요리방 | (여자)아이들 소연 (2025-01-10)",
-  "title": "[쏘리사🍳 스타!요리방 EP.00] 쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” (여자)아이들 소연 (2025-01-10)"
+  "title": "[쏘리사🔪스타!요리방 EP.00] 쏘리사 해체설 일축하며 극적 재계약 “동료 스타들 감동의 눈물…” (여자)아이들 소연 (2025-01-10)"
 },
 {
   "link": "https://youtu.be/8_dmxmzwPDs",
@@ -9018,7 +9018,7 @@ const mediaContentsCards = [
   "duration": "00:19:48",
   "thumbnail": "https://i.ytimg.com/vi/dzVFwrkA1VM/sddefault.jpg",
   "alt": "지코씨, 제발 간짜장은 사먹어요... | 쏘리사 스타!요리방 | (여자)아이들 소연 | ZICO (2025-01-15)",
-  "title": "[쏘리사🍳 스타!요리방 EP.01] 지코씨, 제발 간짜장은 사먹어요... (여자)아이들 소연 | ZICO (2025-01-15)"
+  "title": "[쏘리사🔪스타!요리방 EP.01] 지코씨, 제발 간짜장은 사먹어요... (여자)아이들 소연 | ZICO (2025-01-15)"
 },
 {
   "link": "https://youtu.be/a6L3uQf1LGU",
@@ -9088,7 +9088,7 @@ const mediaContentsCards = [
   "duration": "00:17:16",
   "thumbnail": "https://i.ytimg.com/vi/VjbVRXpSYJs/sddefault.jpg",
   "alt": "재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | 쏘리사 스타!요리방 | (여자)아이들 소연, 우기 (2025-01-22)",
-  "title": "[쏘리사🍳 스타!요리방 EP.02] 재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | (여자)아이들 소연, 우기 (2025-01-22)"
+  "title": "[쏘리사🔪스타!요리방 EP.02] 재계약 후 큐브한테 일침 날린 8년차 아이돌의 마라맛 레시피 | (여자)아이들 소연, 우기 (2025-01-22)"
 },
 {
   "link": "https://youtu.be/VaFj0Aam9yY",
@@ -9178,7 +9178,7 @@ const mediaContentsCards = [
   "duration": "00:20:12",
   "thumbnail": "https://i.ytimg.com/vi/xPFYztEnBDc/sddefault.jpg",
   "alt": "요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 쏘리사 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)",
-  "title": "[쏘리사🍳 스타!요리방 EP.03] 요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)"
+  "title": "[쏘리사🔪스타!요리방 EP.03] 요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 (여자)아이들 소연 | QWER 마젠타, 히나 (2025-01-29)"
 },
 {
   "link": "https://youtu.be/CHUYm9B9uJM",
@@ -9228,7 +9228,7 @@ const mediaContentsCards = [
   "duration": "00:15:51",
   "thumbnail": "https://i.ytimg.com/vi/i8Lxlr_7uO4/sddefault.jpg",
   "alt": "3세대 여자 아이돌 대표주자들의 고품격 라면 요리 | 쏘리사 스타!요리방 | (여자)아이들 소연 | ITZY 류진 (2025-02-05)",
-  "title": "[쏘리사🍳 스타!요리방 EP.04] 3세대 여자 아이돌 대표주자들의 고품격 라면 요리 (여자)아이들 소연 | ITZY 류진 (2025-02-05)"
+  "title": "[쏘리사🔪스타!요리방 EP.04] 3세대 여자 아이돌 대표주자들의 고품격 라면 요리 (여자)아이들 소연 | ITZY 류진 (2025-02-05)"
 },
 {
   "link": "https://youtu.be/icleqYi-gvc",
@@ -9278,7 +9278,7 @@ const mediaContentsCards = [
   "duration": "00:16:41",
   "thumbnail": "https://i.ytimg.com/vi/suH9D6zt_Jk/sddefault.jpg",
   "alt": "누나, 내가 갈비찜 해줄게요 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 최현욱 (2025-02-12)",
-  "title": "[쏘리사🍳 스타!요리방 EP.05] 누나, 내가 갈비찜 해줄게요 | (여자)아이들 소연 | 최현욱 (2025-02-12)"
+  "title": "[쏘리사🔪스타!요리방 EP.05] 누나, 내가 갈비찜 해줄게요 | (여자)아이들 소연 | 최현욱 (2025-02-12)"
 },
 {
   "link": "https://youtu.be/T_pIL2pWm1c",
@@ -9348,7 +9348,7 @@ const mediaContentsCards = [
   "duration": "00:25:47",
   "thumbnail": "https://i.ytimg.com/vi/u_8Av_bDP3U/sddefault.jpg",
   "alt": "연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 미미미누 (2025-02-19)",
-  "title": "[쏘리사🍳 스타!요리방 EP.06] 연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 (여자)아이들 소연 | 미미미누 (2025-02-19)"
+  "title": "[쏘리사🔪스타!요리방 EP.06] 연세대라면 치를 떠는 미미미누의 고려대 맛집 라볶이 (여자)아이들 소연 | 미미미누 (2025-02-19)"
 },
 {
   "link": "https://youtu.be/6sLTPEy6LP8",
@@ -9388,7 +9388,7 @@ const mediaContentsCards = [
   "duration": "00:20:35",
   "thumbnail": "https://i.ytimg.com/vi/y8kU_KpRMRc/sddefault.jpg",
   "alt": "살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | 쏘리사 스타!요리방 | (여자)아이들 소연 | 정찬성 (2025-02-26)",
-  "title": "[쏘리사🍳 스타!요리방 EP.07] 살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | (여자)아이들 소연 | 정찬성 (2025-02-26)"
+  "title": "[쏘리사🔪스타!요리방 EP.07] 살벌하게 망치질하다 갑자기 애교 날리는 찬성 관장님: 너무 무서워 | (여자)아이들 소연 | 정찬성 (2025-02-26)"
 },
 {
   "link": "https://youtu.be/Py8G02mTzTY",
@@ -9468,7 +9468,7 @@ const mediaContentsCards = [
   "duration": "00:33:47",
   "thumbnail": "https://i.ytimg.com/vi/mwqtrEqqpAI/sddefault.jpg",
   "alt": "\"이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | 쏘리사 스타!요리방 | (여자)아이들 소연 | BIBI (2025-03-12)",
-  "title": "\"[쏘리사🍳 스타!요리방 EP.08] 이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | (여자)아이들 소연 | BIBI (2025-03-12)"
+  "title": "\"[쏘리사🔪스타!요리방 EP.08] 이거 방송 나갈 수 있어요?\" 도무지 감당 안되는 연예계 대표 불닭들의 매운맛 토크 | (여자)아이들 소연 | BIBI (2025-03-12)"
 },
 {
   "link": "https://youtu.be/SerhmD4RHu4",
