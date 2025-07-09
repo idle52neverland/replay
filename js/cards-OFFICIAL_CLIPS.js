@@ -5286,8 +5286,8 @@ const officialClipCards = [
   "member": "소연",
   "duration": "00:15:24",
   "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
-  "alt": "190618 (여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
-  "title": "190618 (여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
+  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
   "subtag": "스페셜컨텐츠 | Special Contents",
   "date": "2019-06-18"
 },
