@@ -8326,7 +8326,138 @@ const officialClipCards = [
     "alt": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB (2025-07-07)",
     "title": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB (2025-07-07)",
     "subtag": "아이톡 | I-TALK"
-  }
+  },
+    {
+  "link": "https://youtu.be/HVumeeDWHZs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-05-02",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/HVumeeDWHZs/maxresdefault.jpg",
+  "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
+  "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/VLrEJnJSh6s",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-06-18",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/VLrEJnJSh6s/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/sF5pj1CZv2o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-06-19",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/sF5pj1CZv2o/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/6iM5pZtvbis",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-06-19",
+  "duration": "00:00:48",
+  "thumbnail": "https://i.ytimg.com/vi/6iM5pZtvbis/maxresdefault.jpg",
+  "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)",
+  "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/za4mpgQWs7c",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-08-10",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/za4mpgQWs7c/maxresdefault.jpg",
+  "alt": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
+  "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/G-HmfEBRHB4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-09-22",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/G-HmfEBRHB4/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/-RLQFpuvru4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-09-22",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/-RLQFpuvru4/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/0B1rjWurMFU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-09-22",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/0B1rjWurMFU/maxresdefault.jpg",
+  "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)",
+  "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/Kv_Cfa9b8FQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-12-02",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/Kv_Cfa9b8FQ/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
+  "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/_4o_TR0LE28",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2021-07-05",
+  "duration": "00:00:48",
+  "thumbnail": "https://i.ytimg.com/vi/_4o_TR0LE28/maxresdefault.jpg",
+  "alt": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
+  "title": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
+  "subtag": "기타 | Etc."
+},
+
+{
+  "link": "https://youtu.be/yClG9_ldxNw",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2021-07-05",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/yClG9_ldxNw/maxresdefault.jpg",
+  "alt": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
+  "title": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
+  "subtag": "기타 | Etc."
+}
   
   
   
