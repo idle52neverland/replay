@@ -164,8 +164,8 @@
             <div class="card-meta"><div class="meta-category">${data.category}</div></div>
             <div class="thumbnail-wrapper"><img src="${data.thumbnail}" alt="${data.alt}"><div class="duration-overlay">${data.duration || ''}</div></div>
             <div class="card-title">${data.title}</div>
-            <div class="card-member" style="margin-top: 0;">${data.member}</div>
-          `;
+            <div class="card-member" style="margin-top: 0;">#${data.member}</div>
+           `;
           card.addEventListener("click", (e) => {
             e.preventDefault();
             window.open(data.link, "_blank");
