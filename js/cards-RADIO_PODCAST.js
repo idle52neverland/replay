@@ -1428,6 +1428,48 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/PIEIaBctxlg/maxresdefault.jpg",
   "alt": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️ | 정오의 희망곡 김신영입니다 (2025-06-27)",
   "title": "[FULL] 소연이도 맑음☀️ 청량한 라이브 보여주실 ✨전소연✨ 온 에어❤️ | 정오의 희망곡 김신영입니다 (2025-06-27)"
+},
+  {
+  "link": "https://youtu.be/YpIzTYXcza8",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "date": "2018-05-31",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/YpIzTYXcza8/maxresdefault.jpg",
+  "alt": "여자 아이들 미연, 오디션때 부른 곡은? [SBS 이국주의 영스트리트] (2018-05-31)",
+  "title": "여자 아이들 미연, 오디션때 부른 곡은? [SBS 이국주의 영스트리트] (2018-05-31)"
+},
+{
+  "link": "https://youtu.be/GPMvdjNSO-c",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "date": "2020-08-10",
+  "duration": "00:09:26",
+  "thumbnail": "https://i.ytimg.com/vi/GPMvdjNSO-c/sddefault.jpg",
+  "alt": "🌼(여자)아이들🌼 이준의 영스트리트 (2020-08-10)",
+  "title": "🌼(여자)아이들🌼 이준의 영스트리트 (2020-08-10)"
+},
+
+{
+  "link": "https://youtu.be/Yszu-1Gs3Mg",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "date": "2018-06-20",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/Yszu-1Gs3Mg/maxresdefault.jpg",
+  "alt": "(여자)아이들 소연이 알려주는 맴버들 특징 [SBS NCT의 night night! (나잇나잇)] (2018-06-20)",
+  "title": "(여자)아이들 소연이 알려주는 맴버들 특징 [SBS NCT의 night night! (나잇나잇)] (2018-06-20)"
+},
+
+{
+  "link": "https://youtu.be/bOUHhPXjZyY",
+  "category": "RADIO_PODCAST",
+  "member": "아이들",
+  "date": "2018-09-05",
+  "duration": "00:01:49",
+  "thumbnail": "https://i.ytimg.com/vi/bOUHhPXjZyY/hqdefault.jpg",
+  "alt": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)] (2018-09-05)",
+  "title": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)] (2018-09-05)"
 }
 
   ];
