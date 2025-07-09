@@ -2699,16 +2699,18 @@ const vocalAndDanceCards = [
   "alt": "[집방캠][4K] 아이들(i-dle) - Good Thing LIVE | 두시탈출 컬투쇼 | (2025-05-27)",
   "title": "[집방캠][4K] 아이들(i-dle) - Good Thing LIVE | 두시탈출 컬투쇼 | (2025-05-27)"
 },
-{
-  "link": "https://youtu.be/04l4LH_U21E",
+  {
+  "link": "https://youtu.be/lB1FqPBReO4",
   "category": "VOCAL_AND_DANCE",
-  "member": "아이들",
-  "date": "2020-08-06",
-  "duration": "00:03:47",
-  "thumbnail": "https://i.ytimg.com/vi/04l4LH_U21E/maxresdefault.jpg",
-  "alt": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│컬투쇼 (2020-08-06)",
-  "title": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│컬투쇼 (2020-08-06)"
+  "member": "미연",
+  "date": "2022-04-28",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/lB1FqPBReO4/maxresdefault.jpg",
+  "alt": "[LIVE][세로캠] 미연(MIYEON) - Drive | (여자)아이들((G)I-DLE) | 두시탈출 컬투쇼 (2022-04-28)",
+  "title": "[LIVE][세로캠] 미연(MIYEON) - Drive | (여자)아이들((G)I-DLE) | 두시탈출 컬투쇼 (2022-04-28)"
 }
+
+
 
 
 ];
