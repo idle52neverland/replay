@@ -195,8 +195,8 @@
         <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
         <div class="duration-overlay">${card.duration || ''}</div>
       </div>
-      <div class="card-title">${card.title}</div>
       ${card.member ? `<div class="card-badge">${card.member}</div>` : ''}
+      <div class="card-title">${card.title}</div>
     `;
     el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
     container.appendChild(el);
@@ -213,7 +213,6 @@
   loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
   updateCardCount(data.length);
 }
-
 
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
