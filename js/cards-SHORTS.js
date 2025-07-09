@@ -33,7 +33,7 @@ const shortsCards = [
   {
     "link": "https://youtu.be/9f-5QNerB5Y",
     "category": "SHORTS",
-    "member": "아이들",
+    "member": "소연",
     "date": "2025-07-02",
     "duration": "00:00:14",
     "thumbnail": "https://i.ytimg.com/vi/9f-5QNerB5Y/maxresdefault.jpg",
