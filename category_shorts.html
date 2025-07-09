@@ -21,7 +21,7 @@
     .top-bar button:not(#searchBtn) img { width: 24px; height: 24px; }
     .card-container {
       display: grid;
-      grid-template-columns: repeat(5, 1fr); /* PC: 한 줄에 5개 */
+      grid-template-columns: repeat(5, 1fr);
       row-gap: 24px;
       column-gap: 16px;
       padding: 0 50px;
@@ -71,24 +71,23 @@
     #cardCount { text-align: right; padding: 0 20px 5px 0; font-size: 14px; color: #ccc; }
     @media (max-width: 768px) {
       .category-btn {
-    padding: 6px 14px !important;
-    font-size: 12px !important;
-    white-space: nowrap;
-  }
-  .search-wrapper input {
-    width: 140px;
-  }
+        padding: 6px 14px !important;
+        font-size: 12px !important;
+        white-space: nowrap;
+      }
+      .search-wrapper input {
+        width: 140px;
+      }
       .card-container {
-        grid-template-columns: repeat(2, 1fr); /* 모바일: 한 줄에 2개 */
+        grid-template-columns: repeat(2, 1fr);
         padding: 0;
         width: 100%;
         max-width: 100%;
       }
       .card-title {
-        -webkit-line-clamp: 3; /* 모바일에서 3줄 */
+        -webkit-line-clamp: 3;
       }
     }
-    /* Overlay 스타일 */
     #videoOverlay {
       position: fixed;
       top: 0; left: 0;
@@ -105,38 +104,20 @@
       height: 100%;
       border: none;
     }
-    
     #closeBtn {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  background: rgba(255,255,255,0.8);
-  border: none;
-  border-radius: 4px;
-  padding: 6px 12px;
-  cursor: pointer;
-  font-size: 14px;
-  z-index: 100000;
-  opacity: 0; /* 기본적으로 안보이게 */
-  transition: opacity 0.3s;
-  pointer-events: none; /* 클릭 막기 */
-}
-
-
-
-    /* PC 버전 */
-    @media (min-width: 769px) {
-      #closeBtn {
-        top: 20px;
-        right: 0;
-      }
-    }
-    /* 모바일 버전 */
-    @media (max-width: 768px) {
-      #closeBtn {
-        top: 20px;
-        right: 20px;
-      }
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: rgba(255,255,255,0.8);
+      border: none;
+      border-radius: 4px;
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 14px;
+      z-index: 100000;
+      opacity: 1;
+      transition: opacity 0.3s;
+      pointer-events: auto;
     }
   </style>
 </head>
@@ -164,9 +145,8 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
-  <!-- 영상 오버레이 -->
   <div id="videoOverlay">
-    <button id="closeBtn">✖</button>
+    <button id="closeBtn">닫기</button>
     <iframe id="videoFrame" src="" allowfullscreen></iframe>
   </div>
 
@@ -186,6 +166,7 @@
     const batchSize = 20;
     let filtered = [];
     let sortOrder = "newest";
+    let hideTimeout;
     const all = typeof shortsCards !== "undefined" ? shortsCards : [];
 
     function updateCardCount(count) {
@@ -212,6 +193,7 @@
             videoFrame.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
             videoOverlay.style.display = "flex";
             document.body.style.overflow = "hidden";
+            showCloseBtn();
           }
         };
         container.appendChild(el);
@@ -223,7 +205,7 @@
     }
 
     function extractYouTubeID(url) {
-      const regex = /(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+      const regex = /(?:youtube\.com\/(?:watch\\?v=|shorts\\/)|youtu\\.be\\/)([a-zA-Z0-9_-]{11})/;
       const match = url.match(regex);
       return match ? match[1] : null;
     }
@@ -251,7 +233,6 @@
 
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
       const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-
       const years = Array.from(yearBtns).map(b => b.textContent);
       const months = Array.from(monthBtns).map(b => b.textContent);
 
@@ -260,11 +241,9 @@
           const targetText = normalize(card.title + ' ' + card.member);
           if (!normalizedKeywords.every(k => targetText.includes(k))) return false;
         }
-
         const [y, m] = (card.date || '').split('-');
         if (years.length && !years.includes(y)) return false;
         if (months.length && !months.includes(m)) return false;
-
         return true;
       });
 
@@ -278,6 +257,22 @@
       container.innerHTML = '';
       renderCards(filtered);
     }
+
+    function showCloseBtn() {
+      closeBtn.style.opacity = "1";
+      closeBtn.style.pointerEvents = "auto";
+      if (hideTimeout) clearTimeout(hideTimeout);
+      hideTimeout = setTimeout(() => {
+        closeBtn.style.opacity = "0";
+        closeBtn.style.pointerEvents = "none";
+      }, 3000);
+    }
+
+    videoOverlay.addEventListener("click", (e) => {
+      if (e.target === videoOverlay) {
+        showCloseBtn();
+      }
+    });
 
     closeBtn.onclick = () => {
       videoOverlay.style.display = "none";
