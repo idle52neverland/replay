@@ -75,14 +75,13 @@
       overflow: hidden;
     }
 .card-badge {
-  background-color: #444; 
-  color: #fff; 
-  display: inline-block; 
-  padding: 3px 8px; 
-  border-radius: 12px; 
-  font-size: 12px; 
-  margin: 4px 6px; 
+  display: block;
+  text-align: left;
+  color: #aaa;
+  font-size: 13px;
+  margin: 4px 6px 0 6px;
 }
+
     .button-wrapper {
       display: flex; justify-content: center; align-items: center;
       gap: 20px; margin: 60px auto 80px;
@@ -195,7 +194,7 @@
         <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
         <div class="duration-overlay">${card.duration || ''}</div>
       </div>
-      ${card.member ? `<div class="card-badge">${card.member}</div>` : ''}
+      ${card.member ? `<div class="card-badge">#${card.member}</div>` : ''}
       <div class="card-title">${card.title}</div>
     `;
     el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
@@ -213,6 +212,7 @@
   loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
   updateCardCount(data.length);
 }
+
 
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
