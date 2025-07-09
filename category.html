@@ -64,21 +64,25 @@
       background-color: rgba(0, 0, 0, 0.7); color: #fff;
       padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 600;
     }
+    .card-meta {
+      font-size: 11px; color: #ccc; display: flex;
+      justify-content: flex-end; gap: 10px;
+      padding: 2px 6px 4px; opacity: 0.85;
+    }
     .card-title {
       background-color: #111; color: #fff; padding: 6px; text-align: left;
       display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical;
       overflow: hidden;
     }
-    .card-badge {
-      display: inline-block;
-      background-color: #333;
-      color: #fff;
-      font-size: 12px;
-      padding: 2px 8px;
-      margin: 6px 0 0 6px;
-      border-radius: 12px;
-      text-align: left;
-    }
+.card-badge {
+  background-color: #444; 
+  color: #fff; 
+  display: inline-block; 
+  padding: 3px 8px; 
+  border-radius: 12px; 
+  font-size: 12px; 
+  margin: 4px 6px; 
+}
     .button-wrapper {
       display: flex; justify-content: center; align-items: center;
       gap: 20px; margin: 60px auto 80px;
@@ -129,6 +133,22 @@
     <button id="scrollTopBtn" title="위로 가기">↑</button>
   </div>
 
+  <!-- 카드 스크립트 -->
+  <script src="js/cards-MV_SPECIAL_CLIP.js"></script>
+  <script src="js/cards-STAGE_PERFORMANCE.js"></script>
+  <script src="js/cards-VOCAL_AND_DANCE.js"></script>
+  <script src="js/cards-SPECIAL_RELEASES.js"></script>
+  <script src="js/cards-RECORDING_BEHIND.js"></script>
+  <script src="js/cards-ORIGINAL_VARIETY.js"></script>
+  <script src="js/cards-MEDIA_CONTENTS.js"></script>
+  <script src="js/cards-RADIO_PODCAST.js"></script>
+  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+  <script src="js/cards-INTERVIEW.js"></script>
+  <script src="js/cards-LIVE_STREAM.js"></script>
+  <script src="js/cards-COMMERCIALS.js"></script>
+  <script src="js/cards-SHORTS.js"></script>
+  <script src="js/cards-ETC.js"></script>
+
   <script>
     const all = [].concat(
       typeof mvSpecialClipCards !== 'undefined' ? mvSpecialClipCards : [],
@@ -164,35 +184,36 @@
     }
 
     function renderCards(data) {
-      const next = data.slice(currentIndex, currentIndex + batchSize);
-      if (!next.length) { loadMoreBtn.style.display = 'none'; return; }
+  const next = data.slice(currentIndex, currentIndex + batchSize);
+  if (!next.length) { loadMoreBtn.style.display = 'none'; return; }
 
-      next.forEach(card => {
-        const el = document.createElement('a');
-        el.className = 'card';
-        el.innerHTML = `
-          <div class="thumbnail-wrapper">
-            <img src="${card.thumbnail}" alt="${card.alt}" loading="lazy">
-            <div class="duration-overlay">${card.duration || ''}</div>
-          </div>
-          <div class="card-title">${card.title}</div>
-          ${card.member ? `<div class="card-badge">${card.member}</div>` : ''}
-        `;
-        el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
-        container.appendChild(el);
+  next.forEach(card => {
+    const el = document.createElement('a');
+    el.className = 'card';
+    el.innerHTML = `
+      <div class="thumbnail-wrapper">
+        <img src="${card.thumbnail || ''}" alt="${card.title}" loading="lazy">
+        <div class="duration-overlay">${card.duration || ''}</div>
+      </div>
+      <div class="card-title">${card.title}</div>
+      ${card.member ? `<div class="card-badge">${card.member}</div>` : ''}
+    `;
+    el.onclick = e => { e.preventDefault(); window.open(card.link, '_blank'); };
+    container.appendChild(el);
 
-        const img = el.querySelector('img');
-        img.onload = () => {
-          const isVertical = img.naturalHeight > img.naturalWidth;
-          img.style.objectFit = isVertical ? 'contain' : 'cover';
-          img.style.backgroundColor = '#000';
-        };
-      });
+    const img = el.querySelector('img');
+    img.onload = () => {
+      const isVertical = img.naturalHeight > img.naturalWidth;
+      img.style.objectFit = isVertical ? 'contain' : 'cover';
+      img.style.backgroundColor = '#000';
+    };
+  });
 
-      currentIndex += batchSize;
-      loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
-      updateCardCount(data.length);
-    }
+  currentIndex += batchSize;
+  loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
+  updateCardCount(data.length);
+}
+
 
     function createFilterButtons(containerId, items) {
       const filterContainer = document.getElementById(containerId);
