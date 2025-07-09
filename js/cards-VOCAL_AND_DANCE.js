@@ -2678,6 +2678,36 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/4SHsRSu-fLg/maxresdefault.jpg",
   "alt": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)",
   "title": "[ALLIVE] 소연 (SOYEON) - 내 이름 맑음 | 올라이브 | 정오의 희망곡 김신영입니다 (2025-06-27)"
+},
+  {
+  "link": "https://youtu.be/j8Ru3B8oeZA",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "date": "2025-05-27",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/j8Ru3B8oeZA/maxresdefault.jpg",
+  "alt": "[LIVE] 아이들(idle) - Girlfriend | 두시탈출 컬투쇼 (2025-05-27)",
+  "title": "[LIVE] 아이들(idle) - Girlfriend | 두시탈출 컬투쇼 (2025-05-27)"
+},
+{
+  "link": "https://youtu.be/3P2rO9TwA-k",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "date": "2025-05-27",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/3P2rO9TwA-k/maxresdefault.jpg",
+  "alt": "[집방캠][4K] 아이들(i-dle) - Good Thing LIVE | 두시탈출 컬투쇼 | (2025-05-27)",
+  "title": "[집방캠][4K] 아이들(i-dle) - Good Thing LIVE | 두시탈출 컬투쇼 | (2025-05-27)"
+},
+{
+  "link": "https://youtu.be/04l4LH_U21E",
+  "category": "VOCAL_AND_DANCE",
+  "member": "아이들",
+  "date": "2020-08-06",
+  "duration": "00:03:47",
+  "thumbnail": "https://i.ytimg.com/vi/04l4LH_U21E/maxresdefault.jpg",
+  "alt": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│컬투쇼 (2020-08-06)",
+  "title": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE│컬투쇼 (2020-08-06)"
 }
 
 
