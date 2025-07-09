@@ -12779,7 +12779,17 @@ const mediaContentsCards = [
     "thumbnail": "https://i.ytimg.com/vi/8caqLyeENB0/maxresdefault.jpg",
     "alt": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' 발매 인사 (2019-07-08)",
     "title": "행주(Hangzoo) X 미연(MIYEON of (G)I-DLE) - 'Cart' 발매 인사 (2019-07-08)"
-  }
+  },
+  {
+  "link": "https://youtu.be/3GrytcbL-po",
+  "category": "MEDIA_CONTENTS",
+  "member": "미연",
+  "date": "2025-07-08",
+  "duration": "00:34:48",
+  "thumbnail": "https://i.ytimg.com/vi/3GrytcbL-po/maxresdefault.jpg",
+  "alt": "[미연.zip📁] 무진의 '아딱질'X미연의 '에피소드' 네곡내곡 쟁탈 라이브🔥뱁새 듀엣, 청춘만화 | 미연이의 뮤트로 EP.2 (2025-07-08)",
+  "title": "[미연.zip📁] 무진의 '아딱질'X미연의 '에피소드' 네곡내곡 쟁탈 라이브🔥뱁새 듀엣, 청춘만화 | 미연이의 뮤트로 EP.2 (2025-07-08)"
+}
 
 
 
