@@ -11801,7 +11801,17 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WMyvMTFFH_A/maxresdefault.jpg",
   "alt": "Peace 🕊️🎻 (2025-07-03)",
   "title": "Peace 🕊️🎻 (2025-07-03)"
-}
+},
+  {
+    "link": "https://www.tiktok.com/@official_i_dle/video/6766878560801148161",
+    "category": "SHORTS",
+    "member": "아이들",
+    "thumbnail": "https://www.ainet.link/data/ainet_link/mainimages/202506/2025063023308860.png?ti=1751303005",
+    "alt": "https://www.tiktok.com/@official_i_dle/video/6766878560801148161 (2025-07-10)",
+    "title": "https://www.tiktok.com/@official_i_dle/video/6766878560801148161 (2025-07-10)",
+    "duration": "00:00:23",
+    "date": "2025-07-10"
+  }
 
   ];
 
