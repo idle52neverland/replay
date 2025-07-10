@@ -255,7 +255,7 @@
 
     function applyFilters() {
       const keywordInput = searchInput.value;
-      const normalize = str => str.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, '').replace(/\\s+/g, '');
+      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
       const rawKeywords = keywordInput.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, ' ').split(/\\s+/).filter(Boolean);
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
 
