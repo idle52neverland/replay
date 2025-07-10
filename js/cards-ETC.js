@@ -278,7 +278,18 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/Ql_FFV6N5bs/maxresdefault.jpg",
   "alt": "[소연- 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)",
   "title": "[소연- 09:33~12:29] [ITZY?ITZY!] EP 185 l YEJI, LIA, CHAERYEONG & YUNA's Pop-Up EVENT & RYUJIN's STAR! Cooking SHOW (2025-02-11)"
+},
+{
+    "link": "https://weverse.io/nowz/live/0-161311961?hl=ko",
+    "category": "ETC",
+    "member": "우기",
+    "date": "2025-07-09",
+    "duration": "02:07:01",
+    "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDNfNzMg/MDAxNzUxNTMwNjAyNzA4.jDORgcAhmAwAGqJdnZuA5597nLgHPrjMITYfuxh0A0og.dAzf5M7RrtLy8ufR89Z743EVp0OzsMohS_wk2-pMKTgg.JPEG/273177846529430439251f700-84f9-44fd-8e9f-22a7ccddec50.jpg?type=f640_360",
+    "alt": "[MC YUQI] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)",
+    "title": "[MC YUQI] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)"
 }
+  
 
 
   
