@@ -1340,7 +1340,7 @@ const officialClipCards = [
     "thumbnail": "https://i.ytimg.com/vi/KWI_ThK1BMU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
     "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
-    "subtag": "프로모션 | Comeback Promotion"
+    "subtag": "스페셜컨텐츠 | Special Contents"
   },
   {
     "link": "https://youtu.be/CA9jn8viiK4",
@@ -1604,7 +1604,7 @@ const officialClipCards = [
     "thumbnail": "https://i.ytimg.com/vi/5G8UqkXhS0w/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
     "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
-    "subtag": "프로모션 | Comeback Promotion"
+    "subtag": "스페셜컨텐츠 | Special Contents"
   },
   {
     "link": "https://youtu.be/0yJ7bMyGUCw",
