@@ -66,8 +66,8 @@ const etcCards = [
   "date": "2021-08-21",
   "duration": "00:11:42",
   "thumbnail": "https://i.ytimg.com/vi/YqYKiBGdfTU/sddefault.jpg",
-  "alt": "[민니] - Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
-  "title": "[민니] - Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)"
+  "alt": "Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)",
+  "title": "Chinese Food Date with Elkie (CLC) & Minnie (G)I-DLE (2021-08-21)"
 },
 {
   "link": "https://youtu.be/jBl15ho7JOg",
@@ -116,18 +116,18 @@ const etcCards = [
   "date": "2022-12-07",
   "duration": "00:18:35",
   "thumbnail": "https://i.ytimg.com/vi/7KdM2VqJBJk/sddefault.jpg",
-  "alt": "[민니] - Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
-  "title": "[민니] - Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)"
+  "alt": "Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)",
+  "title": "Proud in Seoul EP3 : พาช้อป 10 แบรนด์ดังในโซล หมดตัวที่เกาหลีมีอยู่จริง! 💸🇰🇷 (2022-12-07)"
 },
 {
   "link": "https://youtu.be/TInrIeI9wK8",
   "category": "ETC",
-  "member": "아이들",
+  "member": "우기",
   "date": "2022-12-09",
   "duration": "00:10:30",
   "thumbnail": "https://i.ytimg.com/vi/TInrIeI9wK8/sddefault.jpg",
-  "alt": "[우기] - [STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
-  "title": "[우기] - [STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)"
+  "alt": "[STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)",
+  "title": "[STAY:SEE👀] #56 STAYC 데뷔 2주년 파티🎉 | MUSIC BANK IN CHILE Behind (2022-12-09)"
 },
 {
   "link": "https://youtu.be/pYP7pcDnZfk",
@@ -136,8 +136,8 @@ const etcCards = [
   "date": "2023-03-08",
   "duration": "00:15:17",
   "thumbnail": "https://i.ytimg.com/vi/pYP7pcDnZfk/sddefault.jpg",
-  "alt": "[미연] - [몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
-  "title": "[미연] - [몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)"
+  "alt": "[몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)",
+  "title": "[몬채널][B] EP.358 JOOHONEY 'M COUNTDOWN' poster&teaser shooting + 1st episode (2023-03-08)"
 },
 {
   "link": "https://youtu.be/y0ykX9IWb0g",
@@ -196,8 +196,8 @@ const etcCards = [
   "date": "2024-10-06",
   "duration": "00:24:05",
   "thumbnail": "https://i.ytimg.com/vi/zwZg-ocBEuU/sddefault.jpg",
-  "alt": "[SOYEON] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
-  "title": "[SOYEON] - QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
+  "alt": "QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)",
+  "title": "QWER '내 이름 맑음' MV Behind The Scenes l 비하인드 (2024-10-06)"
 },
 {
   "link": "https://youtu.be/7TCtgVAbMZg",
@@ -256,8 +256,8 @@ const etcCards = [
   "date": "2025-07-02",
   "duration": "00:21:17",
   "thumbnail": "https://i.ytimg.com/vi/TYZgW0kG0-g/maxresdefault.jpg",
-  "alt": "[민니] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
-  "title": "[민니] a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
+  "alt": "a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)",
+  "title": "a week in my lifeᵎᵎ 🎀˚ ༘ ♡ ⋆.˚ (2025-07-02)"
 },
   {
   "link": "https://youtu.be/o7cWHJSSVN0",
@@ -286,9 +286,83 @@ const etcCards = [
     "date": "2025-07-09",
     "duration": "02:07:01",
     "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MDNfNzMg/MDAxNzUxNTMwNjAyNzA4.jDORgcAhmAwAGqJdnZuA5597nLgHPrjMITYfuxh0A0og.dAzf5M7RrtLy8ufR89Z743EVp0OzsMohS_wk2-pMKTgg.JPEG/273177846529430439251f700-84f9-44fd-8e9f-22a7ccddec50.jpg?type=f640_360",
-    "alt": "[MC YUQI] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)",
-    "title": "[MC YUQI] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)"
+    "alt": "[MC 우기] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)",
+    "title": "[MC 우기] NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE (2025-07-09)"
+},
+  {
+  "link": "https://youtu.be/y59PRhSA-nQ",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-08-21",
+  "duration": "00:23:01",
+  "thumbnail": "https://i.ytimg.com/vi/y59PRhSA-nQ/maxresdefault.jpg",
+  "alt": "What's In My Makeup Bag (With Minnie (G)IDLE) [PRODUSORN] (2021-08-21)",
+  "title": "What's In My Makeup Bag (With Minnie (G)IDLE) [PRODUSORN] (2021-08-21)"
+},
+
+{
+  "link": "https://youtu.be/DeE_3pyJoJs",
+  "category": "ETC",
+  "member": "민니, 우기, 슈화",
+  "date": "2021-08-21",
+  "duration": "00:05:50",
+  "thumbnail": "https://i.ytimg.com/vi/DeE_3pyJoJs/maxresdefault.jpg",
+  "alt": "Just us being SAVAGE to each other ❤️ [PRODUSORN] (2021-08-21)",
+  "title": "Just us being SAVAGE to each other ❤️ [PRODUSORN] (2021-08-21)"
+},
+{
+  "link": "https://youtu.be/RS4FA9j3bZI",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-08-21",
+  "duration": "00:07:26",
+  "thumbnail": "https://i.ytimg.com/vi/RS4FA9j3bZI/sddefault.jpg",
+  "alt": "Thai Food With Lisa (BLACKPINK), Elkie (CLC), & Minnie ((G)-IDLE) (2021-08-21)",
+  "title": "Thai Food With Lisa (BLACKPINK), Elkie (CLC), & Minnie ((G)-IDLE) (2021-08-21)"
+},
+{
+  "link": "https://youtu.be/2fKdVq6ukqw",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-08-21",
+  "duration": "00:20:44",
+  "thumbnail": "https://i.ytimg.com/vi/2fKdVq6ukqw/sddefault.jpg",
+  "alt": "My Eating Trip in Bangkok 🇹🇭 (2021-08-21)",
+  "title": "My Eating Trip in Bangkok 🇹🇭 (2021-08-21)"
+},
+{
+  "link": "https://youtu.be/UT0Pp1M6cTI",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-08-20",
+  "duration": "00:07:09",
+  "thumbnail": "https://i.ytimg.com/vi/UT0Pp1M6cTI/maxresdefault.jpg",
+  "alt": "GAME TIME with MINNIE (G)I-DLE in ภาษาไทย 😎 (Part 1) (2021-08-20)",
+  "title": "GAME TIME with MINNIE (G)I-DLE in ภาษาไทย 😎 (Part 1) (2021-08-20)"
+},
+{
+  "link": "https://youtu.be/SxeFz-reaBY",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-12-04",
+  "duration": "00:16:23",
+  "thumbnail": "https://i.ytimg.com/vi/SxeFz-reaBY/maxresdefault.jpg",
+  "alt": "Charades with Minnie (G)I-DLE in ภาษาไทย 💕 (Part 2) (2021-12-04)",
+  "title": "Charades with Minnie (G)I-DLE in ภาษาไทย 💕 (Part 2) (2021-12-04)"
+},
+{
+  "link": "https://youtu.be/mPBDlMzbx2A",
+  "category": "ETC",
+  "member": "민니",
+  "date": "2021-08-19",
+  "duration": "00:10:37",
+  "thumbnail": "https://i.ytimg.com/vi/mPBDlMzbx2A/maxresdefault.jpg",
+  "alt": "Chit Chatting with Minnie from (G)I-DLE (2021-08-19)",
+  "title": "Chit Chatting with Minnie from (G)I-DLE (2021-08-19)"
 }
+
+
+
   
 
 
