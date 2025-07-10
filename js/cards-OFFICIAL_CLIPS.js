@@ -8702,6 +8702,39 @@ const officialClipCards = [
   "alt": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
   "title": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
   "subtag": "스페셜컨텐츠 | Special Contents"
+},
+    {
+  "link": "https://weverse.io/i-dle/live/1-111438956",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-08-22",
+  "duration": "00:08:00",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjcg/MDAxNjcyODkxNDMxODI3.KK6FBgAKWm8JzgfMekWDHla26xLKrgQVPnkPOzFMbxEg.jwCxcpheXuCs8TfNhNpwtl5Q9EgyjVhs-I-2tSWV9D8g.JPEG/upload_thu.jpg?type=f640_360",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 (2018-08-22)",
+  "title": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 (2018-08-22)",
+  "subtag": "아이로그 | I-LOG"
+},
+{
+  "link": "https://weverse.io/i-dle/media/4-110663454?hl=ko",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-08-29",
+  "duration": "00:10:18",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjMg/MDAxNjcyODkxNDMyMzM0.P3QlBLSAVo-wkmv-iGx3yIrvJt7yGziLnwPYr31VARQg.axUYy8WaHu5CVlHQBrNjgljuGL1p6lowJXg60NBVPXkg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! (2018-08-29)",
+  "title": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! (2018-08-29)",
+  "subtag": "아이로그 | I-LOG"
+},
+{
+  "link": "https://weverse.io/i-dle/media/0-111421923?hl=ko",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-09-05",
+  "duration": "00:14:37",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfODcg/MDAxNjcyODkxNDMyODAx.cLbUHeUkpI2g9WaPECt_s6Y2IO0e89jRiSadPaGuiPcg.CgSYbiwN_jKPNh7kqqlhysAspjraI5sT0I9J5eL3HSMg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 (2018-05-05)",
+  "title": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 (2018-05-05)",
+  "subtag": "아이로그 | I-LOG"
 }
   
   
