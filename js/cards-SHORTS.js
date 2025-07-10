@@ -13596,7 +13596,37 @@ const shortsCards = [
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
   "alt": "#야마사키텐 UDAGAWA GENERATION i-dle collaboration Ver. Thank you very much🌸 #YamasakiTen",
   "title": "#야마사키텐 UDAGAWA GENERATION i-dle collaboration Ver. Thank you very much🌸 #YamasakiTen"
-}
+},
+    {
+    "link": "https://youtu.be/CVpjV7qgmfo",
+    "category": "SHORTS", 
+    "member": "슈화",
+    "date": "2024-01-06",
+    "duration": "00:00:11",
+    "thumbnail": "https://i.ytimg.com/vi/CVpjV7qgmfo/maxresdefault.jpg",
+    "alt": "HAPPY BIRTHDAY SHUHUA 💕 (2024-01-06)",
+    "title": "HAPPY BIRTHDAY SHUHUA 💕 (2024-01-06)"
+  },
+  {
+    "link": "https://youtu.be/KoBwguCiOls",
+    "category": "SHORTS", 
+    "member": "미연",
+    "date": "2024-01-31",
+    "duration": "00:00:05",
+    "thumbnail": "https://i.ytimg.com/vi/KoBwguCiOls/maxresdefault.jpg",
+    "alt": "🎀 HAPPY MIYEON DAY 🎀 (2024-01-31)",
+    "title": "🎀 HAPPY MIYEON DAY 🎀 (2024-01-31)"
+  },
+  {
+    "link": "https://youtu.be/cDg4X5LGaqw",
+    "category": "SHORTS", 
+    "member": "소연",
+    "date": "2024-08-26",
+    "duration": "00:00:20",
+    "thumbnail": "https://i.ytimg.com/vi/cDg4X5LGaqw/maxresdefault.jpg",
+    "alt": "#HAPPY_SOYEON_DAY 🎂🐭💖 (2024-08-26)",
+    "title": "#HAPPY_SOYEON_DAY 🎂🐭💖 (2024-08-26)"
+  }
 
 
 
