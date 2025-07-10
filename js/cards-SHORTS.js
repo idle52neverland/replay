@@ -12299,17 +12299,6 @@ const shortsCards = [
 },
   {
   "platform": "tiktok",
-  "link": "",
-  "category": "SHORTS",
-  "member": "소연",
-  "date": "2021-07-00",
-  "duration": "00:00:00",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
-  "alt": "",
-  "title": ""
-},
-  {
-  "platform": "tiktok",
   "link": "https://www.tiktok.com/@official_i_dle/video/6983978504476036354?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
   "category": "SHORTS",
   "member": "슈화",
