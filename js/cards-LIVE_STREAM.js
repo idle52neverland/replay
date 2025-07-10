@@ -4178,7 +4178,17 @@ const liveStreamCards = [
     "thumbnail": "https://i.ytimg.com/vi/GRfahi0102k/maxresdefault.jpg",
     "alt": "민니(MINNIE) 1st Mini Album [HER] YOUTUBE LIVE (2025-01-21)",
     "title": "민니(MINNIE) 1st Mini Album [HER] YOUTUBE LIVE (2025-01-21)"
-  }
+  },
+  {
+  "link": "https://weverse.io/i-dle/media/1-111439030",
+  "category": "LIVE_STREAM",
+  "member": "미연, 민니",
+  "date": "2020-06-13",
+  "duration": "01:05:01",
+  "thumbnail": "https://video-phinf.pstatic.net/20200613_228/1592028048126ibchF_JPEG/cf51b8d2-ad36-11ea-a4c1-a0369ff963bc_03.jpg",
+  "alt": "🐭🐰 (2020-06-13)",
+  "title": "'🐭🐰 (2020-06-13)"
+}
 
 
 
