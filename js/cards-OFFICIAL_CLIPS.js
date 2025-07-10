@@ -8457,7 +8457,277 @@ const officialClipCards = [
   "alt": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
   "title": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
   "subtag": "기타 | Etc."
+},
+    {
+  "link": "https://youtu.be/Skz2kUcS5Jc",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2017-11-01",
+  "duration": "00:01:22",
+  "thumbnail": "https://i.ytimg.com/vi/Skz2kUcS5Jc/maxresdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - Practice Video #1 'Trap Jumping (Feat. Wiz Khalifa) / Rich The Kid' (2017-11-01)",
+  "title": "전소연(JEON SOYEON) - Practice Video #1 'Trap Jumping (Feat. Wiz Khalifa) / Rich The Kid' (2017-11-01)",
+  "subtag": "커버곡 | Cover"
+},
+{
+  "link": "https://youtu.be/R5nP0jKDdR8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2017-11-04",
+  "duration": "00:02:04",
+  "thumbnail": "https://i.ytimg.com/vi/R5nP0jKDdR8/maxresdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - Practice Video #2 'She Don't / YolandaBezet,Ty Dollar Sign' (2017-11-04)",
+  "title": "전소연(JEON SOYEON) - Practice Video #2 'She Don't / YolandaBezet,Ty Dollar Sign' (2017-11-04)",
+  "subtag": "커버곡 | Cover"
+},
+{
+  "link": "https://youtu.be/lI1WgtVyNOQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2017-11-14",
+  "duration": "00:13:46",
+  "thumbnail": "https://i.ytimg.com/vi/lI1WgtVyNOQ/maxresdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드 (2017-11-14)",
+  "title": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드 (2017-11-14)",
+  "subtag": "스페셜컨텐츠 | Special Contents"
+},
+{
+  "link": "https://youtu.be/zX5Wf3SVSqM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2018-03-07",
+  "duration": "00:09:34",
+  "thumbnail": "https://i.ytimg.com/vi/zX5Wf3SVSqM/maxresdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드 (2018-03-07)",
+  "title": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드 (2018-03-07)",
+  "subtag": "스페셜컨텐츠 | Special Contents"
+},
+{
+  "link": "https://youtu.be/yXQFSJV2wtQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-01-31",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/yXQFSJV2wtQ/maxresdefault.jpg",
+  "alt": "진호(JINHO) - MAGAZINE HO #13 'Finesse (Remix) / Bruno Mars' (2018-01-31)",
+  "title": "진호(JINHO) - MAGAZINE HO #13 'Finesse (Remix) / Bruno Mars' (2018-01-31)",
+  "subtag": "커버곡 | Cover"
+},
+{
+  "link": "https://youtu.be/4gxMgJSSVaQ",
+  "category": "OFFICIAL_CLIPS",
+  "member": "민니",
+  "date": "2019-03-13",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/4gxMgJSSVaQ/maxresdefault.jpg",
+  "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
+  "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
+  "subtag": "커버곡 | Cover"
+},
+
+
+
+
+
+{
+  "link": "https://youtu.be/BGz8n0yhrDs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-12-25",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/BGz8n0yhrDs/maxresdefault.jpg",
+  "alt": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들) (2018-12-25)",
+  "title": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들) (2018-12-25)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/Y_RnAf-ZFEA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-12-31",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/Y_RnAf-ZFEA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message) (2018-12-31)",
+  "title": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message) (2018-12-31)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/aFhyJ-YqEK8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-01-23",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/aFhyJ-YqEK8/maxresdefault.jpg",
+  "alt": "2020 (여자)아이들((G)I-DLE) 설 인사 영상 (2020-01-23)",
+  "title": "2020 (여자)아이들((G)I-DLE) 설 인사 영상 (2020-01-23)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/10i04-F_IO8",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2021-01-01",
+  "duration": "00:00:41",
+  "thumbnail": "https://i.ytimg.com/vi/10i04-F_IO8/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상 (2021-01-01)",
+  "title": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상 (2021-01-01)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/iW7lVbow27Q",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2024-09-24",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
+  "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
+  "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/lR9QM56IDCM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2019-09-11",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/lR9QM56IDCM/maxresdefault.jpg",
+  "alt": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상 (2019-09-11)",
+  "title": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상 (2019-09-11)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/4-HN0siT65A",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2019-02-02",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/4-HN0siT65A/maxresdefault.jpg",
+  "alt": "2019 (여자)아이들((G)I-DLE) 설 인사 영상 (2019-02-02)",
+  "title": "2019 (여자)아이들((G)I-DLE) 설 인사 영상 (2019-02-02)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/iW7lVbow27Q",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2024-09-24",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
+  "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
+  "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/W4sKzw7FWK4",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2021-09-20",
+  "duration": "00:00:44",
+  "thumbnail": "https://i.ytimg.com/vi/W4sKzw7FWK4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상 (2021-09-20)",
+  "title": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상 (2021-09-20)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/0qxfaNCYY6o",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-11-10",
+  "duration": "00:00:34",
+  "thumbnail": "https://i.ytimg.com/vi/0qxfaNCYY6o/hqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS) (2018-11-10)",
+  "title": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS) (2018-11-10)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/v4lQkLixffs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2019-01-25",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/v4lQkLixffs/maxresdefault.jpg",
+  "alt": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE (2019-01-25)",
+  "title": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE (2019-01-25)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/FQ4MNRKhUXU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2019-11-11",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/FQ4MNRKhUXU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS) (2019-11-11)",
+  "title": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS) (2019-11-11)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/vV6R6cdJb2I",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2019-08-29",
+  "duration": "00:01:05",
+  "thumbnail": "https://i.ytimg.com/vi/vV6R6cdJb2I/hqdefault.jpg",
+  "alt": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE (2019-08-29)",
+  "title": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE (2019-08-29)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/GAGUJ_c72Jo",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-07-27",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/GAGUJ_c72Jo/maxresdefault.jpg",
+  "alt": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE) (2018-07-27)",
+  "title": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE) (2018-07-27)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/pi32eMzUrEM",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-06-01",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/pi32eMzUrEM/maxresdefault.jpg",
+  "alt": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI (2020-06-01)",
+  "title": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI (2020-06-01)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/N4_0-lYIKLA",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2025-01-08",
+  "duration": "00:07:57",
+  "thumbnail": "https://i.ytimg.com/vi/N4_0-lYIKLA/maxresdefault.jpg",
+  "alt": "2025 큐브 엔터테인먼트 새해 인사 영상 (2025-01-08)",
+  "title": "2025 큐브 엔터테인먼트 새해 인사 영상 (2025-01-08)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/eg-l23ps50M",
+  "category": "OFFICIAL_CLIPS",
+  "member": "소연",
+  "date": "2018-01-06",
+  "duration": "00:00:41",
+  "thumbnail": "https://i.ytimg.com/vi/eg-l23ps50M/maxresdefault.jpg",
+  "alt": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연) (2018-01-06)",
+  "title": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연) (2018-01-06)",
+  "subtag": "기타 | Etc."
+},
+{
+  "link": "https://youtu.be/mV2KEz4OIAs",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2018-05-17",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/mV2KEz4OIAs/maxresdefault.jpg",
+  "alt": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
+  "title": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
+  "subtag": "기타 | Etc."
 }
+
   
   
   
