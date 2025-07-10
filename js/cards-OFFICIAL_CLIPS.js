@@ -8704,7 +8704,7 @@ const officialClipCards = [
   "subtag": "스페셜컨텐츠 | Special Contents"
 },
     {
-  "link": "https://weverse.io/i-dle/live/1-111438956",
+  "link": "https://weverse.io/i-dle/media/0-111421921?hl=ko",
   "category": "OFFICIAL_CLIPS",
   "member": "아이들",
   "date": "2018-08-22",
