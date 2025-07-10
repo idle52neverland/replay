@@ -97,23 +97,22 @@
       z-index: 10000;
     }
     #prevBtn, #nextBtn {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background: rgba(255,255,255,0.6);
-      border: none;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      font-size: 20px;
-      cursor: pointer;
-      z-index: 10000;
-    }
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.6);
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 10000;
+}
+
     #prevBtn { left: 10px; }
     #nextBtn { right: 10px; }
-    @media (max-width: 768px) {
-      #prevBtn, #nextBtn { display: none; }
-    }
+
     @media (min-width: 769px) { #closeBtn { top: 20px; right: 0; } }
     @media (max-width: 768px) { #closeBtn { top: 20px; right: 20px; } }
   </style>
@@ -300,28 +299,7 @@
       }
     };
 
-    videoOverlay.addEventListener('touchstart', e => {
-      startY = e.touches[0].clientY;
-    });
-
-    videoOverlay.addEventListener('touchend', e => {
-      const endY = e.changedTouches[0].clientY;
-      const diffY = endY - startY;
-      if (diffY < -50) {
-        const nextIndex = findNextPlayableIndex(currentCardIndex + 1, 1);
-        if (nextIndex !== -1) {
-          currentCardIndex = nextIndex;
-          openOverlay(filtered[currentCardIndex]);
-        }
-      } else if (diffY > 50) {
-        const prevIndex = findNextPlayableIndex(currentCardIndex - 1, -1);
-        if (prevIndex !== -1) {
-          currentCardIndex = prevIndex;
-          openOverlay(filtered[currentCardIndex]);
-        }
-      }
-    });
-
+    
     closeBtn.onclick = () => {
       videoOverlay.style.display = "none";
       videoFrame.src = "";
