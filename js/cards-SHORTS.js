@@ -12478,7 +12478,1143 @@ const shortsCards = [
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
   "alt": "@annoravia 님과 #듀엣 #GIDLE #MINNIE #TOMBOY_Challenge Reaction",
   "title": "@annoravia 님과 #듀엣 #GIDLE #MINNIE #TOMBOY_Challenge Reaction"
+},
+  {
+  "link": "https://youtu.be/cBxyiT2tAls",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-16",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/cBxyiT2tAls/maxresdefault.jpg",
+  "alt": "가자 윤몬 우기몬💖With #여자아이들 #우기 #STAYC #스테이씨 #Yoon #윤 #GIDLE #YUQI (2024-04-16)",
+  "title": "가자 윤몬 우기몬💖With #여자아이들 #우기 #STAYC #스테이씨 #Yoon #윤 #GIDLE #YUQI (2024-04-16)"
+},
+
+{
+  "link": "https://youtu.be/fz7zzA-rwkg",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-02-24",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/fz7zzA-rwkg/maxresdefault.jpg",
+  "alt": "오늘도 성덕이다! 😘😎 #여자아이들 #미연 선배님과 함께한 #TeddyBear_Challenge 🧸 #Shorts (2023-02-24)",
+  "title": "오늘도 성덕이다! 😘😎 #여자아이들 #미연 선배님과 함께한 #TeddyBear_Challenge 🧸 #Shorts (2023-02-24)"
+},
+
+{
+  "link": "https://youtu.be/6mVM-tqsKxM",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-07-12",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/6mVM-tqsKxM/maxresdefault.jpg",
+  "alt": "남의 집 강아지를 데려오다🐶#치아땡챌린지 #집사챌린지 with #여자아이들 #우기 ❤️‍🔥🧊 (2024-07-12)",
+  "title": "남의 집 강아지를 데려오다🐶#치아땡챌린지 #집사챌린지 with #여자아이들 #우기 ❤️‍🔥🧊 (2024-07-12)"
+},
+{
+  "link": "https://youtu.be/P_FH5X3nvjw",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-03-18",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/P_FH5X3nvjw/maxresdefault.jpg",
+  "alt": "누가 먼저 #여자아이들 #민니 님 좋아하면 어때💖 #Fancy_Challenge #STAYC #스테이씨 #Yoon #윤 #GIDLE #MINNIE#Fancy (2024-03-18)",
+  "title": "누가 먼저 #여자아이들 #민니 님 좋아하면 어때💖 #Fancy_Challenge #STAYC #스테이씨 #Yoon #윤 #GIDLE #MINNIE#Fancy (2024-03-18)"
+},
+{
+  "link": "https://youtu.be/lD650chPUWc",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-07-12",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/lD650chPUWc/maxresdefault.jpg",
+  "alt": "#치아땡챌린지 with #여자아이들 #우기 님❤️‍🔥🧊 (2024-07-12)",
+  "title": "#치아땡챌린지 with #여자아이들 #우기 님❤️‍🔥🧊 (2024-07-12)"
+},
+
+{
+  "link": "https://youtu.be/wIcaZV2ndJA",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2025-03-24",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/wIcaZV2ndJA/maxresdefault.jpg",
+  "alt": "Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle (2025-03-24)",
+  "title": "Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle (2025-03-24)"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@stayc_official/video/7076412922821496066?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니, 우기",
+  "date": "2022-03-18",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "사랑하는 아이들선배님과 #주춤주춤 💜by.심네버랜드자윤 #STAYC#스테이씨#RUN2U#RUN2U_challenge #여자아이들#GIDlE@official_gidle",
+  "title": "사랑하는 아이들선배님과 #주춤주춤 💜by.심네버랜드자윤 #STAYC#스테이씨#RUN2U#RUN2U_challenge #여자아이들#GIDlE@official_gidle"
+},
+{
+  "link": "https://youtu.be/B4LCRDrtQDw",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2022-03-20",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/B4LCRDrtQDw/sddefault.jpg",
+  "alt": "박재범 #GANADARA with #전소연 #JeonSoyeon (2022-03-20)",
+  "title": "박재범 #GANADARA with #전소연 #JeonSoyeon (2022-03-20)"
+},
+{
+  "link": "https://youtu.be/1n_9jAs8oMM",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-07-24",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/1n_9jAs8oMM/maxresdefault.jpg",
+  "alt": "박재범 #McNastyChallenge 😈 with @official_i_dle #SOYEON #여자아이들 #소연 #McNasty #JayPark_McNasty (2024-07-24)",
+  "title": "박재범 #McNastyChallenge 😈 with @official_i_dle #SOYEON #여자아이들 #소연 #McNasty #JayPark_McNasty (2024-07-24)"
+},
+
+{
+  "link": "https://youtu.be/L-YSa3cBn4c",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-02-07",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/L-YSa3cBn4c/maxresdefault.jpg",
+  "alt": "박재범 #Limousine w/ Superlady @official_i_dle  #GIDLE #SOYEON (2024-02-07)",
+  "title": "박재범 #Limousine w/ Superlady @official_i_dle  #GIDLE #SOYEON (2024-02-07)"
+},
+
+{
+  "link": "https://youtu.be/-JCSrzybCus",
+  "category": "SHORTS",
+  "member": "우기, 슈화",
+  "date": "2023-06-04",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/-JCSrzybCus/maxresdefault.jpg",
+  "alt": "사랑하니까~🫶🏻 with #우기 #슈화 #여자아이들 #GIDLE #YUQI #SHUHUA #드림캐쳐 #Dreamcatcher #BONVOYAGE #본보야지하트챌린지 (2023-06-04)",
+  "title": "사랑하니까~🫶🏻 with #우기 #슈화 #여자아이들 #GIDLE #YUQI #SHUHUA #드림캐쳐 #Dreamcatcher #BONVOYAGE #본보야지하트챌린지 (2023-06-04)"
+},
+{
+  "link": "https://youtu.be/KR87teqwPqw",
+  "category": "SHORTS",
+  "member": "우기, 슈화",
+  "date": "2022-04-24",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/KR87teqwPqw/maxresdefault.jpg",
+  "alt": "지켜내 나의 #MAISON 🏠#여자아이들 #GIDLE #YUQI #SHUHUA #우기 #슈화 #Dreamcatcher #드림캐쳐 #MAISON_Challenge #메종챌린지 (2022-04-24)",
+  "title": "지켜내 나의 #MAISON 🏠#여자아이들 #GIDLE #YUQI #SHUHUA #우기 #슈화 #Dreamcatcher #드림캐쳐 #MAISON_Challenge #메종챌린지 (2022-04-24)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_mamamoo/video/7077090793139358978?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2022-03-20",
+  "duration": "00:00:20",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "💜🍯 HONEY Challenge (with 소연, 우기) 🍯💜 #마마무 #MAMAMOO #솔라 #Solar #여자아이들 #소연 #우기 #꿀챌린지 #HONEYChallenge",
+  "title": "💜🍯 HONEY Challenge (with 소연, 우기) 🍯💜 #마마무 #MAMAMOO #솔라 #Solar #여자아이들 #소연 #우기 #꿀챌린지 #HONEYChallenge"
+},
+{
+  "link": "https://youtu.be/a9vb3A6sBqk",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-04-17",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/a9vb3A6sBqk/maxresdefault.jpg",
+  "alt": "#GGB챌린지 with #미연 #MIYEON #GIDLE #여자아이들 (2024-04-17)",
+  "title": "#GGB챌린지 with #미연 #MIYEON #GIDLE #여자아이들 (2024-04-17)"
+},
+{
+  "link": "https://youtu.be/1ewblD83bJo",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-09",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/1ewblD83bJo/maxresdefault.jpg",
+  "alt": "#GGB챌린지 with #YUQI #우기 #GIDLE #여자아이들 (2024-04-09)",
+  "title": "#GGB챌린지 with #YUQI #우기 #GIDLE #여자아이들 (2024-04-09)"
+},
+{
+  "link": "https://youtu.be/xvJvX1IoMMY",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2025-02-02",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/xvJvX1IoMMY/maxresdefault.jpg",
+  "alt": "#UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER (2025-02-02)",
+  "title": "#UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER (2025-02-02)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@wei__official/video/7078637034335735042?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연, 슈화",
+  "date": "2022-03-24",
+  "duration": "00:00:17",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "🌸 #여자아이들 #미연 선배님, #슈화 선배님과 요한이, 석화가 함께한 Maybe it's not too bad 💘 #위아이 #WEi #TooBad #TooBadChallenge",
+  "title": "🌸 #여자아이들 #미연 선배님, #슈화 선배님과 요한이, 석화가 함께한 Maybe it's not too bad 💘 #위아이 #WEi #TooBad #TooBadChallenge"
+},
+{
+  "link": "https://youtu.be/EfHmjBo4bqo",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-04-05",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/EfHmjBo4bqo/maxresdefault.jpg",
+  "alt": "권은비 #Glitch_challenge #미연 (2022-04-05)",
+  "title": "권은비 #Glitch_challenge #미연 (2022-04-05)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@astro_official/video/7078527177976728833?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2022-03-24",
+  "duration": "00:00:20",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "못 감당할 TOMBOY 같은 매력의 #YUQI X #산하 #WHO_Challenge 🔮 #아스트로 #ASTRO #문빈_산하 #MOONBIN_SANHA #문빈 #MOONBIN #SANHA",
+  "title": "못 감당할 TOMBOY 같은 매력의 #YUQI X #산하 #WHO_Challenge 🔮 #아스트로 #ASTRO #문빈_산하 #MOONBIN_SANHA #문빈 #MOONBIN #SANHA"
+},
+{
+  "link": "https://youtu.be/ClRBwWQ4S1A",
+  "category": "SHORTS",
+  "member": "미연, 슈화",
+  "date": "2022-03-23",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/ClRBwWQ4S1A/maxresdefault.jpg",
+  "alt": "체리블렛 #LoveInSpaceChallenge with #여자아이들 #미연 #슈화 #shorts (2022-03-23)",
+  "title": "체리블렛 #LoveInSpaceChallenge with #여자아이들 #미연 #슈화 #shorts (2022-03-23)"
+},
+{
+  "link": "https://youtu.be/8lPz7E8TKs8",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2023-09-07",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/8lPz7E8TKs8/maxresdefault.jpg",
+  "alt": "전소미 #JEONSOMI x #SOYEON #GIDLE #GoldGoldGoldChallenge (2023-09-07)",
+  "title": "전소미 #JEONSOMI x #SOYEON #GIDLE #GoldGoldGoldChallenge (2023-09-07)"
+},
+{
+  "link": "https://youtu.be/Tl9XPDgm7QA",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-10-12",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/Tl9XPDgm7QA/maxresdefault.jpg",
+  "alt": "잠깐✋#미연 님도 끝내긴.. #최예나 #예나 #YENA #여자아이들 #GIDLE #MIYEON #네모네모 #YENA_NEMONEMO #shorts (2024-10-12)",
+  "title": "잠깐✋#미연 님도 끝내긴.. #최예나 #예나 #YENA #여자아이들 #GIDLE #MIYEON #네모네모 #YENA_NEMONEMO #shorts (2024-10-12)"
+},
+{
+  "link": "https://youtu.be/5XQpkW8xNos",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-02-03",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/5XQpkW8xNos/maxresdefault.jpg",
+  "alt": "#우기 님도 What a Good Morning ☀ #최예나 #예나 #YENA #여자아이들 #GIDLE #YUQI #GOOD_MORNING #확실한_건_Good_Morning (2024-02-03)",
+  "title": "#우기 님도 What a Good Morning ☀ #최예나 #예나 #YENA #여자아이들 #GIDLE #YUQI #GOOD_MORNING #확실한_건_Good_Morning (2024-02-03)"
+},
+{
+  "link": "https://youtu.be/TmJX4h3H9lg",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-10-12",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/TmJX4h3H9lg/maxresdefault.jpg",
+  "alt": "#미연 님도 함께 네모네모 Sign〰💟 #최예나 #예나 #YENA #여자아이들 #GIDLE #MIYEON #네모네모 #네모네모_Challenge #YENA_NEMONEMO (2024-10-12)",
+  "title": "#미연 님도 함께 네모네모 Sign〰💟 #최예나 #예나 #YENA #여자아이들 #GIDLE #MIYEON #네모네모 #네모네모_Challenge #YENA_NEMONEMO (2024-10-12)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@choiyena.official/video/7058519448012999938?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-01-29",
+  "duration": "00:00:28",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "SMILEY Dance Challenge 😀With. 미연🌟#최예나 #예나 #YENA #SMiLEY #SMILEY_Challenge",
+  "title": "SMILEY Dance Challenge 😀With. 미연🌟#최예나 #예나 #YENA #SMiLEY #SMILEY_Challenge"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@choiyena.official/video/7058550417797418241?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2022-01-29",
+  "duration": "00:00:27",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "SMILEY Dance Challenge 😀With. 우기🐶#최예나 #예나 #YENA #SMiLEY #SMILEY_Challenge",
+  "title": "SMILEY Dance Challenge 😀With. 우기🐶#최예나 #예나 #YENA #SMiLEY #SMILEY_Challenge"
+},
+{
+  "link": "https://youtu.be/V00PuleWDak",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-09-02",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/V00PuleWDak/maxresdefault.jpg",
+  "alt": "트와이스 사나 #TalkthatTalk Challenge✌ with #미연💕 (2022-09-02)",
+  "title": "트와이스 사나 #TalkthatTalk Challenge✌ with #미연💕 (2022-09-02)"
+},
+{
+  "link": "https://youtu.be/f1WmZDbawI0",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-03-17",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/f1WmZDbawI0/maxresdefault.jpg",
+  "alt": "트와이스 사나 #SETMEFREE Challenge with #미연🐊#TWICE #트와이스 #READYTOBE (2023-03-17)",
+  "title": "트와이스 사나 #SETMEFREE Challenge with #미연🐊#TWICE #트와이스 #READYTOBE (2023-03-17)"
+},
+{
+  "link": "https://youtu.be/vO6u00gEO54",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-08-10",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/vO6u00gEO54/maxresdefault.jpg",
+  "alt": "뱀뱀 #LAST_PARADE 🚩with #민니 #MINNIE #여자아이들 #GIDLE #BamBam #뱀뱀 #BAMESIS (2024-08-10)",
+  "title": "뱀뱀 #LAST_PARADE 🚩with #민니 #MINNIE #여자아이들 #GIDLE #BamBam #뱀뱀 #BAMESIS (2024-08-10)"
+},
+{
+  "link": "https://youtu.be/P_YSVYYX7Kw",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-01-28",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/P_YSVYYX7Kw/maxresdefault.jpg",
+  "alt": "뱀뱀 x 미연 BamBam X MIYEON #SlowMoChallenge #Shorts (2022-01-28)",
+  "title": "뱀뱀 x 미연 BamBam X MIYEON #SlowMoChallenge #Shorts (2022-01-28)"
+},
+{
+  "link": "https://youtu.be/mzhaw-i0G6U",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-03-30",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/mzhaw-i0G6U/maxresdefault.jpg",
+  "alt": "뱀뱀 Sour & Sweet Challenge with 미연🍜 (2023-03-30)",
+  "title": "뱀뱀 Sour & Sweet Challenge with 미연🍜 (2023-03-30)"
+},
+{
+  "link": "https://youtu.be/KODavxPbg5s",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2021-12-28",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/KODavxPbg5s/maxresdefault.jpg",
+  "alt": "뱀뱀 X 민니 BamBam X MINNIE #WhoAreYouChallenge #Shorts (2021-12-28)",
+  "title": "뱀뱀 X 민니 BamBam X MINNIE #WhoAreYouChallenge #Shorts (2021-12-28)"
+},
+{
+  "link": "https://youtu.be/_i8KcM6-YLc",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2023-10-25",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/_i8KcM6-YLc/maxresdefault.jpg",
+  "alt": "빌리 #여자아이들 #우기 선배님과 함께 ba-ba-ba-ba-ba bombarda💜❤ #츠키 #TSUKI #Billlie #빌리 #DANG!  #DANG_Challenge (2023-10-25)",
+  "title": "빌리 #여자아이들 #우기 선배님과 함께 ba-ba-ba-ba-ba bombarda💜❤ #츠키 #TSUKI #Billlie #빌리 #DANG!  #DANG_Challenge (2023-10-25)"
+},
+{
+  "link": "https://youtu.be/zwR_-EkaXjI",
+  "category": "SHORTS",
+  "member": "미연, 슈화",
+  "date": "2022-04-01",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/zwR_-EkaXjI/maxresdefault.jpg",
+  "alt": "빌리 #GIDLE #미연 #슈화 선배님과 함께 #GGMGY챌린지 🤘🤟 (2022-04-01)",
+  "title": "빌리 #GIDLE #미연 #슈화 선배님과 함께 #GGMGY챌린지 🤘🤟 (2022-04-01)"
+},
+{
+  "link": "https://youtu.be/TxkjzX3IDn8",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-05-01",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/TxkjzX3IDn8/maxresdefault.jpg",
+  "alt": "윤지성 ENFP동지🙌🏻 미연님과 함께 BLOOM🌸 #윤지성 #블룸챌린지 (2022-05-01)",
+  "title": "윤지성 ENFP동지🙌🏻 미연님과 함께 BLOOM🌸 #윤지성 #블룸챌린지 (2022-05-01)"
+},
+{
+  "link": "https://youtu.be/Dc5jyUwKypY",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-01-14",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/Dc5jyUwKypY/maxresdefault.jpg",
+  "alt": "있지 #Two Beautiful Girls 💝 #여자아이들 #미연 선배님과 #유나 의 러블리한 #UNTOUCHABLEChallenge #ITZY #YUNA #GIDLE #MIYEON (2024-01-14)",
+  "title": "있지 #Two Beautiful Girls 💝 #여자아이들 #미연 선배님과 #유나 의 러블리한 #UNTOUCHABLEChallenge #ITZY #YUNA #GIDLE #MIYEON (2024-01-14)"
+},
+{
+  "link": "https://youtu.be/KoUyyp1rCkg",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-05-04",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/KoUyyp1rCkg/maxresdefault.jpg",
+  "alt": "#GIDLE #여자아이들 #MIYEON #미연 언니도 마이크 OUT🎙️💭#LE_SSERAFIM #르세라핌 #KIMCHAEWON #UNFORGIVEN #shorts (2023-05-04)",
+  "title": "#GIDLE #여자아이들 #MIYEON #미연 언니도 마이크 OUT🎙️💭#LE_SSERAFIM #르세라핌 #KIMCHAEWON #UNFORGIVEN #shorts (2023-05-04)"
+},
+{
+  "link": "https://youtu.be/nU5Hwdvs5W8",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2023-05-21",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/nU5Hwdvs5W8/maxresdefault.jpg",
+  "alt": "퀸카 그 잡채👑 #GIDLE #여자아이들 #MINNIE #민니 선배님과 함께 #빌런토끼 😈🐰#LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #UNFORGIVEN (2023-05-21)",
+  "title": "퀸카 그 잡채👑 #GIDLE #여자아이들 #MINNIE #민니 선배님과 함께 #빌런토끼 😈🐰#LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #UNFORGIVEN (2023-05-21)"
+},
+{
+  "link": "https://youtu.be/uJabomKa5gg",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2025-03-18",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/uJabomKa5gg/maxresdefault.jpg",
+  "alt": "That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니 (2025-03-18)",
+  "title": "That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니 (2025-03-18)"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@le_sserafim/video/7094608953933352194?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2022-05-06",
+  "duration": "00:00:18",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "FEARLESS Challenge with #미연 from @official_gidle #IMFEARLESS #LE_SSERAFIM #MIYEON #미연 #KAZUHA #카즈하 #르세라핌 #여자아이들",
+  "title": "FEARLESS Challenge with #미연 from @official_gidle #IMFEARLESS #LE_SSERAFIM #MIYEON #미연 #KAZUHA #카즈하 #르세라핌 #여자아이들"
+},
+{
+  "link": "https://youtu.be/SV2PpH6lKds",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-07-10",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/SV2PpH6lKds/maxresdefault.jpg",
+  "alt": "츄 🍓💨 with #미연 #StrawberryRushChallenge #CHUU #츄 #StrawberryRush #여자아이들 #GIDLE #MIYEON@official_i_dle (2024-07-10)",
+  "title": "츄 🍓💨 with #미연 #StrawberryRushChallenge #CHUU #츄 #StrawberryRush #여자아이들 #GIDLE #MIYEON@official_i_dle (2024-07-10)"
+},
+{
+  "link": "https://youtu.be/BsxNIftdCVw",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2023-11-17",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/BsxNIftdCVw/maxresdefault.jpg",
+  "alt": "츄 with #우기 💫 #HowlChallenge 🐺#CHUU #츄 (2023-11-17)",
+  "title": "츄 with #우기 💫 #HowlChallenge 🐺#CHUU #츄 (2023-11-17)"
+},
+{
+  "link": "https://youtu.be/1AidB4DsBtU",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-10-13",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/1AidB4DsBtU/maxresdefault.jpg",
+  "alt": "#Galileochallenge With #MIYEON#미연 #여자아이들 #GIDLE #Kep1er #케플러#Galileo #MagicHour (2023-10-13)",
+  "title": "#Galileochallenge With #MIYEON#미연 #여자아이들 #GIDLE #Kep1er #케플러#Galileo #MagicHour (2023-10-13)"
+},
+{
+  "link": "https://youtu.be/mkn5l-6FtEo",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2023-05-25",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/mkn5l-6FtEo/maxresdefault.jpg",
+  "alt": "박재범 'Candy (Feat. Zion.T)' with #민니 #MINNIE (2023-05-25)",
+  "title": "박재범 'Candy (Feat. Zion.T)' with #민니 #MINNIE (2023-05-25)"
+},
+{
+  "link": "https://youtu.be/y4aZKWht8Kw",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-07-09",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/y4aZKWht8Kw/maxresdefault.jpg",
+  "alt": "이민혁 (HUTA) #BOOM_Challenge #GIDLE #MIYEON (2022-07-09)",
+  "title": "이민혁 (HUTA) #BOOM_Challenge #GIDLE #MIYEON (2022-07-09)"
+},
+{
+  "link": "https://youtu.be/5t3IFbyIcOc",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-05-05",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/5t3IFbyIcOc/maxresdefault.jpg",
+  "alt": "#비투비 #BTOB #MIYEON YA! yayayaya! #나의_바람_챌린지 (2023-05-05)",
+  "title": "#비투비 #BTOB #MIYEON YA! yayayaya! #나의_바람_챌린지 (2023-05-05)"
+},
+{
+  "link": "https://youtu.be/AO8YX-tQhj0",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-10-13",
+  "duration": "00:00:11",
+  "thumbnail": "https://i.ytimg.com/vi/AO8YX-tQhj0/maxresdefault.jpg",
+  "alt": "NCT 127 🐯🐻 𝑪𝒉𝒆𝒄𝒌 𝒕𝒉𝒂𝒕 𝒄𝒉𝒆𝒄𝒌 𝒕𝒉𝒂𝒕 Ooooh 〰️ 💚 (With. #미연) (2023-10-13)",
+  "title": "NCT 127 🐯🐻 𝑪𝒉𝒆𝒄𝒌 𝒕𝒉𝒂𝒕 𝒄𝒉𝒆𝒄𝒌 𝒕𝒉𝒂𝒕 Ooooh 〰️ 💚 (With. #미연) (2023-10-13)"
+},
+{
+  "link": "https://youtu.be/o2DKVrgT0TE",
+  "category": "SHORTS",
+  "member": "미연, 우기",
+  "date": "2024-07-20",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/o2DKVrgT0TE/maxresdefault.jpg",
+  "alt": "NCT 127 난 삐그덕🌊 삐그덕🛟 (With. #미연 #우기) #NCT127 #WALK #NCT127_WALK #삐그덕 #NCT127_삐그덕 #NCT127_삐그덕_Walk #shorts (2024-07-20)",
+  "title": "NCT 127 난 삐그덕🌊 삐그덕🛟 (With. #미연 #우기) #NCT127 #WALK #NCT127_WALK #삐그덕 #NCT127_삐그덕 #NCT127_삐그덕_Walk #shorts (2024-07-20)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_nct/video/7226717107398954242?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-04-27",
+  "duration": "00:00:15",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "#손목〰위에〰 난💐🎶🎵 With #NCT_DOJAEJUNG #미연 #여자아이들 #퍼퓸챌린지 #PerfumeChallenge",
+  "title": "손목〰위에〰 난💐🎶🎵 With #NCT_DOJAEJUNG #미연 #여자아이들 #퍼퓸챌린지 #PerfumeChallenge"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_nct/video/7276052851372084481?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-09-07",
+  "duration": "00:00:24",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "🌹🐰 How do you like my Baggy Jeeeeeans 〰️ 👖✨#태용 #NCTU_BaggyJeans",
+  "title": "🌹🐰 How do you like my Baggy Jeeeeeans 〰️ 👖✨#태용 #NCTU_BaggyJeans"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_nct/video/7336918031962033410?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-02-18",
+  "duration": "00:00:16",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "TEN- 👉👈Having fun dancing with #MINNIE 👌 #TEN #NCT #WayV",
+  "title": "TEN- 👉👈Having fun dancing with #MINNIE 👌 #TEN #NCT #WayV"
+},
+{
+  "link": "https://youtu.be/EiYMJyk9gUE",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-07-12",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/EiYMJyk9gUE/maxresdefault.jpg",
+  "alt": "이채연- call me📞 #소연 선배님👑 #여자아이들 #GIDLE #이채연 #LEECHAEYEON  #SHOWDOWN #DON_T (2024-07-12)",
+  "title": "이채연- call me📞 #소연 선배님👑 #여자아이들 #GIDLE #이채연 #LEECHAEYEON  #SHOWDOWN #DON_T (2024-07-12)"
+},
+{
+  "link": "https://youtu.be/3R47VKGrh34",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2023-05-20",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/3R47VKGrh34/maxresdefault.jpg",
+  "alt": "이채연- #KnockChallenge With #GIDLE #여자아이들 #소연 선배님👑 #이채연 #LEECHAEYEON #KNOCK (2023-05-20)",
+  "title": "이채연- #KnockChallenge With #GIDLE #여자아이들 #소연 선배님👑 #이채연 #LEECHAEYEON #KNOCK (2023-05-20)"
+},
+{
+  "link": "https://youtu.be/-zFdf1wwmAk",
+  "category": "SHORTS",
+  "member": "미연, 우기",
+  "date": "2023-05-19",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/-zFdf1wwmAk/maxresdefault.jpg",
+  "alt": "미주- 진짜처럼 보여 나✨#MovieStarChallenge #무비스타챌린지 #MIJOO #여자아이들 #GIDLE #MovieStar (2023-05-19)",
+  "title": "미주-진짜처럼 보여 나✨#MovieStarChallenge #무비스타챌린지 #MIJOO #여자아이들 #GIDLE #MovieStar (2023-05-19)"
+},
+{
+  "link": "https://youtu.be/XVm2h9VPLLk",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-05-27",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/XVm2h9VPLLk/maxresdefault.jpg",
+  "alt": "몬스타엑스 🕺FEEL MY RHYTHM🕺 #프리덤챌린지 With #GIDLE #미연 #MONSTA X ✨ #shorts (2023-05-27)",
+  "title": "몬스타엑스 🕺FEEL MY RHYTHM🕺 #프리덤챌린지 With #GIDLE #미연 #MONSTA X ✨ #shorts (2023-05-27)"
+},
+{
+  "link": "https://youtu.be/7rEWKNzngtE",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2023-05-21",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/7rEWKNzngtE/maxresdefault.jpg",
+  "alt": "#SpicyChallenge ❤️‍🔥 with #YUQI #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #shorts (2023-05-21)",
+  "title": "#SpicyChallenge ❤️‍🔥 with #YUQI #스파이시챌린지 #aespa #æspa #에스파 #Spicy #aespa_Spicy #shorts (2023-05-21)"
+},
+{
+  "link": "https://youtu.be/OSS3IstYPGw",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2023-05-22",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/OSS3IstYPGw/maxresdefault.jpg",
+  "alt": "I'm a 퀸카 #여자아이들 #민니 선배님과 모든게 이뤄지는 아일랜드로! 👑 #더윈드 #THEWIND #타나톤 #THANATORN #아일랜드_챌린지 (2023-05-22)",
+  "title": "I'm a 퀸카 #여자아이들 #민니 선배님과 모든게 이뤄지는 아일랜드로! 👑 #더윈드 #THEWIND #타나톤 #THANATORN #아일랜드_챌린지 (2023-05-22)"
+},
+{
+  "link": "https://youtu.be/XbJ1LC-xLY0",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-11-25",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/XbJ1LC-xLY0/maxresdefault.jpg",
+  "alt": "🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV (2024-11-25)",
+  "title": "🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV (2024-11-25)"
+},
+{
+  "link": "https://youtu.be/Br6Ywd3U3H8",
+  "category": "SHORTS",
+  "member": "슈화",
+  "date": "2023-05-23",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/Br6Ywd3U3H8/maxresdefault.jpg",
+  "alt": "Dancing #DiamondsOnly with the super Queencard👑💎#WayV (2023-05-23)",
+  "title": "Dancing #DiamondsOnly with the super Queencard👑💎#WayV (2023-05-23)"
+},
+
+{
+  "link": "https://youtu.be/lBdqukAAWQ8",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-08-14",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/lBdqukAAWQ8/maxresdefault.jpg",
+  "alt": "#Supersonic ❤️‍🔥 with #MIYEON #GIDLE #ParkJiWon #fromis_9 #Supersonic_Challenge @official_i_dle (2024-08-14)",
+  "title": "#Supersonic ❤️‍🔥 with #MIYEON #GIDLE #ParkJiWon #fromis_9 #Supersonic_Challenge @official_i_dle (2024-08-14)"
+},
+{
+  "link": "https://youtu.be/6TPqfUaWcqE",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-06-28",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/6TPqfUaWcqE/maxresdefault.jpg",
+  "alt": "fromis_9 (프로미스나인) #Stay_This_Way with #GIDLE #MIYEON 🚘🏖 (2022-06-28)",
+  "title": "fromis_9 (프로미스나인) #Stay_This_Way with #GIDLE #MIYEON 🚘🏖 (2022-06-28)"
+},
+{
+  "link": "https://youtu.be/QYClaQv4YgY",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-06-06",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/QYClaQv4YgY/maxresdefault.jpg",
+  "alt": "I’m a 퀸카👑 이런 난 어때😝#menow #지원 #JIWON with #여자아이들 #미연 @official_i_dle  #fromis_9 #프로미스나인 #flover (2023-06-06)",
+  "title": "I’m a 퀸카👑 이런 난 어때😝#menow #지원 #JIWON with #여자아이들 #미연 @official_i_dle  #fromis_9 #프로미스나인 #flover (2023-06-06)"
+},
+{
+  "link": "https://youtu.be/_7-OITbVIJE",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2025-05-27",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/_7-OITbVIJE/maxresdefault.jpg",
+  "alt": "act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge (2025-05-27)",
+  "title": "act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge (2025-05-27)"
+},
+{
+  "link": "https://youtu.be/-ND2Fdz__ps",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2025-01-07",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/-ND2Fdz__ps/maxresdefault.jpg",
+  "alt": "오늘은 #GIDLE #여자아이들 #MIYEON #미연 💌 #BOYNEXTDOOR #보이넥스트도어 #성호 #오늘만_I_LOVE_YOU #오늘만_I_LOVE_YOU_Challenge (2025-01-07)",
+  "title": "오늘은 #GIDLE #여자아이들 #MIYEON #미연 💌 #BOYNEXTDOOR #보이넥스트도어 #성호 #오늘만_I_LOVE_YOU #오늘만_I_LOVE_YOU_Challenge (2025-01-07)"
+},
+{
+  "link": "https://youtu.be/hhAjyAvnrMw",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2023-06-02",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/hhAjyAvnrMw/maxresdefault.jpg",
+  "alt": "One and Only👆👌👑 with #여자아이들 #SOYEON #YUQI #BOYNEXTDOOR #보이넥스트도어 #성호 #이한 #OneandOnly (2023-06-02)",
+  "title": "One and Only👆👌👑 with #여자아이들 #SOYEON #YUQI #BOYNEXTDOOR #보이넥스트도어 #성호 #이한 #OneandOnly (2023-06-02)"
+},
+{
+  "link": "https://youtu.be/gKQXPiSqI9s",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-20",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/gKQXPiSqI9s/maxresdefault.jpg",
+  "alt": "이것저것 재지 말고 say #여자아이들 #우기 🌎🌬🔥#BOYNEXTDOOR #보이넥스트도어 #GIDLE #YUQI #BOYNEXTDOOR_EWF #shorts (2024-04-20)",
+  "title": "이것저것 재지 말고 say #여자아이들 #우기 🌎🌬🔥#BOYNEXTDOOR #보이넥스트도어 #GIDLE #YUQI #BOYNEXTDOOR_EWF #shorts (2024-04-20)"
+},
+{
+  "link": "https://youtu.be/heuJSO1wgE8",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-07-21",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/heuJSO1wgE8/maxresdefault.jpg",
+  "alt": "창빈의 #ChkChkBoom Challenge 🎯 w/ #여자아이들 #GIDLE #미연 #MIYEON !🍀 #StrayKids #스트레이키즈 #ATE (2024-07-21)",
+  "title": "창빈의 #ChkChkBoom Challenge 🎯 w/ #여자아이들 #GIDLE #미연 #MIYEON !🍀 #StrayKids #스트레이키즈 #ATE (2024-07-21)"
+},
+{
+  "link": "https://youtu.be/yeqnJMgrlDM",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2023-06-16",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/yeqnJMgrlDM/maxresdefault.jpg",
+  "alt": "#창빈 의 #특챌린지 #S_Class_Challenge ⭐ w/ #여자아이들 #GIDLE #소연 #SOYEON!✨ #StrayKids #스트레이키즈 #Changbin #5_STAR (2023-06-16)",
+  "title": "#창빈 의 #특챌린지 #S_Class_Challenge ⭐ w/ #여자아이들 #GIDLE #소연 #SOYEON!✨ #StrayKids #스트레이키즈 #Changbin #5_STAR (2023-06-16)"
+},
+{
+  "link": "https://youtu.be/gZCRpHuQECM",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-09-13",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/gZCRpHuQECM/maxresdefault.jpg",
+  "alt": "ZEROBASEONE #여자아이들 #미연 선배님과 눈이 부셔 'GOOD SO BAD' ✨@official_i_dle (2024-09-13)",
+  "title": "ZEROBASEONE #여자아이들 #미연 선배님과 눈이 부셔 'GOOD SO BAD' ✨@official_i_dle (2024-09-13)"
+},
+{
+  "link": "https://youtu.be/mGyGTsTPys0",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-04-18",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/mGyGTsTPys0/maxresdefault.jpg",
+  "alt": "ZEROBASEONE #여자아이들 #소연 선배님과 #Super_Lady Challenge 👑 @official_i_dle (2024-04-18)",
+  "title": "ZEROBASEONE #여자아이들 #소연 선배님과 #Super_Lady Challenge 👑 @official_i_dle (2024-04-18)"
+},
+{
+  "link": "https://youtu.be/Ettv6H2oGfY",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-02-06",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/Ettv6H2oGfY/maxresdefault.jpg",
+  "alt": "ZEROBASEONE #여자아이들 #우기 선배님과 'I WANNA KNOW' 👑 (2024-02-06)",
+  "title": "ZEROBASEONE #여자아이들 #우기 선배님과 'I WANNA KNOW' 👑 (2024-02-06)"
+},
+{
+  "link": "https://youtu.be/dRoBlUwd-DM",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-30",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/dRoBlUwd-DM/maxresdefault.jpg",
+  "alt": "ZEROBASEONE #여자아이들 #우기 선배님과 'SWEAT' 🌊 @official_i_dle (2024-04-30)",
+  "title": "ZEROBASEONE #여자아이들 #우기 선배님과 'SWEAT' 🌊 @official_i_dle (2024-04-30)"
+},
+{
+  "link": "https://youtu.be/cZKkbMmb_xk",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-03-30",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/cZKkbMmb_xk/maxresdefault.jpg",
+  "alt": "#NMIXX #여자아이들 #GIDLE #미연 선배님과 럽미라잌디스💗💜 #Shorts (2023-03-30)",
+  "title": "#NMIXX #여자아이들 #GIDLE #미연 선배님과 럽미라잌디스💗💜 #Shorts (2023-03-30)"
+},
+{
+  "link": "https://youtu.be/z5TiFd44XoU",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-02-03",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/z5TiFd44XoU/maxresdefault.jpg",
+  "alt": "#NMIXX 독하다 해 𝙏𝙝𝙖𝙩’𝙨 𝙤𝙪𝙧 #DASH 🔥 with #여자아이들 #미연 #NMIXX #SULLYOON #DASH_Challenge #MYPACE_Challenge (2024-02-03)",
+  "title": "#NMIXX 독하다 해 𝙏𝙝𝙖𝙩’𝙨 𝙤𝙪𝙧 #DASH 🔥 with #여자아이들 #미연 #NMIXX #SULLYOON #DASH_Challenge #MYPACE_Challenge (2024-02-03)"
+},
+{
+  "link": "https://youtu.be/TOxkJgXYKbg",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-02-02",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/TOxkJgXYKbg/maxresdefault.jpg",
+  "alt": "#NMIXX Super #DASH🔥 Onward #DASH💥 with #여자아이들 #GIDLE #민니 #MINNIE #NMIXX #엔믹스 #LILY #릴리  #DASH_Challenge (2024-02-02)",
+  "title": "#NMIXX Super #DASH🔥 Onward #DASH💥 with #여자아이들 #GIDLE #민니 #MINNIE #NMIXX #엔믹스 #LILY #릴리  #DASH_Challenge (2024-02-02)"
+},
+{
+  "link": "https://youtu.be/lUyUmivWSMs",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-02-02",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/lUyUmivWSMs/maxresdefault.jpg",
+  "alt": "#DXMON (다이몬) #여자아이들 #미연 선배님과 🌞 @official_i_dle  #GIDLE #MIYEON #DXMON #BurnUp #DXMON_BurnUp #햇님이챌린지 (2024-02-02)",
+  "title": "#DXMON (다이몬) #여자아이들 #미연 선배님과 🌞 @official_i_dle  #GIDLE #MIYEON #DXMON #BurnUp #DXMON_BurnUp #햇님이챌린지 (2024-02-02)"
+},
+{
+  "link": "https://youtu.be/thP11TGXOn0",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-02-04",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/thP11TGXOn0/maxresdefault.jpg",
+  "alt": "#빌어먹을럽 with #GIDLE #MIYEON #설아 #SEOLA #Without_U #INSIDEOUT #우주소녀 #WJSN #여자아이들 #미연 (2024-02-04)",
+  "title": "#빌어먹을럽 with #GIDLE #MIYEON #설아 #SEOLA #Without_U #INSIDEOUT #우주소녀 #WJSN #여자아이들 #미연 (2024-02-04)"
+},
+{
+  "link": "https://youtu.be/HS4OP6QDCQk",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-01-17",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/HS4OP6QDCQk/maxresdefault.jpg",
+  "alt": "#우주소녀 #쪼꼬미 #슈퍼그럼요챌린지 #루다 #여자아이들 #슈퍼그럼요 #WJSN #CHOCOME #SuperYuppers #SuperYuppers_Challenge #shorts (2022-01-17)",
+  "title": "#우주소녀 #쪼꼬미 #슈퍼그럼요챌린지 #루다 #여자아이들 #슈퍼그럼요 #WJSN #CHOCOME #SuperYuppers #SuperYuppers_Challenge #shorts (2022-01-17)"
+},
+{
+  "link": "https://youtu.be/y8tOmzI30Vg",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2022-07-27",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/y8tOmzI30Vg/maxresdefault.jpg",
+  "alt": "즐겨 우린 괴짜 😈 #ZICO X #소연 #괴짜 #Freak #Dothefreak #20220727 #Shorts (2022-07-27)",
+  "title": "즐겨 우린 괴짜 😈 #ZICO X #소연 #괴짜 #Freak #Dothefreak #20220727 #Shorts (2022-07-27)"
+},
+{
+  "link": "https://youtu.be/CFsq-i_ie9g",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2025-06-01",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/CFsq-i_ie9g/maxresdefault.jpg",
+  "alt": "𝑇𝐼𝐿𝑇 with #소연 #SEULGI #슬기 #idle #아이들 @official_i_dle #SOYEON #RedVelvet_IRENE_SEULGI_TILT (2025-06-01)",
+  "title": "𝑇𝐼𝐿𝑇 with #소연 #SEULGI #슬기 #idle #아이들 @official_i_dle #SOYEON #RedVelvet_IRENE_SEULGI_TILT (2025-06-01)"
+},
+{
+  "link": "https://youtu.be/rzg7TXN9LTI",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-02-15",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/rzg7TXN9LTI/maxresdefault.jpg",
+  "alt": "밤양갱도 gang 이다🌰 with my gang #비비 #BIBI #GIDLE #소연 #SOYEON (2024-02-15)",
+  "title": "밤양갱도 gang 이다🌰 with my gang #비비 #BIBI #GIDLE #소연 #SOYEON (2024-02-15)"
+},
+{
+  "link": "https://youtu.be/blq-K8zTO_E",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-03-24",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/blq-K8zTO_E/maxresdefault.jpg",
+  "alt": "#청하 Eenie meenie Meenie minie  with 💜  #여자아이들 #GIDLE #소연 #SOYEON #CHUNGHA #청하ㅣ#EENIEMEENIEchallenge (2024-03-24)",
+  "title": "#청하 Eenie meenie Meenie minie  with 💜  #여자아이들 #GIDLE #소연 #SOYEON #CHUNGHA #청하ㅣ#EENIEMEENIEchallenge (2024-03-24)"
+},
+{
+  "link": "https://youtu.be/45gZMNJ1lcQ",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-03-24",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/45gZMNJ1lcQ/maxresdefault.jpg",
+  "alt": "#에이핑크 남주- (여자)아이들 소연과 함께한 #BADChallenge 🫴🏻🫲🏻😈 #나는_아픈_건_딱_질색이니까 (2024-03-24)",
+  "title": "#에이핑크 남주- (여자)아이들 소연과 함께한 #BADChallenge 🫴🏻🫲🏻😈 #나는_아픈_건_딱_질색이니까 (2024-03-24)"
+},
+{
+  "link": "https://youtu.be/08HALXPyHAg",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-09-08",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/08HALXPyHAg/maxresdefault.jpg",
+  "alt": "퀸카 #미연 선배님과 함께 Flying~✈️ #xikers #싸이커스 (2023-09-08)",
+  "title": "퀸카 #미연 선배님과 함께 Flying~✈️ #xikers #싸이커스 (2023-09-08)"
+},
+{
+  "link": "https://youtu.be/I05fbHITDVo",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-03-26",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/I05fbHITDVo/maxresdefault.jpg",
+  "alt": "헌터는 아픈 건 딱 질색이니까 민니 선배님과 Break it down 댄스~ #xikers #싸이커스 (2024-03-26)",
+  "title": "헌터는 아픈 건 딱 질색이니까 민니 선배님과 Break it down 댄스~ #xikers #싸이커스 (2024-03-26)"
+},
+{
+  "link": "https://youtu.be/p5Hqd9GDesg",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-03-25",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/p5Hqd9GDesg/maxresdefault.jpg",
+  "alt": "(여자)#아이들 #소연 선배님과 함께, 하나 둘 셋 𝙁𝙐𝙀𝙂𝙊 🔥 #TNX #우경준 #장현수 #FUEGO #푸에고 #FUEGO_Challenge (2024-03-25)",
+  "title": "(여자)#아이들 #소연 선배님과 함께, 하나 둘 셋 𝙁𝙐𝙀𝙂𝙊 🔥 #TNX #우경준 #장현수 #FUEGO #푸에고 #FUEGO_Challenge (2024-03-25)"
+},
+{
+  "link": "https://youtu.be/CK28AU_um-E",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-04-11",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/CK28AU_um-E/maxresdefault.jpg",
+  "alt": "아딱질 중독🥺💭으로 (여자)아이들 소연 선배님과 함께💜QWER의 맘 절반의 반도 주지를 못했어! With @official_i_dle (2024-04-11)",
+  "title": "아딱질 중독🥺💭으로 (여자)아이들 소연 선배님과 함께💜QWER의 맘 절반의 반도 주지를 못했어! With @official_i_dle (2024-04-11)"
+},
+{
+  "link": "https://youtu.be/xxj-Rm7b6U0",
+  "category": "SHORTS",
+  "member": "미연, 슈화",
+  "date": "2024-07-23",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/xxj-Rm7b6U0/maxresdefault.jpg",
+  "alt": "Hit the ❌⭕ #슈화 #SHUHUA #미연 #MIYEON #여자아이들 #GIDLE #SUNGHOON #HEESEUNG #ENHYPEN_XO #OnlyIfYouSayYes (2024-07-23)",
+  "title": "Hit the ❌⭕ #슈화 #SHUHUA #미연 #MIYEON #여자아이들 #GIDLE #SUNGHOON #HEESEUNG #ENHYPEN_XO #OnlyIfYouSayYes (2024-07-23)"
+},
+{
+  "link": "https://youtu.be/s9S4DMCISeA",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-10-12",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/s9S4DMCISeA/maxresdefault.jpg",
+  "alt": "(여자)아이들 미연선배님과 NewTomorrow✨ #FANTASYBOYS #판타지보이즈 #김우석 #홍성민 (2023-10-12)",
+  "title": "(여자)아이들 미연선배님과 NewTomorrow✨ #FANTASYBOYS#판타지보이즈 #김우석 #홍성민 (2023-10-12)"
+},
+{
+  "link": "https://youtu.be/fUGhRk9jSpw",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-28",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/fUGhRk9jSpw/maxresdefault.jpg",
+  "alt": "Hey, 우기 선배님이 나를 보고 웃잖아😊 #FANTASYBOYS #판타지보이즈 (2024-04-28)",
+  "title": "Hey, 우기 선배님이 나를 보고 웃잖아😊 #FANTASYBOYS #판타지보이즈 (2024-04-28)"
+},
+{
+  "link": "https://youtu.be/fQRhJVWVbbI",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-10-15",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/fQRhJVWVbbI/maxresdefault.jpg",
+  "alt": "판타지보이즈를위해솔로영상까지촬영해주신 미연선배님 너무 감사드립니다🥹✨#FANTASYBOYS#판타지보이즈#NEWTOMORROW (2023-10-15)",
+  "title": "판타지보이즈를위해솔로영상까지촬영해주신 미연선배님 너무 감사드립니다🥹✨#FANTASYBOYS#판타지보이즈#NEWTOMORROW (2023-10-15)"
+},
+{
+  "link": "https://youtu.be/tvlHFM_fZAc",
+  "category": "SHORTS",
+  "member": "미연, 우기",
+  "date": "2025-06-01",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/tvlHFM_fZAc/maxresdefault.jpg",
+  "alt": "#아이들 #미연 #우기 선배님도 같이 Fly Up 🚀 #RIIZE #라이즈#WONBIN #원빈 #ANTON #앤톤 (2025-06-01)",
+  "title": "#아이들 #미연 #우기 선배님도 같이 Fly Up 🚀 #RIIZE #라이즈#WONBIN #원빈 #ANTON #앤톤 (2025-06-01)"
+},
+{
+  "link": "https://youtu.be/bWM0VNJv1h8",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-04-30",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/bWM0VNJv1h8/maxresdefault.jpg",
+  "alt": "#여자아이들 #우기 님과 BLUSH🌸 @official_g_i_dle  #GIDLE #YUQI#WOOAH #우아 #NANA #나나 #BLUSH  #BLUSH_challenge (2024-04-30)",
+  "title": "#여자아이들 #우기 님과 BLUSH🌸 @official_g_i_dle  #GIDLE #YUQI#WOOAH #우아 #NANA #나나 #BLUSH  #BLUSH_challenge (2024-04-30)"
+},
+{
+  "link": "https://youtu.be/2jnPPq2rzhA",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2025-06-04",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/2jnPPq2rzhA/maxresdefault.jpg",
+  "alt": "#THUNDER ⚡️ with #미연 #MIYEON #아이들 #idle #준 #JUN #SEVENTEEN #세븐틴 #HAPPY_BURSTDAY #SVT_THUNDER (2025-06-04)",
+  "title": "#THUNDER ⚡️ with #미연 #MIYEON #아이들 #idle #준 #JUN #SEVENTEEN #세븐틴 #HAPPY_BURSTDAY #SVT_THUNDER (2025-06-04)"
+},
+{
+  "link": "https://youtu.be/-ugvGZpcwA0",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-05-08",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/-ugvGZpcwA0/maxresdefault.jpg",
+  "alt": "#MAESTRO 🪄 with #우기 #YUQI #여자아이들 #GIDLE #준 #JUN #SEVENTEEN #세븐틴 #마에스트로 #SVT_MAESTRO (2024-05-08)",
+  "title": "#MAESTRO 🪄 with #우기 #YUQI #여자아이들 #GIDLE #준 #JUN #SEVENTEEN #세븐틴 #마에스트로 #SVT_MAESTRO (2024-05-08)"
+},
+{
+  "link": "https://youtu.be/HB8gV4TnK5Y",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2024-05-08",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/HB8gV4TnK5Y/maxresdefault.jpg",
+  "alt": "#MAESTRO 🪄 with #우기 #YUQI #여자아이들 #GIDLE #디에잇 #THE8 #SEVENTEEN #세븐틴 #마에스트로 #SVT_MAESTRO (2024-05-08)",
+  "title": "#MAESTRO 🪄 with #우기 #YUQI #여자아이들 #GIDLE #디에잇 #THE8 #SEVENTEEN #세븐틴 #마에스트로 #SVT_MAESTRO (2024-05-08)"
+},
+{
+  "link": "https://youtu.be/QY0G54BfrfI",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2025-06-04",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/QY0G54BfrfI/maxresdefault.jpg",
+  "alt": "#THUNDER ⚡️ with #우기 #YUQI #아이들 #idle #디에잇 #THE8 #SEVENTEEN #세븐틴 #HAPPY_BURSTDAY #SVT_THUNDER (2025-06-04)",
+  "title": "#THUNDER ⚡️ with #우기 #YUQI #아이들 #idle #디에잇 #THE8 #SEVENTEEN #세븐틴 #HAPPY_BURSTDAY #SVT_THUNDER (2025-06-04)"
+},
+{
+  "link": "https://youtu.be/U8XMmFs-Rp0",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2024-07-12",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/U8XMmFs-Rp0/maxresdefault.jpg",
+  "alt": "#여자아이들 #소연 선배님과 마주친 순간 fly high🦋 #KISSOFLIFE #JULIE #Sticky #Sticky_Challenge (2024-07-12)",
+  "title": "#여자아이들 #소연 선배님과 마주친 순간 fly high🦋 #KISSOFLIFE #JULIE #Sticky #Sticky_Challenge (2024-07-12)"
+},
+{
+  "link": "https://youtu.be/9DobQccTQJ0",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-11-09",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/9DobQccTQJ0/maxresdefault.jpg",
+  "alt": "#여자아이들 #미연 선배님의 free-style dance woo〰! ✋🫢🤚#Bad_News_Challenge #KISSOFLIFE (2023-11-09)",
+  "title": "#여자아이들 #미연 선배님의 free-style dance woo〰! ✋🫢🤚#Bad_News_Challenge #KISSOFLIFE (2023-11-09)"
+},
+{
+  "link": "https://youtu.be/rbR4laxCk9E",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-07-18",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/rbR4laxCk9E/maxresdefault.jpg",
+  "alt": "(여자)아이들 #미연 님과 Talk that 쉿🤫 #쉿 #Shhh #JULIE #HANEUL #NATTY #BELLE (2023-07-18)",
+  "title": "(여자)아이들 #미연 님과 Talk that 쉿🤫 #쉿 #Shhh #JULIE #HANEUL #NATTY #BELLE (2023-07-18)"
+},
+{
+  "link": "https://youtu.be/wcU0Xbg7Ge4",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2024-07-14",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/wcU0Xbg7Ge4/maxresdefault.jpg",
+  "alt": "#SN_Challenge ⚡️ with #MIYEON #GIDLE #YOUNGJAE #KYUNGMIN #TWS #내가S면넌나의N이되어줘 @official_i_dle (2024-07-14)",
+  "title": "#SN_Challenge ⚡️ with #MIYEON #GIDLE #YOUNGJAE #KYUNGMIN #TWS #내가S면넌나의N이되어줘 @official_i_dle (2024-07-14)"
+},
+{
+  "link": "https://youtu.be/ccygkNJ8UQs",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2023-10-20",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/ccygkNJ8UQs/maxresdefault.jpg",
+  "alt": "#BaddieChallenge (Easy ver.) #여자아이들 #MIYEON 🐱 #Baddie #IVE #아이브 #GAEUL #LEESEO #GIDLE #Shorts (2023-10-20)",
+  "title": "#BaddieChallenge (Easy ver.) #여자아이들 #MIYEON 🐱 #Baddie #IVE #아이브 #GAEUL #LEESEO #GIDLE #Shorts (2023-10-20)"
+},
+{
+  "link": "https://youtu.be/lGiohEXfAew",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2024-08-14",
+  "duration": "00:00:34",
+  "thumbnail": "https://i.ytimg.com/vi/lGiohEXfAew/maxresdefault.jpg",
+  "alt": "(여자)아이들과 #Wait 릴레이댄스 #효린 (2024-08-14)",
+  "title": "(여자)아이들과 #Wait 릴레이댄스 #효린 (2024-08-14)"
+},
+{
+  "link": "https://youtu.be/2TUARn44BGY",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2024-08-14",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/2TUARn44BGY/maxresdefault.jpg",
+  "alt": "(여자)아이들과 아침까지 #Wait 출거야~ #효린 (2024-08-14)",
+  "title": "(여자)아이들과 아침까지 #Wait 출거야~ #효린 (2024-08-14)"
+},
+{
+  "link": "https://youtu.be/TWYiEK7R3iI",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-07-13",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/TWYiEK7R3iI/maxresdefault.jpg",
+  "alt": "#ILOVEU CHALLENGE with (여자)아이들 미연💜 #WINNER (2022-07-13)",
+  "title": "#ILOVEU CHALLENGE with (여자)아이들 미연💜 #WINNER (2022-07-13)"
+},
+{
+  "link": "https://youtu.be/FQAq28BnOJY",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2024-07-22",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/FQAq28BnOJY/maxresdefault.jpg",
+  "alt": "Honk honk🎵 with #여자아이들 #GIDLE #민니 #MINNIE #하성운 #HASUNGWOON #Blessed #블레스드 #Blessedchallenge #블레스드챌린지 (2024-07-22)",
+  "title": "Honk honk🎵 with #여자아이들 #GIDLE #민니 #MINNIE #하성운 #HASUNGWOON #Blessed #블레스드 #Blessedchallenge #블레스드챌린지 (2024-07-22)"
+},
+{
+  "link": "https://youtu.be/IzVim0yESqs",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2025-05-23",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/IzVim0yESqs/maxresdefault.jpg",
+  "alt": "#idle #소연 쌤과 방설 와일드카드 유연 제자 '깨어'로 다시 만남💖#tripleS #트리플에스 #ASSEMBLE25 #Are_You_Alive #아이들 #SOYEON (2025-05-23)",
+  "title": "#idle #소연 쌤과 방설 와일드카드 유연 제자 '깨어'로 다시 만남💖#tripleS #트리플에스 #ASSEMBLE25 #Are_You_Alive #아이들 #SOYEON (2025-05-23)"
+},
+{
+  "link": "https://youtu.be/IkUmnU_Rgpg",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2025-05-04",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/IkUmnU_Rgpg/maxresdefault.jpg",
+  "alt": "HANDS UP with #민니 선배님 🐈‍⬛🩷 #MEOVV #미야오 #HANDSUPchallenge #HANDSUP #MEOVV_HANDSUP #Shorts (2025-05-04)",
+  "title": "HANDS UP with #민니 선배님 🐈‍⬛🩷 #MEOVV #미야오 #HANDSUPchallenge #HANDSUP #MEOVV_HANDSUP #Shorts (2025-05-04)"
+},
+{
+  "link": "https://youtu.be/jMIdHM1Jq0Y",
+  "category": "SHORTS",
+  "member": "민니, 소연",
+  "date": "2025-05-24",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/jMIdHM1Jq0Y/maxresdefault.jpg",
+  "alt": "Good thing, goody and #Pookie ❤️‍🔥#idle #민니 #소연 선배님과 함께한#Pookie_Challenge ​⁠@official_i_dle (2025-05-24)",
+  "title": "Good thing, goody and #Pookie ❤️‍🔥#idle #민니 #소연 선배님과 함께한#Pookie_Challenge ​⁠@official_i_dle (2025-05-24)"
+},
+{
+  "link": "https://youtu.be/3ou8IeJaYHw",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2025-05-26",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/3ou8IeJaYHw/maxresdefault.jpg",
+  "alt": "얼마나 더 𝑮𝒐𝒐𝒅 𝑻𝒉𝒊𝒏𝒈일 수 있을까?✨ #Elevator With #idle #SOYEON #YUQI #백현 #BAEKHYUN #아이들 #소연 #우기 (2025-05-26)",
+  "title": "얼마나 더 𝑮𝒐𝒐𝒅 𝑻𝒉𝒊𝒏𝒈일 수 있을까?✨ #Elevator With #idle #SOYEON #YUQI #백현 #BAEKHYUN #아이들 #소연 #우기 (2025-05-26)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@sakurazaka46.officialtk/video/7509866803963628808?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2025-05-29",
+  "duration": "00:00:16",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "#야마사키텐 UDAGAWA GENERATION i-dle collaboration Ver. Thank you very much🌸 #YamasakiTen",
+  "title": "#야마사키텐 UDAGAWA GENERATION i-dle collaboration Ver. Thank you very much🌸 #YamasakiTen"
 }
+
+
+
+
+
+
+
   
 
   ];
