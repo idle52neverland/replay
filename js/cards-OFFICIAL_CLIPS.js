@@ -5610,17 +5610,7 @@ const officialClipCards = [
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
     "subtag": "스페셜컨텐츠 | Special Contents"
   },
-  {
-    "link": "https://youtu.be/CVpjV7qgmfo",
-    "category": "OFFICIAL_CLIPS",
-    "member": "아이들",
-    "date": "2024-01-06",
-    "duration": "00:00:11",
-    "thumbnail": "https://i.ytimg.com/vi/CVpjV7qgmfo/maxresdefault.jpg",
-    "alt": "HAPPY BIRTHDAY SHUHUA 💕 (2024-01-06)",
-    "title": "HAPPY BIRTHDAY SHUHUA 💕 (2024-01-06)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
-  },
+
   {
     "link": "https://youtu.be/IIhPuxpted8",
     "category": "OFFICIAL_CLIPS",
@@ -5643,17 +5633,7 @@ const officialClipCards = [
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
     "subtag": "스페셜컨텐츠 | Special Contents"
   },
-  {
-    "link": "https://youtu.be/KoBwguCiOls",
-    "category": "OFFICIAL_CLIPS",
-    "member": "아이들",
-    "date": "2024-01-31",
-    "duration": "00:00:05",
-    "thumbnail": "https://i.ytimg.com/vi/KoBwguCiOls/maxresdefault.jpg",
-    "alt": "🎀 HAPPY MIYEON DAY 🎀 (2024-01-31)",
-    "title": "🎀 HAPPY MIYEON DAY 🎀 (2024-01-31)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
-  },
+
   {
     "link": "https://youtu.be/6SNUbo1G0JE",
     "category": "OFFICIAL_CLIPS",
@@ -5665,17 +5645,7 @@ const officialClipCards = [
     "title": "💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
     "subtag": "스페셜컨텐츠 | Special Contents"
   },
-  {
-    "link": "https://youtu.be/cDg4X5LGaqw",
-    "category": "OFFICIAL_CLIPS",
-    "member": "아이들",
-    "date": "2024-08-26",
-    "duration": "00:00:20",
-    "thumbnail": "https://i.ytimg.com/vi/cDg4X5LGaqw/maxresdefault.jpg",
-    "alt": "#HAPPY_SOYEON_DAY 🎂🐭💖 (2024-08-26)",
-    "title": "#HAPPY_SOYEON_DAY 🎂🐭💖 (2024-08-26)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
-  },
+
   {
     "link": "https://youtu.be/X9VwcBm-qKA",
     "category": "OFFICIAL_CLIPS",
@@ -5839,7 +5809,7 @@ const officialClipCards = [
     "thumbnail": "https://i.ytimg.com/vi/lwsn7bBZ4yg/maxresdefault.jpg",
     "alt": "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)",
     "title": "미연의 'Sky Walking' SPECIAL CLIP 촬영 비하인드 (Feat. 소연 감독님) [I-TALK] #187 | (여자)아이들((G)I-DLE)ㅣSUB (2025-02-23)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "아이톡 | I-TALK"
   },
   {
     "link": "https://youtu.be/DFNE3fdHKJ0",
@@ -8524,11 +8494,6 @@ const officialClipCards = [
   "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover) (2019-03-13)",
   "subtag": "커버곡 | Cover"
 },
-
-
-
-
-
 {
   "link": "https://youtu.be/BGz8n0yhrDs",
   "category": "OFFICIAL_CLIPS",
