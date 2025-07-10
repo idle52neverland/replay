@@ -96,6 +96,24 @@
       font-size: 14px;
       z-index: 10000;
     }
+    #prevBtn, #nextBtn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255,255,255,0.6);
+      border: none;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      font-size: 20px;
+      cursor: pointer;
+      z-index: 10000;
+    }
+    #prevBtn { left: 10px; }
+    #nextBtn { right: 10px; }
+    @media (max-width: 768px) {
+      #prevBtn, #nextBtn { display: none; }
+    }
     @media (min-width: 769px) { #closeBtn { top: 20px; right: 0; } }
     @media (max-width: 768px) { #closeBtn { top: 20px; right: 20px; } }
   </style>
@@ -127,8 +145,9 @@
   <div id="videoOverlay">
     <button id="closeBtn">✖</button>
     <iframe id="videoFrame" src="" allowfullscreen></iframe>
+    <button id="prevBtn">←</button>
+    <button id="nextBtn">→</button>
   </div>
-
   <script src="js/cards-SHORTS.js"></script>
   <script>
     const container = document.getElementById("allCards");
@@ -141,11 +160,17 @@
     const videoOverlay = document.getElementById("videoOverlay");
     const videoFrame = document.getElementById("videoFrame");
     const closeBtn = document.getElementById("closeBtn");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+
     let currentIndex = 0;
     const batchSize = 20;
     let filtered = [];
     let sortOrder = "newest";
     const all = typeof shortsCards !== "undefined" ? shortsCards : [];
+
+    let currentCardIndex = -1;
+    let startY = 0;
 
     function updateCardCount(count) {
       cardCountEl.textContent = `총 ${count}개 영상`;
@@ -171,21 +196,19 @@
           const videoId = extractYouTubeID(card.link);
           if (videoId) {
             e.preventDefault();
-            videoFrame.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-            videoOverlay.style.display = "flex";
-            document.body.style.overflow = "hidden";
+            currentCardIndex = filtered.indexOf(card);
+            openOverlay(card);
           }
         };
         container.appendChild(el);
       });
-
       currentIndex += batchSize;
       loadMoreBtn.style.display = currentIndex >= data.length ? 'none' : 'block';
       updateCardCount(data.length);
     }
 
     function extractYouTubeID(url) {
-      const regex = /(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+      const regex = /(?:youtube\\.com\\/(?:watch\\?v=|shorts\\/)|youtu\\.be\\/)([a-zA-Z0-9_-]{11})/;
       const match = url.match(regex);
       return match ? match[1] : null;
     }
@@ -207,8 +230,8 @@
 
     function applyFilters() {
       const keywordInput = searchInput.value;
-      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-      const rawKeywords = keywordInput.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ').split(/\s+/).filter(Boolean);
+      const normalize = str => str.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, '').replace(/\\s+/g, '');
+      const rawKeywords = keywordInput.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, ' ').split(/\\s+/).filter(Boolean);
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
 
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
@@ -240,6 +263,64 @@
       container.innerHTML = '';
       renderCards(filtered);
     }
+
+    function findNextPlayableIndex(startIndex, direction) {
+      let index = startIndex;
+      while (index >= 0 && index < filtered.length) {
+        if (!filtered[index].link.includes("tiktok.com")) {
+          return index;
+        }
+        index += direction;
+      }
+      return -1;
+    }
+
+    function openOverlay(card) {
+      const videoId = extractYouTubeID(card.link);
+      if (videoId) {
+        videoFrame.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        videoOverlay.style.display = "flex";
+        document.body.style.overflow = "hidden";
+      }
+    }
+
+    prevBtn.onclick = () => {
+      const prevIndex = findNextPlayableIndex(currentCardIndex - 1, -1);
+      if (prevIndex !== -1) {
+        currentCardIndex = prevIndex;
+        openOverlay(filtered[currentCardIndex]);
+      }
+    };
+
+    nextBtn.onclick = () => {
+      const nextIndex = findNextPlayableIndex(currentCardIndex + 1, 1);
+      if (nextIndex !== -1) {
+        currentCardIndex = nextIndex;
+        openOverlay(filtered[currentCardIndex]);
+      }
+    };
+
+    videoOverlay.addEventListener('touchstart', e => {
+      startY = e.touches[0].clientY;
+    });
+
+    videoOverlay.addEventListener('touchend', e => {
+      const endY = e.changedTouches[0].clientY;
+      const diffY = endY - startY;
+      if (diffY < -50) {
+        const nextIndex = findNextPlayableIndex(currentCardIndex + 1, 1);
+        if (nextIndex !== -1) {
+          currentCardIndex = nextIndex;
+          openOverlay(filtered[currentCardIndex]);
+        }
+      } else if (diffY > 50) {
+        const prevIndex = findNextPlayableIndex(currentCardIndex - 1, -1);
+        if (prevIndex !== -1) {
+          currentCardIndex = prevIndex;
+          openOverlay(filtered[currentCardIndex]);
+        }
+      }
+    });
 
     closeBtn.onclick = () => {
       videoOverlay.style.display = "none";
