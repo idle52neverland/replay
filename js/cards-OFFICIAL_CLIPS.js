@@ -8691,8 +8691,18 @@ const officialClipCards = [
   "alt": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
   "title": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
   "subtag": "기타 | Etc."
+},
+    {
+  "link": "https://youtu.be/B76OrD9JmeI",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2020-08-21",
+  "duration": "00:01:04",
+  "thumbnail": "https://i.ytimg.com/vi/B76OrD9JmeI/maxresdefault.jpg",
+  "alt": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
+  "title": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
+  "subtag": "스페셜컨텐츠 | Special Contents"
 }
-
   
   
   
