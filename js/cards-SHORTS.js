@@ -11801,6 +11801,17 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WMyvMTFFH_A/maxresdefault.jpg",
   "alt": "Peace 🕊️🎻 (2025-07-03)",
   "title": "Peace 🕊️🎻 (2025-07-03)"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6766878560801148161?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2019-12-05",
+  "duration": "00:00:00",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle",
+  "title": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle"
 }
 
   ];
