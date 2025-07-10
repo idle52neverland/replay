@@ -51,8 +51,8 @@ const shortsCards = [
   "date": "2022-03-20",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/g_QJ5qSksgo/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Jay_park #Shorts (2022-03-20)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Jay_park #Shorts (2022-03-20)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #박재범 #Jay_park #Shorts (2022-03-20)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #박재범 #Jay_park #Shorts (2022-03-20)"
 },
 
 {
@@ -95,8 +95,8 @@ const shortsCards = [
   "date": "2022-03-22",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/TLIVi6U195Q/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-22)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-22)"
+  "alt": "(여자)아이들((G)I-DLE) #동해 #TOMBOY_Challenge #Shorts (2022-03-22)",
+  "title": "(여자)아이들((G)I-DLE) #동해 #TOMBOY_Challenge #Shorts (2022-03-22)"
 },
 
 {
@@ -106,8 +106,8 @@ const shortsCards = [
   "date": "2022-03-23",
   "duration": "00:00:23",
   "thumbnail": "https://i.ytimg.com/vi/M0aP1Eg7Vs4/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-23)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-23)"
+  "alt": "(여자)아이들((G)I-DLE) #WEi #김요한 #강석화 #TOMBOY_Challenge #Shorts (2022-03-23)",
+  "title": "(여자)아이들((G)I-DLE) #WEi #김요한 #강석화 #TOMBOY_Challenge #Shorts (2022-03-23)"
 },
 
 {
@@ -117,8 +117,8 @@ const shortsCards = [
   "date": "2022-03-23",
   "duration": "00:00:25",
   "thumbnail": "https://i.ytimg.com/vi/G_-qd8zRzuI/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-23)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-23)"
+  "alt": "(여자)아이들((G)I-DLE) #홍윤화 #김민기 #TOMBOY_Challenge #Shorts (2022-03-23)",
+  "title": "(여자)아이들((G)I-DLE) #홍윤화 #김민기 #TOMBOY_Challenge #Shorts (2022-03-23)"
 },
 
 {
@@ -161,14 +161,14 @@ const shortsCards = [
   "date": "2022-03-24",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/JLV1wxoF5es/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-24)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Shorts (2022-03-24)"
+  "alt": "(여자)아이들((G)I-DLE) #체리블렛 #지원 #메이 #TOMBOY_Challenge #Shorts (2022-03-24)",
+  "title": "(여자)아이들((G)I-DLE) #체리블렛 #지원 #메이 #TOMBOY_Challenge #Shorts (2022-03-24)"
 },
 
 {
   "link": "https://youtu.be/dZGlPIB8UEo",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "소연",
   "date": "2022-03-25",
   "duration": "00:00:24",
   "thumbnail": "https://i.ytimg.com/vi/dZGlPIB8UEo/maxresdefault.jpg",
@@ -256,56 +256,56 @@ const shortsCards = [
 {
   "link": "https://youtu.be/daXusUKzTxw",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "민니, 슈화",
   "date": "2022-03-27",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/daXusUKzTxw/maxresdefault.jpg",
-  "alt": "(여자)아이들(G)I-DLE) #TOMBOY_Challenge #TWICE #JIHYO #Shorts (2022-03-27)",
-  "title": "(여자)아이들(G)I-DLE) #TOMBOY_Challenge #TWICE #JIHYO #Shorts (2022-03-27)"
+  "alt": "(여자)아이들(G)I-DLE) #TOMBOY_Challenge #지효 #TWICE #JIHYO #Shorts (2022-03-27)",
+  "title": "(여자)아이들(G)I-DLE) #TOMBOY_Challenge #지효 #TWICE #JIHYO #Shorts (2022-03-27)"
 },
 
 {
   "link": "https://youtu.be/-VRpEyMNVRo",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "미연",
   "date": "2022-03-27",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/-VRpEyMNVRo/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #TWICE #SANA #Shorts (2022-03-27)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #TWICE #SANA #Shorts (2022-03-27)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #사나 #TWICE #SANA #Shorts (2022-03-27)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #사나 #TWICE #SANA #Shorts (2022-03-27)"
 },
 
 {
   "link": "https://youtu.be/XUN55PUYlf4",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "민니",
   "date": "2022-03-28",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/XUN55PUYlf4/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #BamBam #Shorts (2022-03-28)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #BamBam #Shorts (2022-03-28)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #뱀뱀 #BamBam #Shorts (2022-03-28)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #뱀뱀 #BamBam #Shorts (2022-03-28)"
 },
 
 {
   "link": "https://youtu.be/88qP_rZ7F2g",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "미연, 슈화",
   "date": "2022-03-29",
   "duration": "00:00:24",
   "thumbnail": "https://i.ytimg.com/vi/88qP_rZ7F2g/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Billlie #Shorts (2022-03-29)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Billlie #Shorts (2022-03-29)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #빌리 #츠키 #하람 #Billlie #Shorts (2022-03-29)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #빌리 #츠키 #하람 #Billlie #Shorts (2022-03-29)"
 },
 
 {
   "link": "https://youtu.be/jlkvrLGGhak",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "민니, 우기",
   "date": "2022-03-29",
   "duration": "00:00:23",
   "thumbnail": "https://i.ytimg.com/vi/jlkvrLGGhak/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #PENTAGON #Shorts (2022-03-29)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #PENTAGON #Shorts (2022-03-29)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #PENTAGON #YUTO #WOOSEOK #Shorts (2022-03-29)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #PENTAGON #YUTO #WOOSEOK #Shorts (2022-03-29)"
 },
 
 {
@@ -322,12 +322,12 @@ const shortsCards = [
 {
   "link": "https://youtu.be/I6cQaD9fQBQ",
   "category": "SHORTS",
-  "member": "아이들",
+  "member": "미연",
   "date": "2022-03-30",
   "duration": "00:00:23",
   "thumbnail": "https://i.ytimg.com/vi/I6cQaD9fQBQ/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Weeekly #Shorts (2022-03-30)",
-  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #Weeekly #Shorts (2022-03-30)"
+  "alt": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #위클리 #Weeekly #Shorts (2022-03-30)",
+  "title": "(여자)아이들((G)I-DLE) #TOMBOY_Challenge #위클리 #Weeekly #Shorts (2022-03-30)"
 },
 
 {
@@ -11808,11 +11808,678 @@ const shortsCards = [
   "category": "SHORTS",
   "member": "아이들",
   "date": "2019-12-05",
-  "duration": "00:00:00",
+  "duration": "00:00:23",
   "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
   "alt": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle",
   "title": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6766879475624840449?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2019-12-05",
+  "duration": "00:00:14",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "초보 틱톡커 아이들의 블링블링 라이언 도전!🦁 #여자아이들 #g_i_dle #블링블링해",
+  "title": "초보 틱톡커 아이들의 블링블링 라이언 도전!🦁 #여자아이들 #g_i_dle #블링블링해"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6812923922917477633?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-04-07",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] (여자)아이들과 함께하는 #Ohmygodchallenge ❤💜 #여자아이들 #GIDLE #Ohmygod",
+  "title": "[📽] (여자)아이들과 함께하는 #Ohmygodchallenge ❤💜 #여자아이들 #GIDLE #Ohmygod"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6814759670490647809?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연, 민니",
+  "date": "2020-04-12",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 미연&민니와 함께하는 #Ohmygodchallenge❤💜 #여자아이들 #GIDLE #Ohmygod#ohmygodchallenge",
+  "title": "[📽] 미연&민니와 함께하는 #Ohmygodchallenge❤💜 #여자아이들 #GIDLE #Ohmygod#ohmygodchallenge"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6814760086628601090?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2020-04-12",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 소연&우기와 함께하는 #ohmygodchallenge❤💜 #여자아이들 #GIDLE #Ohmygod#ohmygodchallenge",
+  "title": "[📽] 소연&우기와 함께하는 #ohmygodchallenge❤💜 #여자아이들 #GIDLE #Ohmygod#ohmygodchallenge"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6814760394704440578?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "슈화",
+  "date": "2020-04-12",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 슈화&수진이와 함께하는 #Ohmygodchallenge❤💜 #여자아이들 #GIDLE #ohmygodchallenge",
+  "title": "[📽] 슈화&수진이와 함께하는 #Ohmygodchallenge❤💜 #여자아이들 #GIDLE #ohmygodchallenge"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6845624767920295170?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-07-04",
+  "duration": "00:00:09",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 네버랜드~ 내일 뭐해요? 아이랜드에서 만나요!❤💜 #여자아이들 #GIDLE #ILAND #2020_GIDLE_ILAND",
+  "title": "[📽] 네버랜드~ 내일 뭐해요? 아이랜드에서 만나요!❤💜 #여자아이들 #GIDLE #ILAND #2020_GIDLE_ILAND"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6845626755756166401?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-07-04",
+  "duration": "00:00:10",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] NEVERLAND~ 明天做什么呢? 我们一起在'I-LAND'上见面吧！❤💜 #여자아이들 #GIDLE #ILAND #2020_GIDLE_ILAND",
+  "title": "[📽] NEVERLAND~ 明天做什么呢? 我们一起在'I-LAND'上见面吧！❤💜 #여자아이들 #GIDLE #ILAND #2020_GIDLE_ILAND"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6856693808848014594?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-08-03",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "🥳덤디덤디🥁(오에오에오❗)🏝덤디덤디🏖(휘〰휘〰)🔥덤디덤디🌊(오에오에오❗)🍉덤디덤디👙턴🌀온마🍉썸머🎆 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "🥳덤디덤디🥁(오에오에오❗)🏝덤디덤디🏖(휘〰휘〰)🔥덤디덤디🌊(오에오에오❗)🍉덤디덤디👙턴🌀온마🍉썸머🎆 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6857735807466245378?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "슈화",
+  "date": "2020-08-06",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 슈화의 덤디덤디💃×5 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] 슈화의 덤디덤디💃×5 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6857736196966173954?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2020-08-06",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 우기의 덤디덤디 🥑 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] 우기의 덤디덤디 🥑 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6857736779441736962?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2020-08-06",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 소연이의 덤디덤디 🖍 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] 소연이의 덤디덤디 🖍 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6857737812494650625?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2020-08-06",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 민니의 덤디덤디 🍑👓 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] 민니의 덤디덤디 🍑👓 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6857738350237928705?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2020-08-06",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 미연이의 덤디덤디 🐰 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] 미연이의 덤디덤디 🐰 #DUMDiDUMDi #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6858946738242292993?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2020-08-09",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[🎥] #DUMDiDUMDi with @ericnam!🌴🥁 #에릭남 #여자아이들 #GIDLE #덤디덤디",
+  "title": "[🎥] #DUMDiDUMDi with @ericnam!🌴🥁 #에릭남 #여자아이들 #GIDLE #덤디덤디"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6860486234494569730?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2020-08-14",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with @redvelvet_smtown SEULGI ❤💜 #슬기 #여자아이들 #GIDLE #덤디덤디",
+  "title": "[📽] #DUMDiDUMDi with @redvelvet_smtown SEULGI ❤💜 #슬기 #여자아이들 #GIDLE #덤디덤디"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6860808533999439106?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-08-14",
+  "duration": "00:00:14",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with @ravithecrackkidz (라비선배님 1박2일때 무슨일이 있었나요,,🧔) #여자아이들 #GIDLE #덤디덤디",
+  "title": "[📽] #DUMDiDUMDi with @ravithecrackkidz (라비선배님 1박2일때 무슨일이 있었나요,,🧔) #여자아이들 #GIDLE #덤디덤디"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6861218273137151234?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2020-08-15",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with @dj_hyo 🍫🍬🍇🍯🧈🧇🥭🥤 #효연 #여자아이들 #GIDLE #덤디덤디 #DUMDiDUMDi",
+  "title": "[📽] #DUMDiDUMDi with @dj_hyo 🍫🍬🍇🍯🧈🧇🥭🥤 #효연 #여자아이들 #GIDLE #덤디덤디 #DUMDiDUMDi"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6861410581035994369?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-08-16",
+  "duration": "00:00:15",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with 박소현님 & @yjpofficial 유재필님! 📻러브게임 많이 들어주세요🎶 #여자아이들 #GIDLE #덤디덤디",
+  "title": "[📽] #DUMDiDUMDi with 박소현님 & @yjpofficial 유재필님! 📻러브게임 많이 들어주세요🎶 #여자아이들 #GIDLE #덤디덤디"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6862345533378366722?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2020-08-19",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with @official_mamamoo Moonbyul🌙⭐ #문별 #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] #DUMDiDUMDi with @official_mamamoo Moonbyul🌙⭐ #문별 #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6863065986615004418?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연, 민니",
+  "date": "2020-08-20",
+  "duration": "00:00:22",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] #DUMDiDUMDi with @official_yooseonho💃🕺💃 #유선호 #덤디덤디 #여자아이들 #GIDLE",
+  "title": "[📽] #DUMDiDUMDi with @official_yooseonho💃🕺💃 #유선호 #덤디덤디 #여자아이들 #GIDLE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6870732807484853506?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2020-09-10",
+  "duration": "00:00:20",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] CLC 선배님들의 #HELICOPTER_Challenge🚁 도전! #여자아이들 #GIDLE #CLC #씨엘씨 #CLC_HELICOPTER",
+  "title": "[📽] CLC 선배님들의 #HELICOPTER_Challenge🚁 도전! #여자아이들 #GIDLE #CLC #씨엘씨 #CLC_HELICOPTER"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6884440448731974913?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2020-10-17",
+  "duration": "00:00:14",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "https://www.tiktok.com/@official_i_dle/video/6884440448731974913?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "title": "https://www.tiktok.com/@official_i_dle/video/6884440448731974913?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6885615368673529090?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2020-10-20",
+  "duration": "00:00:14",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "https://www.tiktok.com/@official_i_dle/video/6885615368673529090?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "title": "https://www.tiktok.com/@official_i_dle/video/6885615368673529090?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6888692987828768001?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2020-10-29",
+  "duration": "00:00:13",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Hey BLADES! You want some MORE? Make your own version with #YouWantMore! #KDA #ALLOUT #KDAMORE @kda_music",
+  "title": "[📽] Hey BLADES! You want some MORE? Make your own version with #YouWantMore! #KDA #ALLOUT #KDAMORE @kda_music"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6888693523189714178?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2020-10-29",
+  "duration": "00:00:13",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Join me BLADES and show the world how #YouWantMore ✨ #KDA #ALLOUT #KDAMORE @kda_music",
+  "title": "[📽] Join me BLADES and show the world how #YouWantMore ✨ #KDA #ALLOUT #KDAMORE @kda_music"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6902432258393771266?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2020-12-05",
+  "duration": "00:00:54",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Duet with me 🎵 #여자아이들 #GIDLE #미연 #MIYEON #HOLIDAYMUSIC #CHRISTMAS",
+  "title": "[📽] Duet with me 🎵 #여자아이들 #GIDLE #미연 #MIYEON #HOLIDAYMUSIC #CHRISTMAS"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6926876892507147522?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2021-02-08",
+  "duration": "00:00:10",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Thanks NEVERLAND💜 #여자아이들 #GIDLE #화 (火花) #HWAA #네버랜드 #NEVERLAND",
+  "title": "[📽] Thanks NEVERLAND💜 #여자아이들 #GIDLE #화 (火花) #HWAA #네버랜드 #NEVERLAND"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6927247979829021954?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2021-02-09",
+  "duration": "00:00:15",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] MEEE 🙋‍♀️ #여자아이들 #GIDLE #우기 #YUQI #Love",
+  "title": "[📽] MEEE 🙋‍♀️ #여자아이들 #GIDLE #우기 #YUQI #Love"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6927464620756126978?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연, 민니, 슈화",
+  "date": "2021-02-10",
+  "duration": "00:00:11",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Love u Need u 💞 #여자아이들 #GIDLE #Love",
+  "title": "[📽] Love u Need u 💞 #여자아이들 #GIDLE #Love"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6927990136420486401?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2021-02-11",
+  "duration": "00:00:06",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Stop 🤚, check our daily look #여자아이들 #GIDLE #틱톡패션 #TikTokFashionMonth #FashionMonth",
+  "title": "[📽] Stop 🤚, check our daily look #여자아이들 #GIDLE #틱톡패션 #TikTokFashionMonth #FashionMonth"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6928361226581986562?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "아이들",
+  "date": "2021-02-12",
+  "duration": "00:00:04",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "#ValentinesDay is coming #여자아이들 #GIDLE #발렌타인",
+  "title": "#ValentinesDay is coming #여자아이들 #GIDLE #발렌타인"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6930217178398575873?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연, 우기",
+  "date": "2021-02-17",
+  "duration": "00:00:15",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Neflix, we are looking forward to hearing for you 💌 #여자아이들 #GIDLE #소연 #SOYEON #우기 #YUQI #NEFLIX",
+  "title": "[📽] Neflix, we are looking forward to hearing for you 💌 #여자아이들 #GIDLE #소연 #SOYEON #우기 #YUQI #NEFLIX"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6934298537542962433?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-02-28",
+  "duration": "00:00:11",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Go get it girl DC : @cost_n_mayor #여자아이들 #GIDLE #소연 #SOYEON #DANCE",
+  "title": "[📽] Go get it girl DC : @cost_n_mayor #여자아이들 #GIDLE #소연 #SOYEON #DANCE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6979184575381507330?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-06-29",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Windy is coming DC : @sagerosen #여자아이들 #GIDLE #소연 #SOYEON #RUDEBOY #DANCE",
+  "title": "[📽] Windy is coming DC : @sagerosen #여자아이들 #GIDLE #소연 #SOYEON #RUDEBOY #DANCE"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982014043389185281?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-07",
+  "duration": "00:00:23",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with Morning Sunshine) #전소연 #JEON_SOYEON #Windy #삠삠☀️ #BEAMBEAM☀️ ",
+  "title": "[📽] Let’s all BEAM BEAM! (with Morning Sunshine) #전소연 #JEON_SOYEON #Windy #삠삠☀️ #BEAMBEAM☀️ "
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982030216226983170?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-07",
+  "duration": "00:00:24",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with Sunflower Chocoball)#전소연#JEON_SOYEON#Windy#삠삠☀️ #BEAMBEAM☀️",
+  "title": "[📽] Let’s all BEAM BEAM! (with Sunflower Chocoball)#전소연#JEON_SOYEON#Windy#삠삠☀️ #BEAMBEAM☀️"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982044984132390146?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-07",
+  "duration": "00:00:18",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with SunChips) #GIDLE #소연 #SOYEON #Windy #삠삠☀️ #BEAMBEAM☀️",
+  "title": "[📽] Let’s all BEAM BEAM! (with SunChips) #GIDLE #소연 #SOYEON #Windy #삠삠☀️ #BEAMBEAM☀️"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982153121636142338?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-07",
+  "duration": "00:00:18",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Windy’s Hiplog (Feat. French Fries & Icecream) #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM",
+  "title": "[📽] Windy’s Hiplog (Feat. French Fries & Icecream) #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982524380840578306?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-08",
+  "duration": "00:00:15",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Where is my skateboard? (Feat. Lion)#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM",
+  "title": "[📽] Where is my skateboard? (Feat. Lion)#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6982895305448508674?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-09",
+  "duration": "00:00:20",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Windy's Hiplog (Feat. In the car) #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM",
+  "title": "[📽] Windy's Hiplog (Feat. In the car) #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6983268877539085569?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-10",
+  "duration": "00:00:56",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 소연 & 연하 & Windy's BEAMBEAM Live #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM",
+  "title": "[📽] 소연 & 연하 & Windy's BEAMBEAM Live #전소연 #JEON_SOYEON #Windy #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6983941736838057218?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-12",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (With 리나대장님) @elina_karimovaa 챌린지 참여 감사합니다! #전소연  #Windy #삠삠 #BEAMBEAM",
+  "title": "[📽] Let’s all BEAM BEAM! (With 리나대장님) @elina_karimovaa 챌린지 참여 감사합니다! #전소연 #Windy #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6983977863804407041?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연, 슈화",
+  "date": "2021-07-12",
+  "duration": "00:00:27",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "Is this bad b****** number? (feat. #SHUHUA)#전소연#JEON_SOYEON#Windy#슈화#SHUHUA",
+  "title": "Is this bad b****** number? (feat. #SHUHUA)#전소연#JEON_SOYEON#Windy#슈화#SHUHUA"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6983978103727049986?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-12",
+  "duration": "00:00:27",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "Is this bad b****** number? (소연 ver.)#전소연#JEON_SOYEON#Windy#Is_this_bad_b_number#삠삠 #BEAMBEAM",
+  "title": "Is this bad b****** number? (소연 ver.)#전소연#JEON_SOYEON#Windy#Is_this_bad_b_number#삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-00",
+  "duration": "00:00:00",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "",
+  "title": ""
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6983978504476036354?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "슈화",
+  "date": "2021-07-12",
+  "duration": "00:00:27",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "Is this bad b****** number? (슈화 ver.)#전소연#JEON_SOYEON#슈화#SHUHUA#Windy#Is_this_bad_b_number",
+  "title": "Is this bad b****** number? (슈화 ver.)#전소연#JEON_SOYEON#슈화#SHUHUA#Windy#Is_this_bad_b_number"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6984380943612120322?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-13",
+  "duration": "00:01:00",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Duet with You (Feat. #Windy)#전소연#JEON_SOYEON#삠삠#BEAMBEAM#Duet#듀엣",
+  "title": "[📽] Duet with You (Feat. #Windy)#전소연#JEON_SOYEON#삠삠#BEAMBEAM#Duet#듀엣"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6984750722936081666?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-14",
+  "duration": "00:00:11",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Windy with friends#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEA",
+  "title": "[📽] Windy with friends#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEA"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6985121893292543233?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-15",
+  "duration": "00:00:08",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] 🖤🤍 #전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM",
+  "title": "[📽] 🖤🤍 #전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6985123397537778945?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-15",
+  "duration": "00:00:37",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with 아이키님) @aiki_kr챌린지 참여 감사드립니다!#전소연 #JEON_SOYEON #Windy #삠삠",
+  "title": "[📽] Let’s all BEAM BEAM! (with 아이키님) @aiki_kr챌린지 참여 감사드립니다!#전소연 #JEON_SOYEON #Windy #삠삠"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6985492877518359809?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-16",
+  "duration": "00:00:09",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Windy’s rehearsal#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM",
+  "title": "[📽] Windy’s rehearsal#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6985513608641891586?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2021-07-16",
+  "duration": "00:00:20",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with MINNIE)❤💜#전소연 #JEON_SOYEON #Windy #민니#MINNIE #삠삠 #BEAMBEAM",
+  "title": "[📽] Let’s all BEAM BEAM! (with MINNIE)❤💜#전소연 #JEON_SOYEON #Windy #민니#MINNIE #삠삠 #BEAMBEAM"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6986873283098463489?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "우기",
+  "date": "2021-07-20",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with YUQI)🐶🦁#전소연 #JEON_SOYEON #Windy #우기 #YUQI #삠삠 #BEAMBEAM",
+  "title": "[📽] Let’s all BEAM BEAM! (with YUQI)🐶🦁#전소연 #JEON_SOYEON #Windy #우기 #YUQI #삠삠 #BEAMBEAM"
+},
+
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6987209230767918337?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2021-07-21",
+  "duration": "00:00:25",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with MIYEON)😎😘#전소연 #JEON_SOYEON #Windy #미연 #MIYEON #삠삠 #BEAMBEAM",
+  "title": "[📽] Let’s all BEAM BEAM! (with MIYEON)😎😘#전소연 #JEON_SOYEON #Windy #미연 #MIYEON #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6989172925031058689?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "슈화",
+  "date": "2021-07-26",
+  "duration": "00:00:18",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "[📽] Let’s all BEAM BEAM! (with SHUHUA)☀️☀️#전소연 #JEON_SOYEON #Windy #슈화 #SHUHUA #삠삠 #BEAMBEAM",
+  "title": "[📽] Let’s all BEAM BEAM! (with SHUHUA)☀️☀️#전소연 #JEON_SOYEON #Windy #슈화 #SHUHUA #삠삠 #BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/6990548923786005761?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "소연",
+  "date": "2021-07-30",
+  "duration": "00:00:21",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "@lil.mochiz 님과 #듀엣 Let’s all BEAM BEAM❤️☀️☀️❤️#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM",
+  "title": "@lil.mochiz 님과 #듀엣 Let’s all BEAM BEAM❤️☀️☀️❤️#전소연#JEON_SOYEON#Windy#삠삠#BEAMBEAM"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/7005429386505653505?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2021-09-08",
+  "duration": "00:00:23",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "I wanna be an Outsider 😎#GIDLE#여자아이들#미연#MIYEON#Outsiderchallenge #아웃사이더챌린지 #Outsider #아웃사이더 #비투비 #BTOB",
+  "title": "I wanna be an Outsider 😎#GIDLE#여자아이들#미연#MIYEON#Outsiderchallenge #아웃사이더챌린지 #Outsider #아웃사이더 #비투비 #BTOB"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/7013324426636709122?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2021-09-29",
+  "duration": "00:00:44",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "MONEY HONEY Challenge💗💗#여자아이들#GIDLE#민니#MINNIE#MONEYHONEY",
+  "title": "MONEY HONEY Challenge💗💗#여자아이들#GIDLE#민니#MINNIE#MONEYHONEY"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/7077521966554451201?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "미연",
+  "date": "2022-03-21",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "@s_min5 님과 #듀엣 #GIDLE #MIYEON #TOMBOY_Challenge Reaction",
+  "title": "@s_min5 님과 #듀엣 #GIDLE #MIYEON #TOMBOY_Challenge Reaction"
+},
+  {
+  "platform": "tiktok",
+  "link": "https://www.tiktok.com/@official_i_dle/video/7077522064067923202?is_from_webapp=1&sender_device=pc&web_id=7511046510999553544",
+  "category": "SHORTS",
+  "member": "민니",
+  "date": "2022-03-21",
+  "duration": "00:00:19",
+  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "alt": "@annoravia 님과 #듀엣 #GIDLE #MINNIE #TOMBOY_Challenge Reaction",
+  "title": "@annoravia 님과 #듀엣 #GIDLE #MINNIE #TOMBOY_Challenge Reaction"
 }
+  
 
   ];
 
