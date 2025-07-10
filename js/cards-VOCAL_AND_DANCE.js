@@ -2708,6 +2708,26 @@ const vocalAndDanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/lB1FqPBReO4/maxresdefault.jpg",
   "alt": "[LIVE][세로캠] 미연(MIYEON) - Drive | (여자)아이들((G)I-DLE) | 두시탈출 컬투쇼 (2022-04-28)",
   "title": "[LIVE][세로캠] 미연(MIYEON) - Drive | (여자)아이들((G)I-DLE) | 두시탈출 컬투쇼 (2022-04-28)"
+},
+  {
+  "link": "https://youtu.be/2TYBv-3lxik",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "date": "2025-07-10",
+  "duration": "00:04:29",
+  "thumbnail": "https://i.ytimg.com/vi/2TYBv-3lxik/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 이무진X미연 - 뱁새🎧ㅣBirdOnTheEdge (2025-07-10)",
+  "title": "[뮤트로.zip] 이무진X미연 - 뱁새🎧ㅣBirdOnTheEdge (2025-07-10)"
+},
+{
+  "link": "https://youtu.be/9xOFCXL4_To",
+  "category": "VOCAL_AND_DANCE",
+  "member": "미연",
+  "date": "2025-07-10",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/9xOFCXL4_To/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)",
+  "title": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)"
 }
 
 
