@@ -86,6 +86,12 @@
       flex-direction: column;
     }
     #videoOverlay iframe { width: 100%; height: 100%; border: none; }
+    #touchLayer {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 10001;
+    }
     #closeBtn {
       position: absolute;
       background: rgba(255,255,255,0.8);
@@ -94,7 +100,7 @@
       padding: 4px 8px;
       cursor: pointer;
       font-size: 14px;
-      z-index: 10000;
+      z-index: 10002;
     }
     #prevBtn, #nextBtn {
       position: absolute;
@@ -107,7 +113,7 @@
       height: 50px;
       font-size: 20px;
       cursor: pointer;
-      z-index: 10000;
+      z-index: 10002;
     }
     #prevBtn { left: 10px; }
     #nextBtn { right: 10px; }
@@ -145,9 +151,11 @@
   <div id="videoOverlay">
     <button id="closeBtn">✖</button>
     <iframe id="videoFrame" src="" allowfullscreen></iframe>
+    <div id="touchLayer"></div>
     <button id="prevBtn">←</button>
     <button id="nextBtn">→</button>
   </div>
+
   <script src="js/cards-SHORTS.js"></script>
   <script>
     const container = document.getElementById("allCards");
@@ -162,6 +170,7 @@
     const closeBtn = document.getElementById("closeBtn");
     const prevBtn = document.getElementById("prevBtn");
     const nextBtn = document.getElementById("nextBtn");
+    const touchLayer = document.getElementById("touchLayer");
 
     let currentIndex = 0;
     const batchSize = 20;
@@ -230,8 +239,8 @@
 
     function applyFilters() {
       const keywordInput = searchInput.value;
-      const normalize = str => str.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, '').replace(/\\s+/g, '');
-      const rawKeywords = keywordInput.toLowerCase().replace(/[^\\w\\uac00-\\ud7af]+/g, ' ').split(/\\s+/).filter(Boolean);
+      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
+      const rawKeywords = keywordInput.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ').split(/\s+/).filter(Boolean);
       const normalizedKeywords = rawKeywords.map(k => normalize(k));
 
       const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
@@ -300,11 +309,12 @@
       }
     };
 
-    videoOverlay.addEventListener('touchstart', e => {
+    let startY = 0;
+    touchLayer.addEventListener('touchstart', e => {
       startY = e.touches[0].clientY;
     });
 
-    videoOverlay.addEventListener('touchend', e => {
+    touchLayer.addEventListener('touchend', e => {
       const endY = e.changedTouches[0].clientY;
       const diffY = endY - startY;
       if (diffY < -50) {
@@ -344,5 +354,6 @@
       applyFilters();
     };
   </script>
+
 </body>
 </html>
