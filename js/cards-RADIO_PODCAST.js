@@ -85,7 +85,7 @@ const radioPodcastCards = [
   "category": "RADIO_PODCAST",
   "member": "민니",
   "date": "2021-01-18",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/어벤걸스.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220708_144/hrvnD_1657270019793RkrLT_JPEG/1f66fc88-6121-11eb-a4d6-48df37ae3dc4_03.jpg?type=now720b",
   "alt": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)",
   "title": "쩡이가 사랑하는 동생민니가 왔어효 | 어벤걸스 | (2021-01-18)"
 },
@@ -196,7 +196,7 @@ const radioPodcastCards = [
   "category": "RADIO_PODCAST",
   "member": "소연",
   "date": "2021-04-02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/SAP.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_270/jxFUa_1650609983120dUCqj_JPEG/b91ba787-0b96-11ec-86ec-48df37ae3fca_03.jpg?type=now720b.png",
   "alt": "삽질하는 이야기 합니다with 소연 | SAP | (2021-04-02)",
   "title": "삽질하는 이야기 합니다with 소연 | SAP | (2021-04-02)"
 },
@@ -763,7 +763,7 @@ const radioPodcastCards = [
   "category": "RADIO_PODCAST",
   "member": "소연",
   "date": "2022-03-30",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/너에게음악.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220923_200/izvjr_1663900655011iK6nD_JPEG/73ec3f38-affa-11ec-aa4b-d4f5ef5906a4_03.jpg?type=now720b",
   "alt": "윤상과 전소연 in 너에게 음악 (2022-03-30)",
   "title": "윤상과 전소연 in 너에게 음악 (2022-03-30)"
 },
