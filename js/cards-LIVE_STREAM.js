@@ -2055,7 +2055,7 @@ const liveStreamCards = [
   "member": "미연",
   "date": "2020-12-09T23:59:02",
   "duration": "01:54:41",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNDYg/MDAxNjcyODkxNDMzNzM4.13C6E6uRzMRk26Qta_cXtjqKeay50AgwjGoRAxHfT2og.sy-NYmkfu9e4DVedEWdS6ASLfBR5hR3d06tyWEyjT10g.JPEG/1dcc36a2-3988-11eb-a4d6-48df37ae3dc4_03.jpg?type=f640_360",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDlfMTcx/MDAxNzEyNjQyMDYwNTY5.kZNwRC9suEwvYXqWuh8GSQNo8BEcOgzvKPZ3R5_fMFwg.riziFHxmDduqpxAyIEG6DNKMmNTFz7scJlPhx_mn4yUg.PNG/voice_p.png?type=f640_360",
   "alt": "누들이의 첫 보이스온리💓",
   "title": "누들이의 첫 보이스온리💓 (2020-12-09)"
 },
@@ -3875,7 +3875,7 @@ const liveStreamCards = [
   "member": "미연",
   "date": "2024-08-23",
   "duration": "00:46:35",
-  "thumbnail": "images/보이스온리.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDlfMTcx/MDAxNzEyNjQyMDYwNTY5.kZNwRC9suEwvYXqWuh8GSQNo8BEcOgzvKPZ3R5_fMFwg.riziFHxmDduqpxAyIEG6DNKMmNTFz7scJlPhx_mn4yUg.PNG/voice_p.png?type=f640_360",
   "alt": "자기전에엥💕😴  (2024-08-23)",
   "title": "자기전에엥💕😴  (2024-08-23)"
 },
@@ -3895,7 +3895,7 @@ const liveStreamCards = [
   "member": "미연",
   "date": "2024-09-17",
   "duration": "00:45:25",
-  "thumbnail": "images/보이스온리.jpg",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDlfMTcx/MDAxNzEyNjQyMDYwNTY5.kZNwRC9suEwvYXqWuh8GSQNo8BEcOgzvKPZ3R5_fMFwg.riziFHxmDduqpxAyIEG6DNKMmNTFz7scJlPhx_mn4yUg.PNG/voice_p.png?type=f640_360",
   "alt": "해피 추석💕🪽🫶🏻💋  (2024-09-17)",
   "title": "해피 추석💕🪽🫶🏻💋  (2024-09-17)"
 },
