@@ -1470,6 +1470,16 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/bOUHhPXjZyY/hqdefault.jpg",
   "alt": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)] (2018-09-05)",
   "title": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)] (2018-09-05)"
+},
+  {
+  "link": "https://youtu.be/X8PZ43mALf8",
+  "category": "RADIO_PODCAST",
+  "member": "소연",
+  "date": "2021-07-05",
+  "duration": "01:25:43",
+  "thumbnail": "https://i.ytimg.com/vi/X8PZ43mALf8/maxresdefault.jpg",
+  "alt": "#OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개 (2021-07-05)",
+  "title": "#OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개 (2021-07-05)"
 }
 
   ];
