@@ -1788,6 +1788,16 @@ const interviewCards = [
   "thumbnail": "https://i.ytimg.com/vi/J6E6wQl6Xac/maxresdefault.jpg",
   "alt": "우기 - [나는 살아있다] 제작발표회 생중계 (2020-11-04)",
   "title": "우기 - [나는 살아있다] 제작발표회 생중계 (2020-11-04)"
+},
+  {
+  "link": "https://youtu.be/QaeK_XwpeGI",
+  "category": "INTERVIEW",
+  "member": "슈화",
+  "date": "2025-02-04",
+  "duration": "00:01:01",
+  "thumbnail": "https://i.ytimg.com/vi/QaeK_XwpeGI/maxresdefault.jpg",
+  "alt": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」 (2025-02-04)",
+  "title": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」 (2025-02-04)"
 }
 
 
