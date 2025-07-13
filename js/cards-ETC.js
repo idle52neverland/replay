@@ -369,6 +369,16 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/RHN9DsyAcZU/maxresdefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 - \"Senorita! Meet me at K-pop Festival!\" 2019 Changwon K-pop World Festival! (2019-04-11)",
   "title": "(G)I-DLE (여자)아이들 - \"Senorita! Meet me at K-pop Festival!\" 2019 Changwon K-pop World Festival! (2019-04-11)"
+},
+  {
+  "link": "https://youtu.be/3D8_CucBVLY",
+  "category": "ETC",
+  "member": "아이들",
+  "date": "2019-06-09",
+  "duration": "00:01:38",
+  "thumbnail": "https://i.ytimg.com/vi/3D8_CucBVLY/maxresdefault.jpg",
+  "alt": "(G)I-DLE, 2019 Asia Model Festival (강렬한 비주얼! (여자)아이들) (2019-06-09)",
+  "title": "(G)I-DLE, 2019 Asia Model Festival (강렬한 비주얼! (여자)아이들) (2019-06-09)"
 }
 
 
