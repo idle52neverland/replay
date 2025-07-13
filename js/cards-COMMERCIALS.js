@@ -811,6 +811,27 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/hKtzmYCI7mw/maxresdefault.jpg",
   "alt": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_COLORFUL ENERGY (2024-07-24)",
   "title": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_COLORFUL ENERGY (2024-07-24)"
+},
+  {
+  "link": "https://youtu.be/C4qjRwAKnSk",
+  "category": "COMMERCIALS",
+  "member": "슈화",
+  "date": "2023-06-12",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/C4qjRwAKnSk/sddefault.jpg",
+  "alt": "정관장 【正官庄】代言人(G)I-DLE 舒華 來了!! (2023-06-12)",
+  "title": "정관장 【正官庄】代言人(G)I-DLE 舒華 來了!! (2023-06-12)"
+},
+
+{
+  "link": "https://youtu.be/orfHvbMhS2g",
+  "category": "COMMERCIALS",
+  "member": "슈화",
+  "date": "2023-10-20",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/orfHvbMhS2g/maxresdefault.jpg",
+  "alt": "정관장 正官庄 ⟬EVERYTIME柚⟭ 葡萄柚風味新上市 (2023-10-20)",
+  "title": "정관장 正官庄 ⟬EVERYTIME柚⟭ 葡萄柚風味新上市 (2023-10-20)"
 }
 
 
