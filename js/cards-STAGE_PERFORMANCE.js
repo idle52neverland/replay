@@ -4994,17 +4994,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/9WcaA4JeziQ",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2022-01-17",
-  "duration": "00:20:30",
-  "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA / 2020 두바이엑스포 케이팝콘서트 (2022-01-17)",
-  "title": "(여자)아이들((G)I-DLE) - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA / 2020 두바이엑스포 케이팝콘서트 (2022-01-17)"
-},
-
-{
   "link": "https://youtu.be/JoL4andzqBE",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -10089,8 +10078,8 @@ const stagePerformanceCards = [
   "date": "2023-01-21",
   "duration": "00:09:23",
   "thumbnail": "https://i.ytimg.com/vi/M0vPrPCYu14/sddefault.jpg",
-  "alt": "대만공연 || Nxde, MY BAG, TOM BOY || 2023 초급거성홍백예능대상 (2023-01-21)",
-  "title": "대만공연 || Nxde, MY BAG, TOM BOY || 2023 초급거성홍백예능대상 (2023-01-21)"
+  "alt": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)",
+  "title": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)"
 },
 {
   "link": "https://youtu.be/9WcaA4JeziQ",
@@ -10099,8 +10088,8 @@ const stagePerformanceCards = [
   "date": "2022-01-17",
   "duration": "00:20:30",
   "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
-  "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (2022-01-17)",
-  "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (2022-01-17)"
+  "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)",
+  "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)"
 },
 {
   "link": "https://youtu.be/SYUu0BF7aAk",
