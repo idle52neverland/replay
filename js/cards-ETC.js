@@ -359,6 +359,16 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/mPBDlMzbx2A/maxresdefault.jpg",
   "alt": "Chit Chatting with Minnie from (G)I-DLE (2021-08-19)",
   "title": "Chit Chatting with Minnie from (G)I-DLE (2021-08-19)"
+},
+  {
+  "link": "https://youtu.be/RHN9DsyAcZU",
+  "category": "ETC",
+  "member": "아이들",
+  "date": "2019-04-11",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/RHN9DsyAcZU/maxresdefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 - \"Senorita! Meet me at K-pop Festival!\" 2019 Changwon K-pop World Festival! (2019-04-11)",
+  "title": "(G)I-DLE (여자)아이들 - \"Senorita! Meet me at K-pop Festival!\" 2019 Changwon K-pop World Festival! (2019-04-11)"
 }
 
 
