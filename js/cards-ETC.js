@@ -379,6 +379,16 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/3D8_CucBVLY/maxresdefault.jpg",
   "alt": "(G)I-DLE, 2019 Asia Model Festival (강렬한 비주얼! (여자)아이들) (2019-06-09)",
   "title": "(G)I-DLE, 2019 Asia Model Festival (강렬한 비주얼! (여자)아이들) (2019-06-09)"
+},
+  {
+  "link": "https://youtu.be/Ie80TNzNuUc",
+  "category": "ETC",
+  "member": "아이들",
+  "date": "2019-03-27",
+  "duration": "00:01:01",
+  "thumbnail": "https://i.ytimg.com/vi/Ie80TNzNuUc/sddefault.jpg",
+  "alt": "2019 ARTISTE GREETINGS FROM (G)I-DLE ((여자)아이들) | HALLYUPOPFEST 2019 (2019-03-27)",
+  "title": "2019 ARTISTE GREETINGS FROM (G)I-DLE ((여자)아이들) | HALLYUPOPFEST 2019 (2019-03-27)"
 }
 
 
