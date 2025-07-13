@@ -832,6 +832,16 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/orfHvbMhS2g/maxresdefault.jpg",
   "alt": "정관장 正官庄 ⟬EVERYTIME柚⟭ 葡萄柚風味新上市 (2023-10-20)",
   "title": "정관장 正官庄 ⟬EVERYTIME柚⟭ 葡萄柚風味新上市 (2023-10-20)"
+},
+  {
+  "link": "https://youtu.be/l41NUoboCVU",
+  "category": "COMMERCIALS",
+  "member": "아이들",
+  "date": "2023-10-26",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/l41NUoboCVU/maxresdefault.jpg",
+  "alt": "Rexona x (G)I-DLE Introduces The All-New Rexona Vitamin+Bright! (2023-10-26)",
+  "title": "Rexona x (G)I-DLE Introduces The All-New Rexona Vitamin+Bright! (2023-10-26)"
 }
 
 
