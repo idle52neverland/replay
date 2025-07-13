@@ -7755,17 +7755,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/3pcIVZUKbDY",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2023-05-24",
-  "duration": "00:26:40",
-  "thumbnail": "https://i.ytimg.com/vi/3pcIVZUKbDY/maxresdefault.jpg",
-  "alt": "(G)I-DLE (여자)아이들 4K Full Ver 'LATATA+MY BAG+Allergy+퀸카+TOMBOY+말리지마'｜동국대 축제 (2023-05-24)",
-  "title": "(G)I-DLE (여자)아이들 4K Full Ver 'LATATA+MY BAG+Allergy+퀸카+TOMBOY+말리지마'｜동국대 축제 (2023-05-24)"
-},
-
-{
   "link": "https://youtu.be/8uGe8vnJpSs",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
