@@ -6424,17 +6424,6 @@ const stagePerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/X47sO3ZXgVg",
-  "category": "STAGE_PERFORMANCE",
-  "member": "아이들",
-  "date": "2022-05-27",
-  "duration": "00:25:55",
-  "thumbnail": "https://i.ytimg.com/vi/X47sO3ZXgVg/maxresdefault.jpg",
-  "alt": "(여자)아이들 (G)I-DLE 직캠 Full ver. (고려대 입실렌티) (2022-05-27)",
-  "title": "(여자)아이들 (G)I-DLE 직캠 Full ver. (고려대 입실렌티) (2022-05-27)"
-},
-
-{
   "link": "https://youtu.be/9AY9d0JA_xk",
   "category": "STAGE_PERFORMANCE",
   "member": "아이들",
@@ -6442,7 +6431,7 @@ const stagePerformanceCards = [
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/9AY9d0JA_xk/maxresdefault.jpg",
   "alt": "TOMBOY (Festival Ver.) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] | KBS 방송 (2022-06-24)",
-  "title": "TOMBOY (Festival Ver.) - (여자)아이들 ((G)I-DLE) [/] [뮤직뱅크/Music Bank] (2022-06-24)"
+  "title": "TOMBOY (Festival Ver.) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] (2022-06-24)"
 },
 
 {
@@ -10122,7 +10111,7 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/SYUu0BF7aAk/maxresdefault.jpg",
   "alt": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)",
   "title": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)"
-}
+},
 {
   "link": "https://youtu.be/M4-ufJ_iYOg",
   "category": "STAGE_PERFORMANCE",
