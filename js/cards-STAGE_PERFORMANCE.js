@@ -10120,6 +10120,16 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/LQpH9ndMex4/maxresdefault.jpg",
   "alt": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)",
   "title": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)"
+},
+  {
+  "link": "https://youtu.be/qPNKaK4_9oc",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2022-06-26",
+  "duration": "00:23:03",
+  "thumbnail": "https://i.ytimg.com/vi/qPNKaK4_9oc/maxresdefault.jpg",
+  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)",
+  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)"
 }
   
 
