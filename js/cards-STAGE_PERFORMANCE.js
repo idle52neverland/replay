@@ -10140,6 +10140,16 @@ const stagePerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
   "alt": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)",
   "title": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)"
+},
+  {
+  "link": "https://youtu.be/JBlGL3KkUAM",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2019-10-19",
+  "duration": "00:06:54",
+  "thumbnail": "https://i.ytimg.com/vi/JBlGL3KkUAM/maxresdefault.jpg",
+  "alt": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS (2019-10-19)",
+  "title": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS (2019-10-19)"
 }
   
 
