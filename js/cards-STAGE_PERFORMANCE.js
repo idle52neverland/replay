@@ -10092,7 +10092,58 @@ const stagePerformanceCards = [
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_5/HaA1U_1750553660094riWKn_PNG/image.png?type=f1109_624",
   "alt": "제34회 서울가요대상 SMA 레드카펫 MC 수빈-미연-강승윤 (2025-06-21)",
   "title": "제34회 서울가요대상 SMA 레드카펫 MC 수빈-미연-강승윤 (2025-06-21)"
+},
+  {
+  "link": "https://youtu.be/M0vPrPCYu14",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2023-01-21",
+  "duration": "00:09:23",
+  "thumbnail": "https://i.ytimg.com/vi/M0vPrPCYu14/sddefault.jpg",
+  "alt": "대만공연 || Nxde, MY BAG, TOM BOY || 2023 초급거성홍백예능대상 (2023-01-21)",
+  "title": "대만공연 || Nxde, MY BAG, TOM BOY || 2023 초급거성홍백예능대상 (2023-01-21)"
+},
+{
+  "link": "https://youtu.be/9WcaA4JeziQ",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2022-01-17",
+  "duration": "00:20:30",
+  "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
+  "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (2022-01-17)",
+  "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (2022-01-17)"
+},
+{
+  "link": "https://youtu.be/SYUu0BF7aAk",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2023-08-22",
+  "duration": "00:01:43",
+  "thumbnail": "https://i.ytimg.com/vi/SYUu0BF7aAk/maxresdefault.jpg",
+  "alt": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)",
+  "title": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)"
 }
+{
+  "link": "https://youtu.be/M4-ufJ_iYOg",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2023-09-28",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
+  "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
+  "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
+},
+{
+  "link": "https://youtu.be/LQpH9ndMex4",
+  "category": "STAGE_PERFORMANCE",
+  "member": "아이들",
+  "date": "2023-11-18",
+  "duration": "00:21:11",
+  "thumbnail": "https://i.ytimg.com/vi/LQpH9ndMex4/maxresdefault.jpg",
+  "alt": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)",
+  "title": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)"
+}
+  
 
 
 ];
