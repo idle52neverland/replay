@@ -388,7 +388,97 @@ const etcCards = [
     "thumbnail": "https://i.ytimg.com/vi/Ie80TNzNuUc/sddefault.jpg",
     "alt": "2019 ARTISTE GREETINGS FROM (G)I-DLE ((여자)아이들) | HALLYUPOPFEST 2019 (2019-03-27)",
     "title": "2019 ARTISTE GREETINGS FROM (G)I-DLE ((여자)아이들) | HALLYUPOPFEST 2019 (2019-03-27)"
-  }
+  },
+    {
+  "link": "https://youtu.be/dxzN8sJLp3g",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-10-02",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/dxzN8sJLp3g/maxresdefault.jpg",
+  "alt": "[2020 슈퍼온택트] DAY-4 (여자)아이들 1차 티저 / '2020 Super On-Tact '(G)I-DLE' Teaser ver.1 | SBS NOW (2020-10-02)",
+  "title": "[2020 슈퍼온택트] DAY-4 (여자)아이들 1차 티저 / '2020 Super On-Tact '(G)I-DLE' Teaser ver.1 | SBS NOW (2020-10-02)"
+},
+{
+  "link": "https://youtu.be/YAYW1bCi0Ys?si=XX2JkZrDiQ0-K0DF",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-10-02",
+  "duration": "00:01:58",
+  "thumbnail": "https://i.ytimg.com/vi/7uKSjANLuug/maxresdefault.jpg",
+  "alt": "[2020 슈퍼온택트] DAY-4 (여자)아이들 2차 티저 / '2020 Super On-Tact '(G)I-DLE' Teaser ver.2 | SBS NOW (2020-10-02)",
+  "title": "[2020 슈퍼온택트] DAY-4 (여자)아이들 2차 티저 / '2020 Super On-Tact '(G)I-DLE' Teaser ver.2 | SBS NOW (2020-10-02)"
+},
+{
+  "link": "https://youtu.be/ShHiapamyD4",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-10-31",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/ShHiapamyD4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE), 2020 코리아뮤직 드라이브 인 페스티벌(KMDF) - 레드카펫 (2020-10-31)",
+  "title": "(여자)아이들((G)I-DLE), 2020 코리아뮤직 드라이브 인 페스티벌(KMDF) - 레드카펫 (2020-10-31)"
+},
+{
+  "link": "https://youtu.be/N485WbX-yLc",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-11-26",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/N485WbX-yLc/sddefault.jpg",
+  "alt": "한국문화축제 in 안동, 영상메시지 여자아이들 I K-Culture Festival in Andong, video message from (G)-IDLE (2020-11-26)",
+  "title": "한국문화축제 in 안동, 영상메시지 여자아이들 I K-Culture Festival in Andong, video message from (G)-IDLE (2020-11-26)"
+},
+{
+  "link": "https://youtu.be/bX4tfQMORFE",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-10-30",
+  "duration": "00:01:04",
+  "thumbnail": "https://i.ytimg.com/vi/bX4tfQMORFE/hqdefault.jpg",
+  "alt": "🔥 (G)I-DLE (아이들) invites you to join them at the 2020 KMDF on Oct 31! [Korea Music Festival] (2020-10-30)",
+  "title": "🔥 (G)I-DLE (아이들) invites you to join them at the 2020 KMDF on Oct 31! [Korea Music Festival] (2020-10-30)"
+},
+{
+  "link": "https://youtu.be/l7bSow88Vcw",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-04-11",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/l7bSow88Vcw/maxresdefault.jpg",
+  "alt": "제21대국회의원선거 사전투표 (여자)아이들((G)-IDLE, 생방 무대 전 소중한 한표 행사 | (G)-IDLE early voting for parliamentary elections 2020. 04. 11 (2020-04-11)",
+  "title": "제21대국회의원선거 사전투표 (여자)아이들((G)-IDLE, 생방 무대 전 소중한 한표 행사 | (G)-IDLE early voting for parliamentary elections 2020. 04. 11 (2020-04-11)"
+},
+{
+  "link": "https://youtu.be/SkyM0aRrBvw",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2019-01-23",
+  "duration": "00:02:08",
+  "thumbnail": "https://i.ytimg.com/vi/SkyM0aRrBvw/maxresdefault.jpg",
+  "alt": "(여자)아이들, 감당할 수 없을 만큼 예쁨 ((G)I-DLE, Gaon Chart Music Awards) (2019-01-23)",
+  "title": "(여자)아이들, 감당할 수 없을 만큼 예쁨 ((G)I-DLE, Gaon Chart Music Awards) (2019-01-23)"
+},
+{
+  "link": "https://youtu.be/QHVhwAaM4aU",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-01-05",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/QHVhwAaM4aU/maxresdefault.jpg",
+  "alt": "(G)I-DLE, 34th Golden Disc Awards DAY2 ((여자)아이들, 올해도 베스트 퍼포머 예약!) (2020-01-05)",
+  "title": "(G)I-DLE, 34th Golden Disc Awards DAY2 ((여자)아이들, 올해도 베스트 퍼포머 예약!) (2020-01-05)"
+},
+{
+  "link": "https://youtu.be/7VlK1XhoZrY",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2020-11-06",
+  "duration": "00:01:20",
+  "thumbnail": "https://i.ytimg.com/vi/7VlK1XhoZrY/sddefault.jpg",
+  "alt": "[K-COMMUNITY FESTIVAL] Promotional video with (G)I-DLE (2020-11-06)",
+  "title": "[K-COMMUNITY FESTIVAL] Promotional video with (G)I-DLE (2020-11-06)"
+}
 
 
 
