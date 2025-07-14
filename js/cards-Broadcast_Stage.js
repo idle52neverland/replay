@@ -1259,16 +1259,7 @@ const broadcastStageCards = [
     "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN (2019-10-17)",
     "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × [엠카운트다운/MCOUNTDOWN] (2019-10-17)"
   },
-  {
-    "link": "https://youtu.be/WFkZjTCxVPc",
-    "category": "Broadcast_Stage",
-    "member": "소연",
-    "date": "2019-11-10",
-    "duration": "00:03:39",
-    "thumbnail": "https://i.ytimg.com/vi/WFkZjTCxVPc/sddefault.jpg",
-    "alt": "GIANTS - Opening Ceremony Presented by Mastercard | 2019 World Championship Finals (2019-11-10)",
-    "title": "GIANTS - Opening Ceremony Presented by Mastercard 2019 World Championship Finals (2019-11-10)"
-  },
+
   {
     "link": "https://youtu.be/UJJM3xlxiV8",
     "category": "Broadcast_Stage",
@@ -9166,16 +9157,7 @@ const broadcastStageCards = [
     "alt": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)",
     "title": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)"
   },
-  {
-    "link": "https://youtu.be/9WcaA4JeziQ",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2022-01-17",
-    "duration": "00:20:30",
-    "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
-    "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)",
-    "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)"
-  },
+
   {
     "link": "https://youtu.be/SYUu0BF7aAk",
     "category": "Broadcast_Stage",
@@ -9196,26 +9178,7 @@ const broadcastStageCards = [
     "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
     "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
   },
-  {
-    "link": "https://youtu.be/LQpH9ndMex4",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2023-11-18",
-    "duration": "00:21:11",
-    "thumbnail": "https://i.ytimg.com/vi/LQpH9ndMex4/maxresdefault.jpg",
-    "alt": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)",
-    "title": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)"
-  },
-  {
-    "link": "https://youtu.be/qPNKaK4_9oc",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2022-06-26",
-    "duration": "00:23:03",
-    "thumbnail": "https://i.ytimg.com/vi/qPNKaK4_9oc/maxresdefault.jpg",
-    "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)",
-    "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)"
-  },
+
   {
     "link": "https://youtu.be/EQ3c6jYcMz0",
     "category": "Broadcast_Stage",
@@ -9225,16 +9188,6 @@ const broadcastStageCards = [
     "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
     "alt": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)",
     "title": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)"
-  },
-  {
-    "link": "https://youtu.be/JBlGL3KkUAM",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2019-10-19",
-    "duration": "00:06:54",
-    "thumbnail": "https://i.ytimg.com/vi/JBlGL3KkUAM/maxresdefault.jpg",
-    "alt": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS (2019-10-19)",
-    "title": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS (2019-10-19)"
   }
 
 
