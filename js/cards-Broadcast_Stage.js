@@ -9177,18 +9177,8 @@ const broadcastStageCards = [
     "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
     "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
     "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
-  },
-
-  {
-    "link": "https://youtu.be/EQ3c6jYcMz0",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2018-09-08",
-    "duration": "00:01:38",
-    "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
-    "alt": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)",
-    "title": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  DMC Festival 2018 (2018-09-08)"
   }
+
 
 
 ];
