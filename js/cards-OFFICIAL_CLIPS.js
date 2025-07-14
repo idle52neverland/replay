@@ -8735,7 +8735,20 @@ const officialClipCards = [
   "alt": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 (2018-05-05)",
   "title": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 (2018-05-05)",
   "subtag": "아이로그 | I-LOG"
+},
+    
+{
+  "link": "https://youtu.be/8TDKvw0eUjU",
+  "category": "OFFICIAL_CLIPS",
+  "member": "아이들",
+  "date": "2025-07-14",
+  "duration": "00:10:39",
+  "thumbnail": "https://i.ytimg.com/vi/8TDKvw0eUjU/maxresdefault.jpg",
+  "alt": "'나 혼자만 레벨업:ARISE' 광고 촬영 비하인드 [i-talk] #207 | i-dle (아이들)ㅣSUB (2025-07-14)",
+  "title": "'나 혼자만 레벨업:ARISE' 광고 촬영 비하인드 [i-talk] #207 | i-dle (아이들)ㅣSUB (2025-07-14)",
+  "subtag": "아이톡 | I-TALK"
 }
+
   
   
   
