@@ -285,7 +285,7 @@ const originalVarietyCards = [
   "member": "아이들",
   "date": "2022-09-15",
   "duration": "00:04:18",
-  "thumbnail": "https://https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxFZ0VpDgGGNTOPs3amAgunR_Bvw",
+  "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg",
   "alt": "방해금지모드+ BEHIND | Do Not Disturb (2022-09-15)",
   "title": "방해금지모드+ BEHIND | Do Not Disturb (2022-09-15) "
 },
