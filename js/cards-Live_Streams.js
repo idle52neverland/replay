@@ -4193,7 +4193,7 @@ const liveStreamsCards = [
     "link": "https://weverse.io/i-dle/live/4-204110525",
     "category": "Live_Streams",
     "member": "아이들",
-    "date": "2025-07-14",
+    "date": "2025-07-14T22:10:00",
     "duration": "00:51:17",
     "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MTVfMTky/MDAxNzUyNTExNDQ1MDI0.UzKMFELwGHBZRmosJazSe-yrr5JBk5dPsHUVof3JjZwg.vyj00aJAfUiRq-rM4LJDX-zd__1ud5G4LGfnYSPDFzQg.JPEG/snapshot_52423d02-5fd4-40f1-b8cc-15621cd9f79c.jpg?type=f_or_off_640_360",
     "alt": "미민소우슈 (2025-07-14)",
