@@ -8726,7 +8726,7 @@ const officialChannelCards = [
     "link": "https://youtu.be/8TDKvw0eUjU",
     "category": "Official_Channel",
     "member": "아이들",
-    "date": "2025-07-14",
+    "date": "2025-07-14T19:00:00",
     "duration": "00:10:39",
     "thumbnail": "https://i.ytimg.com/vi/8TDKvw0eUjU/maxresdefault.jpg",
     "alt": "'나 혼자만 레벨업:ARISE' 광고 촬영 비하인드 [i-talk] #207 | i-dle (아이들)ㅣSUB (2025-07-14)",
