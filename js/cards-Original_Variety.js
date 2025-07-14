@@ -1,7 +1,7 @@
 const originalVarietyCards = [
 {
     "link": "https://youtu.be/_I_UlUSrrUo",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-01-15",
     "duration": "00:16:54",
@@ -11,7 +11,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/Q_rF6iUghJY",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-01-22",
     "duration": "00:10:24",
@@ -21,7 +21,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/dZzp19OuhdY",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-01-29",
     "duration": "00:13:22",
@@ -31,7 +31,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/IWq6mswwLCo",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-02-05",
     "duration": "00:13:55",
@@ -41,7 +41,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/uKsWDFBm41A",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-02-12",
     "duration": "00:14:18",
@@ -51,7 +51,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/fokjzgQ8qG8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2019-02-19",
     "duration": "00:16:45",
@@ -61,7 +61,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/kINZmIZfCKY",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-07-21",
     "duration": "00:16:49",
@@ -71,7 +71,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/1r6-hAIItqc",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-07-21",
     "duration": "00:09:42",
@@ -81,7 +81,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/XZIOS2tgqGo",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-07-28",
     "duration": "00:11:29",
@@ -91,7 +91,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/MWi5w4dEkZQ",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-07-28",
     "duration": "00:13:32",
@@ -101,7 +101,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/SFq8qllSyq0",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-04",
     "duration": "00:07:46",
@@ -111,7 +111,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/VbK8mHanAhI",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-04",
     "duration": "00:15:39",
@@ -121,7 +121,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/pO59kn3sU14",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-11",
     "duration": "00:16:23",
@@ -131,7 +131,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/DhZ4HCPDLac",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-11",
     "duration": "00:07:07",
@@ -141,7 +141,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/MYGW1hTnp9o",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-18",
     "duration": "00:12:21",
@@ -151,7 +151,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/FyiWt8Q0Wl0",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2020-08-18",
     "duration": "00:15:08",
@@ -161,7 +161,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/8vTni3DzoDg",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2021-02-12",
     "duration": "00:48:10",
@@ -171,7 +171,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/H39jJFQmFYE",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-05-25",
     "duration": "01:22:27",
@@ -181,7 +181,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/-4e-b6krd84",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-05-26",
     "duration": "00:04:30",
@@ -191,7 +191,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/cHdtMzIGVeY",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-06-23",
     "duration": "00:27:41",
@@ -201,7 +201,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/n7z0y9rntug",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-06-30",
     "duration": "00:30:57",
@@ -211,7 +211,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/Q8hx7ivQZNI",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-07",
     "duration": "00:29:01",
@@ -221,7 +221,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/H9DdJL73eD8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-12",
     "duration": "00:03:01",
@@ -231,7 +231,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/7DrSDGbS_iE",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-14",
     "duration": "00:32:05",
@@ -241,7 +241,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/ASJlcRmvz6c",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-19",
     "duration": "00:02:51",
@@ -251,7 +251,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/t81p5JxJPVo",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-21",
     "duration": "00:34:27",
@@ -261,7 +261,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/0zyIqbyz6zM",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-07-26",
     "duration": "00:04:55",
@@ -271,7 +271,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/hJ0iu7dxrEw",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-09-14",
     "duration": "01:13:08",
@@ -281,7 +281,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/pKMLtR2PlJc",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-09-15",
     "duration": "00:04:18",
@@ -291,7 +291,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/1rTlSErNfzM",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-09-22",
     "duration": "00:28:07",
@@ -301,7 +301,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/QZGXnGH2hA8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-09-29",
     "duration": "00:25:27",
@@ -311,7 +311,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/Y-WAKb5frs0",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-10-06",
     "duration": "00:26:36",
@@ -321,7 +321,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/-EUwuAGZBBs",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-10-13",
     "duration": "00:24:58",
@@ -331,7 +331,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/xrKH2_vSOm8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-10-20",
     "duration": "00:26:48",
@@ -341,7 +341,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/4tcDGRZ2MIo",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-10-27",
     "duration": "00:29:23",
@@ -351,7 +351,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/WVwCF8NDAPk",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2022-10-28",
     "duration": "00:04:00",
@@ -361,7 +361,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/pKMhyV1HiqE",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-03-17",
     "duration": "00:01:12",
@@ -371,7 +371,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/HU6K3TV2AdQ",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-03-22",
     "duration": "00:19:15",
@@ -381,7 +381,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/4bDBfsBCjFg",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-03-24",
     "duration": "00:23:38",
@@ -391,7 +391,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/r0MrzKxPqxw",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-03-29",
     "duration": "00:19:18",
@@ -401,7 +401,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/QFCP_VVQMgg",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-03-31",
     "duration": "00:22:03",
@@ -411,7 +411,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/PwsQ30b-A-k",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-04-05",
     "duration": "00:18:09",
@@ -421,7 +421,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/MfTv2OX4Nz4",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-04-07",
     "duration": "00:20:44",
@@ -431,7 +431,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/ar1ZMNKDbKI",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-04-12",
     "duration": "00:19:22",
@@ -441,7 +441,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/uvEYX0MSs1s",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-04-14",
     "duration": "00:23:01",
@@ -451,7 +451,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/rwtUR5moRgQ",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-08-02",
     "duration": "00:01:17",
@@ -461,7 +461,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/-eWlNDLUAkI",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-08-09",
     "duration": "00:20:08",
@@ -471,7 +471,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/4vY76usk3fk",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-08-16",
     "duration": "00:20:00",
@@ -481,7 +481,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/C1ITPFPt1do",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2023-08-23",
     "duration": "00:19:38",
@@ -491,7 +491,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/McgN9q0zLyE",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-06-01",
     "duration": "00:02:52",
@@ -501,7 +501,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/qKvNB3YkxZ8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-06-05",
     "duration": "00:25:08",
@@ -511,7 +511,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/J6AyyiFlCu8",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-06-12",
     "duration": "00:21:26",
@@ -521,7 +521,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/-DEU4ypwzxw",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-06-19",
     "duration": "00:24:31",
@@ -531,7 +531,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/gVf9lWF-6wQ",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-06-26",
     "duration": "00:22:08",
@@ -541,7 +541,7 @@ const originalVarietyCards = [
   },
   {
     "link": "https://youtu.be/Jw9a-H7iVpk",
-    "category": "Original Variety",
+    "category": "Original_Variety",
     "member": "아이들",
     "date": "2025-07-03",
     "duration": "00:20:16",
