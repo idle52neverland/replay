@@ -4188,8 +4188,17 @@ const liveStreamsCards = [
     "thumbnail": "https://video-phinf.pstatic.net/20200613_228/1592028048126ibchF_JPEG/cf51b8d2-ad36-11ea-a4c1-a0369ff963bc_03.jpg",
     "alt": "🐭🐰 (2020-06-13)",
     "title": "'🐭🐰 (2020-06-13)"
+  },
+  {
+    "link": "https://weverse.io/i-dle/live/4-204110525",
+    "category": "Live_Streams",
+    "member": "아이들",
+    "date": "2025-07-14",
+    "duration": "00:51:17",
+    "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA3MTVfMTky/MDAxNzUyNTExNDQ1MDI0.UzKMFELwGHBZRmosJazSe-yrr5JBk5dPsHUVof3JjZwg.vyj00aJAfUiRq-rM4LJDX-zd__1ud5G4LGfnYSPDFzQg.JPEG/snapshot_52423d02-5fd4-40f1-b8cc-15621cd9f79c.jpg?type=f_or_off_640_360",
+    "alt": "미민소우슈 (2025-07-14)",
+    "title": "미민소우슈 (2025-07-14)"
   }
-
 
 ];
 
