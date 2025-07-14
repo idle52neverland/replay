@@ -12544,11 +12544,11 @@ const shortsCards = [
     "link": "https://youtu.be/9KtwymeHPlc",
     "category": "Shorts",
     "member": "미연, 민니",
-    "date": "2025-07-14",
+    "date": "2025-07-15T00:15:00",
     "duration": "00:00:41",
     "thumbnail": "https://i.ytimg.com/vi/9KtwymeHPlc/maxresdefault.jpg",
-    "alt": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-14)",
-    "title": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-14)"
+    "alt": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-15)",
+    "title": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-15)"
   }
 
 
