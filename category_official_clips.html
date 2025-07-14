@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OFFICIAL_CLIPS - I-DLE 몰아보기</title>
+  <title>Official_Channel - I-DLE 몰아보기</title>
   <link rel="icon" href="images/i-dle logo.png" type="image/png" />
   <style>
     body {
@@ -102,7 +102,7 @@
 </head>
 <body>
   <div class="header-bar">
-    <div id="mainTitle">OFFICIAL_CLIPS</div>
+    <div id="mainTitle">Official_Channel</div>
   </div>
   <div class="category-section">
     <div class="category-line" id="yearFilters"></div>
@@ -138,7 +138,7 @@
     <button id="loadMoreBtn" type="button">More</button>
     <button id="scrollTopBtn" title="scrollTop">↑</button>
   </div>
-  <script src="js/cards-OFFICIAL_CLIPS.js"></script>
+  <script src="js/cards-Official_Channel.js"></script>
   <script>
     const container = document.getElementById("allCards");
     const loadMoreBtn = document.getElementById("loadMoreBtn");
@@ -155,7 +155,7 @@
     let sortOrder = "newest";
     let selectedSubtag = "";
 
-    const all = typeof officialClipCards !== "undefined" ? officialClipCards : [];
+    const all = typeof officialChannelCards !== "undefined" ? officialChannelCards : [];
 
     function updateCardCount(count) {
       cardCountEl.textContent = `총 ${count}개 영상`;
