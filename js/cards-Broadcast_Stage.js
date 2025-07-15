@@ -2784,22 +2784,32 @@ const broadcastStageCards = [
     "link": "https://youtu.be/zFL0xGZ9RWc",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2020-09-16",
+    "date": "2019-07-07",
     "duration": "00:03:53",
     "thumbnail": "https://i.ytimg.com/vi/zFL0xGZ9RWc/maxresdefault.jpg",
-    "alt": "[KCON 2019 NY] (G)I-DLE Uh | Oh (2020-09-16)",
-    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh (2020-09-16)"
+    "alt": "[KCON 2019 NY] (G)I-DLE Uh Oh | 2019.07.25방송 (2019-07-07)",
+    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh | 2019.07.25방송 (2019-07-07)"
   },
   {
     "link": "https://youtu.be/7ywDxAFq9gw",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2020-09-16",
+    "date": "2019-09-29",
     "duration": "00:00:39",
     "thumbnail": "https://i.ytimg.com/vi/7ywDxAFq9gw/maxresdefault.jpg",
-    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) | Dollar (2020-09-16)",
-    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar (2020-09-16)"
+    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 2019.10.17방송 (2019-09-29)",
+    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 2019.10.17방송 (2019-09-29)"
   },
+    {
+  "link": "https://youtu.be/NC_7gUfJJIw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-29",
+  "duration": "00:04:01",
+  "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
+  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)",
+  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)"
+}
   {
     "link": "https://youtu.be/jvvxVEhxPBk",
     "category": "Broadcast_Stage",
