@@ -819,7 +819,17 @@ const commercialsCards = [
     "thumbnail": "https://i.ytimg.com/vi/l41NUoboCVU/maxresdefault.jpg",
     "alt": "Rexona x (G)I-DLE Introduces The All-New Rexona Vitamin+Bright! (2023-10-26)",
     "title": "Rexona x (G)I-DLE Introduces The All-New Rexona Vitamin+Bright! (2023-10-26)"
-  }
+  },
+    {
+  "link": "https://youtu.be/MwYmX-FNtkA",
+  "category": "Commercials",
+  "member": "아이들",
+  "date": "2025-07-15",
+  "duration": "00:01:17",
+  "thumbnail": "https://i.ytimg.com/vi/MwYmX-FNtkA/maxresdefault.jpg",
+  "alt": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 콜라보 음원 ‘ARISE’ 뮤직 비디오 메이킹 필름🎵🎬 (2025-07-15)",
+  "title": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 콜라보 음원 ‘ARISE’ 뮤직 비디오 메이킹 필름🎵🎬 (2025-07-15)"
+}
 
 
 
