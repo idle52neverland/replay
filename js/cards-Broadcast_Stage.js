@@ -2867,11 +2867,11 @@ const broadcastStageCards = [
     "link": "https://youtu.be/qnREMXKlPLU",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2020-12-18",
+    "date": "2020-10-31",
     "duration": "00:03:31",
     "thumbnail": "https://i.ytimg.com/vi/qnREMXKlPLU/maxresdefault.jpg",
-    "alt": "[2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-12-18)",
-    "title": "[2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-12-18)"
+    "alt": "[2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-10-31)",
+    "title": "[2020KMDF] (여자)아이들((G)I-DLE)-덤디덤디(DUMDi DUMDi) (2020-10-31)"
   },
   {
     "link": "https://youtu.be/xuH4YbWQBug",
@@ -2947,11 +2947,11 @@ const broadcastStageCards = [
     "link": "https://youtu.be/mZvwhZYBLBk",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2020-12-18",
+    "date": "2020-10-31",
     "duration": "00:03:24",
     "thumbnail": "https://i.ytimg.com/vi/mZvwhZYBLBk/maxresdefault.jpg",
-    "alt": "[2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-12-18)",
-    "title": "[2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-12-18)"
+    "alt": "[2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-10-31)",
+    "title": "[2020KMDF] (여자)아이들((G)I-DLE)-LATATA (2020-10-31)"
   },
   {
     "link": "https://youtu.be/t8vJzVgegfc",
