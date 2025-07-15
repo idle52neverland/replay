@@ -120,16 +120,6 @@ const commercialsCards = [
     "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK BRAND FILM ver.2 (2020-06-16)"
   },
   {
-    "link": "https://youtu.be/Ay09jyHBjRA",
-    "category": "Commercials",
-    "member": "아이들",
-    "date": "2020-09-29",
-    "duration": "00:01:35",
-    "thumbnail": "https://i.ytimg.com/vi/Ay09jyHBjRA/sddefault.jpg",
-    "alt": "[K-Community Challenge] Ganggangsullae with (G)I-DLE (2020-09-29)",
-    "title": "[K-Community Challenge] Ganggangsullae with (G)I-DLE (2020-09-29)"
-  },
-  {
     "link": "https://youtu.be/zLEd-ZGQR0w",
     "category": "Commercials",
     "member": "아이들",
@@ -138,16 +128,6 @@ const commercialsCards = [
     "thumbnail": "https://i.ytimg.com/vi/zLEd-ZGQR0w/hqdefault.jpg",
     "alt": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지! (2020-09-29)",
     "title": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지! (2020-09-29)"
-  },
-  {
-    "link": "https://youtu.be/IujeJa_oHf8",
-    "category": "Commercials",
-    "member": "아이들",
-    "date": "2020-09-30",
-    "duration": "00:01:09",
-    "thumbnail": "https://i.ytimg.com/vi/IujeJa_oHf8/sddefault.jpg",
-    "alt": "[K-Community Challenge] Promotional video with (G)I-DLE (2020-09-30)",
-    "title": "[K-Community Challenge] Promotional video with (G)I-DLE (2020-09-30)"
   },
   {
     "link": "https://youtu.be/mUBHyck-lzs",
