@@ -1755,9 +1755,17 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/P7vUYeSpDuw/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam) (2025-05-24)",
   "title": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam) (2025-05-24)"
+},
+{
+  "link": "https://youtu.be/UjAkAAgo6l4",
+  "category": "Festival_Stage",
+  "member": "소연",
+  "date": "2025-07-12",
+  "duration": "00:35:12",
+  "thumbnail": "https://i.ytimg.com/vi/UjAkAAgo6l4/maxresdefault.jpg",
+  "alt": "[풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)",
+  "title": "[풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)"
 }
-
-
 
 
 
