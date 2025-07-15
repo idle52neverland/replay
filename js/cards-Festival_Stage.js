@@ -226,8 +226,8 @@ const festivalStageCards = [
   "date": "2022-10-05",
   "duration": "00:23:59",
   "thumbnail": "https://i.ytimg.com/vi/BNwOea2PiPc/maxresdefault.jpg",
-  "alt": "[명지대학교 자연캠] (여자)아이들 "LION, LATATA, MY BAG, POP/STARS, TOMBOY" 직캠(Fancam) [4K 60p] (2022-10-05)",
-  "title": "[명지대학교 자연캠] (여자)아이들 "LION, LATATA, MY BAG, POP/STARS, TOMBOY" 직캠(Fancam) [4K 60p] (2022-10-05)"
+  "alt": "[명지대학교 자연캠] (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY 직캠(Fancam) [4K 60p] (2022-10-05)",
+  "title": "[명지대학교 자연캠] (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY 직캠(Fancam) [4K 60p] (2022-10-05)"
 },
 
 {
