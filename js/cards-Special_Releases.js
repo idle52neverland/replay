@@ -868,7 +868,19 @@ const specialReleasesCards = [
     "thumbnail": "https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg",
     "alt": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)",
     "title": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)"
-  }
+  },
+    
+{
+  "link": "https://youtu.be/hdLI_UzpMgw",
+  "category": "Special_Releases",
+  "member": "미연",
+  "date": "2025-07-15",
+  "duration": "00:04:23",
+  "thumbnail": "https://i.ytimg.com/vi/hdLI_UzpMgw/maxresdefault.jpg",
+  "alt": "[견우와 선녀 (Head over Heels) OST Part 5] 미연 (MIYEON) - 우리 우연히 만나 (When we meet again) MV (2025-07-15)",
+  "title": "[견우와 선녀 (Head over Heels) OST Part 5] 미연 (MIYEON) - 우리 우연히 만나 (When we meet again) MV (2025-07-15)"
+}
+
 
 
   ];
