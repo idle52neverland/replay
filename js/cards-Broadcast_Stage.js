@@ -9154,7 +9154,7 @@ const broadcastStageCards = [
   },
     {
   "link": "https://youtu.be/NC_7gUfJJIw",
-  "category": "Festival_Stage",
+  "category": "Broadcast_Stage",
   "member": "아이들",
   "date": "2019-09-29",
   "duration": "00:04:01",
@@ -9204,7 +9204,7 @@ const broadcastStageCards = [
   },
   {
   "link": "https://youtu.be/gW8bekyLUS0",
-  "category": "Festival_Stage",
+  "category": "Broadcast_Stage",
   "member": "아이들",
   "date": "2020-06-23",
   "duration": "00:03:37",
@@ -9212,26 +9212,68 @@ const broadcastStageCards = [
   "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)",
   "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)"
 },
+    {
+  "link": "https://youtu.be/gqZQGP_psKA",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/gqZQGP_psKA/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송 (2020-06-23)"
+},
+
+{
+  "link": "https://youtu.be/qG6PL66yKVM",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/qG6PL66yKVM/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송 (2020-06-23)"
+},
+
+{
+  "link": "https://youtu.be/gGXGYhWquOU",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/gGXGYhWquOU/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송 (2020-06-23)"
+},
+{
+  "link": "https://youtu.be/O5_gGdOuHOc",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:14:02",
+  "thumbnail": "https://i.ytimg.com/vi/O5_gGdOuHOc/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송 (2020-06-23)"
+},
  {
   "link": "https://youtu.be/ZbslugCz81U",
-  "category": "Festival_Stage",
+  "category": "Broadcast_Stage",
   "member": "아이들",
   "date": "2020-06-23",
   "duration": "00:05:44",
   "thumbnail": "https://i.ytimg.com/vi/ZbslugCz81U/maxresdefault.jpg",
   "alt": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송 (2020-06-23)",
   "title": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송 (2020-06-23)"
-}
+},
 {
   "link": "https://youtu.be/VHpCo5vzkkw",
-  "category": "Festival_Stage",
+  "category": "Broadcast_Stage",
   "member": "아이들",
   "date": "2019-07-07",
   "duration": "00:11:48",
   "thumbnail": "https://i.ytimg.com/vi/VHpCo5vzkkw/maxresdefault.jpg",
   "alt": "[KCON NY 2019] 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)",
   "title": "[KCON NY 2019 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)"
-},
+}
 
 
 ];
