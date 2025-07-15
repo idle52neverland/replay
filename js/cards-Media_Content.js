@@ -12139,26 +12139,7 @@ const mediaContentCards = [
     "alt": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE (2022-11-21)",
     "title": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE (2022-11-21)"
   },
-  {
-    "link": "https://youtu.be/pFnu1BjAuME",
-    "category": "Media_Content",
-    "member": "아이들",
-    "date": "2022-11-27",
-    "duration": "00:01:25",
-    "thumbnail": "https://i.ytimg.com/vi/pFnu1BjAuME/sddefault.jpg",
-    "alt": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-27)",
-    "title": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-27)"
-  },
-  {
-    "link": "https://youtu.be/KWCmFH77HF8",
-    "category": "Media_Content",
-    "member": "아이들",
-    "date": "2022-11-27",
-    "duration": "00:03:02",
-    "thumbnail": "https://i.ytimg.com/vi/KWCmFH77HF8/sddefault.jpg",
-    "alt": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022 (2022-11-27)",
-    "title": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022 (2022-11-27)"
-  },
+
   {
     "link": "https://youtu.be/TLr8zmZDua8",
     "category": "Media_Content",
