@@ -449,7 +449,16 @@ const festivalStageCards = [
   "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 1 (2023-12-05)",
   "title": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 1 (2023-12-05)"
 },
-
+{
+  "link": "https://youtu.be/kdvFCt44Iiw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-12-05",
+  "duration": "00:08:12",
+  "thumbnail": "https://i.ytimg.com/vi/kdvFCt44Iiw/maxresdefault.jpg",
+  "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2 (2023-12-05)",
+  "title": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2 (2023-12-05)"
+},
 {
   "link": "https://youtu.be/lk8KVxvTYiU",
   "category": "Festival_Stage",
@@ -470,17 +479,6 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/AA_3z-hf830/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 워싱턴] iHeartRadio Jingle Ball 2023 Washington DC (2023-12-11)",
   "title": "[2023 징글볼 투어 워싱턴] iHeartRadio Jingle Ball 2023 Washington DC (2023-12-11)"
-},
-
-{
-  "link": "https://youtu.be/kdvFCt44Iiw",
-  "category": "Festival_Stage",
-  "member": "아이들",
-  "date": "2023-12-05",
-  "duration": "00:08:12",
-  "thumbnail": "https://i.ytimg.com/vi/kdvFCt44Iiw/maxresdefault.jpg",
-  "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2 (2023-12-12)",
-  "title": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2 (2023-12-12)"
 },
 
 {
