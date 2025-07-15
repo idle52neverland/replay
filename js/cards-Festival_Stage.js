@@ -883,7 +883,890 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/X8BHzcPbWK4/maxresdefault.jpg",
   "alt": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
   "title": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+{
+  "link": "https://youtu.be/IY1Rhl2Rvsg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-06",
+  "duration": "00:08:13",
+  "thumbnail": "https://i.ytimg.com/vi/IY1Rhl2Rvsg/maxresdefault.jpg",
+  "alt": "2018 강남페스티벌 영동대로 K-POP 콘서트 Full ver. (한 + LATATA) (2018-10-06)",
+  "title": "2018 강남페스티벌 영동대로 K-POP 콘서트 Full ver. (한 + LATATA) (2018-10-06)"
+},
+{
+  "link": "https://youtu.be/D6hiNwSRZcs",
+  "category": "Festival_Stage",
+  "member": "우기",
+  "date": "2018-10-06",
+  "duration": "00:05:11",
+  "thumbnail": "https://i.ytimg.com/vi/D6hiNwSRZcs/maxresdefault.jpg",
+  "alt": "[2018 강남페스티벌 영동대로 K-POP 콘서트] 다리 부상으로 MC 보는 우기(Yuqi) (2018-10-06)",
+  "title": "[2018 강남페스티벌 영동대로 K-POP 콘서트] 다리 부상으로 MC 보는 우기(Yuqi) (2018-10-06)"
+},
+{
+  "link": "https://youtu.be/r6Qs3okZbus",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-02-09",
+  "duration": "00:30:19",
+  "thumbnail": "https://i.ytimg.com/vi/r6Qs3okZbus/maxresdefault.jpg",
+  "alt": "11th KPOP FESTIVAL 2019 IN SAPPORO (2019-02-09)",
+  "title": "11th KPOP FESTIVAL 2019 IN SAPPORO (2019-02-09)"
+},
+{
+  "link": "https://youtu.be/lVMrzeONk-s",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-04-21",
+  "duration": "00:20:29",
+  "thumbnail": "https://i.ytimg.com/vi/lVMrzeONk-s/maxresdefault.jpg",
+  "alt": "[의령 청소년 한마음 축제] 공연 직캠 (여자)아이들 (G)I-DLE (2019-04-21)",
+  "title": "[의령 청소년 한마음 축제] 공연 직캠 (여자)아이들 (G)I-DLE (2019-04-21)"
+},
+{
+  "link": "https://youtu.be/AXcpPS71f5Y",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-05",
+  "duration": "00:20:30",
+  "thumbnail": "https://i.ytimg.com/vi/AXcpPS71f5Y/maxresdefault.jpg",
+  "alt": "[의왕 철도축제] (여자)아이들 (G) I-DLE Fullcam Nocut (2019-05-05)",
+  "title": "[의왕 철도축제] (여자)아이들 (G) I-DLE Fullcam Nocut (2019-05-05)"
+},
+{
+  "link": "https://youtu.be/Lxwx2IwW0Kg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-05",
+  "duration": "00:20:32",
+  "thumbnail": "https://i.ytimg.com/vi/Lxwx2IwW0Kg/maxresdefault.jpg",
+  "alt": "[의왕 철도축제] 여자아이들 전체영상, Full Pictures, 의왕철도축제 (2019-05-05)",
+  "title": "[의왕 철도축제] 여자아이들 전체영상, Full Pictures, 의왕철도축제 (2019-05-05)"
+},
+{
+  "link": "https://youtu.be/T4vay2dAbyA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-17",
+  "duration": "00:18:26",
+  "thumbnail": "https://i.ytimg.com/vi/T4vay2dAbyA/maxresdefault.jpg",
+  "alt": "[서강대학교 축제] (G)I-DLE ((여자)아이들) 'Senorita' + '한(一)(HANN(Alone))' + 'MAZE' + 'LATATA' (2019-05-17)",
+  "title": "[서강대학교 축제] (G)I-DLE ((여자)아이들) 'Senorita' + '한(一)(HANN(Alone))' + 'MAZE' + 'LATATA' (2019-05-17)"
+},
+{
+  "link": "https://youtu.be/PtvZH0Zu35Y",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-13",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/PtvZH0Zu35Y/maxresdefault.jpg",
+  "alt": "[2019 방송통신위원회 방송대상 시상식 축하 공연] - 여자아이들 LATATA  (2019-05-13)",
+  "title": "[2019 방송통신위원회 방송대상 시상식 축하 공연] - 여자아이들 LATATA  (2019-05-13)"
+},
+{
+  "link": "https://youtu.be/aj1WQSNfwL0",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-06-18",
+  "duration": "00:12:33",
+  "thumbnail": "https://i.ytimg.com/vi/aj1WQSNfwL0/maxresdefault.jpg",
+  "alt": "[SBS러브FM 월드컵 공개방송 풀캠] 여자아이들 (G) I-DLE (LATATA + MAZE) (2018-06-18)",
+  "title": "[SBS러브FM 월드컵 공개방송 풀캠] 여자아이들 (G) I-DLE (LATATA + MAZE) (2018-06-18)"
+},
+{
+  "link": "https://youtu.be/D2p2htqV5EE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-16",
+  "duration": "00:13:18",
+  "thumbnail": "https://i.ytimg.com/vi/D2p2htqV5EE/maxresdefault.jpg",
+  "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LA TA TA) (2018-10-16)",
+  "title": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LA TA TA) (2018-10-16)"
+},
+{
+  "link": "https://youtu.be/jq2B4wS6ZOQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-12-02",
+  "duration": "00:03:35",
+  "thumbnail": "https://i.ytimg.com/vi/jq2B4wS6ZOQ/maxresdefault.jpg",
+  "alt": "[MBN HERO 콘서트-방송분] (여자)아이들 (G-IDLE) - HANN(Alone) (한(一)) (2018-12-02)",
+  "title": "[MBN HERO 콘서트-방송분] (여자)아이들 (G-IDLE) - HANN(Alone) (한(一)) (2018-12-02)"
+},
+{
+  "link": "https://youtu.be/L1X1IcFtdyg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-11-23",
+  "duration": "00:07:41",
+  "thumbnail": "https://i.ytimg.com/vi/L1X1IcFtdyg/maxresdefault.jpg",
+  "alt": "[MBN HERO 콘서트] (여자)아이들((G)I-DLE) - Full cam (한(一), LATATA) (2018-11-23)",
+  "title": "[MBN HERO 콘서트] (여자)아이들((G)I-DLE) - Full cam (한(一), LATATA) (2018-11-23)"
+},
+{
+  "link": "https://youtu.be/Ee1PWWxZH6M",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-12-21",
+  "duration": "00:29:15",
+  "thumbnail": "https://i.ytimg.com/vi/Ee1PWWxZH6M/maxresdefault.jpg",
+  "alt": "[타이난 크리스마스 콘서트] (여자)아이들 (G)I-DLE-台南耶誕晚會 Full Ver. in TAINAN (2019-12-21)",
+  "title": "[타이난 크리스마스 콘서트] (여자)아이들 (G)I-DLE-台南耶誕晚會 Full Ver. in TAINAN (2019-12-21)"
+},
+{
+  "link": "https://youtu.be/o0pL9ae-3dU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-10",
+  "duration": "00:14:17",
+  "thumbnail": "https://i.ytimg.com/vi/o0pL9ae-3dU/maxresdefault.jpg",
+  "alt": "고창 전라북도민체육대회 개막공연 - (여자)아이들 전체직캠 (2019-05-10)",
+  "title": "고창 전라북도민체육대회 개막공연 - (여자)아이들 전체직캠 (2019-05-10)"
+},
+{
+  "link": "https://youtu.be/uvIu-MMtRYg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-09",
+  "duration": "00:09:55",
+  "thumbnail": "https://i.ytimg.com/vi/uvIu-MMtRYg/maxresdefault.jpg",
+  "alt": "남원 춘향제 제89회 전국춘향선발대회 축하공연 - 아이들 / Senorita, LATATA (2019-05-09)",
+  "title": "남원 춘향제 제89회 전국춘향선발대회 축하공연 - 아이들 / Senorita, LATATA (2019-05-09)"
+},
+{
+  "link": "https://youtu.be/IWmbpekrdgM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-15",
+  "duration": "00:12:15",
+  "thumbnail": "https://i.ytimg.com/vi/IWmbpekrdgM/maxresdefault.jpg",
+  "alt": "경희공대 - 여자아이들 한+MAZE+LATATA+Senorita (2019-05-15)",
+  "title": "경희공대 -여자아이들 한+MAZE+LATATA+Senorita (2019-05-15)"
+},
+{
+  "link": "https://youtu.be/79gTEE8sSyU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-15",
+  "duration": "00:21:04",
+  "thumbnail": "https://i.ytimg.com/vi/79gTEE8sSyU/maxresdefault.jpg",
+  "alt": "[단국대학교] (여자)아이들((G)I-DLE) 고정 전체 캠 (Fixed Whole Cam) - Full Ver (2019-05-15)",
+  "title": "[단국대학교] (여자)아이들((G)I-DLE) 고정 전체 캠 (Fixed Whole Cam) - Full Ver (2019-05-15)"
+},
+
+{
+  "link": "https://youtu.be/9rA5tqTSyEA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-17",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/9rA5tqTSyEA/maxresdefault.jpg",
+  "alt": "광운대학교 (여자)아이들 (G)I-DLE :: 한 (2019-05-17)",
+  "title": "광운대학교 (여자)아이들 (G)I-DLE :: 한 (2019-05-17)"
+},
+
+{
+  "link": "https://youtu.be/-DfTpsPXGLk",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-17",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/-DfTpsPXGLk/maxresdefault.jpg",
+  "alt": "광운대학교 (여자)아이들 (G)I-DLE :: Senorita (2019-05-17)",
+  "title": "광운대학교 (여자)아이들 (G)I-DLE :: Senorita (2019-05-17)"
+},
+
+{
+  "link": "https://youtu.be/ytDSAIyn6WY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-17",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/ytDSAIyn6WY/maxresdefault.jpg",
+  "alt": "광운대학교 (여자)아이들 (G)I-DLE :: 라타타(LATATA) (2019-05-17)",
+  "title": "광운대학교 (여자)아이들 (G)I-DLE :: 라타타(LATATA) (2019-05-17)"
+},
+
+{
+  "link": "https://youtu.be/yXYlv6UJrHs",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-17",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/yXYlv6UJrHs/maxresdefault.jpg",
+  "alt": "광운대학교 (여자)아이들 (G)I-DLE :: MAZE (2019-05-17)",
+  "title": "광운대학교 (여자)아이들 (G)I-DLE :: MAZE (2019-05-17)"
+},
+{
+  "link": "https://youtu.be/KLfU9Wdwobc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-18",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/KLfU9Wdwobc/sddefault.jpg",
+  "alt": "드림콘서트2019 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 (2019-05-18)",
+  "title": "드림콘서트2019 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 (2019-05-18)"
+},
+{
+  "link": "https://youtu.be/KL_mKVw2uHY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-18",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/KL_mKVw2uHY/maxresdefault.jpg",
+  "alt": "드림콘서트2019 (G)I-DLE, Senorita [Dream Concert 2019, Fancam (2019-05-18)",
+  "title": "드림콘서트2019 (G)I-DLE, Senorita [Dream Concert 2019, Fancam  (2019-05-18)"
+},
+{
+  "link": "https://youtu.be/lIqd9jNVqUk",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-04-20",
+  "duration": "00:20:17",
+  "thumbnail": "https://i.ytimg.com/vi/lIqd9jNVqUk/maxresdefault.jpg",
+  "alt": "[함께 걷자 INCHEON FESTA] 여자아이들 (G) I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita) (2019-04-20)",
+  "title": "[함께 걷자 INCHEON FESTA] 여자아이들 (G) I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita) (2019-04-20)"
+},
+{
+  "link": "https://youtu.be/K9FLUx3LtVQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-22",
+  "duration": "00:19:04",
+  "thumbnail": "https://i.ytimg.com/vi/K9FLUx3LtVQ/sddefault.jpg",
+  "alt": "[동아방송대 대동제] (여자)아이들((G)I-DLE) Full Ver. (Senorita & HANN & MAZE & LATATA) (2019-05-22)",
+  "title": "[동아방송대 대동제 (여자)아이들((G)I-DLE) Full Ver. (Senorita & HANN & MAZE & LATATA) (2019-05-22)"
+},
+
+{
+  "link": "https://youtu.be/eKa-0pOmVdw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/eKa-0pOmVdw/maxresdefault.jpg",
+  "alt": "[한류 팝페스트](G)I-DLE - SENORITA | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트](G)I-DLE - SENORITA | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/_XeFWQ8X5YE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/_XeFWQ8X5YE/maxresdefault.jpg",
+  "alt": "[한류 팝페스트] (G)I-DLE - LATATA | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트] (G)I-DLE - LATATA | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/cfCfLBlRn-M",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:04:28",
+  "thumbnail": "https://i.ytimg.com/vi/cfCfLBlRn-M/maxresdefault.jpg",
+  "alt": "[한류 팝페스트] (G)I-DLE - HANN (ALONE) | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트] (G)I-DLE - HANN (ALONE) | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/Gm7u_pzxUOw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:04:28",
+  "thumbnail": "https://i.ytimg.com/vi/Gm7u_pzxUOw/maxresdefault.jpg",
+  "alt": "[한류 팝페스트] (G)I-DLE - BLOW YOUR MIND | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트] (G)I-DLE - BLOW YOUR MIND | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)"
+},
+{
+  "link": "https://youtu.be/wFEzKwYq2ag",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:03:52",
+  "thumbnail": "https://i.ytimg.com/vi/wFEzKwYq2ag/maxresdefault.jpg",
+  "alt": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR | HALLYUPOPFEST in Singapore 2019 - DAY 2 (2019-05-26)"
+},
+{
+  "link": "https://youtu.be/_QOhZBcDpRU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-26",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/_QOhZBcDpRU/maxresdefault.jpg",
+  "alt": "[한류 팝페스트] (G)I-DLE - MAZE | HALLYUPOPFEST in Singapore 2019 2019 - DAY 2 (2019-05-26)",
+  "title": "[한류 팝페스트] (G)I-DLE - MAZE | HALLYUPOPFEST in Singapore 2019 2019 - DAY 2 (2019-05-26)"
+},
+
+{
+  "link": "https://youtu.be/Gxg2o5UBVbQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-28",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/Gxg2o5UBVbQ/maxresdefault.jpg",
+  "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ Senorita 라이브 공연 (2019-05-28)",
+  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ Senorita 라이브 공연 (2019-05-28)"
+},
+
+{
+  "link": "https://youtu.be/VVT1b1eWCxo",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-28",
+  "duration": "00:03:35",
+  "thumbnail": "https://i.ytimg.com/vi/VVT1b1eWCxo/maxresdefault.jpg",
+  "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ 'Maze'  라이브 공연 (2019-05-28)",
+  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ 'Maze'  라이브 공연 (2019-05-28)"
+},
+
+{
+  "link": "https://youtu.be/oRglnJaBBwI",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-28",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/oRglnJaBBwI/maxresdefault.jpg",
+  "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ LATATA 라이브 공연 (2019-05-28)",
+  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ LATATA 라이브 공연 (2019-05-28)"
+},
+
+{
+  "link": "https://youtu.be/AhZZnxnArsU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-05-28",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/AhZZnxnArsU/maxresdefault.jpg",
+  "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ '한(一)(HANN(Alone))' 라이브 공연 (2019-05-28)",
+  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ '한(一)(HANN(Alone))' 라이브 공연 (2019-05-28)"
+},
+
+{
+  "link": "https://youtu.be/MJLaQ_IPbXc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:01",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/MJLaQ_IPbXc/maxresdefault.jpg",
+  "alt": "2019 K-pop Artist Festival '(G)IDLE - Senorita' ((여자)아이들 - Senorita, 2019 케이팝 아티스트 페스티벌) (2019-06-15)",
+  "title": "2019 K-pop Artist Festival '(G)IDLE - Senorita' ((여자)아이들 - Senorita, 2019 케이팝 아티스트 페스티벌) (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/AMZ7nED8iyE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:02",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/AMZ7nED8iyE/maxresdefault.jpg",
+  "alt": "K-POP Artist Festival (여자)아이들 - Senorita 2019 케이팝 아티스트 페스티벌 (2019-06-15)",
+  "title": "K-POP Artist Festival (여자)아이들 - Senorita 2019 케이팝 아티스트 페스티벌 (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/trvLZSystqc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:03",
+  "duration": "00:03:41",
+  "thumbnail": "https://i.ytimg.com/vi/trvLZSystqc/maxresdefault.jpg",
+  "alt": "K-POP Artist Festival (여자)아이들 - 한(一) 2019 케이팝 아티스트 페스티벌 (2019-06-15)",
+  "title": "K-POP Artist Festival (여자)아이들 - 한(一) 2019 케이팝 아티스트 페스티벌 (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/UaT269sT63k",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:04",
+  "duration": "00:01:29",
+  "thumbnail": "https://i.ytimg.com/vi/UaT269sT63k/maxresdefault.jpg",
+  "alt": "K-POP Artist Festival (여자)아이들 - ment 2019 케이팝 아티스트 페스티벌(2019-06-15)",
+  "title": "K-POP Artist Festival (여자)아이들 - ment 2019 케이팝 아티스트 페스티벌 (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/TTmZyc0TPbc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:05",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/TTmZyc0TPbc/maxresdefault.jpg",
+  "alt": "K-POP Artist Festival (여자)아이들 - Maze 2019 케이팝 아티스트 페스티벌(2019-06-15)",
+  "title": "K-POP Artist Festival (여자)아이들 - Maze 2019 케이팝 아티스트 페스티벌 (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/ttUZqyG-REM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-15T22:10:06",
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/ttUZqyG-REM/maxresdefault.jpg",
+  "alt": "K-POP Artist Festival (여자)아이들 - LATATA 2019 케이팝 아티스트 페스티벌 (2019-06-15)",
+  "title": "K-POP Artist Festival (여자)아이들 - LATATA 2019 케이팝 아티스트 페스티벌 (2019-06-15)"
+},
+
+{
+  "link": "https://youtu.be/XvJybJDQnTY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-09",
+  "duration": "00:01:22",
+  "thumbnail": "https://i.ytimg.com/vi/XvJybJDQnTY/maxresdefault.jpg",
+  "alt": "아시아모델어워즈 (G)I-DLE - NEW STAR AWARD(Singer) winner [Asia Model Awards, AMA] (2019-06-09)",
+  "title": "아시아모델어워즈 (G)I-DLE - NEW STAR AWARD(Singer) winner [Asia Model Awards, AMA] (2019-06-09)"
+},
+{
+  "link": "https://youtu.be/KbBdb9bEx_Q",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-06-09",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/KbBdb9bEx_Q/maxresdefault.jpg",
+  "alt": "아시아모델어워즈 (G)I-DLE - Senorita  |  (여자)아이들 - 세뇨리따 [Asia Model Awards, AMA] (2019-06-09)",
+  "title": "아시아모델어워즈 (G)I-DLE - Senorita  |  (여자)아이들 - 세뇨리따 [Asia Model Awards, AMA] (2019-06-09)"
+},
+{
+  "link": "https://youtu.be/V7TLsMTGtiI",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-08-23T22:10:01",
+  "duration": "00:14:06",
+  "thumbnail": "https://i.ytimg.com/vi/V7TLsMTGtiI/maxresdefault.jpg",
+  "alt": "[천안 흥타령 춤축제] 여자아이들 (G) I-DLE  Full Ver. (Uh-Oh + Senorita + LATATA) (2019-08-23)",
+  "title": "[천안 흥타령 춤축제] 여자아이들 (G) I-DLE Full Ver. (Uh-Oh + Senorita + LATATA) (2019-08-23)"
+},
+{
+  "link": "https://youtu.be/-oSAz0n1CeQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-08-23T22:10:02",
+  "duration": "00:03:41",
+  "thumbnail": "https://i.ytimg.com/vi/-oSAz0n1CeQ/maxresdefault.jpg",
+  "alt": "[소리바다 어워즈-블루카펫] (여자)아이들 ‘소리바다는 리얼…’ 센스만점 4행시 (SORIBADA BEST K-MUSIC AWARDS 2019) (2019-08-23)",
+  "title": "[소리바다 어워즈-블루카펫] (여자)아이들 ‘소리바다는 리얼…’ 센스만점 4행시 (SORIBADA BEST K-MUSIC AWARDS 2019) (2019-08-23)"
+},
+{
+  "link": "https://youtu.be/Kylswv4pCBY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-08-23T22:10:03",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/Kylswv4pCBY/sddefault.jpg",
+  "alt": "[소리바다 어워즈] (G)I-dle ((여자)아이들) - Uh-Oh  ( SORIBADA BEST K-MUSIC AWARDS 2019) (2019-08-23)",
+  "title": "[소리바다 어워즈] (G)I-dle ((여자)아이들) - Uh-Oh  ( SORIBADA BEST K-MUSIC AWARDS 2019) (2019-08-23)"
+},
+{
+  "link": "https://youtu.be/mlGm4mwzA3w",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/mlGm4mwzA3w/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( Senorita ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( Senorita ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/xH-CxDZ9fuo",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/xH-CxDZ9fuo/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( 한 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( 한 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/FEKVN8nM8_E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/FEKVN8nM8_E/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( Uh Oh ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( Uh Oh ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/-O2C2voZr4E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/-O2C2voZr4E/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( 토크 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( 토크 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/7p2Jxw1Qngw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:03:56",
+  "thumbnail": "https://i.ytimg.com/vi/7p2Jxw1Qngw/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( Latata ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( Latata ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/kTx6pL09Ugs",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-19",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/kTx6pL09Ugs/maxresdefault.jpg",
+  "alt": "여자아이들 G-IDLE ( 토크2 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)",
+  "title": "여자아이들 G-IDLE ( 토크2 ) 서울대학교 공대 축제 4K 직캠 Fancam (2019-09-19)"
+},
+
+{
+  "link": "https://youtu.be/SvPFq7HZiXM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-20",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/SvPFq7HZiXM/maxresdefault.jpg",
+  "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE '한 HANN' (2019-09-20)",
+  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE '한 HANN' (2019-09-20)"
+},
+
+{
+  "link": "https://youtu.be/B2_Gz_7KKDc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-20",
+  "duration": "00:03:39",
+  "thumbnail": "https://i.ytimg.com/vi/B2_Gz_7KKDc/maxresdefault.jpg",
+  "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Uh-Oh' (2019-09-20)",
+  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Uh-Oh' (2019-09-20)"
+},
+
+{
+  "link": "https://youtu.be/zLc-IhXa8Mo",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-20",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/zLc-IhXa8Mo/maxresdefault.jpg",
+  "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Senorita' (2019-09-20)",
+  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Senorita' (2019-09-20)"
+},
+
+{
+  "link": "https://youtu.be/pdvIU0jKAaM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-20",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/pdvIU0jKAaM/maxresdefault.jpg",
+  "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'LATATA' (2019-09-20)",
+  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'LATATA' (2019-09-20)"
+},
+{
+  "link": "https://youtu.be/N1YSkN7BQcM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-01-08",
+  "duration": "00:03:58",
+  "thumbnail": "https://i.ytimg.com/vi/N1YSkN7BQcM/maxresdefault.jpg",
+  "alt": "[가온차트 뮤직 어워즈] ITZY (있지) (여자)아이들 (G)I-DLE 친목 단체 사진 직캠 (2020-01-08)",
+  "title": "[가온차트 뮤직 어워즈] ITZY (있지) (여자)아이들 (G)I-DLE 친목 단체 사진 직캠 (2020-01-08)"
+},
+{
+  "link": "https://youtu.be/X_xvS7usduo",
+  "category": "Festival_Stage",
+  "member": "우기, 슈화",
+  "date": "2020-01-08",
+  "duration": "00:08:12",
+  "thumbnail": "https://i.ytimg.com/vi/X_xvS7usduo/maxresdefault.jpg",
+  "alt": "[가온차트 뮤직 어워즈] (여자)아이들 우기 슈화 물병 가지고 놀기 (2020-01-08)",
+  "title": "[가온차트 뮤직 어워즈] (여자)아이들 우기 슈화 물병 가지고 놀기 (2020-01-08)"
+},
+
+{
+  "link": "https://youtu.be/LmZ-HuMaqOY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-02",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/LmZ-HuMaqOY/maxresdefault.jpg",
+  "alt": "[성결대학교 축제] 아이들 Uh oh (2019-10-02)",
+  "title": "[성결대학교 축제] 아이들 Uh oh (2019-10-02)"
+},
+
+{
+  "link": "https://youtu.be/tbjI8gGpej4",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-02",
+  "duration": "00:03:00",
+  "thumbnail": "https://i.ytimg.com/vi/tbjI8gGpej4/maxresdefault.jpg",
+  "alt": "[성결대학교 축제] 아이들 세뇨리타 (2019-10-02)",
+  "title": "[성결대학교 축제] 아이들 세뇨리타 (2019-10-02)"
+},
+
+{
+  "link": "https://youtu.be/joOtTtxO6IY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-02",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/joOtTtxO6IY/maxresdefault.jpg",
+  "alt": "[성결대학교 축제] 아이들 라타타 (2019-10-02)",
+  "title": "[성결대학교 축제] 아이들 라타타 (2019-10-02)"
+},
+{
+  "link": "https://youtu.be/aSUhlqYsDFg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:19:18",
+  "thumbnail": "https://i.ytimg.com/vi/aSUhlqYsDFg/maxresdefault.jpg",
+  "alt": "[2019 인제군 군장병 한마음 대회] 여자아이들 FULL VER (2019-10-08)",
+  "title": "[2019 인제군 군장병 한마음 대회] 여자아이들 FULL VER (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/B9-wi_CP7gA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/B9-wi_CP7gA/maxresdefault.jpg",
+  "alt": "여자아이들 ( Latata ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( Latata ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/0A3d78AQV5o",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/0A3d78AQV5o/maxresdefault.jpg",
+  "alt": "여자아이들 ( UhOh ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( UhOh ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/J0z4IcK6zyQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:01:23",
+  "thumbnail": "https://i.ytimg.com/vi/J0z4IcK6zyQ/maxresdefault.jpg",
+  "alt": "여자아이들 ( 토크 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( 토크 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/ZoElkZRlxr4",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/ZoElkZRlxr4/maxresdefault.jpg",
+  "alt": "여자아이들 ( 한 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( 한 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/BWpVY1QkBNs",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/BWpVY1QkBNs/maxresdefault.jpg",
+  "alt": "여자아이들 ( Senorita ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( Senorita ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+
+{
+  "link": "https://youtu.be/-IZShLfC8bY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-10-08",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/-IZShLfC8bY/maxresdefault.jpg",
+  "alt": "여자아이들 ( 토크2 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)",
+  "title": "여자아이들 ( 토크2 ) 인제 군장병 한마음대회 4K 직캠 Fancam (2019-10-08)"
+},
+{
+  "link": "https://youtu.be/QrPojXXuYlY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-12-11",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/QrPojXXuYlY/maxresdefault.jpg",
+  "alt": "[동아스포츠대상] 0.75배속?! 음향사고 완벽 대처한 (여자)아이들 (G)I-DLE 'Uh-Oh' (2019-12-11)",
+  "title": "[동아스포츠대상] 0.75배속?! 음향사고 완벽 대처한 (여자)아이들 (G)I-DLE 'Uh-Oh' (2019-12-11)"
+},
+{
+  "link": "https://youtu.be/etXuuyLj0Jc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-01-08",
+  "duration": "00:06:31",
+  "thumbnail": "https://i.ytimg.com/vi/etXuuyLj0Jc/sddefault.jpg",
+  "alt": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020 (2020-01-08)",
+  "title": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020 (2020-01-08)"
+},
+{
+  "link": "https://youtu.be/mZvwhZYBLBk",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-10-31",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/mZvwhZYBLBk/maxresdefault.jpg",
+  "alt": "[KMDF 2020] (G)I-DLE - LATATA | 2020 코리아뮤직 드라이브 인 페스티벌 (2020-10-31)",
+  "title": "[KMDF 2020] (G)I-DLE - LATATA | 2020 코리아뮤직 드라이브 인 페스티벌 (2020-10-31)"
+},
+
+{
+  "link": "https://youtu.be/w2zRsjU2R70",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-10-30",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/w2zRsjU2R70/maxresdefault.jpg",
+  "alt": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - 덤디덤디(DUMDi DUMDi) | 201129방송 (2020-10-30)",
+  "title": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - 덤디덤디(DUMDi DUMDi) | 201129방송 (2020-10-30)"
+},
+
+{
+  "link": "https://youtu.be/fhgIbuy_OQQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-10-30",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/fhgIbuy_OQQ/maxresdefault.jpg",
+  "alt": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - Uh-Oh | 201129방송 (2020-10-30)",
+  "title": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - Uh-Oh | 201129방송 (2020-10-30)"
+},
+{
+  "link": "https://youtu.be/Z_PTvR25eUE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-11-22",
+  "duration": "00:18:21",
+  "thumbnail": "https://i.ytimg.com/vi/Z_PTvR25eUE/maxresdefault.jpg",
+  "alt": "[2020 KCF] (G)I-DLE - Q&A TALK [2020 K-COMMUNITY FESTIVAL] (2020-11-22)",
+  "title": "[2020 KCF] (G)I-DLE - Q&A TALK [2020 K-COMMUNITY FESTIVAL] (2020-11-22)"
+},
+
+{
+  "link": "https://youtu.be/DiLEn-hRb5E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-11-22",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/DiLEn-hRb5E/maxresdefault.jpg",
+  "alt": "[2020 KCF] (G)I-DLE_HANN (Alone) (한(一)) [2020 K-COMMUNITY FESTIVAL] (2020-11-22)",
+  "title": "[2020 KCF] (G)I-DLE_HANN (Alone) (한(一)) [2020 K-COMMUNITY FESTIVAL] (2020-11-22)"
+},
+
+{
+  "link": "https://youtu.be/P5EvTUZCDzw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-11-22",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/P5EvTUZCDzw/maxresdefault.jpg",
+  "alt": "[2020 KCF] (G)I-DLE_DUMDi DUMDi (덤디덤디) [2020 K-COMMUNITY FESTIVAL] (2020-11-22)",
+  "title": "[2020 KCF] (G)I-DLE_DUMDi DUMDi (덤디덤디) [2020 K-COMMUNITY FESTIVAL] (2020-11-22)"
+},
+
+{
+  "link": "https://youtu.be/BclGBsi4R3s",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-11-22",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/BclGBsi4R3s/maxresdefault.jpg",
+  "alt": "[2020 KCF] (G)I-DLE_LATATA [2020 K-COMMUNITY FESTIVAL] (2020-11-22)",
+  "title": "[2020 KCF] (G)I-DLE_LATATA [2020 K-COMMUNITY FESTIVAL] (2020-11-22)"
+},
+{
+  "link": "https://youtu.be/E9OiyABNmKo",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-04-30",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/E9OiyABNmKo/maxresdefault.jpg",
+  "alt": "(여자)아이들 - 'TOMBOY' 마이크 떨어진 우기 4K Cam #잠실야구장 #LG트윈스 (2023-04-30)",
+  "title": "(여자)아이들 - 'TOMBOY' 마이크 떨어진 우기 4K Cam #잠실야구장 #LG트윈스 (2023-04-30)"
+},
+{
+  "link": "https://youtu.be/9ssS4ubfeOE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-06-09",
+  "duration": "00:34:38",
+  "thumbnail": "https://i.ytimg.com/vi/9ssS4ubfeOE/sddefault.jpg",
+  "alt": "음악중심 미니팬미팅- (여자)아이들 (G)I-DLE Mini Fanmeeting(FULL) @상암 물빛공원 (2018-06-09)",
+  "title": "음악중심 미니팬미팅- (여자)아이들 (G)I-DLE Mini Fanmeeting(FULL) @상암 물빛공원 (2018-06-09)"
+},
+{
+  "link": "https://youtu.be/dRYkKNmAsRI",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-03-02",
+  "duration": "00:15:52",
+  "thumbnail": "https://i.ytimg.com/vi/dRYkKNmAsRI/maxresdefault.jpg",
+  "alt": "음악중심 미니팬미팅 직캠- 여자아이들 (G)I-DLE ( 질문응답 ) (2019-03-02)",
+  "title": "음악중심 미니팬미팅 직캠- 여자아이들 (G)I-DLE ( 질문응답 ) (2019-03-02)"
+},
+{
+  "link": "https://youtu.be/mgCBoa_P2vM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2022-10-22",
+  "duration": "00:10:36",
+  "thumbnail": "https://i.ytimg.com/vi/mgCBoa_P2vM/maxresdefault.jpg",
+  "alt": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE (2022-10-22)",
+  "title": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE (2022-10-22)"
+},
+{
+  "link": "https://youtu.be/i5qaHBWjA6E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-05-20",
+  "duration": "00:30:24",
+  "thumbnail": "https://i.ytimg.com/vi/i5qaHBWjA6E/maxresdefault.jpg",
+  "alt": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE (2023-05-20)",
+  "title": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE (2023-05-20)"
+},
+{
+  "link": "https://youtu.be/cUQgZ9VY90k",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-02-03",
+  "duration": "00:33:06",
+  "thumbnail": "https://i.ytimg.com/vi/cUQgZ9VY90k/maxresdefault.jpg",
+  "alt": "음악중심 미니팬미팅 직캠- (여자)아이들 (2024-02-03)",
+  "title": "음악중심 미니팬미팅 직캠- (여자)아이들 (2024-02-03)"
+},
+{
+  "link": "https://youtu.be/P7vUYeSpDuw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2025-05-24",
+  "duration": "00:30:46",
+  "thumbnail": "https://i.ytimg.com/vi/P7vUYeSpDuw/maxresdefault.jpg",
+  "alt": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam) (2025-05-24)",
+  "title": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam) (2025-05-24)"
 }
+
 
 
 
