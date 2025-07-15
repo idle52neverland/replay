@@ -1763,8 +1763,8 @@ const festivalStageCards = [
   "date": "2025-07-12",
   "duration": "00:35:12",
   "thumbnail": "https://i.ytimg.com/vi/UjAkAAgo6l4/maxresdefault.jpg",
-  "alt": "[풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)",
-  "title": "[풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)"
+  "alt": "[반얀트리 풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)",
+  "title": "[반얀트리 풀파티] UPLOUNGE CLUB : POOL PARTY IN BANYANTREE - 소연 10곡 (2025-07-12)"
 }
 
 
