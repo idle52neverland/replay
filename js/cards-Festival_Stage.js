@@ -663,7 +663,96 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
   "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)",
   "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)"
+},
+  
+{
+  "link": "https://youtu.be/RX6r7MDAnfU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:01",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/RX6r7MDAnfU/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들Latata SMWU Sbs방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들Latata SMWU Sbs방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/nuYPCVCGgfA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:02",
+  "duration": "00:01:58",
+  "thumbnail": "https://i.ytimg.com/vi/nuYPCVCGgfA/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 무대 인사 SMWU SBS방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 무대 인사 SMWU SBS방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/ZxKaTuoxxWk",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:03",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/ZxKaTuoxxWk/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 MAZE SMWU SBS 방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 MAZE SMWU SBS 방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/tIVWDu2_C-8",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:04",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/tIVWDu2_C-8/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 Light my body up (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 Light my body up (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/5iW7_krya9c",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:05",
+  "duration": "00:06:05",
+  "thumbnail": "https://i.ytimg.com/vi/5iW7_krya9c/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 토크1 SMWU 방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 토크1 SMWU 방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/ebSB8F_GFh4",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:06",
+  "duration": "00:11:00",
+  "thumbnail": "https://i.ytimg.com/vi/ebSB8F_GFh4/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 토크2 SMWU SBS 방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 토크2 SMWU SBS 방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/lKnPrWy8X4E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:07",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/lKnPrWy8X4E/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 한(—) SMWU SBS 방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 한(—) SMWU SBS 방송국 축제 (2018-10-02)"
+},
+
+{
+  "link": "https://youtu.be/b1MENuubAqI",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-02T22:00:08",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/b1MENuubAqI/maxresdefault.jpg",
+  "alt": "[숙명여대 방송제] 여자아이들 마지막 인사 SMWU SBS 방송국 축제 (2018-10-02)",
+  "title": "[숙명여대 방송제] 여자아이들 마지막 인사 SMWU SBS 방송국 축제 (2018-10-02)"
 }
+
 
 
 
