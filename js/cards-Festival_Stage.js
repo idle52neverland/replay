@@ -635,6 +635,36 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZJEVy7UjFE0/maxresdefault.jpg",
   "alt": "[아주대 축제] i-dle (아이들) - ‘Good Thing + 퀸카 Queencard + TOMBOY + 아딱질’ 직캠 (2025-05-27)",
   "title": "[아주대 축제] i-dle (아이들) - ‘Good Thing + 퀸카 Queencard + TOMBOY + 아딱질’ 직캠 (2025-05-27)"
+},
+    {
+  "link": "https://youtu.be/qPNKaK4_9oc",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2022-06-26",
+  "duration": "00:23:03",
+  "thumbnail": "https://i.ytimg.com/vi/qPNKaK4_9oc/maxresdefault.jpg",
+  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)",
+  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE (2022-06-26)"
+},
+{
+  "link": "https://youtu.be/LQpH9ndMex4",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-11-18",
+  "duration": "00:21:11",
+  "thumbnail": "https://i.ytimg.com/vi/LQpH9ndMex4/maxresdefault.jpg",
+  "alt": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)",
+  "title": "(G)I-dle | Worlds 2023 FAN FEST 라이브 콘서트(LCK 라이엇뮤직페스티벌 광화문) (2023-11-18)"
+},
+{
+  "link": "https://youtu.be/9WcaA4JeziQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2022-01-17",
+  "duration": "00:20:30",
+  "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
+  "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)",
+  "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI) (2022-01-17)"
 }
 
 
