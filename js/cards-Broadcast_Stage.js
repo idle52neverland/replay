@@ -9167,7 +9167,27 @@ const broadcastStageCards = [
     "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
     "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
     "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
-  }
+  },
+    {
+  "link": "https://youtu.be/vSBqBJgSEgA",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-11-06",
+  "duration": "00:04:13",
+  "thumbnail": "https://i.ytimg.com/vi/vSBqBJgSEgA/maxresdefault.jpg",
+  "alt": "[2018 MGA] RED CARPET (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)",
+  "title": "[2018 MG] RED CARPET (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)"
+},
+{
+  "link": "https://youtu.be/80Fm2EMNH0M",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-11-06",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/80Fm2EMNH0M/maxresdefault.jpg",
+  "alt": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)",
+  "title": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)"
+}
 
 
 
