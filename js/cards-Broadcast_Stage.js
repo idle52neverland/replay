@@ -9273,6 +9273,16 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/VHpCo5vzkkw/maxresdefault.jpg",
   "alt": "[KCON NY 2019] 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)",
   "title": "[KCON NY 2019 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)"
+},
+{
+  "link": "https://youtu.be/KZdRmh62Gsc",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2023-04-10",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/KZdRmh62Gsc/maxresdefault.jpg",
+  "alt": "[PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬 | KCON 2023 THAILAND (2023-04-10)",
+  "title": "[PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬 | KCON 2023 THAILAND (2023-04-10)"
 }
 
 
