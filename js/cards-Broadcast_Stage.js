@@ -9139,8 +9139,8 @@ const broadcastStageCards = [
     "date": "2019-07-07",
     "duration": "00:03:53",
     "thumbnail": "https://i.ytimg.com/vi/zFL0xGZ9RWc/maxresdefault.jpg",
-    "alt": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725방송 (2019-07-07)",
-    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725방송 (2019-07-07)"
+    "alt": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725 방송 (2019-07-07)",
+    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725 방송 (2019-07-07)"
   },
   {
     "link": "https://youtu.be/7ywDxAFq9gw",
@@ -9149,8 +9149,8 @@ const broadcastStageCards = [
     "date": "2019-09-29",
     "duration": "00:00:39",
     "thumbnail": "https://i.ytimg.com/vi/7ywDxAFq9gw/maxresdefault.jpg",
-    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017방송 (2019-09-29)",
-    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017방송 (2019-09-29)"
+    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017 방송 (2019-09-29)",
+    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017 방송 (2019-09-29)"
   },
     {
   "link": "https://youtu.be/NC_7gUfJJIw",
@@ -9159,8 +9159,8 @@ const broadcastStageCards = [
   "date": "2019-09-29",
   "duration": "00:04:01",
   "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
-  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)",
-  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)"
+  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 191017 방송 (2019-09-29)",
+  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 191017 방송 (2019-09-29)"
 },
  {
     "link": "https://youtu.be/dEjueKqb_II",
@@ -9179,7 +9179,7 @@ const broadcastStageCards = [
     "date": "2023-04-06",
     "duration": "00:03:00",
     "thumbnail": "https://i.ytimg.com/vi/cXkw8DqJO4c/maxresdefault.jpg",
-    "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) | Mnet 방송 (2023-04-06)",
+    "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (2023-04-06)",
     "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (2023-04-06)"
   },
 {
@@ -9201,8 +9201,27 @@ const broadcastStageCards = [
     "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
     "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
     "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
-  }  
-
+  },
+    {
+  "link": "https://youtu.be/gW8bekyLUS0",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/gW8bekyLUS0/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)"
+},
+{
+  "link": "https://youtu.be/VHpCo5vzkkw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-07-07",
+  "duration": "00:11:48",
+  "thumbnail": "https://i.ytimg.com/vi/VHpCo5vzkkw/maxresdefault.jpg",
+  "alt": "[KCON NY 2019] 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)",
+  "title": "[KCON NY 2019 여자아이들  Uh Oh + HANN + LATATA + Senorita (2019-07-07)"
+},
 
 
 ];
