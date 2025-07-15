@@ -269,16 +269,7 @@ const broadcastStageCards = [
     "alt": "《DREAMLIKE》 (G)I-DLE((여자)아이들) - LATATA @인기가요 Inkigayo (2018-06-24)",
     "title": "《DREAMLIKE》 (G)I-DLE((여자)아이들) - LATATA [인기가요/Inkigayo] (2018-06-24)"
   },
-  {
-    "link": "https://youtu.be/0Ckkwip13mc",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2018-07-18",
-    "duration": "00:03:20",
-    "thumbnail": "https://i.ytimg.com/vi/0Ckkwip13mc/sddefault.jpg",
-    "alt": "Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)",
-    "title": "Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)"
-  },
+
   {
     "link": "https://youtu.be/LFRRQk7sdWs",
     "category": "Broadcast_Stage",
@@ -509,26 +500,7 @@ const broadcastStageCards = [
     "alt": "《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) @인기가요 Inkigayo (2018-09-09)",
     "title": "《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) [인기가요/Inkigayo] (2018-09-09)"
   },
-  {
-    "link": "https://youtu.be/OHIobUitIOg",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2018-10-11",
-    "duration": "00:02:10",
-    "thumbnail": "https://i.ytimg.com/vi/OHIobUitIOg/maxresdefault.jpg",
-    "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN EP.591 (2018-10-11)",
-    "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x EP.591 [엠카운트다운/MCOUNTDOWN] (2018-10-11)"
-  },
-  {
-    "link": "https://youtu.be/VwsHCcpP9j8",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2018-10-11",
-    "duration": "00:03:30",
-    "thumbnail": "https://i.ytimg.com/vi/VwsHCcpP9j8/maxresdefault.jpg",
-    "alt": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN EP.591 (2018-10-11)",
-    "title": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x EP.591 [엠카운트다운/MCOUNTDOWN] (2018-10-11)"
-  },
+  
   {
     "link": "https://youtu.be/HwwUTemjpK0",
     "category": "Broadcast_Stage",
@@ -1219,16 +1191,7 @@ const broadcastStageCards = [
     "alt": "[안방1열 직캠4K] (여자)아이들 'Uh-Oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)ㅣ@SBS Inkigayo_ (2019-07-21)",
     "title": "[안방1열 직캠4K] (여자)아이들 'Uh-Oh' 풀캠 ((G)I-DLE 'Uh-Oh' FanCam)ㅣ [인기가요/Inkigayo] (2019-07-21)"
   },
-  {
-    "link": "https://youtu.be/JY-Ai-MnhMk",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2019-07-25",
-    "duration": "00:03:55",
-    "thumbnail": "https://i.ytimg.com/vi/JY-Ai-MnhMk/maxresdefault.jpg",
-    "alt": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN (2019-07-25)",
-    "title": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × [엠카운트다운/MCOUNTDOWN] (2019-07-25)"
-  },
+  
   {
     "link": "https://youtu.be/YnUYRp_urZI",
     "category": "Broadcast_Stage",
@@ -1239,18 +1202,7 @@ const broadcastStageCards = [
     "alt": "(여자)아이들 Best Hit Song \"Uh-Oh\" l 스테이지 믹스 (Stage Mix) (2019-08-19)",
     "title": "(여자)아이들 Best Hit Song \"Uh-Oh\" l 스테이지 믹스 (Stage Mix) (2019-08-19)"
   },
-  {
-    "link": "https://youtu.be/NC_7gUfJJIw",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2019-10-17",
-    "duration": "00:04:01",
-    "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
-    "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN (2019-10-17)",
-    "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × [엠카운트다운/MCOUNTDOWN] (2019-10-17)"
-  },
-
-  {
+   {
     "link": "https://youtu.be/UJJM3xlxiV8",
     "category": "Broadcast_Stage",
     "member": "아이들",
@@ -2780,36 +2732,7 @@ const broadcastStageCards = [
     "alt": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN (2020-08-24)",
     "title": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! [엠카운트다운/MCOUNTDOWN] (2020-08-24)"
   },
-  {
-    "link": "https://youtu.be/zFL0xGZ9RWc",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2019-07-07",
-    "duration": "00:03:53",
-    "thumbnail": "https://i.ytimg.com/vi/zFL0xGZ9RWc/maxresdefault.jpg",
-    "alt": "[KCON 2019 NY] (G)I-DLE Uh Oh | 2019.07.25방송 (2019-07-07)",
-    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh | 2019.07.25방송 (2019-07-07)"
-  },
-  {
-    "link": "https://youtu.be/7ywDxAFq9gw",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2019-09-29",
-    "duration": "00:00:39",
-    "thumbnail": "https://i.ytimg.com/vi/7ywDxAFq9gw/maxresdefault.jpg",
-    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 2019.10.17방송 (2019-09-29)",
-    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 2019.10.17방송 (2019-09-29)"
-  },
-    {
-  "link": "https://youtu.be/NC_7gUfJJIw",
-  "category": "Festival_Stage",
-  "member": "아이들",
-  "date": "2019-09-29",
-  "duration": "00:04:01",
-  "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
-  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)",
-  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)"
-}
+  
   {
     "link": "https://youtu.be/jvvxVEhxPBk",
     "category": "Broadcast_Stage",
@@ -6830,26 +6753,7 @@ const broadcastStageCards = [
     "alt": "[(G)I-DLE - Nxde] 2023, Year of the Rabbit Special | #엠카운트다운 EP.781 (2023-01-26)",
     "title": "[(G)I-DLE - Nxde] 2023, Year of the Rabbit Special # EP.781 [엠카운트다운/MCOUNTDOWN] (2023-01-26)"
   },
-  {
-    "link": "https://youtu.be/dEjueKqb_II",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2023-03-23",
-    "duration": "00:02:57",
-    "thumbnail": "https://i.ytimg.com/vi/dEjueKqb_II/maxresdefault.jpg",
-    "alt": "🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 | KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)",
-    "title": "🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)"
-  },
-  {
-    "link": "https://youtu.be/cXkw8DqJO4c",
-    "category": "Broadcast_Stage",
-    "member": "민니",
-    "date": "2023-04-06",
-    "duration": "00:03:00",
-    "thumbnail": "https://i.ytimg.com/vi/cXkw8DqJO4c/maxresdefault.jpg",
-    "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) | Mnet 방송 (2023-04-06)",
-    "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (2023-04-06)"
-  },
+ 
   {
     "link": "https://youtu.be/T-E9wr2iI_Q",
     "category": "Broadcast_Stage",
@@ -9159,26 +9063,6 @@ const broadcastStageCards = [
   },
 
   {
-    "link": "https://youtu.be/SYUu0BF7aAk",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2023-08-22",
-    "duration": "00:01:43",
-    "thumbnail": "https://i.ytimg.com/vi/SYUu0BF7aAk/maxresdefault.jpg",
-    "alt": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)",
-    "title": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)"
-  },
-  {
-    "link": "https://youtu.be/M4-ufJ_iYOg",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2023-09-28",
-    "duration": "00:03:26",
-    "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
-    "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
-    "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
-  },
-    {
   "link": "https://youtu.be/vSBqBJgSEgA",
   "category": "Broadcast_Stage",
   "member": "아이들",
@@ -9197,7 +9081,127 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/80Fm2EMNH0M/maxresdefault.jpg",
   "alt": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)",
   "title": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드 (2018-11-06)"
-}
+},
+ {
+    "link": "https://youtu.be/0Ckkwip13mc",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2018-07-18",
+    "duration": "00:03:20",
+    "thumbnail": "https://i.ytimg.com/vi/0Ckkwip13mc/sddefault.jpg",
+    "alt": "Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)",
+    "title": "Maze - (여자)아이들 ((G)I-DLE) [KCON 2018 Taipei] (2018-07-18)"
+  },
+{
+    "link": "https://youtu.be/OHIobUitIOg",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2018-10-11",
+    "duration": "00:02:10",
+    "thumbnail": "https://i.ytimg.com/vi/OHIobUitIOg/maxresdefault.jpg",
+    "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN EP.591 (2018-10-11)",
+    "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x EP.591 [엠카운트다운/MCOUNTDOWN] (2018-10-11)"
+  },
+  {
+    "link": "https://youtu.be/VwsHCcpP9j8",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2018-10-11",
+    "duration": "00:03:30",
+    "thumbnail": "https://i.ytimg.com/vi/VwsHCcpP9j8/maxresdefault.jpg",
+    "alt": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN EP.591 (2018-10-11)",
+    "title": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x EP.591 [엠카운트다운/MCOUNTDOWN] (2018-10-11)"
+  },
+{
+    "link": "https://youtu.be/JY-Ai-MnhMk",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2019-07-25",
+    "duration": "00:03:55",
+    "thumbnail": "https://i.ytimg.com/vi/JY-Ai-MnhMk/maxresdefault.jpg",
+    "alt": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN (2019-07-25)",
+    "title": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × [엠카운트다운/MCOUNTDOWN] (2019-07-25)"
+  },
+ {
+    "link": "https://youtu.be/NC_7gUfJJIw",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2019-10-17",
+    "duration": "00:04:01",
+    "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
+    "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN (2019-10-17)",
+    "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × [엠카운트다운/MCOUNTDOWN] (2019-10-17)"
+  },
+{
+    "link": "https://youtu.be/zFL0xGZ9RWc",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2019-07-07",
+    "duration": "00:03:53",
+    "thumbnail": "https://i.ytimg.com/vi/zFL0xGZ9RWc/maxresdefault.jpg",
+    "alt": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725방송 (2019-07-07)",
+    "title": "[KCON 2019 NY] (G)I-DLE Uh Oh | 190725방송 (2019-07-07)"
+  },
+  {
+    "link": "https://youtu.be/7ywDxAFq9gw",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2019-09-29",
+    "duration": "00:00:39",
+    "thumbnail": "https://i.ytimg.com/vi/7ywDxAFq9gw/maxresdefault.jpg",
+    "alt": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017방송 (2019-09-29)",
+    "title": "[KCON 2019 THAILAND] SOYEON ((G)I-DLE) Dollar 191017방송 (2019-09-29)"
+  },
+    {
+  "link": "https://youtu.be/NC_7gUfJJIw",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-09-29",
+  "duration": "00:04:01",
+  "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
+  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)",
+  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN 2019.10.17방송 (2019-09-29)"
+},
+ {
+    "link": "https://youtu.be/dEjueKqb_II",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2023-03-23",
+    "duration": "00:02:57",
+    "thumbnail": "https://i.ytimg.com/vi/dEjueKqb_II/maxresdefault.jpg",
+    "alt": "🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 | KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)",
+    "title": "🧡 POPPIA - (G)I-DLE ((여자)아이들) Full ver. 💚 KCON 2023 THAILAND SIGNATURE SONG (2023-03-23)"
+  },
+  {
+    "link": "https://youtu.be/cXkw8DqJO4c",
+    "category": "Broadcast_Stage",
+    "member": "민니",
+    "date": "2023-04-06",
+    "duration": "00:03:00",
+    "thumbnail": "https://i.ytimg.com/vi/cXkw8DqJO4c/maxresdefault.jpg",
+    "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) | Mnet 방송 (2023-04-06)",
+    "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (2023-04-06)"
+  },
+{
+    "link": "https://youtu.be/SYUu0BF7aAk",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2023-08-22",
+    "duration": "00:01:43",
+    "thumbnail": "https://i.ytimg.com/vi/SYUu0BF7aAk/maxresdefault.jpg",
+    "alt": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)",
+    "title": "(G)I-DLE ((여자)아이들) 's 1min. ⏱❤️ | KCON LA 2023 (2023-08-22)"
+  },
+ {
+    "link": "https://youtu.be/M4-ufJ_iYOg",
+    "category": "Broadcast_Stage",
+    "member": "아이들",
+    "date": "2023-09-28",
+    "duration": "00:03:26",
+    "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
+    "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
+    "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
+  }  
 
 
 
