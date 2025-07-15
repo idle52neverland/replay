@@ -510,16 +510,6 @@ const broadcastStageCards = [
     "title": "《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一)) [인기가요/Inkigayo] (2018-09-09)"
   },
   {
-    "link": "https://youtu.be/EQ3c6jYcMz0",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2018-09-15",
-    "duration": "00:01:38",
-    "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
-    "alt": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover) DMC Festival 2018 (2018-09-15)",
-    "title": "[Korean Music Wave] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover) DMC Festival 2018 (2018-09-15)"
-  },
-  {
     "link": "https://youtu.be/OHIobUitIOg",
     "category": "Broadcast_Stage",
     "member": "아이들",
