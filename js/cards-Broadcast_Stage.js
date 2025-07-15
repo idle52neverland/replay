@@ -6507,21 +6507,51 @@ const broadcastStageCards = [
     "link": "https://youtu.be/KdryynyDPc8",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2022-11-27",
+    "date": "2022-11-26",
     "duration": "00:01:12",
     "thumbnail": "https://i.ytimg.com/vi/KdryynyDPc8/maxresdefault.jpg",
-    "alt": "[MMA2022 | 수상소감] TOP10 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-27)",
-    "title": "[MMA2022 수상소감] TOP10 - (여자)아이들 #gidle #여자아이들 #MMA2022 (2022-11-27)"
+    "alt": "[MMA2022 | 수상소감] TOP10 - (여자)아이들 | #gidle #여자아이들 #MMA2022 (2022-11-26)",
+    "title": "[MMA2022 수상소감] TOP10 - (여자)아이들 #gidle #여자아이들 #MMA2022 (2022-11-26)"
   },
   {
     "link": "https://youtu.be/ABZYhlFir1s",
     "category": "Broadcast_Stage",
     "member": "아이들",
-    "date": "2022-11-28",
+    "date": "2022-11-26",
     "duration": "00:05:32",
     "thumbnail": "https://i.ytimg.com/vi/ABZYhlFir1s/maxresdefault.jpg",
-    "alt": "[MMA2022 | 축하공연] (여자)아이들 - Intro + Nxde | #gidle #여자아이들 (2022-11-28)",
-    "title": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde #gidle #여자아이들 (2022-11-28)"
+    "alt": "[MMA2022 | 축하공연] (여자)아이들 - Intro + Nxde #gidle #여자아이들 (2022-11-26)",
+    "title": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde #gidle #여자아이들 (2022-11-26)"
+  },
+    {
+  "link": "https://youtu.be/KTlsmt5Q2IQ",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2022-11-26",
+  "duration": "00:12:27",
+  "thumbnail": "https://i.ytimg.com/vi/KTlsmt5Q2IQ/maxresdefault.jpg",
+  "alt": "[MMA2022] (여자)아이들((G)I-DLE) 'Nxde + Change(VCR) + TOMBOY' @Melon Music Awards (2022-11-26)",
+  "title": "[MMA2022] (여자)아이들((G)I-DLE) 'Nxde + Change(VCR) + TOMBOY' @Melon Music Awards (2022-11-26)"
+},
+  {
+    "link": "https://youtu.be/pFnu1BjAuME",
+    "category": "Media_Content",
+    "member": "아이들",
+    "date": "2022-11-26",
+    "duration": "00:01:25",
+    "thumbnail": "https://i.ytimg.com/vi/pFnu1BjAuME/sddefault.jpg",
+    "alt": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 #gidle #여자아이들 #MMA2022 (2022-11-26)",
+    "title": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 #gidle #여자아이들 #MMA2022 (2022-11-26)"
+  },
+  {
+    "link": "https://youtu.be/KWCmFH77HF8",
+    "category": "Media_Content",
+    "member": "아이들",
+    "date": "2022-11-26",
+    "duration": "00:03:02",
+    "thumbnail": "https://i.ytimg.com/vi/KWCmFH77HF8/sddefault.jpg",
+    "alt": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022 (2022-11-26)",
+    "title": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022 (2022-11-26)"
   },
   {
     "link": "https://youtu.be/Tu9ujQbwxc0",
