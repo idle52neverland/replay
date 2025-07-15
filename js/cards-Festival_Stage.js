@@ -225,9 +225,9 @@ const festivalStageCards = [
   "member": "아이들",
   "date": "2022-10-05",
   "duration": "00:23:59",
-  "thumbnail": "https://i.ytimg.com/vi/h08lzfOb3PA/maxresdefault.jpg",
-  "alt": "[명지대학교 자연캠] (G)I-DLE (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY (2022-10-05)",
-  "title": "[명지대학교 자연캠] (G)I-DLE (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY (2022-10-05)"
+  "thumbnail": "https://i.ytimg.com/vi/BNwOea2PiPc/maxresdefault.jpg",
+  "alt": "[명지대학교 자연캠] (여자)아이들 "LION, LATATA, MY BAG, POP/STARS, TOMBOY" 직캠(Fancam) [4K 60p] (2022-10-05)",
+  "title": "[명지대학교 자연캠] (여자)아이들 "LION, LATATA, MY BAG, POP/STARS, TOMBOY" 직캠(Fancam) [4K 60p] (2022-10-05)"
 },
 
 {
@@ -476,7 +476,7 @@ const festivalStageCards = [
   "link": "https://youtu.be/kdvFCt44Iiw",
   "category": "Festival_Stage",
   "member": "아이들",
-  "date": "2023-12-12",
+  "date": "2023-12-05",
   "duration": "00:08:12",
   "thumbnail": "https://i.ytimg.com/vi/kdvFCt44Iiw/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2 (2023-12-12)",
