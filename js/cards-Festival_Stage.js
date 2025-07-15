@@ -817,7 +817,74 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/X8BHzcPbWK4/maxresdefault.jpg",
   "alt": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
   "title": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+  
+{
+  "link": "https://youtu.be/kRlDzBqFWpE",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:01",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/kRlDzBqFWpE/maxresdefault.jpg",
+  "alt": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+
+{
+  "link": "https://youtu.be/rw-Xf2wjhaQ",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:02",
+  "duration": "00:02:24",
+  "thumbnail": "https://i.ytimg.com/vi/rw-Xf2wjhaQ/maxresdefault.jpg",
+  "alt": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+
+{
+  "link": "https://youtu.be/Uvz9X0tlK6U",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:03",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/Uvz9X0tlK6U/maxresdefault.jpg",
+  "alt": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+
+{
+  "link": "https://youtu.be/1cLfhypo7xU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:04",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/1cLfhypo7xU/maxresdefault.jpg",
+  "alt": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+
+{
+  "link": "https://youtu.be/9mSiSmIczWA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:05",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/9mSiSmIczWA/maxresdefault.jpg",
+  "alt": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
+},
+
+{
+  "link": "https://youtu.be/X8BHzcPbWK4",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2018-10-05T22:10:06",
+  "duration": "00:02:27",
+  "thumbnail": "https://i.ytimg.com/vi/X8BHzcPbWK4/maxresdefault.jpg",
+  "alt": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)",
+  "title": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K (2018-10-05)"
 }
+
 
 
 
