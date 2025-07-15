@@ -12769,8 +12769,17 @@ const mediaContentCards = [
     "thumbnail": "https://i.ytimg.com/vi/x4DgmecydGY/maxresdefault.jpg",
     "alt": "언니 진짜 후회 안하게 해줄게요. l 슈화, 유연 l 어떡행 ep.2 (2025-07-10)",
     "title": "언니 진짜 후회 안하게 해줄게요. l 슈화, 유연 l 어떡행 ep.2 (2025-07-10)"
-  }
-
+  },
+{
+  "link": "https://youtu.be/CtvPRlUR40g",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-07-13",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/CtvPRlUR40g/maxresdefault.jpg",
+  "alt": "[2:53~ 우기] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE",
+  "title": "[2:53~ 우기] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE"
+}
 
 
 ];
