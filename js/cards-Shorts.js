@@ -12549,7 +12549,272 @@ const shortsCards = [
     "thumbnail": "https://i.ytimg.com/vi/9KtwymeHPlc/maxresdefault.jpg",
     "alt": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-15)",
     "title": "내 친구 민니가 할 말이 있다고 하는데, 댓글 좀 예쁘게 써줘 🤭 (2025-07-15)"
-  }
+  },
+    
+{
+  "link": "https://youtu.be/02LP083MPoA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-07-18",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/02LP083MPoA/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)"
+},
+
+{
+  "link": "https://youtu.be/88LCWSFmGTA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-02-02",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/88LCWSFmGTA/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)"
+},
+
+{
+  "link": "https://youtu.be/-pKurTuZg_E",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-02-15",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/-pKurTuZg_E/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)"
+},
+
+{
+  "link": "https://youtu.be/Udd1yCZ-lLU",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2024-02-02",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/Udd1yCZ-lLU/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)"
+},
+
+{
+  "link": "https://youtu.be/mDv62JLmTM0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-02-15",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/mDv62JLmTM0/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)"
+},
+
+{
+  "link": "https://youtu.be/ZGMPUrbivyo",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2024-02-15",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZGMPUrbivyo/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)"
+},
+
+{
+  "link": "https://youtu.be/_sWNM31sS0U",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2024-02-02",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/_sWNM31sS0U/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 민니 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 민니 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)"
+},
+
+{
+  "link": "https://youtu.be/E8fujB0btO8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-02-02",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/E8fujB0btO8/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE)-“Super Lady” 미방분 1인캠 미연 ver. #itsLive #여자아이들 #Super_Lady #GIDLE #잇츠라이브 (2024-02-02)"
+},
+
+{
+  "link": "https://youtu.be/15yFZOHu06s",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2024-02-15",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/15yFZOHu06s/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 소연 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “나는 아픈 건 딱 질색이니까” 미방분 1인캠 소연 ver. #itsLive #여자아이들 #나는_아픈_건_딱_질색이니까 (2024-02-15)"
+},
+
+{
+  "link": "https://youtu.be/CGBdt4UJsZc",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2024-07-18",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/CGBdt4UJsZc/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 슈화 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)"
+},
+
+{
+  "link": "https://youtu.be/liRl_eExRcw",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2024-07-18",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/liRl_eExRcw/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 민니 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 민니 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)"
+},
+
+{
+  "link": "https://youtu.be/uKOFen98j-g",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-04-26",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/uKOFen98j-g/maxresdefault.jpg",
+  "alt": "[it’s Live] 우기((여자)아이들)(YUQI ((G)I-DLE))-“FREAK”미방분 1인캠 ver. #itsLive #우기 #여자아이들 #FREAK #YUQI #GIDLE (2024-04-26)",
+  "title": "[it’s Live] 우기((여자)아이들)(YUQI ((G)I-DLE))-“FREAK”미방분 1인캠 ver. #itsLive #우기 #여자아이들 #FREAK #YUQI #GIDLE (2024-04-26)"
+},
+
+{
+  "link": "https://youtu.be/-NDFHajjHXk",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-24",
+  "duration": "00:00:37",
+  "thumbnail": "https://i.ytimg.com/vi/-NDFHajjHXk/maxresdefault.jpg",
+  "alt": "[it’s Live] 민니 ((여자)아이들)(MINNIE ((G)I-DLE)) - “HER” 미방분 1인캠  ver. #itsLive #민니 #여자아이들 #HER #MINNIE (2025-01-24)",
+  "title": "[it’s Live] 민니 ((여자)아이들)(MINNIE ((G)I-DLE)) - “HER” 미방분 1인캠  ver. #itsLive #민니 #여자아이들 #HER #MINNIE (2025-01-24)"
+},
+
+{
+  "link": "https://youtu.be/BhFj49zr6fk",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-07-18",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/BhFj49zr6fk/maxresdefault.jpg",
+  "alt": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)",
+  "title": "[it’s Live] (여자)아이들((G)I-DLE) - “클락션(Klaxon)” 미방분 1인캠 우기 ver. #itsLive #여자아이들 #Klaxon #KPOP #잇츠라이브 (2024-07-18)"
+},
+
+{
+  "link": "https://youtu.be/EGSYyWhPRu8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-24",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/EGSYyWhPRu8/maxresdefault.jpg",
+  "alt": "[it’s Live] 민니 ((여자)아이들)(MINNIE ((G)I-DLE)) - “Valentine's Dream” 미방분 1인캠 ver. #itsLive #민니 #MINNIE (2025-01-24)",
+  "title": "[it’s Live] 민니 ((여자)아이들)(MINNIE ((G)I-DLE)) - “Valentine's Dream” 미방분 1인캠 ver. #itsLive #민니 #MINNIE (2025-01-24)"
+},
+
+{
+  "link": "https://youtu.be/mv3lsgZA1ds",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-04-26",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/mv3lsgZA1ds/maxresdefault.jpg",
+  "alt": "[it's Live]✨우기가 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut #우기 #여자아이들 (2024-04-26)",
+  "title": "[it's Live]✨우기가 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut #우기 #여자아이들 (2024-04-26)"
+},
+
+{
+  "link": "https://youtu.be/nmHQkixJbos",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-24",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/nmHQkixJbos/maxresdefault.jpg",
+  "alt": "[it's Live] ✨민니 ((여자)아이들)가 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #itsLive4Cut #민니 #여자아이들 (2025-01-24)",
+  "title": "[it's Live] ✨민니 ((여자)아이들)가 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #itsLive4Cut #민니 #여자아이들 (2025-01-24)"
+},
+
+{
+  "link": "https://youtu.be/2QKm0kwny3M",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-02-15",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/2QKm0kwny3M/maxresdefault.jpg",
+  "alt": "[it's Live] ✨(여자)아이들이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #여자아이들 (2024-02-15)",
+  "title": "[it's Live] ✨(여자)아이들이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #여자아이들 (2024-02-15)"
+},
+
+{
+  "link": "https://youtu.be/3dEZ1kynrfk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-01-05",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/3dEZ1kynrfk/maxresdefault.jpg",
+  "alt": "[it's Live] ✨미연((여자)아이들)이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut (2025-01-05)",
+  "title": "[it's Live] ✨미연((여자)아이들)이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut (2025-01-05)"
+},
+
+{
+  "link": "https://youtu.be/pAksBhU4da0",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-26",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/pAksBhU4da0/maxresdefault.jpg",
+  "alt": "[it’s Live] 아이들 이렇게 귀여우면 네버버 기절하죠😍 아이들의 잇츠라이브 비하인드👍 #itsLive #아이들 #idle #shorts #잇츠라이브 #KPOP (2025-05-26)",
+  "title": "[it’s Live] 아이들 이렇게 귀여우면 네버버 기절하죠😍 아이들의 잇츠라이브 비하인드👍 #itsLive #아이들 #idle #shorts #잇츠라이브 #KPOP (2025-05-26)"
+},
+
+{
+  "link": "https://youtu.be/n8Zn0aLuzSE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-01-05",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/n8Zn0aLuzSE/maxresdefault.jpg",
+  "alt": "[it’s Live] 미연((여자)아이들)(MIYEON((G)I-DLE)) - “Blazing Heart” (원신 OST) 미방분 1인캠 ver. #미연 #BlazingHeart (2025-01-05)",
+  "title": "[it’s Live] 미연((여자)아이들)(MIYEON((G)I-DLE)) - “Blazing Heart” (원신 OST) 미방분 1인캠 ver. #미연 #BlazingHeart (2025-01-05)"
+},
+
+{
+  "link": "https://youtu.be/ME7jfJc59To",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-26",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/ME7jfJc59To/maxresdefault.jpg",
+  "alt": "[it's Live] ✨아이들이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut #아이들 (2025-05-26)",
+  "title": "[it's Live] ✨아이들이 잇라네컷 찍는 법.mp4✨ #itsLive #KPOP #잇츠라이브 #잇라네컷 #인생네컷 #PhotoBooth #itsLive4Cut #아이들 (2025-05-26)"
+},
+
+{
+  "link": "https://youtu.be/oG2826P5pHI",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2024-04-26",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/oG2826P5pHI/maxresdefault.jpg",
+  "alt": "[it’s Live] 우기 (YUQI) - “FREAK” VR 아이컨택캠 ver. (2024-04-26)",
+  "title": "[it’s Live] 우기 (YUQI) - “FREAK” VR 아이컨택캠 ver. (2024-04-26)"
+},
+
+{
+  "link": "https://youtu.be/beDmFgsf5xY",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-26",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/beDmFgsf5xY/maxresdefault.jpg",
+  "alt": "[it’s Live] 수능금지곡으로 정해야 되는 거 아니냐구구구굿띵🎵 굿디🎶 #itsLive #아이들 #idle #shorts #잇츠라이브 #KPOP (2025-05-26)",
+  "title": "[it’s Live] 수능금지곡으로 정해야 되는 거 아니냐구구구굿띵🎵 굿디🎶 #itsLive #아이들 #idle #shorts #잇츠라이브 #KPOP (2025-05-26)"
+}
+
 
 
   ];
