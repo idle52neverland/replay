@@ -1621,16 +1621,6 @@ const festivalStageCards = [
   "alt": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020 (2020-01-08)",
   "title": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020 (2020-01-08)"
 },
-{
-  "link": "https://youtu.be/mZvwhZYBLBk",
-  "category": "Festival_Stage",
-  "member": "아이들",
-  "date": "2020-10-31",
-  "duration": "00:03:24",
-  "thumbnail": "https://i.ytimg.com/vi/mZvwhZYBLBk/maxresdefault.jpg",
-  "alt": "[KMDF 2020] (G)I-DLE - LATATA | 2020 코리아뮤직 드라이브 인 페스티벌 (2020-10-31)",
-  "title": "[KMDF 2020] (G)I-DLE - LATATA | 2020 코리아뮤직 드라이브 인 페스티벌 (2020-10-31)"
-},
 
 {
   "link": "https://youtu.be/w2zRsjU2R70",
