@@ -2130,7 +2130,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)",
     "title": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide) (2019-06-17)",
     "duration": "00:00:52",
-    "subtag": "기타 | Etc.",
+    "subtag": "기타 | Etc",
     "date": "2019-06-17"
   },
   {
@@ -2142,7 +2142,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/twXUS3fqI74/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)",
     "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video (2020-04-08)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/TzepUKHa9lg",
@@ -2153,7 +2153,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/TzepUKHa9lg/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)",
     "title": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video (2020-04-09)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/xIL1T1q2irg",
@@ -2164,7 +2164,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/xIL1T1q2irg/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/LHTMZOL4tQ0",
@@ -2175,7 +2175,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/LHTMZOL4tQ0/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 05 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 05 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/YQA03ceSQEc",
@@ -2186,7 +2186,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/YQA03ceSQEc/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 04 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 04 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/4aeff7VTWAs",
@@ -2197,7 +2197,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/4aeff7VTWAs/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 02 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 02 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/yVD4glcIS7o",
@@ -2208,7 +2208,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/yVD4glcIS7o/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 01 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 01 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/HnvWJehjYQA",
@@ -2219,7 +2219,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/HnvWJehjYQA/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
     "title": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video (2020-05-20)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/CWrthwplNgc",
@@ -2230,7 +2230,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/CWrthwplNgc/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)",
     "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG) (2020-07-07)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/sPzF8DZI5ZM",
@@ -2241,7 +2241,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/sPzF8DZI5ZM/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)",
     "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG) (2020-08-07)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/ZEqbiI2HHGQ",
@@ -2252,7 +2252,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ZEqbiI2HHGQ/maxresdefault.jpg",
     "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN) (2020-09-22)",
     "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN) (2020-09-22)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Mg4Z4QFfIOw",
@@ -2263,7 +2263,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Mg4Z4QFfIOw/maxresdefault.jpg",
     "alt": "[I-LIVE] 우리 네버랜드.. 게임 잘하는구나?! (2020-11-11)",
     "title": "[I-LIVE] 우리 네버랜드.. 게임 잘하는구나?! (2020-11-11)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/oKsbhYSLs8M",
@@ -2274,7 +2274,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/oKsbhYSLs8M/maxresdefault.jpg",
     "alt": "[I-LIVE] 소연이의 롤방! 여러분 같이 춤추고 시작해요~ (2020-11-11)",
     "title": "[I-LIVE] 소연이의 롤방! 여러분 같이 춤추고 시작해요~ (2020-11-11)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/2njcKe_wweU",
@@ -2285,7 +2285,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/2njcKe_wweU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
     "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip (2021-01-14)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/hGiePSHdRw8",
@@ -2296,7 +2296,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/hGiePSHdRw8/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)",
     "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG) (2021-01-18)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/miU4s4PUACY",
@@ -2307,7 +2307,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/miU4s4PUACY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
     "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video (2021-01-27)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/P62kgQCuxGE",
@@ -2318,7 +2318,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
     "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V (2021-02-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/MuNo4FX4Ur0",
@@ -2329,7 +2329,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/MuNo4FX4Ur0/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/wK_l3Uc0-tU",
@@ -2340,7 +2340,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/wK_l3Uc0-tU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/v7h5eN21w8w",
@@ -2351,7 +2351,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/v7h5eN21w8w/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/CD12U9gyE0c",
@@ -2362,7 +2362,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/CD12U9gyE0c/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/X5nNmF_m220",
@@ -2373,7 +2373,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/X5nNmF_m220/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/vPu95lo5SVw",
@@ -2384,7 +2384,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/vPu95lo5SVw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/srepY5GVRhU",
@@ -2395,7 +2395,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/srepY5GVRhU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/y3yqSbJ2T0w",
@@ -2406,7 +2406,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/y3yqSbJ2T0w/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)",
     "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG) (2021-07-13)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/bNEp5XtJwow",
@@ -2417,7 +2417,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/bNEp5XtJwow/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/kKDd451WWAw",
@@ -2428,7 +2428,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/kKDd451WWAw/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/69oSaVo3wPo",
@@ -2439,7 +2439,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/69oSaVo3wPo/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/_Sbv4c1PxwI",
@@ -2450,7 +2450,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_Sbv4c1PxwI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/cY0Va2TgsfI",
@@ -2461,7 +2461,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/cY0Va2TgsfI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/60Rb1vTzffI",
@@ -2472,7 +2472,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/60Rb1vTzffI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/un2_yqdc72g",
@@ -2483,7 +2483,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/un2_yqdc72g/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/BEOF3t0fM9g",
@@ -2494,7 +2494,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BEOF3t0fM9g/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/BMNofD53P2U",
@@ -2505,7 +2505,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BMNofD53P2U/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/kmfHkL7u7IY",
@@ -2516,7 +2516,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/kmfHkL7u7IY/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/c3-dnBwM6O8",
@@ -2527,7 +2527,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/c3-dnBwM6O8/maxresdefault.jpg",
     "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)",
     "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID (2022-05-11)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/n7l5pRXQKoc",
@@ -2538,7 +2538,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/n7l5pRXQKoc/maxresdefault.jpg",
     "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)",
     "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID (2022-05-16)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/XsXyaXIv5lM",
@@ -2549,7 +2549,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/XsXyaXIv5lM/maxresdefault.jpg",
     "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)",
     "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT (2022-06-12)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Gk80c8nSV0k",
@@ -2560,7 +2560,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Gk80c8nSV0k/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)",
     "title": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN) (2022-11-25)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/qRrV31S7oO0",
@@ -2571,7 +2571,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/qRrV31S7oO0/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
     "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer (2022-12-16)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/IlFh4Zzgh4U",
@@ -2582,7 +2582,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IlFh4Zzgh4U/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 09 - 사랑해요 네버버 💜 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 09 - 사랑해요 네버버 💜 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/60knHM-d0L8",
@@ -2593,7 +2593,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/60knHM-d0L8/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 08 - 캡쳐 타임 📸 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 08 - 캡쳐 타임 📸 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/pblTCkuBCHw",
@@ -2604,7 +2604,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/pblTCkuBCHw/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 07 - 네버버와의 버킷리스트 ✅ (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 07 - 네버버와의 버킷리스트 ✅ (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/x4Fib7qx3Gk",
@@ -2615,7 +2615,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/x4Fib7qx3Gk/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 02 - 칵테일 타임🍸🍹 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 02 - 칵테일 타임🍸🍹 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/fNw87YN_y_g",
@@ -2626,7 +2626,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/fNw87YN_y_g/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 06 - 12시 땡! 5주년 댄스 타임💃 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 06 - 12시 땡! 5주년 댄스 타임💃 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/UYKElCRktyE",
@@ -2637,7 +2637,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/UYKElCRktyE/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 05 - 찰떡콩떡 가족같은 아이들 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 05 - 찰떡콩떡 가족같은 아이들 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/ofVzUKoKbqY",
@@ -2648,7 +2648,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ofVzUKoKbqY/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 04 - 퀸카=아이들?! 닮은부분 찾기 👀 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 04 - 퀸카=아이들?! 닮은부분 찾기 👀 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/mdYmtp7z4k8",
@@ -2659,7 +2659,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/mdYmtp7z4k8/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 03 - 강렬했던 시구⚾️시타 이야기 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 03 - 강렬했던 시구⚾️시타 이야기 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/lH7zwkESfwg",
@@ -2670,7 +2670,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/lH7zwkESfwg/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 01 - 네버버와 함께했던 5년 되돌아보기 💜 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 01 - 네버버와 함께했던 5년 되돌아보기 💜 (2023-05-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/_NCMWptDQFg",
@@ -2681,7 +2681,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_NCMWptDQFg/maxresdefault.jpg",
     "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT (2023-06-07)",
     "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT (2023-06-07)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/6g_qFnZjsxQ",
@@ -2692,7 +2692,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/6g_qFnZjsxQ/maxresdefault.jpg",
     "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT (2023-12-18)",
     "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT (2023-12-18)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/fEOaSMFIeIY",
@@ -2703,7 +2703,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/fEOaSMFIeIY/maxresdefault.jpg",
     "alt": "우기(YUQI) - 'Could It Be' Official Lyric Video (2024-04-06)",
     "title": "우기(YUQI) - 'Could It Be' Official Lyric Video (2024-04-06)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/y6J4gvnJRYY",
@@ -2714,7 +2714,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/y6J4gvnJRYY/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 06 - 뭐를 좋아하는지 몰라서 전부 준비해 봤어 (feat.6자 돌림 선물들6️⃣🎁) (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 06 - 뭐를 좋아하는지 몰라서 전부 준비해 봤어 (feat.6자 돌림 선물들6️⃣🎁) (2024-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Lyt8-ZiqTpA",
@@ -2725,7 +2725,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Lyt8-ZiqTpA/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 03 - 다들 나이가 먹더니 귀여운 걸 하고 싶어 해🍬😘 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 03 - 다들 나이가 먹더니 귀여운 걸 하고 싶어 해🍬😘 (2024-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/EcISuKwE9fo",
@@ -2736,7 +2736,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/EcISuKwE9fo/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 02 - (프로)아이들의 캡처 타임📸💥과 들망진창 케이크 촛불 불기🎂 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 02 - (프로)아이들의 캡처 타임📸💥과 들망진창 케이크 촛불 불기🎂 (2024-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/ZgMCwWSDB1A",
@@ -2747,7 +2747,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ZgMCwWSDB1A/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 01 - 우리 모두 웃-자?😁🌸 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 01 - 우리 모두 웃-자?😁🌸 (2024-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/2rQBtMEB6Bs",
@@ -2758,7 +2758,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/2rQBtMEB6Bs/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
     "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT (2024-07-03)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/hqEBPVNxg-A",
@@ -2769,7 +2769,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/hqEBPVNxg-A/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT (2024-10-24)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT (2024-10-24)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/R0-xJDAAEWw",
@@ -2780,7 +2780,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/R0-xJDAAEWw/maxresdefault.jpg",
     "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳 (2025-01-05)",
     "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳 (2025-01-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/IBmYGGE35Ss",
@@ -2791,7 +2791,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IBmYGGE35Ss/maxresdefault.jpg",
     "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳 (2025-01-08)",
     "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳 (2025-01-08)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/AiAseBkFo04",
@@ -2802,7 +2802,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/AiAseBkFo04/maxresdefault.jpg",
     "alt": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE (2025-01-08)",
     "title": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE (2025-01-08)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/SXp592Vquiw",
@@ -2813,7 +2813,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/SXp592Vquiw/maxresdefault.jpg",
     "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏 (2025-01-16)",
     "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏 (2025-01-16)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/mtS__Me5KhM",
@@ -8302,7 +8302,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/HVumeeDWHZs/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/VLrEJnJSh6s",
@@ -8313,7 +8313,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/VLrEJnJSh6s/maxresdefault.jpg",
     "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
     "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT (2020-06-18)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/sF5pj1CZv2o",
@@ -8324,7 +8324,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/sF5pj1CZv2o/maxresdefault.jpg",
     "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)",
     "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG) (2020-06-19)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/6iM5pZtvbis",
@@ -8335,7 +8335,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/6iM5pZtvbis/maxresdefault.jpg",
     "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)",
     "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR) (2020-06-19)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/za4mpgQWs7c",
@@ -8346,7 +8346,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/za4mpgQWs7c/maxresdefault.jpg",
     "alt": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
     "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide (2020-08-10)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/G-HmfEBRHB4",
@@ -8357,7 +8357,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/G-HmfEBRHB4/maxresdefault.jpg",
     "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)",
     "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR) (2020-09-22)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/-RLQFpuvru4",
@@ -8368,7 +8368,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/-RLQFpuvru4/maxresdefault.jpg",
     "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)",
     "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG) (2020-09-22)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/0B1rjWurMFU",
@@ -8379,7 +8379,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0B1rjWurMFU/maxresdefault.jpg",
     "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)",
     "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN) (2020-09-22)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Kv_Cfa9b8FQ",
@@ -8390,7 +8390,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Kv_Cfa9b8FQ/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
     "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS) (2020-12-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/_4o_TR0LE28",
@@ -8401,7 +8401,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_4o_TR0LE28/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/yClG9_ldxNw",
@@ -8412,7 +8412,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/yClG9_ldxNw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Skz2kUcS5Jc",
@@ -8489,7 +8489,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BGz8n0yhrDs/maxresdefault.jpg",
     "alt": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들) (2018-12-25)",
     "title": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들) (2018-12-25)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/Y_RnAf-ZFEA",
@@ -8500,7 +8500,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Y_RnAf-ZFEA/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message) (2018-12-31)",
     "title": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message) (2018-12-31)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/aFhyJ-YqEK8",
@@ -8511,7 +8511,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/aFhyJ-YqEK8/maxresdefault.jpg",
     "alt": "2020 (여자)아이들((G)I-DLE) 설 인사 영상 (2020-01-23)",
     "title": "2020 (여자)아이들((G)I-DLE) 설 인사 영상 (2020-01-23)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/10i04-F_IO8",
@@ -8522,7 +8522,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/10i04-F_IO8/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상 (2021-01-01)",
     "title": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상 (2021-01-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/iW7lVbow27Q",
@@ -8533,7 +8533,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
     "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
     "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/lR9QM56IDCM",
@@ -8544,7 +8544,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/lR9QM56IDCM/maxresdefault.jpg",
     "alt": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상 (2019-09-11)",
     "title": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상 (2019-09-11)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/4-HN0siT65A",
@@ -8555,7 +8555,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/4-HN0siT65A/maxresdefault.jpg",
     "alt": "2019 (여자)아이들((G)I-DLE) 설 인사 영상 (2019-02-02)",
     "title": "2019 (여자)아이들((G)I-DLE) 설 인사 영상 (2019-02-02)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/iW7lVbow27Q",
@@ -8566,7 +8566,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
     "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
     "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들) (2024-09-24)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/W4sKzw7FWK4",
@@ -8577,7 +8577,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/W4sKzw7FWK4/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상 (2021-09-20)",
     "title": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상 (2021-09-20)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/0qxfaNCYY6o",
@@ -8588,7 +8588,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0qxfaNCYY6o/hqdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS) (2018-11-10)",
     "title": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS) (2018-11-10)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/v4lQkLixffs",
@@ -8599,7 +8599,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/v4lQkLixffs/maxresdefault.jpg",
     "alt": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE (2019-01-25)",
     "title": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE (2019-01-25)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/FQ4MNRKhUXU",
@@ -8610,7 +8610,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/FQ4MNRKhUXU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS) (2019-11-11)",
     "title": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS) (2019-11-11)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/vV6R6cdJb2I",
@@ -8621,7 +8621,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/vV6R6cdJb2I/hqdefault.jpg",
     "alt": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE (2019-08-29)",
     "title": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE (2019-08-29)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/GAGUJ_c72Jo",
@@ -8632,7 +8632,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/GAGUJ_c72Jo/maxresdefault.jpg",
     "alt": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE) (2018-07-27)",
     "title": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE) (2018-07-27)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/pi32eMzUrEM",
@@ -8643,7 +8643,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/pi32eMzUrEM/maxresdefault.jpg",
     "alt": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI (2020-06-01)",
     "title": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI (2020-06-01)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/N4_0-lYIKLA",
@@ -8654,7 +8654,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/N4_0-lYIKLA/maxresdefault.jpg",
     "alt": "2025 큐브 엔터테인먼트 새해 인사 영상 (2025-01-08)",
     "title": "2025 큐브 엔터테인먼트 새해 인사 영상 (2025-01-08)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/eg-l23ps50M",
@@ -8665,7 +8665,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/eg-l23ps50M/maxresdefault.jpg",
     "alt": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연) (2018-01-06)",
     "title": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연) (2018-01-06)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/mV2KEz4OIAs",
@@ -8676,7 +8676,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/mV2KEz4OIAs/maxresdefault.jpg",
     "alt": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
     "title": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot) (2018-05-17)",
-    "subtag": "기타 | Etc."
+    "subtag": "기타 | Etc"
   },
   {
     "link": "https://youtu.be/B76OrD9JmeI",
