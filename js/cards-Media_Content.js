@@ -12777,8 +12777,8 @@ const mediaContentCards = [
   "date": "2025-07-13",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/CtvPRlUR40g/maxresdefault.jpg",
-  "alt": "[2:53~ 우기] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE",
-  "title": "[2:53~ 우기] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE"
+  "alt": "[우기 2:53~ ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE",
+  "title": "[우기 2:53~ ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE"
 }
 
 
