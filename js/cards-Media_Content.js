@@ -12779,7 +12779,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/CtvPRlUR40g/maxresdefault.jpg",
   "alt": "[우기 2:53~ ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE",
   "title": "[우기 2:53~ ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Stage @ NOWZ 1st Mini Album [IGNITION] COMEBACK SHOWCASE LIVE"
-}
+},
+   {
+  "link": "https://youtu.be/sb6swBDIyes",
+  "category": "MEDIA_CONTENTS",
+  "member": "소연",
+  "date": "2016-12-13",
+  "duration": "00:04:02",
+  "thumbnail": "https://i.ytimg.com/vi/sb6swBDIyes/maxresdefault.jpg",
+  "alt": "이적 - 걱정 말아요 그대 [쓰리콜] 1회 by 모비딕 Mobidic (2016-12-13)",
+  "title": "이적 - 걱정 말아요 그대 [쓰리콜] 1회 by 모비딕 Mobidic (2016-12-13)"
+} 
 
 
 ];
