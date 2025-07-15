@@ -9202,7 +9202,7 @@ const broadcastStageCards = [
     "alt": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)",
     "title": "Mnet KCON LA 2023 X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard) 230928 방송 (2023-09-28)"
   },
-    {
+  {
   "link": "https://youtu.be/gW8bekyLUS0",
   "category": "Festival_Stage",
   "member": "아이들",
@@ -9212,6 +9212,16 @@ const broadcastStageCards = [
   "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)",
   "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송 (2020-06-23)"
 },
+ {
+  "link": "https://youtu.be/ZbslugCz81U",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-06-23",
+  "duration": "00:05:44",
+  "thumbnail": "https://i.ytimg.com/vi/ZbslugCz81U/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송 (2020-06-23)",
+  "title": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송 (2020-06-23)"
+}
 {
   "link": "https://youtu.be/VHpCo5vzkkw",
   "category": "Festival_Stage",
