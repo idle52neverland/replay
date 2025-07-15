@@ -9313,7 +9313,27 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/KZdRmh62Gsc/maxresdefault.jpg",
   "alt": "[PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬 | KCON 2023 THAILAND (2023-04-10)",
   "title": "[PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬 | KCON 2023 THAILAND (2023-04-10)"
-}
+},
+    {
+  "link": "https://youtu.be/fH7CzOWHhQs",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-06-21",
+  "duration": "00:07:07",
+  "thumbnail": "https://i.ytimg.com/vi/fH7CzOWHhQs/maxresdefault.jpg",
+  "alt": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards (2025-06-21)",
+  "title": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards (2025-06-21)"
+},
+{
+  "link": "https://youtu.be/B_4WoSrUuZA",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-06-01",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/B_4WoSrUuZA/maxresdefault.jpg",
+  "alt": "i-dle (아이들) - Good Thing [인기가요/Inkigayo] (2025-06-01)",
+  "title": "i-dle (아이들) - Good Thing [인기가요/Inkigayo] (2025-06-01)"
+},
 
 
 ];
