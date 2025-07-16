@@ -2340,7 +2340,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/MuNo4FX4Ur0/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/wK_l3Uc0-tU",
@@ -2351,7 +2351,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/wK_l3Uc0-tU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/v7h5eN21w8w",
@@ -2362,7 +2362,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/v7h5eN21w8w/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/CD12U9gyE0c",
@@ -2373,7 +2373,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/CD12U9gyE0c/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/X5nNmF_m220",
@@ -2384,7 +2384,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/X5nNmF_m220/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/vPu95lo5SVw",
@@ -2395,7 +2395,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/vPu95lo5SVw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/srepY5GVRhU",
@@ -2406,7 +2406,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/srepY5GVRhU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/y3yqSbJ2T0w",
@@ -8412,7 +8412,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_4o_TR0LE28/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/yClG9_ldxNw",
@@ -8423,7 +8423,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/yClG9_ldxNw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
-    "subtag": "기타 | Etc"
+    "subtag": "아이라이브 | I-LIVE"
   },
   {
     "link": "https://youtu.be/Skz2kUcS5Jc",
