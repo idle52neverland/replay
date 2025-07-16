@@ -5409,7 +5409,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/eFs6BZOvp7Y/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/7qzwlb73-yM",
@@ -5420,7 +5420,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/7qzwlb73-yM/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/KN3j4jS-5l0",
@@ -5431,7 +5431,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/KN3j4jS-5l0/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/klm3ZO0VxVE",
@@ -5442,7 +5442,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/klm3ZO0VxVE/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/3Rcj4NmkRWw",
@@ -5453,7 +5453,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/3Rcj4NmkRWw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/9NGWQcgQHOI",
@@ -5464,7 +5464,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9NGWQcgQHOI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/9f1iFCxhc4U",
@@ -5475,7 +5475,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9f1iFCxhc4U/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/0K5RvD2p6v8",
@@ -5486,7 +5486,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0K5RvD2p6v8/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/h22rV2yCpnc",
@@ -5508,7 +5508,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/SZoacJ-KSxU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/x7i6iIil-dQ",
@@ -5519,7 +5519,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/x7i6iIil-dQ/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/RbFdaAUXGIY",
@@ -5530,7 +5530,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/RbFdaAUXGIY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/46Nr2DsHEYA",
@@ -5552,7 +5552,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/sxl3aKjF1e4/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/2WZY9gRJfrw",
@@ -5563,12 +5563,12 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/2WZY9gRJfrw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/5RSIJdz9x_w",
     "category": "Official_Channel",
-    "member": "아이들",
+    "member": "민니",
     "date": "2023-10-22",
     "duration": "00:11:40",
     "thumbnail": "https://i.ytimg.com/vi/5RSIJdz9x_w/maxresdefault.jpg",
@@ -5585,7 +5585,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IQdDn_ktGww/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/gI9rtej6Xck",
@@ -5596,7 +5596,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/gI9rtej6Xck/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/0cFfTpbr-2A",
@@ -5607,7 +5607,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0cFfTpbr-2A/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/3zD8YRus8HI",
@@ -5618,12 +5618,12 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/3zD8YRus8HI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/IIhPuxpted8",
     "category": "Official_Channel",
-    "member": "아이들",
+    "member": "슈화",
     "date": "2024-01-06",
     "duration": "00:13:01",
     "thumbnail": "https://i.ytimg.com/vi/IIhPuxpted8/maxresdefault.jpg",
@@ -5640,12 +5640,12 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/E31_uxS2Lyw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/6SNUbo1G0JE",
     "category": "Official_Channel",
-    "member": "아이들",
+    "member": "미연",
     "date": "2024-01-31",
     "duration": "00:15:47",
     "thumbnail": "https://i.ytimg.com/vi/6SNUbo1G0JE/maxresdefault.jpg",
@@ -5673,7 +5673,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/EG_YFhrMkZ0/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/ycXbEIvOi9E",
@@ -5684,7 +5684,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ycXbEIvOi9E/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/1RP9N_fZe7w",
@@ -5695,7 +5695,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/1RP9N_fZe7w/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/YDrwz8lZ21g",
@@ -5706,7 +5706,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/YDrwz8lZ21g/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/deuX_x6ykRY",
@@ -5728,7 +5728,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/etGKyx4pSXo/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/a62yW5R_nDw",
@@ -5739,7 +5739,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/a62yW5R_nDw/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/Enu4vXAvMiA",
@@ -5750,7 +5750,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Enu4vXAvMiA/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/QqcXotwxGtg",
@@ -5761,7 +5761,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/QqcXotwxGtg/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/PG79NvF8MoE",
@@ -5772,7 +5772,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/PG79NvF8MoE/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/LvhZgCAv7_M",
@@ -5783,7 +5783,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/LvhZgCAv7_M/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
   },
   {
     "link": "https://youtu.be/8B1z9u-p31s",
@@ -5799,7 +5799,7 @@ const officialChannelCards = [
   {
     "link": "https://youtu.be/_-_0rSo_4x4",
     "category": "Official_Channel",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-01-31",
     "duration": "00:13:32",
     "thumbnail": "https://i.ytimg.com/vi/_-_0rSo_4x4/maxresdefault.jpg",
