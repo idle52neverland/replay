@@ -152,7 +152,7 @@ const liveStreamsCards = [
   {
     "link": "https://weverse.io/i-dle/live/4-110663456",
     "category": "Live_Streams",
-    "member": "아이들",
+    "member": "미연, 소연",
     "date": "2018-11-03",
     "duration": "00:08:12",
     "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMjQ4/MDAxNjcyODkxNDM0MzU4.00VtmCTYfeHv3Bl4XRNQGeJxi7_wZUkBngUZlCc2nOwg.kNszTzW3biY1tVzU9XyTghGina8Ur_DRzaIZLgrbd_cg.JPEG/5c2cf87d-df32-11e8-986a-28b4484d5a96_03.jpg?type=f640_360",
@@ -4018,36 +4018,6 @@ const liveStreamsCards = [
     "thumbnail": "https://phinf.wevpstatic.net/MjAyNTAxMDdfMTc4/MDAxNzM2MjU3ODQwNzU3.y4SPJqfTnE6Mj3ZKDkYfsX35rMncCAZRRsMMwaKaRKwg.fVOpBanEWRdyd1QasY1lbh4_09r45Kh8Kr-UIZjktm8g.JPEG/thumb.jpg?type=f_or_off_640_360",
     "alt": "❤️  (2025-01-07)",
     "title": "❤️  (2025-01-07)"
-  },
-  {
-    "link": "https://youtu.be/whdJ2aH79Ak",
-    "category": "Live_Streams",
-    "member": "우기",
-    "date": "2025-01-18",
-    "duration": "01:07:51",
-    "thumbnail": "https://i.ytimg.com/vi/whdJ2aH79Ak/sddefault.jpg",
-    "alt": "250118 아이들 우기 웨이보 라이브 -  元梦之星 (Yuan Meng Star) | (G)I-DLE Yuqi Weibo Live (2025-01-20)",
-    "title": "250118 아이들 우기 웨이보 라이브 -  元梦之星 (Yuan Meng Star) | (G)I-DLE Yuqi Weibo Live (2025-01-20)"
-  },
-  {
-    "link": "https://youtu.be/XpipmL_reDU",
-    "category": "Live_Streams",
-    "member": "우기",
-    "date": "2025-01-22",
-    "duration": "00:13:11",
-    "thumbnail": "https://i.ytimg.com/vi/XpipmL_reDU/sddefault.jpg",
-    "alt": "250122 아이들 우기 웨이보 라이브 | (G)I-DLE Yuqi Weibo Live (2025-01-22)",
-    "title": "250122 아이들 우기 웨이보 라이브 | (G)I-DLE Yuqi Weibo Live (2025-01-22)"
-  },
-  {
-    "link": "https://youtu.be/W-T6HEHMy2Y",
-    "category": "Live_Streams",
-    "member": "민니",
-    "date": "2025-01-27",
-    "duration": "00:20:34",
-    "thumbnail": "https://i.ytimg.com/vi/W-T6HEHMy2Y/sddefault.jpg",
-    "alt": "250127 (여자)아이들 민니 인스타 라이브 | (G)I-DLE MINNIE Instagram Live (2025-01-27)",
-    "title": "250127 (여자)아이들 민니 인스타 라이브 | (G)I-DLE MINNIE Instagram Live (2025-01-27)"
   },
   {
     "link": "https://weverse.io/i-dle/live/1-155368579",
