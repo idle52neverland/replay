@@ -2430,16 +2430,6 @@ const liveStreamsCards = [
     "title": "JEON SOYEON - 'Windy Burger Grand Open!' 라이브 방송 (2021-07-06)"
   },
   {
-    "link": "https://youtu.be/srepY5GVRhU",
-    "category": "Live_Streams",
-    "member": "아이들",
-    "date": "2021-07-06T23:59:03",
-    "duration": "00:15:02",
-    "thumbnail": "https://i.ytimg.com/vi/srepY5GVRhU/sddefault.jpg",
-    "alt": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
-    "title": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)"
-  },
-  {
     "link": "https://weverse.io/i-dle/live/0-111422031",
     "category": "Live_Streams",
     "member": "소연",
