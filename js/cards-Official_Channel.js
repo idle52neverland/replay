@@ -5250,111 +5250,111 @@ const officialChannelCards = [
     "link": "https://youtu.be/8b2DjJ5iVgI",
     "category": "Official_Channel",
     "member": "소연, 미연",
+    "date": "2018-11-10",
+    "duration": "00:10:35",
     "thumbnail": "https://i.ytimg.com/vi/8b2DjJ5iVgI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
     "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
-    "duration": "00:10:35",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2018-11-10"
   },
   {
     "link": "https://youtu.be/nLKPXoxPGfI",
     "category": "Official_Channel",
     "member": "소연",
+    "date": "2019-02-28",
+    "duration": "00:10:13",
     "thumbnail": "https://i.ytimg.com/vi/nLKPXoxPGfI/maxresdefault.jpg",
     "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
     "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
-    "duration": "00:10:13",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-02-28"
   },
   {
     "link": "https://youtu.be/lmADefjjV14",
     "category": "Official_Channel",
     "member": "슈화",
+    "date": "2019-06-17",
+    "duration": "00:12:14",
     "thumbnail": "https://i.ytimg.com/vi/lmADefjjV14/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
-    "duration": "00:12:14",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-17"
   },
   {
     "link": "https://youtu.be/uFA8Y3tKHjU",
     "category": "Official_Channel",
     "member": "슈화",
+    "date": "2019-06-17",
+    "duration": "00:11:31",
     "thumbnail": "https://i.ytimg.com/vi/uFA8Y3tKHjU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
-    "duration": "00:11:31",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-17"
   },
   {
     "link": "https://youtu.be/g5KNuqSw8qY",
     "category": "Official_Channel",
     "member": "소연",
+    "date": "2019-06-18"
     "duration": "00:15:24",
     "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-18"
   },
   {
     "link": "https://youtu.be/6oZ80LMxsuE",
     "category": "Official_Channel",
     "member": "미연",
+    "date": "2019-06-19",
+    "duration": "00:12:38",
     "thumbnail": "https://i.ytimg.com/vi/6oZ80LMxsuE/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
-    "duration": "00:12:38",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-19"
   },
   {
     "link": "https://youtu.be/mttovhSQVVs",
     "category": "Official_Channel",
     "member": "민니, 우기",
+    "date": "2019-06-20",
+    "duration": "00:11:50",
     "thumbnail": "https://i.ytimg.com/vi/mttovhSQVVs/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
-    "duration": "00:11:50",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-20"
   },
   {
     "link": "https://youtu.be/1CPQFG4k97k",
     "category": "Official_Channel",
     "member": "민니, 우기",
+    "date": "2019-06-20",
+    "duration": "00:12:25",
     "thumbnail": "https://i.ytimg.com/vi/1CPQFG4k97k/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
-    "duration": "00:12:25",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-06-20"
   },
   {
     "link": "https://youtu.be/kMVY3GNNgBw",
     "category": "Official_Channel",
     "member": "아이들",
+    "date": "2019-08-03",
+    "duration": "00:12:14",
     "thumbnail": "https://i.ytimg.com/vi/kMVY3GNNgBw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
     "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
-    "duration": "00:12:14",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-08-03"
   },
   {
     "link": "https://youtu.be/GQh88VtWoFs",
     "category": "Official_Channel",
     "member": "아이들",
+    "date": "2019-09-26",
+    "duration": "00:05:29",
     "thumbnail": "https://i.ytimg.com/vi/GQh88VtWoFs/maxresdefault.jpg",
     "alt": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
     "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
-    "duration": "00:05:29",
     "subtag": "스페셜컨텐츠 | Special Content"
-    "date": "2019-09-26"
   },
   {
     "link": "https://youtu.be/ipeRGRNQiC4",
