@@ -1606,6 +1606,17 @@ const officialChannelCards = [
     "subtag": "스페셜컨텐츠 | Special Contents"
   },
   {
+    "link": "https://youtu.be/tfet3q7ympE",
+    "category": "Official_Channel",
+    "member": "미연, 소연",
+    "date": "2024-12-19",
+    "duration": "00:00:22",
+    "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/maxresdefault.jpg",
+    "alt": "곧 MY Angel 을 공개합니다. (2024-12-19)",
+    "title": "곧 MY Angel 을 공개합니다. (2024-12-19)",
+    "subtag": "스페셜컨텐츠 | Special Contents"
+  },
+  {
     "link": "https://youtu.be/0yJ7bMyGUCw",
     "category": "Official_Channel",
     "member": "우기",
