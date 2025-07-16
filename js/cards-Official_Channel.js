@@ -1339,7 +1339,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/KWI_ThK1BMU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
     "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN) (2024-02-03)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/CA9jn8viiK4",
@@ -1603,7 +1603,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/5G8UqkXhS0w/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
     "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN) (2024-07-10)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/tfet3q7ympE",
@@ -1614,7 +1614,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/maxresdefault.jpg",
     "alt": "곧 MY Angel 을 공개합니다. (2024-12-19)",
     "title": "곧 MY Angel 을 공개합니다. (2024-12-19)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/0yJ7bMyGUCw",
@@ -5254,7 +5254,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
     "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
     "duration": "00:10:35",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2018-11-10"
   },
   {
@@ -5265,7 +5265,7 @@ const officialChannelCards = [
     "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
     "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON' (2019-02-28)",
     "duration": "00:10:13",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-02-28"
   },
   {
@@ -5276,7 +5276,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2 (2019-06-17)",
     "duration": "00:12:14",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-17"
   },
   {
@@ -5287,7 +5287,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1 (2019-06-17)",
     "duration": "00:11:31",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-17"
   },
   {
@@ -5298,7 +5298,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-18"
   },
   {
@@ -5309,7 +5309,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기 (2019-06-19)",
     "duration": "00:12:38",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-19"
   },
   {
@@ -5320,7 +5320,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2 (2019-06-20)",
     "duration": "00:11:50",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-20"
   },
   {
@@ -5331,7 +5331,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
     "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1 (2019-06-20)",
     "duration": "00:12:25",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-06-20"
   },
   {
@@ -5342,7 +5342,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
     "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI (2019-08-03)",
     "duration": "00:12:14",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-08-03"
   },
   {
@@ -5353,7 +5353,7 @@ const officialChannelCards = [
     "alt": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
     "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
     "duration": "00:05:29",
-    "subtag": "스페셜컨텐츠 | Special Contents",
+    "subtag": "스페셜컨텐츠 | Special Content"
     "date": "2019-09-26"
   },
   {
@@ -5365,7 +5365,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ipeRGRNQiC4/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)",
     "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/hr3np7viBPw",
@@ -5376,7 +5376,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/hr3np7viBPw/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
     "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1 (2021-06-24)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/6UXb3tDJg_Y",
@@ -5387,7 +5387,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/6UXb3tDJg_Y/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
     "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2 (2021-06-25)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/DXWE5FqdpGk",
@@ -5398,7 +5398,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/DXWE5FqdpGk/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
     "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG) (2021-06-30)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/eFs6BZOvp7Y",
@@ -5409,7 +5409,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/eFs6BZOvp7Y/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN) (2022-07-29)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/7qzwlb73-yM",
@@ -5420,7 +5420,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/7qzwlb73-yM/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN) (2022-08-12)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/KN3j4jS-5l0",
@@ -5431,7 +5431,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/KN3j4jS-5l0/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN) (2022-08-26)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/klm3ZO0VxVE",
@@ -5442,7 +5442,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/klm3ZO0VxVE/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN) (2022-09-09)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/3Rcj4NmkRWw",
@@ -5453,7 +5453,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/3Rcj4NmkRWw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN) (2022-09-23)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/9NGWQcgQHOI",
@@ -5464,7 +5464,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9NGWQcgQHOI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN) (2022-10-08)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/9f1iFCxhc4U",
@@ -5475,7 +5475,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9f1iFCxhc4U/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
     "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN) (2022-10-21)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/0K5RvD2p6v8",
@@ -5486,7 +5486,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0K5RvD2p6v8/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN) (2023-08-18)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/h22rV2yCpnc",
@@ -5497,7 +5497,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/h22rV2yCpnc/maxresdefault.jpg",
     "alt": "💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)",
     "title": "💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN) (2023-08-25)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/SZoacJ-KSxU",
@@ -5508,7 +5508,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/SZoacJ-KSxU/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN) (2023-08-25)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/x7i6iIil-dQ",
@@ -5519,7 +5519,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/x7i6iIil-dQ/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN) (2023-09-01)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/RbFdaAUXGIY",
@@ -5530,7 +5530,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/RbFdaAUXGIY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN) (2023-09-22)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/46Nr2DsHEYA",
@@ -5541,7 +5541,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/46Nr2DsHEYA/maxresdefault.jpg",
     "alt": "🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)",
     "title": "🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN) (2023-09-23)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/sxl3aKjF1e4",
@@ -5552,7 +5552,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/sxl3aKjF1e4/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN) (2023-10-06)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/2WZY9gRJfrw",
@@ -5563,7 +5563,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/2WZY9gRJfrw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN) (2023-10-20)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/5RSIJdz9x_w",
@@ -5574,7 +5574,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/5RSIJdz9x_w/maxresdefault.jpg",
     "alt": "💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)",
     "title": "💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN) (2023-10-22)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/IQdDn_ktGww",
@@ -5585,7 +5585,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IQdDn_ktGww/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN) (2023-10-27)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/gI9rtej6Xck",
@@ -5596,7 +5596,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/gI9rtej6Xck/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN) (2023-11-10)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/0cFfTpbr-2A",
@@ -5607,7 +5607,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/0cFfTpbr-2A/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
     "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN) (2023-11-24)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/3zD8YRus8HI",
@@ -5618,7 +5618,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/3zD8YRus8HI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN) (2024-01-03)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/IIhPuxpted8",
@@ -5629,7 +5629,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IIhPuxpted8/maxresdefault.jpg",
     "alt": "💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)",
     "title": "💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN) (2024-01-06)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/E31_uxS2Lyw",
@@ -5640,7 +5640,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/E31_uxS2Lyw/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
     "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN) (2024-01-09)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/6SNUbo1G0JE",
@@ -5651,7 +5651,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/6SNUbo1G0JE/maxresdefault.jpg",
     "alt": "💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
     "title": "💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN) (2024-01-31)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/X9VwcBm-qKA",
@@ -5662,7 +5662,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/X9VwcBm-qKA/maxresdefault.jpg",
     "alt": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)",
     "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB (2024-08-26)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/EG_YFhrMkZ0",
@@ -5673,7 +5673,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/EG_YFhrMkZ0/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-09-27)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/ycXbEIvOi9E",
@@ -5684,7 +5684,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ycXbEIvOi9E/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-07)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/1RP9N_fZe7w",
@@ -5695,7 +5695,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/1RP9N_fZe7w/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-10)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/YDrwz8lZ21g",
@@ -5706,7 +5706,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/YDrwz8lZ21g/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-10-13)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/deuX_x6ykRY",
@@ -5717,7 +5717,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/deuX_x6ykRY/maxresdefault.jpg",
     "alt": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)",
     "title": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB (2024-10-23)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/etGKyx4pSXo",
@@ -5728,7 +5728,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/etGKyx4pSXo/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-04)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/a62yW5R_nDw",
@@ -5739,7 +5739,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/a62yW5R_nDw/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-22)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/Enu4vXAvMiA",
@@ -5750,7 +5750,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Enu4vXAvMiA/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-25)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/QqcXotwxGtg",
@@ -5761,7 +5761,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/QqcXotwxGtg/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-11-29)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/PG79NvF8MoE",
@@ -5772,7 +5772,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/PG79NvF8MoE/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-04)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/LvhZgCAv7_M",
@@ -5783,7 +5783,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/LvhZgCAv7_M/maxresdefault.jpg",
     "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
     "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB (2024-12-09)",
-    "subtag": "월드투어 비하인드 | World Tour Behind the Scenes"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/8B1z9u-p31s",
@@ -5794,7 +5794,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/8B1z9u-p31s/maxresdefault.jpg",
     "alt": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)",
     "title": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB (2025-01-06)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/_-_0rSo_4x4",
@@ -5805,7 +5805,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_-_0rSo_4x4/maxresdefault.jpg",
     "alt": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB (2025-01-31)",
     "title": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB (2025-01-31)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/lwsn7bBZ4yg",
@@ -5827,7 +5827,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/DFNE3fdHKJ0/maxresdefault.jpg",
     "alt": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-03-13)",
     "title": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-03-13)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/d6ZMNCgQ7lM",
@@ -5838,7 +5838,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/d6ZMNCgQ7lM/maxresdefault.jpg",
     "alt": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-30)",
     "title": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB (2025-04-30)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/j193YQslaSs",
@@ -5849,7 +5849,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/j193YQslaSs/maxresdefault.jpg",
     "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)",
     "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB (2025-06-15)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/c_e7-ZTxp5Q",
@@ -5860,7 +5860,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/c_e7-ZTxp5Q/maxresdefault.jpg",
     "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
     "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB (2025-06-25)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://youtu.be/mIh0X4jGLcE",
@@ -8456,7 +8456,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/lI1WgtVyNOQ/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드 (2017-11-14)",
     "title": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드 (2017-11-14)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/zX5Wf3SVSqM",
@@ -8467,7 +8467,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/zX5Wf3SVSqM/maxresdefault.jpg",
     "alt": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드 (2018-03-07)",
     "title": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드 (2018-03-07)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/yXQFSJV2wtQ",
@@ -8698,7 +8698,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/B76OrD9JmeI/maxresdefault.jpg",
     "alt": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
     "title": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie (2020-08-21)",
-    "subtag": "스페셜컨텐츠 | Special Contents"
+    "subtag": "스페셜컨텐츠 | Special Content"
   },
   {
     "link": "https://weverse.io/i-dle/media/0-111421921?hl=ko",
