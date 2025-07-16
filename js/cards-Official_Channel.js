@@ -7609,7 +7609,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/VL34uz_mj94/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
     "title": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN) (2024-04-11)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/KFfBRqKBjCM",
@@ -7642,7 +7642,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BAemXVPRVmA/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
     "title": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN) (2024-04-27)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/JHm3SEYuYlo",
@@ -7653,7 +7653,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/JHm3SEYuYlo/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)",
     "title": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN) (2024-05-01)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/sk1EJFVN1pM",
@@ -7664,7 +7664,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/sk1EJFVN1pM/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)",
     "title": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN) (2024-05-09)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/huJj-s2jyzE",
@@ -7697,7 +7697,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/QKqan5ul3YY/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)",
     "title": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN) (2024-05-21)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/Zm4mTxuiTJw",
@@ -7708,7 +7708,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Zm4mTxuiTJw/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
     "title": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN) (2024-05-24)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/1yeHokGLIQI",
@@ -7730,7 +7730,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9FG9Zf2CmrM/maxresdefault.jpg",
     "alt": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
     "title": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN) (2024-05-31)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/nfU3GiPMafs",
@@ -7950,7 +7950,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/9rGA5Zdlx9Y/maxresdefault.jpg",
     "alt": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)",
     "title": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB (2025-01-22)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/ok4l4FWcvtw",
@@ -7961,7 +7961,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ok4l4FWcvtw/maxresdefault.jpg",
     "alt": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)",
     "title": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB (2025-01-23)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/bF5nZw4fE_k",
@@ -7972,7 +7972,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/bF5nZw4fE_k/maxresdefault.jpg",
     "alt": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)",
     "title": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB (2025-02-04)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/KJ4-7DxXqeg",
@@ -8005,7 +8005,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/E2O0DT1al8o/maxresdefault.jpg",
     "alt": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)",
     "title": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB (2025-02-10)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/QujC4QNhbhw",
@@ -8027,7 +8027,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/r9SwEcxVdec/maxresdefault.jpg",
     "alt": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)",
     "title": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB (2025-02-14)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/M4SSAVNYCFQ",
@@ -8049,7 +8049,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/QJskxdBfCjM/maxresdefault.jpg",
     "alt": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)",
     "title": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB (2025-02-21)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/lwsn7bBZ4yg",
@@ -8082,7 +8082,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/EWn3u6LLRhM/maxresdefault.jpg",
     "alt": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)",
     "title": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB (2025-03-03)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/TezybDObkWo",
@@ -8093,7 +8093,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/TezybDObkWo/maxresdefault.jpg",
     "alt": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
     "title": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB (2025-03-06)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/vd8j7PPF5UQ",
@@ -8115,7 +8115,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Kx4gideWRvU/maxresdefault.jpg",
     "alt": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)",
     "title": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB (2025-03-25)",
-    "subtag": "아이톡 | I-TALK"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/XnFO4Kg-w10",
