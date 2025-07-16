@@ -26,8 +26,8 @@ const interviewsCards = [
     "date": "2018-05-02",
     "duration": "00:54:28",
     "thumbnail": "https://i.ytimg.com/vi/Uqhm7vq3u1Y/sddefault.jpg",
-    "alt": "[풀영상] (G)I-DLE 'LATATA' Showcase ((여자)아이들, I am, 쇼케이스, MAZE, 소연, SOYEON) (2018-05-02)",
-    "title": "[풀영상] (G)I-DLE 'LATATA' Showcase ((여자)아이들, I am, 쇼케이스, MAZE, 소연, SOYEON) (2018-05-02)"
+    "alt": "(여자)아이들 'I am' Showcase (LATATA) (2018-05-02)",
+    "title": "(여자)아이들 'I am' Showcase (LATATA) (2018-05-02)"
   },
   {
     "link": "https://youtu.be/qDnFFHosNUg",
@@ -136,8 +136,8 @@ const interviewsCards = [
     "date": "2019-02-26",
     "duration": "00:47:31",
     "thumbnail": "https://i.ytimg.com/vi/nXQJhTa6HXs/sddefault.jpg",
-    "alt": "(Eng sub) [Full ver] (G)I-DLE ((여자)아이들) 'I made' Showcase (Senorita) [통통TV] (2019-02-26)",
-    "title": "(Eng sub) [Full ver] (G)I-DLE ((여자)아이들) 'I made' Showcase (Senorita) [통통TV] (2019-02-26)"
+    "alt": "(여자)아이들 'I made' Showcase (Senorita) (2019-02-26)",
+    "title": "(여자)아이들 'I made' Showcase (Senorita) (2019-02-26)"
   },
   {
     "link": "https://youtu.be/vXUKDkK3hi0",
@@ -196,8 +196,8 @@ const interviewsCards = [
     "date": "2019-06-26",
     "duration": "00:21:02",
     "thumbnail": "https://i.ytimg.com/vi/V5Io30Sz8CI/sddefault.jpg",
-    "alt": "★여자아이들 'Uh-Oh' Showcase Photo Time +Talk★ (2019-06-26)",
-    "title": "★여자아이들 'Uh-Oh' Showcase Photo Time +Talk★ (2019-06-26)"
+    "alt": "(여자)아이들 'Uh-Oh' Showcase Photo Time +Talk (2019-06-26)",
+    "title": "(여자)아이들 'Uh-Oh' Showcase Photo Time +Talk (2019-06-26)"
   },
   {
     "link": "https://youtu.be/SUg4NVD7nPQ",
@@ -266,18 +266,8 @@ const interviewsCards = [
     "date": "2020-04-06",
     "duration": "00:34:10",
     "thumbnail": "https://i.ytimg.com/vi/hNMsePqV1FE/sddefault.jpg",
-    "alt": "(ENG) [Full ver.] (여자)아이들 (G)I-DLE ‘Oh my god' Showcase 쇼케이스 풀영상 (미연, 민니, 수진, 소연, 우기, 슈화) [통통TV] (2020-04-06)",
-    "title": "(ENG) [Full ver.] (여자)아이들 (G)I-DLE ‘Oh my god' Showcase 쇼케이스 풀영상 (미연, 민니, 수진, 소연, 우기, 슈화) [통통TV] (2020-04-06)"
-  },
-  {
-    "link": "https://youtu.be/YvS4nsdGh3c",
-    "category": "Interviews",
-    "member": "아이들",
-    "date": "2020-04-07",
-    "duration": "00:31:21",
-    "thumbnail": "https://i.ytimg.com/vi/YvS4nsdGh3c/sddefault.jpg",
-    "alt": "(여자)아이들, 컴백 쇼케이스 'I Trust’ 풀영상 [WD영상] (2020-04-07)",
-    "title": "(여자)아이들, 컴백 쇼케이스 'I Trust’ 풀영상 [WD영상] (2020-04-07)"
+    "alt": "(여자)아이들 'I trust' Showcase (Oh my god) (2020-04-06)",
+    "title": "(여자)아이들 'I trust' Showcase (Oh my god) (2020-04-06)"
   },
   {
     "link": "https://youtu.be/eqpesL2E9co",
@@ -436,8 +426,8 @@ const interviewsCards = [
     "date": "2021-01-11",
     "duration": "00:38:49",
     "thumbnail": "https://i.ytimg.com/vi/y_Z5kAf96yo/sddefault.jpg",
-    "alt": "[Full ver.] (G)I-DLE (여자)아이들 '화'(火花) (HWAA) Showcase 쇼케이스 풀영상 (미연, 민니, 수진, 소연, 우기, 슈화) [통통TV] (2021-01-11)",
-    "title": "[Full ver.] (G)I-DLE (여자)아이들 '화'(火花) (HWAA) Showcase 쇼케이스 풀영상 (미연, 민니, 수진, 소연, 우기, 슈화) [통통TV] (2021-01-11)"
+    "alt": "(여자)아이들 'I burn' Showcase 화(火花)(HWAA) (2021-01-11)",
+    "title": "(여자)아이들 'I burn' Showcase 화(火花)(HWAA) (2021-01-11)"
   },
   {
     "link": "https://youtu.be/55TEB82zfVk",
@@ -776,8 +766,8 @@ const interviewsCards = [
     "date": "2022-03-14",
     "duration": "00:24:20",
     "thumbnail": "https://i.ytimg.com/vi/F65srPl8I-U/sddefault.jpg",
-    "alt": "[ENG/Full ver.] (G)I-DLE (여자)아이들 'TOMBOY' (톰보이) Showcase 쇼케이스 풀영상 (미연, 민니, 소연  외)ㅣTongTongCulture (2022-03-14)",
-    "title": "[ENG/Full ver.] (G)I-DLE (여자)아이들 'TOMBOY' (톰보이) Showcase 쇼케이스 풀영상 (미연, 민니, 소연  외)ㅣTongTongCulture (2022-03-14)"
+    "alt": "(여자)아이들 'I NEVER DIE' Showcase (Tomboy) (2022-03-14)",
+    "title": "(여자)아이들 'I NEVER DIE' Showcase (Tomboy) (2022-03-14)"
   },
   {
     "link": "https://youtu.be/N9rj2BipAqY",
@@ -1756,8 +1746,8 @@ const interviewsCards = [
     "date": "2025-05-19",
     "duration": "01:02:47",
     "thumbnail": "https://i.ytimg.com/vi/DTFeuesDDyg/sddefault.jpg",
-    "alt": "[ENG/JPN/Full] i-dle 'Good Thing' Showcase 아이들 '굿띵' 쇼케이스 풀영상 l 미연·민니·소연·우기·슈화 (2025-05-19)",
-    "title": "[ENG/JPN/Full] i-dle 'Good Thing' Showcase 아이들 '굿띵' 쇼케이스 풀영상 l 미연·민니·소연·우기·슈화 (2025-05-19)"
+    "alt": "i-dle(아이들) 'Good Thing' Showcase (2025-05-19)",
+    "title": "i-dle(아이들) 'Good Thing' Showcase (2025-05-19)"
   },
   {
     "link": "https://youtu.be/YA7W7r_4A6Y",
