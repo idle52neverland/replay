@@ -1788,7 +1788,17 @@ const interviewsCards = [
     "thumbnail": "https://i.ytimg.com/vi/QaeK_XwpeGI/maxresdefault.jpg",
     "alt": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」 (2025-02-04)",
     "title": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」 (2025-02-04)"
-  }
+  },
+    {
+  "link": "https://youtu.be/o5NFx1DMMj4",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2020-08-03",
+  "duration": "00:24:32",
+  "thumbnail": "https://i.ytimg.com/vi/o5NFx1DMMj4/maxresdefault.jpg",
+  "alt": "(여자)아이들 '덤디덤디' DUMDi DUMDi Showcase (2020-08-03)",
+  "title": "(여자)아이들 '덤디덤디' DUMDi DUMDi Showcase (2020-08-03)"
+}
 
 
 ];
