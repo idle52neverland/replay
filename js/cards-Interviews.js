@@ -1116,8 +1116,8 @@ const interviewsCards = [
     "date": "2022-10-18",
     "duration": "00:57:28",
     "thumbnail": "https://i.ytimg.com/vi/a5MB1tkHMlE/sddefault.jpg",
-    "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)",
-    "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW (2022-10-18)"
+    "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW [Showcase] (2022-10-18)",
+    "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] X-LOVE SHOW [Showcase] (2022-10-18)"
   },
   {
     "link": "https://youtu.be/TDnWQFMQ1a0",
@@ -1316,8 +1316,8 @@ const interviewsCards = [
     "date": "2023-05-17",
     "duration": "00:44:21",
     "thumbnail": "https://i.ytimg.com/vi/a3R3KPgP5u4/sddefault.jpg",
-    "alt": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)",
-    "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) (2023-05-17)"
+    "alt": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) [Showcase] (2023-05-17)",
+    "title": "(여자)아이들((G)I-DLE) Original Series [I feel] 제작 발표회 (ENG/CHN) [Showcase] (2023-05-17)"
   },
   {
     "link": "https://youtu.be/CbAVQGPqvtM",
