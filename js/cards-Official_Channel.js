@@ -5255,7 +5255,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/8b2DjJ5iVgI/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
     "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연) (2018-11-10)",
-    "subtag": "스페셜컨텐츠 | Special Content"
+    "subtag": "비하인드 외전 | Extra Behind"
   },
   {
     "link": "https://youtu.be/nLKPXoxPGfI",
@@ -5356,17 +5356,7 @@ const officialChannelCards = [
     "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180] (2019-09-26)",
     "subtag": "스페셜컨텐츠 | Special Content"
   },
-  {
-    "link": "https://youtu.be/ipeRGRNQiC4",
-    "category": "Official_Channel",
-    "member": "미연, 소연",
-    "date": "2020-08-28",
-    "duration": "00:05:01",
-    "thumbnail": "https://i.ytimg.com/vi/ipeRGRNQiC4/maxresdefault.jpg",
-    "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)",
-    "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'THE BADDEST' 녹음 비하인드 (미연&소연) (2020-08-28)",
-    "subtag": "스페셜컨텐츠 | Special Content"
-  },
+
   {
     "link": "https://youtu.be/hr3np7viBPw",
     "category": "Official_Channel",
