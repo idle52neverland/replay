@@ -5294,7 +5294,7 @@ const officialChannelCards = [
     "link": "https://youtu.be/g5KNuqSw8qY",
     "category": "Official_Channel",
     "member": "소연",
-    "date": "2019-06-18"
+    "date": "2019-06-18",
     "duration": "00:15:24",
     "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
     "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 (2019-06-18)",
