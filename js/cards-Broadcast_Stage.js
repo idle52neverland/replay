@@ -2,7 +2,7 @@ const broadcastStageCards = [
 {
     "link": "https://youtu.be/Q8ERCF_AgIo",
     "category": "Broadcast_Stage",
-    "member": "아이들",
+    "member": "소연",
     "date": "2016-08-25",
     "duration": "00:03:15",
     "thumbnail": "https://i.ytimg.com/vi/Q8ERCF_AgIo/maxresdefault.jpg",
@@ -46,8 +46,8 @@ const broadcastStageCards = [
     "date": "2018-05-04",
     "duration": "00:03:30",
     "thumbnail": "https://i.ytimg.com/vi/kqSeOjaApI8/maxresdefault.jpg",
-    "alt": "(G)I-DLE ((여자) 아이들) - LATATA [Music Bank HOT DEBUT / ] (2018-05-04)",
-    "title": "(G)I-DLE ((여자) 아이들) - LATATA [ HOT DEBUT / ] [뮤직뱅크/Music Bank] (2018-05-04)"
+    "alt": "(G)I-DLE (여자)아이들) - LATATA [HOT DEBUT] [뮤직뱅크/Music Bank] (2018-05-04)",
+    "title": "(G)I-DLE (여자)아이들) - LATATA [HOT DEBUT] [뮤직뱅크/Music Bank] (2018-05-04)"
   },
   {
     "link": "https://youtu.be/Z3iAMy2RPuI",
@@ -56,8 +56,8 @@ const broadcastStageCards = [
     "date": "2018-05-06",
     "duration": "00:03:51",
     "thumbnail": "https://i.ytimg.com/vi/Z3iAMy2RPuI/maxresdefault.jpg",
-    "alt": "《Debut Stage》 (G)I-DLE ((여자)아이들) - LATATA @인기가요 Inkigayo (2018-05-06)",
-    "title": "《Debut Stage》 (G)I-DLE ((여자)아이들) - LATATA [인기가요/Inkigayo] (2018-05-06)"
+    "alt": "《Debut Stage》 (G)I-DLE (여자)아이들) - LATATA @인기가요 Inkigayo (2018-05-06)",
+    "title": "《Debut Stage》(G)I-DLE (여자)아이들) - LATATA [인기가요/Inkigayo] (2018-05-06)"
   },
   {
     "link": "https://youtu.be/EwbrhEb3rJk",
@@ -77,7 +77,7 @@ const broadcastStageCards = [
     "duration": "00:03:21",
     "thumbnail": "https://i.ytimg.com/vi/0ZgD673l1so/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE). (2018-05-11)",
-    "title": "- LATATA - (여자)아이들 (LATATA - (G)I-DLE). [뮤직뱅크/Music Bank] (2018-05-11)"
+    "title": "(여자)아이들 - LATATA [뮤직뱅크/Music Bank] (2018-05-11)"
   },
   {
     "link": "https://youtu.be/A3UTiA7myF0",
@@ -87,7 +87,7 @@ const broadcastStageCards = [
     "duration": "00:04:32",
     "thumbnail": "https://i.ytimg.com/vi/A3UTiA7myF0/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 (2018-05-11)",
-    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.269 [쇼챔피언/Show Champion] (2018-05-11)"
+    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) EP.269 [쇼챔피언/Show Champion] (2018-05-11)"
   },
   {
     "link": "https://youtu.be/BIr6xidUpZA",
@@ -117,7 +117,7 @@ const broadcastStageCards = [
     "duration": "00:04:25",
     "thumbnail": "https://i.ytimg.com/vi/E9UYVt0I-as/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 (2018-05-16)",
-    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270 [쇼챔피언/Show Champion] (2018-05-16)"
+    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) EP.270 [쇼챔피언/Show Champion] (2018-05-16)"
   },
   {
     "link": "https://youtu.be/AVchZIyOPoM",
@@ -167,7 +167,7 @@ const broadcastStageCards = [
     "duration": "00:03:20",
     "thumbnail": "https://i.ytimg.com/vi/3yiMQS8RIwA/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE). (2018-05-25)",
-    "title": "- LATATA - (여자)아이들 (LATATA - (G)I-DLE). [뮤직뱅크/Music Bank] (2018-05-25)"
+    "title": "(여자)아이들 - LATATA [뮤직뱅크/Music Bank] (2018-05-25)"
   },
   {
     "link": "https://youtu.be/VZLHdmbuN-s",
@@ -176,8 +176,8 @@ const broadcastStageCards = [
     "date": "2018-05-26",
     "duration": "00:03:22",
     "thumbnail": "https://i.ytimg.com/vi/VZLHdmbuN-s/maxresdefault.jpg",
-    "alt": "60FPS 1080P | (G)I-DLE - Latata, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)",
-    "title": "60FPS 1080P (G)I-DLE - Latata, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)"
+    "alt": "(G)I-DLE - Latata, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)",
+    "title": "(G)I-DLE - Latata, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)"
   },
   {
     "link": "https://youtu.be/hRQk0BJrXYE",
@@ -186,8 +186,8 @@ const broadcastStageCards = [
     "date": "2018-05-26",
     "duration": "00:03:22",
     "thumbnail": "https://i.ytimg.com/vi/hRQk0BJrXYE/maxresdefault.jpg",
-    "alt": "[HOT] D(G)I-DLE - LATATA, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)",
-    "title": "[HOT] D(G)I-DLE - LATATA, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)"
+    "alt": "[HOT] (G)I-DLE - LATATA, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)",
+    "title": "[HOT] (G)I-DLE - LATATA, (여자)아이들 - 라타타 [쇼!음악중심/Show!MusicCore] (2018-05-26)"
   },
   {
     "link": "https://youtu.be/SkPQWXX1tqE",
@@ -217,7 +217,7 @@ const broadcastStageCards = [
     "duration": "00:04:25",
     "thumbnail": "https://i.ytimg.com/vi/jybc5w6X_Pk/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 (2018-05-30)",
-    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.272 [쇼챔피언/Show Champion] (2018-05-30)"
+    "title": "(여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) EP.272 [쇼챔피언/Show Champion] (2018-05-30)"
   },
   {
     "link": "https://youtu.be/DcviEDRnXNk",
@@ -227,7 +227,7 @@ const broadcastStageCards = [
     "duration": "00:03:20",
     "thumbnail": "https://i.ytimg.com/vi/DcviEDRnXNk/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE). (2018-06-01)",
-    "title": "- LATATA - (여자)아이들 (LATATA - (G)I-DLE). [뮤직뱅크/Music Bank] (2018-06-01)"
+    "title": "(여자)아이들 - LATATA [뮤직뱅크/Music Bank] (2018-06-01)"
   },
   {
     "link": "https://youtu.be/aSfdjfbRC_0",
@@ -237,7 +237,7 @@ const broadcastStageCards = [
     "duration": "00:03:22",
     "thumbnail": "https://i.ytimg.com/vi/aSfdjfbRC_0/hqdefault.jpg",
     "alt": "(G)I-DLE, LATATA [THE SHOW ] (2018-06-05)",
-    "title": "(G)I-DLE, LATATA [더쇼/THE SHOW] (2018-06-05)"
+    "title": "(G)I-DLE - LATATA [더쇼/THE SHOW] (2018-06-05)"
   },
   {
     "link": "https://youtu.be/z8UAOIM-Jz4",
@@ -247,7 +247,7 @@ const broadcastStageCards = [
     "duration": "00:03:21",
     "thumbnail": "https://i.ytimg.com/vi/z8UAOIM-Jz4/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 (LATATA - (G)I-DLE). (2018-06-08)",
-    "title": "- LATATA - (여자)아이들 (LATATA - (G)I-DLE). [뮤직뱅크/Music Bank] (2018-06-08)"
+    "title": "(여자)아이들 LATATA [뮤직뱅크/Music Bank] (2018-06-08)"
   },
   {
     "link": "https://youtu.be/Qbs5o9eAEBI",
@@ -298,7 +298,7 @@ const broadcastStageCards = [
     "duration": "00:03:51",
     "thumbnail": "https://i.ytimg.com/vi/Lh-UiqwFTps/maxresdefault.jpg",
     "alt": "한(HANN) - (여자)아이들 [뮤직뱅크 Music Bank] . (2018-08-17)",
-    "title": "한(HANN) - (여자)아이들 . [뮤직뱅크/Music Bank] (2018-08-17)"
+    "title": "(여자)아이들 - 한(HANN) [뮤직뱅크/Music Bank] (2018-08-17)"
   },
   {
     "link": "https://youtu.be/N73JUlJGgpE",
@@ -378,7 +378,7 @@ const broadcastStageCards = [
     "duration": "00:03:27",
     "thumbnail": "https://i.ytimg.com/vi/_3OEVLyUmbQ/maxresdefault.jpg",
     "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank Hot Stage / ] (2018-08-24)",
-    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [ Hot Stage / ] [뮤직뱅크/Music Bank] (2018-08-24)"
+    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [Hot Stage] [뮤직뱅크/Music Bank] (2018-08-24)"
   },
   {
     "link": "https://youtu.be/-NnE956NOUA",
@@ -398,7 +398,7 @@ const broadcastStageCards = [
     "duration": "00:03:27",
     "thumbnail": "https://i.ytimg.com/vi/vxiY2OZrA8k/maxresdefault.jpg",
     "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / ] (2018-08-31)",
-    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [ / ] [뮤직뱅크/Music Bank] (2018-08-31)"
+    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [뮤직뱅크/Music Bank] (2018-08-31)"
   },
   {
     "link": "https://youtu.be/NcHdGxLoLRo",
@@ -408,7 +408,7 @@ const broadcastStageCards = [
     "duration": "00:03:25",
     "thumbnail": "https://i.ytimg.com/vi/NcHdGxLoLRo/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 . (2018-08-31)",
-    "title": "- 한(HANN) - (여자)아이들 . [뮤직뱅크/Music Bank] (2018-08-31)"
+    "title": "(여자)아이들 -한(HANN) [뮤직뱅크/Music Bank] (2018-08-31)"
   },
   {
     "link": "https://youtu.be/3XF_mMXvwbI",
@@ -427,8 +427,8 @@ const broadcastStageCards = [
     "date": "2018-09-04",
     "duration": "00:03:26",
     "thumbnail": "https://i.ytimg.com/vi/nzsfh7aG0C0/hqdefault.jpg",
-    "alt": "(G)I-DLE, HANN [THE SHOW ] (2018-09-04)",
-    "title": "(G)I-DLE, HANN [더쇼/THE SHOW] (2018-09-04)"
+    "alt": "(G)I-DLE - HANN [THE SHOW ] (2018-09-04)",
+    "title": "(G)I-DLE - HANN [더쇼/THE SHOW] (2018-09-04)"
   },
   {
     "link": "https://youtu.be/ZBteR4VaRqw",
@@ -437,8 +437,8 @@ const broadcastStageCards = [
     "date": "2018-09-06",
     "duration": "00:05:39",
     "thumbnail": "https://i.ytimg.com/vi/ZBteR4VaRqw/maxresdefault.jpg",
-    "alt": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106 (2018-09-06)",
-    "title": "저력의 신인 아이돌 여자 아이들! l #비하인드 l EP.106 [쇼챔피언/Show Champion] (2018-09-06)"
+    "alt": "저력의 신인 아이돌 여자 아이들! #쇼챔피언비하인드 l EP.106 (2018-09-06)",
+    "title": "저력의 신인 아이돌 여자 아이들! #비하인드 l EP.106 [쇼챔피언/Show Champion] (2018-09-06)"
   },
   {
     "link": "https://youtu.be/GrPaQ_sgZkY",
@@ -458,7 +458,7 @@ const broadcastStageCards = [
     "duration": "00:03:24",
     "thumbnail": "https://i.ytimg.com/vi/imoV6KCZTJY/maxresdefault.jpg",
     "alt": "(G)I-DLE - HANN (Alone) | (여자)아이들 - 한 (一) [Music Bank / ] (2018-09-07)",
-    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [ / ] [뮤직뱅크/Music Bank] (2018-09-07)"
+    "title": "(G)I-DLE - HANN (Alone) (여자)아이들 - 한 (一) [뮤직뱅크/Music Bank] (2018-09-07)"
   },
   {
     "link": "https://youtu.be/3xKzy6c2l88",
@@ -468,7 +468,7 @@ const broadcastStageCards = [
     "duration": "00:03:22",
     "thumbnail": "https://i.ytimg.com/vi/3xKzy6c2l88/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - 한(HANN) - (여자)아이들 . (2018-09-07)",
-    "title": "- 한(HANN) - (여자)아이들 . [뮤직뱅크/Music Bank] (2018-09-07)"
+    "title": "(여자)아이들 - 한(HANN) [뮤직뱅크/Music Bank] (2018-09-07)"
   },
   {
     "link": "https://youtu.be/5IGhQ_vqBmY",
@@ -534,7 +534,7 @@ const broadcastStageCards = [
   {
     "link": "https://youtu.be/gj8gSfYBPPc",
     "category": "Broadcast_Stage",
-    "member": "아이들",
+    "member": "소연",
     "date": "2018-12-10",
     "duration": "00:02:17",
     "thumbnail": "https://i.ytimg.com/vi/gj8gSfYBPPc/maxresdefault.jpg",
@@ -549,7 +549,7 @@ const broadcastStageCards = [
     "duration": "00:03:18",
     "thumbnail": "https://i.ytimg.com/vi/gpAr7fnZNUg/maxresdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 . (2018-12-21)",
-    "title": "- LATATA - (여자)아이들 . [뮤직뱅크/Music Bank] (2018-12-21)"
+    "title": "(여자)아이들 - LATATA [뮤직뱅크/Music Bank] (2018-12-21)"
   },
   {
     "link": "https://youtu.be/iESof_jwfRo",
@@ -559,7 +559,7 @@ const broadcastStageCards = [
     "duration": "00:02:01",
     "thumbnail": "https://i.ytimg.com/vi/iESof_jwfRo/maxresdefault.jpg",
     "alt": "[2018 SBS 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’ (2018-12-27)",
-    "title": "[2018 ] 여자아이들, 러블리한 무대 ‘LATATA’ [가요대전/GayoDaejeon] (2018-12-27)"
+    "title": "여자아이들, 러블리한 무대 ‘LATATA’ [가요대전/GayoDaejeon] (2018-12-27)"
   },
   {
     "link": "https://youtu.be/CX9hz18ZPco",
@@ -569,7 +569,7 @@ const broadcastStageCards = [
     "duration": "00:03:44",
     "thumbnail": "https://i.ytimg.com/vi/CX9hz18ZPco/maxresdefault.jpg",
     "alt": "KBS가요대축제 - 여자 아이들 - Intro, LATATA (2018-12-28)",
-    "title": "- 여자 아이들 - Intro, LATATA [가요대축제/KBS Song Festival] (2018-12-28)"
+    "title": "여자 아이들 - Intro, LATATA [가요대축제/KBS Song Festival] (2018-12-28)"
   },
   {
     "link": "https://youtu.be/dce9SYhd6rg",
@@ -579,7 +579,7 @@ const broadcastStageCards = [
     "duration": "00:03:55",
     "thumbnail": "https://i.ytimg.com/vi/dce9SYhd6rg/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 (2019-02-27)",
-    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.305 [쇼챔피언/Show Champion] (2019-02-27)"
+    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) EP.305 [쇼챔피언/Show Champion] (2019-02-27)"
   },
   {
     "link": "https://youtu.be/fH9CrFTROOY",
@@ -599,7 +599,7 @@ const broadcastStageCards = [
     "duration": "00:03:43",
     "thumbnail": "https://i.ytimg.com/vi/PIhcLSm8WSM/hqdefault.jpg",
     "alt": "뮤직뱅크 Music Bank - INTRO = Senorita - (G)I-DLE(여자아이들). (2019-03-01)",
-    "title": "- INTRO = Senorita - (G)I-DLE(여자아이들). [뮤직뱅크/Music Bank] (2019-03-01)"
+    "title": "(G)I-DLE(여자아이들) - Senorita [뮤직뱅크/Music Bank] (2019-03-01)"
   },
   {
     "link": "https://youtu.be/c0xYthpftyY",
@@ -639,7 +639,7 @@ const broadcastStageCards = [
     "duration": "00:03:35",
     "thumbnail": "https://i.ytimg.com/vi/94BeTnryYZI/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 (2019-03-06)",
-    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306 [쇼챔피언/Show Champion] (2019-03-06)"
+    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) EP.306 [쇼챔피언/Show Champion] (2019-03-06)"
   },
   {
     "link": "https://youtu.be/H3a-zDvgSBE",
@@ -669,7 +669,7 @@ const broadcastStageCards = [
     "duration": "00:03:17",
     "thumbnail": "https://i.ytimg.com/vi/xVtMPmSRSMQ/maxresdefault.jpg",
     "alt": "(G)I-DLE (여자)아이들 - Senorita [Music Bank/] (2019-03-08)",
-    "title": "(G)I-DLE (여자)아이들 - Senorita [/] [뮤직뱅크/Music Bank] (2019-03-08)"
+    "title": "(G)I-DLE (여자)아이들 - Senorita [뮤직뱅크/Music Bank] (2019-03-08)"
   },
   {
     "link": "https://youtu.be/3la6Sl75910",
@@ -679,7 +679,7 @@ const broadcastStageCards = [
     "duration": "00:03:17",
     "thumbnail": "https://i.ytimg.com/vi/3la6Sl75910/maxresdefault.jpg",
     "alt": "Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] (2019-03-08)",
-    "title": "Senorita - (G)I-DLE (여자)아이들 [뮤직뱅크/Music Bank] (2019-03-08)"
+    "title": "(G)I-DLE - Senorita (여자)아이들 [뮤직뱅크/Music Bank] (2019-03-08)"
   },
   {
     "link": "https://youtu.be/EnLGyQoYx3M",
@@ -699,7 +699,7 @@ const broadcastStageCards = [
     "duration": "00:03:21",
     "thumbnail": "https://i.ytimg.com/vi/Il8weyn0EfI/maxresdefault.jpg",
     "alt": "(G)I-DLE, Señorita [THE SHOW ] (2019-03-12)",
-    "title": "(G)I-DLE, Señorita [더쇼/THE SHOW] (2019-03-12)"
+    "title": "(G)I-DLE - Señorita [더쇼/THE SHOW] (2019-03-12)"
   },
   {
     "link": "https://youtu.be/sYE7J9oLyVk",
@@ -709,7 +709,7 @@ const broadcastStageCards = [
     "duration": "00:03:19",
     "thumbnail": "https://i.ytimg.com/vi/sYE7J9oLyVk/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 (2019-03-13)",
-    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.307 [쇼챔피언/Show Champion] (2019-03-13)"
+    "title": "(여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) EP.307 [쇼챔피언/Show Champion] (2019-03-13)"
   },
   {
     "link": "https://youtu.be/8zM-QaIK7og",
@@ -789,7 +789,7 @@ const broadcastStageCards = [
     "duration": "00:03:16",
     "thumbnail": "https://i.ytimg.com/vi/Ya_EvdWtPEw/maxresdefault.jpg",
     "alt": "(G)I-DLE (여자)아이들 - Senorita[Music Bank/] (2019-03-29)",
-    "title": "(G)I-DLE (여자)아이들 - Senorita[/] [뮤직뱅크/Music Bank] (2019-03-29)"
+    "title": "(G)I-DLE (여자)아이들 - Senorita [뮤직뱅크/Music Bank] (2019-03-29)"
   },
   {
     "link": "https://youtu.be/h8H75jVLV9s",
@@ -819,7 +819,7 @@ const broadcastStageCards = [
     "duration": "00:03:48",
     "thumbnail": "https://i.ytimg.com/vi/aXumrr0B-2A/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) l EP.322 (EN/VI/TW) (2019-06-26)",
-    "title": "(여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) l EP.322 (EN/VI/TW) [쇼챔피언/Show Champion] (2019-06-26)"
+    "title": "(여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) EP.322 (EN/VI/TW) [쇼챔피언/Show Champion] (2019-06-26)"
   },
   {
     "link": "https://youtu.be/wxYdon7kOCQ",
@@ -858,8 +858,8 @@ const broadcastStageCards = [
     "date": "2019-06-27",
     "duration": "00:03:55",
     "thumbnail": "https://i.ytimg.com/vi/51bcXANtUiY/maxresdefault.jpg",
-    "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MI YEON FanCam) | @MCOUNTDOWN_ (2019-06-27)",
-    "title": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MI YEON FanCam) [엠카운트다운/MCOUNTDOWN] (2019-06-27)"
+    "alt": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MIYEON FanCam) | @MCOUNTDOWN_ (2019-06-27)",
+    "title": "[MPD직캠] (여자)아이들 미연 직캠 4K ‘Uh-Oh’ ((G)I-DLE MIYEON FanCam) [엠카운트다운/MCOUNTDOWN] (2019-06-27)"
   },
   {
     "link": "https://youtu.be/OiA2nd2zJe0",
@@ -868,8 +868,8 @@ const broadcastStageCards = [
     "date": "2019-06-27",
     "duration": "00:03:55",
     "thumbnail": "https://i.ytimg.com/vi/OiA2nd2zJe0/maxresdefault.jpg",
-    "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) | @MCOUNTDOWN_ (2019-06-27)",
-    "title": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YU QI FanCam) [엠카운트다운/MCOUNTDOWN] (2019-06-27)"
+    "alt": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_ (2019-06-27)",
+    "title": "[MPD직캠] (여자)아이들 우기 직캠 4K ‘Uh-Oh’ ((G)I-DLE YUQI FanCam) [엠카운트다운/MCOUNTDOWN] (2019-06-27)"
   },
   {
     "link": "https://youtu.be/bO-5TJhcGgA",
@@ -889,7 +889,7 @@ const broadcastStageCards = [
     "duration": "00:03:46",
     "thumbnail": "https://i.ytimg.com/vi/rUrXD2PZ2AM/maxresdefault.jpg",
     "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / ] (2019-06-28)",
-    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [ / ] [뮤직뱅크/Music Bank] (2019-06-28)"
+    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [뮤직뱅크/Music Bank] (2019-06-28)"
   },
   {
     "link": "https://youtu.be/A5JEXf4hd3U",
@@ -899,7 +899,7 @@ const broadcastStageCards = [
     "duration": "00:03:38",
     "thumbnail": "https://i.ytimg.com/vi/A5JEXf4hd3U/maxresdefault.jpg",
     "alt": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] (2019-06-28)",
-    "title": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크/Music Bank] (2019-06-28)"
+    "title": "(G)I-DLE - Uh-Oh (여자)아이들 [뮤직뱅크/Music Bank] (2019-06-28)"
   },
   {
     "link": "https://youtu.be/MzzTvnEGQ7k",
@@ -989,7 +989,7 @@ const broadcastStageCards = [
     "duration": "00:03:27",
     "thumbnail": "https://i.ytimg.com/vi/hA3ToXVdCrw/maxresdefault.jpg",
     "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / ] (2019-07-05)",
-    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [ / ] [뮤직뱅크/Music Bank] (2019-07-05)"
+    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [뮤직뱅크/Music Bank] (2019-07-05)"
   },
   {
     "link": "https://youtu.be/1ysLKoJw7qk",
@@ -999,7 +999,7 @@ const broadcastStageCards = [
     "duration": "00:03:28",
     "thumbnail": "https://i.ytimg.com/vi/1ysLKoJw7qk/maxresdefault.jpg",
     "alt": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] (2019-07-05)",
-    "title": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크/Music Bank] (2019-07-05)"
+    "title": "(G)I-DLE (여자)아이들 - Uh-Oh [뮤직뱅크/Music Bank] (2019-07-05)"
   },
   {
     "link": "https://youtu.be/iF2eaXH_sZ8",
@@ -1029,7 +1029,7 @@ const broadcastStageCards = [
     "duration": "00:03:51",
     "thumbnail": "https://i.ytimg.com/vi/T19ywGGbd-w/maxresdefault.jpg",
     "alt": "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, ] 60P (2019-07-09)",
-    "title": "(G)I-DLE, Uh-Oh [, Fancam, ] 60P [더쇼/THE SHOW] (2019-07-09)"
+    "title": "(G)I-DLE, Uh-Oh [Fancam] 60P [더쇼/THE SHOW] (2019-07-09)"
   },
   {
     "link": "https://youtu.be/D42Tj_VnqRU",
@@ -1039,7 +1039,7 @@ const broadcastStageCards = [
     "duration": "00:03:44",
     "thumbnail": "https://i.ytimg.com/vi/D42Tj_VnqRU/maxresdefault.jpg",
     "alt": "(G)I-DLE, Uh-Oh [THE SHOW ] (2019-07-09)",
-    "title": "(G)I-DLE, Uh-Oh [더쇼/THE SHOW] (2019-07-09)"
+    "title": "(G)I-DLE - Uh-Oh [더쇼/THE SHOW] (2019-07-09)"
   },
   {
     "link": "https://youtu.be/aRO9rOPDToQ",
@@ -1049,7 +1049,7 @@ const broadcastStageCards = [
     "duration": "00:03:26",
     "thumbnail": "https://i.ytimg.com/vi/aRO9rOPDToQ/maxresdefault.jpg",
     "alt": "(G)I-DLE ((여자)아이들) - Uh-Oh [Music Bank / ] (2019-07-12)",
-    "title": "(G)I-DLE ((여자)아이들) - Uh-Oh [ / ] [뮤직뱅크/Music Bank] (2019-07-12)"
+    "title": "(G)I-DLE ((여자)아이들) - Uh-Oh [뮤직뱅크/Music Bank] (2019-07-12)"
   },
   {
     "link": "https://youtu.be/5mEToFI8tYs",
@@ -1059,7 +1059,7 @@ const broadcastStageCards = [
     "duration": "00:03:25",
     "thumbnail": "https://i.ytimg.com/vi/5mEToFI8tYs/maxresdefault.jpg",
     "alt": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크 Music Bank] (2019-07-12)",
-    "title": "Uh-Oh - (G)I-DLE (여자)아이들 [뮤직뱅크/Music Bank] (2019-07-12)"
+    "title": "(G)I-DLE (여자)아이들 - Uh-Oh [뮤직뱅크/Music Bank] (2019-07-12)"
   },
   {
     "link": "https://youtu.be/qo1KYYwSxZk",
@@ -1099,7 +1099,7 @@ const broadcastStageCards = [
     "duration": "00:03:30",
     "thumbnail": "https://i.ytimg.com/vi/ilpAUJ5Hepk/maxresdefault.jpg",
     "alt": "(G)I-DLE, Uh-Oh [THE SHOW ] (2019-07-16)",
-    "title": "(G)I-DLE, Uh-Oh [더쇼/THE SHOW] (2019-07-16)"
+    "title": "(G)I-DLE - Uh-Oh [더쇼/THE SHOW] (2019-07-16)"
   },
   {
     "link": "https://youtu.be/Q4Cl4zgBwLg",
@@ -1109,7 +1109,7 @@ const broadcastStageCards = [
     "duration": "00:03:27",
     "thumbnail": "https://i.ytimg.com/vi/Q4Cl4zgBwLg/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) l EP.325 (TWN) (2019-07-17)",
-    "title": "(여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) l EP.325 (TWN) [쇼챔피언/Show Champion] (2019-07-17)"
+    "title": "(여자)아이들 - Uh Oh ((G)I-DLE - Uh Oh) EP.325 (TWN) [쇼챔피언/Show Champion] (2019-07-17)"
   },
   {
     "link": "https://youtu.be/-R3yG-aTeUw",
@@ -1129,7 +1129,7 @@ const broadcastStageCards = [
     "duration": "00:03:24",
     "thumbnail": "https://i.ytimg.com/vi/4JKaVpZY0dc/maxresdefault.jpg",
     "alt": "(G)I-DLE((여자)아이들) - Uh-Oh [Music Bank / ] (2019-07-19)",
-    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [ / ] [뮤직뱅크/Music Bank] (2019-07-19)"
+    "title": "(G)I-DLE((여자)아이들) - Uh-Oh [뮤직뱅크/Music Bank] (2019-07-19)"
   },
   {
     "link": "https://youtu.be/4dUUgRCQVqM",
@@ -1380,7 +1380,7 @@ const broadcastStageCards = [
     "duration": "00:04:20",
     "thumbnail": "https://i.ytimg.com/vi/CRo37BcUBX0/maxresdefault.jpg",
     "alt": "Intro(White Ver) + Oh my god - (여자)아이들(G)I-DLE) [뮤직뱅크/Music Bank] (2020-04-10)",
-    "title": "Intro(White Ver) + Oh my god - (여자)아이들(G)I-DLE) [/] [뮤직뱅크/Music Bank] (2020-04-10)"
+    "title": "Intro(White Ver) + Oh my god - (여자)아이들(G)I-DLE) [뮤직뱅크/Music Bank] (2020-04-10)"
   },
   {
     "link": "https://youtu.be/3IDbNkpQD0Y",
@@ -1390,7 +1390,7 @@ const broadcastStageCards = [
     "duration": "00:04:29",
     "thumbnail": "https://i.ytimg.com/vi/3IDbNkpQD0Y/maxresdefault.jpg",
     "alt": "[K-Choreo 6K] (여자)아이들 직캠 'INTRO+Oh my god' ((G)I-DLE Choreography) l @MusicBank (2020-04-10)",
-    "title": "[K-Choreo 6K] (여자)아이들 직캠 'INTRO+Oh my god' ((G)I-DLE Choreography) l [뮤직뱅크/Music Bank] (2020-04-10)"
+    "title": "[K-Choreo 6K] (여자)아이들 직캠 'INTRO+Oh my god' ((G)I-DLE Choreography) [뮤직뱅크/Music Bank] (2020-04-10)"
   },
   {
     "link": "https://youtu.be/GchXYKKrO-w",
@@ -1480,7 +1480,7 @@ const broadcastStageCards = [
     "duration": "00:04:55",
     "thumbnail": "https://i.ytimg.com/vi/z6ItXwz3V68/maxresdefault.jpg",
     "alt": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[페이스캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON FaceCam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/BnoliQcQoD0",
@@ -1490,7 +1490,7 @@ const broadcastStageCards = [
     "duration": "00:05:26",
     "thumbnail": "https://i.ytimg.com/vi/BnoliQcQoD0/maxresdefault.jpg",
     "alt": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/xXS5LZkdAPA",
@@ -1500,7 +1500,7 @@ const broadcastStageCards = [
     "duration": "00:04:36",
     "thumbnail": "https://i.ytimg.com/vi/xXS5LZkdAPA/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 미연 'Oh my god' ((G)I-DLE MIYEON Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/fqt1EbrxfjM",
@@ -1510,7 +1510,7 @@ const broadcastStageCards = [
     "duration": "00:04:36",
     "thumbnail": "https://i.ytimg.com/vi/fqt1EbrxfjM/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 소연 'Oh my god' ((G)I-DLE SOYEON Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/bUs2EWpCZ_g",
@@ -1520,7 +1520,7 @@ const broadcastStageCards = [
     "duration": "00:04:37",
     "thumbnail": "https://i.ytimg.com/vi/bUs2EWpCZ_g/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/YSwSEPZE_1E",
@@ -1530,7 +1530,7 @@ const broadcastStageCards = [
     "duration": "00:04:17",
     "thumbnail": "https://i.ytimg.com/vi/YSwSEPZE_1E/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 수진 'Oh my god' ((G)I-DLE SOOJIN Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/5NbwUQhk1iY",
@@ -1540,7 +1540,7 @@ const broadcastStageCards = [
     "duration": "00:04:36",
     "thumbnail": "https://i.ytimg.com/vi/5NbwUQhk1iY/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/-HaTj9K730U",
@@ -1550,7 +1550,7 @@ const broadcastStageCards = [
     "duration": "00:04:36",
     "thumbnail": "https://i.ytimg.com/vi/-HaTj9K730U/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/3dB_jpF5MaE",
@@ -1560,7 +1560,7 @@ const broadcastStageCards = [
     "duration": "00:04:37",
     "thumbnail": "https://i.ytimg.com/vi/3dB_jpF5MaE/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam)│@SBS Inkigayo_ (2020-04-12)",
-    "title": "[안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam)│ [인기가요/Inkigayo] (2020-04-12)"
+    "title": "[안방1열 직캠4K] (여자)아이들 'Intro + Oh my god' 풀캠 ((G)I-DLE Full Cam) [인기가요/Inkigayo] (2020-04-12)"
   },
   {
     "link": "https://youtu.be/VO9WQbJWfvg",
@@ -1570,7 +1570,7 @@ const broadcastStageCards = [
     "duration": "00:05:54",
     "thumbnail": "https://i.ytimg.com/vi/VO9WQbJWfvg/maxresdefault.jpg",
     "alt": "(여자)아이들 'Oh my god' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank (2020-04-17)",
-    "title": "(여자)아이들 'Oh my god' 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ [뮤직뱅크/Music Bank] (2020-04-17)"
+    "title": "(여자)아이들 'Oh my god' 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) [뮤직뱅크/Music Bank] (2020-04-17)"
   },
   {
     "link": "https://youtu.be/hStQEbMGs4k",
@@ -1580,7 +1580,7 @@ const broadcastStageCards = [
     "duration": "00:03:44",
     "thumbnail": "https://i.ytimg.com/vi/hStQEbMGs4k/maxresdefault.jpg",
     "alt": "Oh my god - (여자)아이들(G)I-DLE) [뮤직뱅크/Music Bank] (2020-04-17)",
-    "title": "Oh my god - (여자)아이들(G)I-DLE) [/] [뮤직뱅크/Music Bank] (2020-04-17)"
+    "title": "(여자)아이들(G)I-DLE) - Oh my god [뮤직뱅크/Music Bank] (2020-04-17)"
   },
   {
     "link": "https://youtu.be/85J0ocfU4g0",
@@ -1710,7 +1710,7 @@ const broadcastStageCards = [
     "duration": "00:03:53",
     "thumbnail": "https://i.ytimg.com/vi/1lOBrDUR43w/maxresdefault.jpg",
     "alt": "[Show Champion] (여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 (2020-04-22)",
-    "title": "(여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) l EP.350 [쇼챔피언/Show Champion] (2020-04-22)"
+    "title": "(여자)아이들 - OH MY GOD ((G)I-DLE - OH MY GOD) EP.350 [쇼챔피언/Show Champion] (2020-04-22)"
   },
   {
     "link": "https://youtu.be/ckcroOWvUew",
@@ -1780,7 +1780,7 @@ const broadcastStageCards = [
     "duration": "00:03:31",
     "thumbnail": "https://i.ytimg.com/vi/TWMlWnapEuc/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam)│@SBS Inkigayo_ (2020-04-26)",
-    "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam)│ [인기가요/Inkigayo] (2020-04-26)"
+    "title": "[안방1열 직캠4K] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI FanCam) [인기가요/Inkigayo] (2020-04-26)"
   },
   {
     "link": "https://youtu.be/o5H4yUemAqU",
@@ -1790,7 +1790,7 @@ const broadcastStageCards = [
     "duration": "00:03:23",
     "thumbnail": "https://i.ytimg.com/vi/o5H4yUemAqU/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) l EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - OH MY GOD ((G)I-DLE YUQI - OH MY GOD) EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
   },
   {
     "link": "https://youtu.be/OzoD6QRvTh4",
@@ -1800,7 +1800,7 @@ const broadcastStageCards = [
     "duration": "00:03:23",
     "thumbnail": "https://i.ytimg.com/vi/OzoD6QRvTh4/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) l EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 미연 - OH MY GOD ((G)I-DLE MIYEON - OH MY GOD) EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
   },
   {
     "link": "https://youtu.be/hDLCQoIxALE",
@@ -1810,7 +1810,7 @@ const broadcastStageCards = [
     "duration": "00:03:23",
     "thumbnail": "https://i.ytimg.com/vi/hDLCQoIxALE/sddefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) l #EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - OH MY GOD ((G)I-DLE SOYEON - OH MY GOD) #EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
   },
   {
     "link": "https://youtu.be/acTgK7n3-ZY",
@@ -1820,7 +1820,7 @@ const broadcastStageCards = [
     "duration": "00:03:51",
     "thumbnail": "https://i.ytimg.com/vi/acTgK7n3-ZY/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) l #쇼챔피언 l EP.350 (2020-04-26)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) l # l EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 민니 - OH MY GOD ((G)I-DLE MINNIE - OH MY GOD) # l EP.350 [쇼챔피언/Show Champion] (2020-04-26)"
   },
   {
     "link": "https://youtu.be/d_1AhUySuow",
@@ -1829,8 +1829,8 @@ const broadcastStageCards = [
     "date": "2020-04-28",
     "duration": "00:03:41",
     "thumbnail": "https://i.ytimg.com/vi/d_1AhUySuow/maxresdefault.jpg",
-    "alt": "(G)I-DLE, Luv U [THE SHOW ] (2020-04-28)",
-    "title": "(G)I-DLE, Luv U [더쇼/THE SHOW] (2020-04-28)"
+    "alt": "(G)I-DLE, Luv U | (여자)아이들 - 사랑해 [THE SHOW ] (2020-04-28)",
+    "title": "(G)I-DLE, Luv U | (여자)아이들 - 사랑해 [더쇼/THE SHOW] (2020-04-28)"
   },
   {
     "link": "https://youtu.be/QMGL8SGczqo",
@@ -1920,7 +1920,7 @@ const broadcastStageCards = [
     "duration": "00:03:42",
     "thumbnail": "https://i.ytimg.com/vi/LgPG0HGoT84/maxresdefault.jpg",
     "alt": "사랑해(Luv U) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] (2020-05-01)",
-    "title": "사랑해(Luv U) - (여자)아이들 ((G)I-DLE) [/] [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "사랑해(Luv U) - (여자)아이들 ((G)I-DLE) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/OWKU_nU7--8",
@@ -1930,7 +1930,7 @@ const broadcastStageCards = [
     "duration": "00:03:53",
     "thumbnail": "https://i.ytimg.com/vi/OWKU_nU7--8/maxresdefault.jpg",
     "alt": "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [Music Bank / ] (2020-05-01)",
-    "title": "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [ / ] [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "(G)I-DLE (여자)아이들 - Oh my god(사랑해) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/ZSUgjrwrQR0",
@@ -1940,7 +1940,7 @@ const broadcastStageCards = [
     "duration": "00:03:54",
     "thumbnail": "https://i.ytimg.com/vi/ZSUgjrwrQR0/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 우기 '사랑해(Luv U)' ((G)I-DLE YUQI Fancam) l @MusicBank (2020-05-01)",
-    "title": "[K-Fancam] (여자)아이들 우기 '사랑해(Luv U)' ((G)I-DLE YUQI Fancam) l [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "[K-Fancam] (여자)아이들 우기 '사랑해(Luv U)' ((G)I-DLE YUQI Fancam) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/JWOpX6Y8JWs",
@@ -1950,7 +1950,7 @@ const broadcastStageCards = [
     "duration": "00:03:54",
     "thumbnail": "https://i.ytimg.com/vi/JWOpX6Y8JWs/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 민니 '사랑해(Luv U)' ((G)I-DLE MINNIE Fancam) l @MusicBank (2020-05-01)",
-    "title": "[K-Fancam] (여자)아이들 민니 '사랑해(Luv U)' ((G)I-DLE MINNIE Fancam) l [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "[K-Fancam] (여자)아이들 민니 '사랑해(Luv U)' ((G)I-DLE MINNIE Fancam) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/Rqc386HML_w",
@@ -1960,7 +1960,7 @@ const broadcastStageCards = [
     "duration": "00:03:54",
     "thumbnail": "https://i.ytimg.com/vi/Rqc386HML_w/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 미연 '사랑해(Luv U)' ((G)I-DLE MIYEON Fancam) l @MusicBank (2020-05-01)",
-    "title": "[K-Fancam] (여자)아이들 미연 '사랑해(Luv U)' ((G)I-DLE MIYEON Fancam) l [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "[K-Fancam] (여자)아이들 미연 '사랑해(Luv U)' ((G)I-DLE MIYEON Fancam) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/c4b9R6w2AOQ",
@@ -1970,7 +1970,7 @@ const broadcastStageCards = [
     "duration": "00:03:54",
     "thumbnail": "https://i.ytimg.com/vi/c4b9R6w2AOQ/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 슈화 '사랑해(Luv U)' ((G)I-DLE SHUHUA Fancam) l @MusicBank (2020-05-01)",
-    "title": "[K-Fancam] (여자)아이들 슈화 '사랑해(Luv U)' ((G)I-DLE SHUHUA Fancam) l [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "[K-Fancam] (여자)아이들 슈화 '사랑해(Luv U)' ((G)I-DLE SHUHUA Fancam) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/BQdvLF4IsAI",
@@ -1980,7 +1980,7 @@ const broadcastStageCards = [
     "duration": "00:03:54",
     "thumbnail": "https://i.ytimg.com/vi/BQdvLF4IsAI/maxresdefault.jpg",
     "alt": "[K-Choreo 6K] (여자)아이들 직캠 '사랑해(Luv U)' ((G)I-DLE Choreography) l @MusicBank (2020-05-01)",
-    "title": "[K-Choreo 6K] (여자)아이들 직캠 '사랑해(Luv U)' ((G)I-DLE Choreography) l [뮤직뱅크/Music Bank] (2020-05-01)"
+    "title": "[K-Choreo 6K] (여자)아이들 직캠 '사랑해(Luv U)' ((G)I-DLE Choreography) [뮤직뱅크/Music Bank] (2020-05-01)"
   },
   {
     "link": "https://youtu.be/-m1IJhT_x4k",
@@ -2040,7 +2040,7 @@ const broadcastStageCards = [
     "duration": "00:04:12",
     "thumbnail": "https://i.ytimg.com/vi/YrMpr34mr4k/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)│@SBS Inkigayo_ (2020-05-03)",
-    "title": "[안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)│[인기가요/Inkigayo] (2020-05-03)"
+    "title": "[안방1열 직캠4K] (여자)아이들 민니 '사랑해' ((G)I-DLE MINNIE 'Luv U' FanCam)[인기가요/Inkigayo] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/s266skkYLp0",
@@ -2050,7 +2050,7 @@ const broadcastStageCards = [
     "duration": "00:03:57",
     "thumbnail": "https://i.ytimg.com/vi/s266skkYLp0/maxresdefault.jpg",
     "alt": "[안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)│@SBS Inkigayo_ (2020-05-03)",
-    "title": "[안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)│[인기가요/Inkigayo] (2020-05-03)"
+    "title": "[안방1열 직캠4K] (여자)아이들 소연 '사랑해' ((G)I-DLE SOYEON 'Luv U' FanCam)[인기가요/Inkigayo] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/bbgOs4mLet8",
@@ -2060,7 +2060,7 @@ const broadcastStageCards = [
     "duration": "00:04:13",
     "thumbnail": "https://i.ytimg.com/vi/bbgOs4mLet8/maxresdefault.jpg",
     "alt": "[페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)│@SBS Inkigayo_ (2020-05-03)",
-    "title": "[페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)│[인기가요/Inkigayo] (2020-05-03)"
+    "title": "[페이스캠4K] (여자)아이들 우기 '사랑해' ((G)I-DLE YUQI 'Luv U' FaceCam)[인기가요/Inkigayo] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/Hk8mv2K7T-I",
@@ -2070,7 +2070,7 @@ const broadcastStageCards = [
     "duration": "00:04:00",
     "thumbnail": "https://i.ytimg.com/vi/Hk8mv2K7T-I/maxresdefault.jpg",
     "alt": "[페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)│@SBS Inkigayo_ (2020-05-03)",
-    "title": "[페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)│[인기가요/Inkigayo] (2020-05-03)"
+    "title": "[페이스캠4K] (여자)아이들 미연 '사랑해' ((G)I-DLE MIYEON 'Luv U' FaceCam)[인기가요/Inkigayo] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/-9Be9EtRXvk",
@@ -2090,7 +2090,7 @@ const broadcastStageCards = [
     "duration": "00:03:41",
     "thumbnail": "https://i.ytimg.com/vi/hU5267NmCS0/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) l #EP.351 [쇼챔피언/Show Champion] (2020-05-03)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 사랑해 ((G)I-DLE YUQI - Luv U) #EP.351 [쇼챔피언/Show Champion] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/rtm8dDd4myg",
@@ -2100,7 +2100,7 @@ const broadcastStageCards = [
     "duration": "00:03:41",
     "thumbnail": "https://i.ytimg.com/vi/rtm8dDd4myg/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) l #쇼챔피언 l EP.351 (2020-05-03)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) l #EP.351 [쇼챔피언/Show Champion] (2020-05-03)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 사랑해 ((G)I-DLE SOYEON - Luv U) #EP.351 [쇼챔피언/Show Champion] (2020-05-03)"
   },
   {
     "link": "https://youtu.be/Nj6E9BI171k",
@@ -2110,7 +2110,7 @@ const broadcastStageCards = [
     "duration": "00:03:19",
     "thumbnail": "https://i.ytimg.com/vi/Nj6E9BI171k/maxresdefault.jpg",
     "alt": "[Show Champion] [랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE - Oh my god) l EP.354 (2020-05-20)",
-    "title": "[랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE - Oh my god) l EP.354 [쇼챔피언/Show Champion] (2020-05-20)"
+    "title": "[랜선 파티 특집] (여자)아이들 - Oh my god ((G)I-DLE - Oh my god) EP.354 [쇼챔피언/Show Champion] (2020-05-20)"
   },
   {
     "link": "https://youtu.be/azTqS5HtshI",
@@ -2120,7 +2120,7 @@ const broadcastStageCards = [
     "duration": "00:03:35",
     "thumbnail": "https://i.ytimg.com/vi/azTqS5HtshI/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam) l @MusicBank (2020-06-26)",
-    "title": "[K-Fancam] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam) l [뮤직뱅크/Music Bank] (2020-06-26)"
+    "title": "[K-Fancam] (여자)아이들 우기 'Oh my god' ((G)I-DLE YUQI Fancam) [뮤직뱅크/Music Bank] (2020-06-26)"
   },
   {
     "link": "https://youtu.be/RpqqTrmG19I",
@@ -2130,7 +2130,7 @@ const broadcastStageCards = [
     "duration": "00:03:35",
     "thumbnail": "https://i.ytimg.com/vi/RpqqTrmG19I/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam) l @MusicBank (2020-06-26)",
-    "title": "[K-Fancam] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam) l [뮤직뱅크/Music Bank] (2020-06-26)"
+    "title": "[K-Fancam] (여자)아이들 민니 'Oh my god' ((G)I-DLE MINNIE Fancam) [뮤직뱅크/Music Bank] (2020-06-26)"
   },
   {
     "link": "https://youtu.be/JMf7Qm9bj8A",
@@ -2140,7 +2140,7 @@ const broadcastStageCards = [
     "duration": "00:04:23",
     "thumbnail": "https://i.ytimg.com/vi/JMf7Qm9bj8A/maxresdefault.jpg",
     "alt": "(G)I-DLE - Oh my god [Music Bank / ] (2020-06-26)",
-    "title": "(G)I-DLE - Oh my god [ / ] [뮤직뱅크/Music Bank] (2020-06-26)"
+    "title": "(G)I-DLE - Oh my god [뮤직뱅크/Music Bank] (2020-06-26)"
   },
   {
     "link": "https://youtu.be/sjqnXd51vGY",
@@ -2410,7 +2410,7 @@ const broadcastStageCards = [
     "duration": "00:03:48",
     "thumbnail": "https://i.ytimg.com/vi/Mi6dx4nHdL4/maxresdefault.jpg",
     "alt": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] (2020-08-14)",
-    "title": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [/] [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/M8bEpz_9RVw",
@@ -2420,7 +2420,7 @@ const broadcastStageCards = [
     "duration": "00:03:51",
     "thumbnail": "https://i.ytimg.com/vi/M8bEpz_9RVw/maxresdefault.jpg",
     "alt": "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [Music Bank / ] (2020-08-14)",
-    "title": "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [ / ] [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "(G)I-DLE(여자)아이들 - DUMDi DUMDi(덤디덤디) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/orcH1Ywi2RE",
@@ -2430,7 +2430,7 @@ const broadcastStageCards = [
     "duration": "00:03:34",
     "thumbnail": "https://i.ytimg.com/vi/orcH1Ywi2RE/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) l #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 미연 - 덤디덤디 ((G)I-DLE MIYEON - DUMDi DUMDi) #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/ZwHjERmiZb8",
@@ -2440,7 +2440,7 @@ const broadcastStageCards = [
     "duration": "00:03:34",
     "thumbnail": "https://i.ytimg.com/vi/ZwHjERmiZb8/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) l #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 소연 - 덤디덤디 ((G)I-DLE SOYEON - DUMDi DUMDi) #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/AfxEpIBYU1g",
@@ -2450,7 +2450,7 @@ const broadcastStageCards = [
     "duration": "00:03:34",
     "thumbnail": "https://i.ytimg.com/vi/AfxEpIBYU1g/maxresdefault.jpg",
     "alt": "[쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) l #쇼챔피언 l EP.366 (2020-08-14)",
-    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) l #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
+    "title": "[쇼챔직캠 4K] (여자)아이들 우기 - 덤디덤디 ((G)I-DLE YUQI - DUMDi DUMDi) #EP.366 [쇼챔피언/Show Champion] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/oV6oOpMJuLI",
@@ -2460,7 +2460,7 @@ const broadcastStageCards = [
     "duration": "00:03:47",
     "thumbnail": "https://i.ytimg.com/vi/oV6oOpMJuLI/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) l @MusicBank (2020-08-14)",
-    "title": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) l [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/eXBCXCKDomo",
@@ -2470,7 +2470,7 @@ const broadcastStageCards = [
     "duration": "00:03:47",
     "thumbnail": "https://i.ytimg.com/vi/eXBCXCKDomo/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam) l @MusicBank (2020-08-14)",
-    "title": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam) l [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/vx6W0kSRta8",
@@ -2480,7 +2480,7 @@ const broadcastStageCards = [
     "duration": "00:03:47",
     "thumbnail": "https://i.ytimg.com/vi/vx6W0kSRta8/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 민니 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MINNIE Fancam) l @MusicBank (2020-08-14)",
-    "title": "[K-Fancam] (여자)아이들 민니 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MINNIE Fancam) l [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "[K-Fancam] (여자)아이들 민니 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MINNIE Fancam) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/AaJUMsqWBNc",
@@ -2490,7 +2490,7 @@ const broadcastStageCards = [
     "duration": "00:03:47",
     "thumbnail": "https://i.ytimg.com/vi/AaJUMsqWBNc/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) l @MusicBank (2020-08-14)",
-    "title": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) l [뮤직뱅크/Music Bank] (2020-08-14)"
+    "title": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) [뮤직뱅크/Music Bank] (2020-08-14)"
   },
   {
     "link": "https://youtu.be/vPVFMVTNmFo",
@@ -2540,7 +2540,7 @@ const broadcastStageCards = [
     "duration": "00:03:47",
     "thumbnail": "https://i.ytimg.com/vi/gjov4VAn-oM/maxresdefault.jpg",
     "alt": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│@SBS Inkigayo_. (2020-08-16)",
-    "title": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam)│[인기가요/Inkigayo] (2020-08-16)"
+    "title": "[페이스캠4K] (여자)아이들 민니 '덤디덤디' ((G)I-DLE MINNIE 'DUMDi DUMDi' FaceCam) [인기가요/Inkigayo] (2020-08-16)"
   },
   {
     "link": "https://youtu.be/VOxgDgjgA7g",
@@ -2560,7 +2560,7 @@ const broadcastStageCards = [
     "duration": "00:05:47",
     "thumbnail": "https://i.ytimg.com/vi/gY9c6BiZjpY/maxresdefault.jpg",
     "alt": "[ENG] Top in 2nd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! (in Full) M COUNTDOWN 20081 (2020-08-18)",
-    "title": "[ENG] Top in 2nd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! (in Full) 20081 [엠카운트다운/MCOUNTDOWN] (2020-08-18)"
+    "title": "[ENG] Top in 2nd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! (in Full) [엠카운트다운/MCOUNTDOWN] (2020-08-18)"
   },
   {
     "link": "https://youtu.be/SGG9IcdGtkw",
@@ -2590,7 +2590,7 @@ const broadcastStageCards = [
     "duration": "00:03:34",
     "thumbnail": "https://i.ytimg.com/vi/xpAOx6sW3pY/maxresdefault.jpg",
     "alt": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] (2020-08-21)",
-    "title": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [/] [뮤직뱅크/Music Bank] (2020-08-21)"
+    "title": "덤디덤디(DUMDi DUMDi) - (여자)아이들((G)I-DLE) [뮤직뱅크/Music Bank] (2020-08-21)"
   },
   {
     "link": "https://youtu.be/tkGGF3_b4Ms",
@@ -2600,7 +2600,7 @@ const broadcastStageCards = [
     "duration": "00:03:34",
     "thumbnail": "https://i.ytimg.com/vi/tkGGF3_b4Ms/maxresdefault.jpg",
     "alt": "(G)I-DLE - DUMDi DUMDi(덤디덤디) [Music Bank / ] (2020-08-21)",
-    "title": "(G)I-DLE - DUMDi DUMDi(덤디덤디) [ / ] [뮤직뱅크/Music Bank] (2020-08-21)"
+    "title": "(G)I-DLE - DUMDi DUMDi(덤디덤디) [뮤직뱅크/Music Bank] (2020-08-21)"
   },
   {
     "link": "https://youtu.be/Kdq1bzB1jQw",
@@ -2610,7 +2610,7 @@ const broadcastStageCards = [
     "duration": "00:03:45",
     "thumbnail": "https://i.ytimg.com/vi/Kdq1bzB1jQw/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam) l @MusicBank (2020-08-21)",
-    "title": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam) l [뮤직뱅크/Music Bank] (2020-08-21)"
+    "title": "[K-Fancam] (여자)아이들 소연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE SOYEON Fancam)  [뮤직뱅크/Music Bank] (2020-08-21)"
   },
   {
     "link": "https://youtu.be/510-DMcTZ1Y",
@@ -2620,7 +2620,7 @@ const broadcastStageCards = [
     "duration": "00:03:45",
     "thumbnail": "https://i.ytimg.com/vi/510-DMcTZ1Y/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) l @MusicBank (2020-08-21)",
-    "title": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) l [뮤직뱅크/Music Bank] (2020-08-21)"
+    "title": "[K-Fancam] (여자)아이들 미연 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE MIYEON Fancam) [뮤직뱅크/Music Bank] (2020-08-21)"
   },
   {
     "link": "https://youtu.be/3E-oBfJu-ac",
@@ -2630,7 +2630,7 @@ const broadcastStageCards = [
     "duration": "00:03:45",
     "thumbnail": "https://i.ytimg.com/vi/3E-oBfJu-ac/maxresdefault.jpg",
     "alt": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) l @MusicBank (2020-08-21)",
-    "title": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) l [뮤직뱅크/Music Bank] (2020-08-21)"
+    "title": "[K-Fancam] (여자)아이들 우기 직캠 '덤디덤디 (DUMDi DUMDi)' ((G)I-DLE YUQI Fancam) [뮤직뱅크/Music Bank] (2020-08-21)"
   },
   {
     "link": "https://youtu.be/RlC4E9HjbDo",
