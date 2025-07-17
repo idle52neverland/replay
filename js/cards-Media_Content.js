@@ -4422,7 +4422,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/iBYJqZdqWI0",
     "category": "Media_Content",
-    "member": "소연, 민니",
+    "member": "민니, 소연",
     "date": "2021-02-17",
     "duration": "00:09:24",
     "thumbnail": "https://i.ytimg.com/vi/iBYJqZdqWI0/sddefault.jpg",
@@ -4432,7 +4432,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/UT28mAGBTrY",
     "category": "Media_Content",
-    "member": "소연, 민니, 우기",
+    "member": "민니, 소연",
     "date": "2021-02-17",
     "duration": "00:08:39",
     "thumbnail": "https://i.ytimg.com/vi/UT28mAGBTrY/sddefault.jpg",
