@@ -1765,6 +1765,137 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/UjAkAAgo6l4/maxresdefault.jpg",
   "alt": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE (2025-07-12)",
   "title": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE (2025-07-12)"
+},
+  {
+  "link": "https://youtu.be/hT-Vr2kq-W4",
+  "category": "Festival_Stage",
+  "member": "소연",
+  "date": "2019-02-03",
+  "duration": "00:04:03",
+  "thumbnail": "https://i.ytimg.com/vi/hT-Vr2kq-W4/hqdefault.jpg",
+  "alt": "이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들) (2019-02-03)",
+  "title": "이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들) (2019-02-03)"
+},
+{
+  "link": "https://youtu.be/GoRZX2NAuaY",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2020-06-13",
+  "duration": "00:11:20",
+  "thumbnail": "https://i.ytimg.com/vi/GoRZX2NAuaY/maxresdefault.jpg",
+  "alt": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W (2020-06-13)",
+  "title": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W (2020-06-13)"
+},
+{
+  "link": "https://youtu.be/FYU-KWvjsdM",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-07-01",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/FYU-KWvjsdM/maxresdefault.jpg",
+  "alt": "[COVER] (KOR) '想見你想見你想見你' (Miss You 3000) 상견니OST @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI (2023-07-01)",
+  "title": "[COVER] (KOR) '想見你想見你想見你' (Miss You 3000) 상견니OST @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI (2023-07-01)"
+},
+{
+  "link": "https://youtu.be/YwEYOXd_f-E",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-07-15",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/YwEYOXd_f-E/maxresdefault.jpg",
+  "alt": "[COVER] 'รักแรก (First Love)' @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok (2023-07-15)",
+  "title": "[COVER] 'รักแรก (First Love)' @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok (2023-07-15)"
+},
+{
+  "link": "https://youtu.be/jAsz1JNFS3s",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-07-22",
+  "duration": "00:03:53",
+  "thumbnail": "https://i.ytimg.com/vi/jAsz1JNFS3s/maxresdefault.jpg",
+  "alt": "[COVER] '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG (2023-07-22)",
+  "title": "[COVER] '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG (2023-07-22)"
+},
+{
+  "link": "https://youtu.be/dmltDd4Fj18",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-07-22",
+  "duration": "00:04:01",
+  "thumbnail": "https://i.ytimg.com/vi/dmltDd4Fj18/maxresdefault.jpg",
+  "alt": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG (2023-07-22)",
+  "title": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG (2023-07-22)"
+},
+{
+  "link": "https://youtu.be/aRUb-zKJ4rg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-09-28",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/aRUb-zKJ4rg/maxresdefault.jpg",
+  "alt": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO (2023-09-28)",
+  "title": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO (2023-09-28)"
+},
+{
+  "link": "https://youtu.be/_wnNlWZFIhs",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2023-10-13",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/_wnNlWZFIhs/maxresdefault.jpg",
+  "alt": "[COVER] "不再猶豫" @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)",
+  "title": "[COVER] "不再猶豫" @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)"
+},
+{
+  "link": "https://youtu.be/XsZjPlEjTOg",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-08-23",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/XsZjPlEjTOg/maxresdefault.jpg",
+  "alt": "[COVER] 容祖兒- 我的驕傲 @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG (2024-08-23)",
+  "title": "[COVER] 容祖兒- 我的驕傲 @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG (2024-08-23)"
+},
+{
+  "link": "https://youtu.be/gdTq48dIBF8",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-09-01",
+  "duration": "00:05:14",
+  "thumbnail": "https://i.ytimg.com/vi/gdTq48dIBF8/maxresdefault.jpg",
+  "alt": "[COVER] あいみょん マリーゴールド(아이묭 마리골드) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO (2024-09-01)",
+  "title": "[COVER] あいみょん マリーゴールド(아이묭 마리골드) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO (2024-09-01)"
+},
+{
+  "link": "https://youtu.be/Sx8Ua_SPwLA",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-10-04",
+  "duration": "00:04:30",
+  "thumbnail": "https://i.ytimg.com/vi/Sx8Ua_SPwLA/maxresdefault.jpg",
+  "alt": "[COVER] (KOR) '如果可以' 〈만약〉 @2024 (G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)",
+  "title": "[COVER] (KOR) '如果可以' 〈만약〉 @2024 (G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)"
+},
+{
+  "link": "https://youtu.be/AGLeEentGr8",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-10-19",
+  "duration": "00:04:24",
+  "thumbnail": "https://i.ytimg.com/vi/AGLeEentGr8/maxresdefault.jpg",
+  "alt": "[COVER] พบรัก  @(G)I-DLE in WORLD TOUR [iDOL] BANGKOK (2024-10-19)",
+  "title": "[COVER] พบรัก  @(G)I-DLE in WORLD TOUR [iDOL] BANGKOK (2024-10-19)"
+},
+
+{
+  "link": "https://youtu.be/2VSgOtADl3A",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-10-26",
+  "duration": "00:04:37",
+  "thumbnail": "https://i.ytimg.com/vi/2VSgOtADl3A/maxresdefault.jpg",
+  "alt": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU (2024-10-26)",
+  "title": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU (2024-10-26)"
 }
 
 
