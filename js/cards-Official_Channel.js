@@ -6259,16 +6259,16 @@ const officialChannelCards = [
     "subtag": "아이톡 | I-TALK",
     "date": "2019-07-06"
   },
-  {
-    "link": "https://youtu.be/D6bGBZdVYXc",
+  {   
+    "link": "https://weverse.io/i-dle/media/2-111431891",
     "category": "Official_Channel",
     "member": "아이들",
-    "thumbnail": "https://i.ytimg.com/vi/D6bGBZdVYXc/maxresdefault.jpg",
-    "alt": "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
-    "title": "(여자)아이들((G)I-DLE) - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
-    "duration": "00:16:02",
-    "subtag": "아이톡 | I-TALK",
-    "date": "2019-07-16"
+    "date": "2019-07-16",
+    "duration": "00:16:01",
+    "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNTQg/MDAxNjcyODkxNDUwODAz.8NTXvg0nkEhMaHSRVdTLFYTaaA_FGN_TSttHyQNamSsg.7LWnAHr0ye23Sq7vUOG5U3ld4-k2B5D_8WAgUVcPk-cg.JPEG/upload_28G29I-DLE_I-TALK2338_Uh-Oh_1stweek_BTS_Part1_thumbnail.jpg?type=f640_360",
+    "alt": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
+    "title": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) (2019-07-16)",
+    "subtag": "아이톡 | I-TALK"
   },
   {
     "link": "https://youtu.be/MOL71EcqTh8",
@@ -6292,16 +6292,16 @@ const officialChannelCards = [
     "subtag": "아이톡 | I-TALK",
     "date": "2019-08-09"
   },
-  {
-    "link": "https://youtu.be/F1ClbxlwSr0",
+  {   
+    "link": "https://weverse.io/i-dle/media/3-110666558",
     "category": "Official_Channel",
     "member": "아이들",
-    "thumbnail": "https://i.ytimg.com/vi/F1ClbxlwSr0/maxresdefault.jpg",
-    "alt": "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
-    "title": "(여자)아이들((G)I-DLE) - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
-    "duration": "00:10:20",
-    "subtag": "아이톡 | I-TALK",
-    "date": "2019-09-15"
+    "date": "2019-09-15",
+    "duration": "00:10:19",
+    "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMjYx/MDAxNjcyODkxNDI4MTI4.3Um-OgLNANH4KD8y7Z4mXxM2g07L5v4WEVzOWShYvUQg.f0dNIuiVGfyIOeiiVhWcGzOh4GJ6zlZPpmsmyQo93okg.JPEG/upload_28G29I-DLE_I-TALK2341_Soribada_Awards_BTS_Thumbnail.jpg?type=f640_360",
+    "alt": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
+    "title": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 (2019-09-15)",
+    "subtag": "아이톡 | I-TALK"
   },
   {
     "link": "https://youtu.be/zL94SV9_j34",
