@@ -208,9 +208,14 @@
     }
 
     function applyFilters() {
-  const normalize = str => str.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '').replace(/\s+/g, '');
-  const keywords = searchInput.value.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ')
-    .split(/\s+/).filter(Boolean).map(normalize);
+  const normalize = str => str.toLowerCase()
+    .replace(/[^\uac00-\ud7af\u4e00-\u9fff\u0e00-\u0e7f\w]+/g, '')
+    .replace(/\s+/g, '');
+
+  const keywords = searchInput.value.toLowerCase()
+    .replace(/[^\uac00-\ud7af\u4e00-\u9fff\u0e00-\u0e7f\w]+/g, ' ')
+    .split(/\s+/).filter(Boolean)
+    .map(normalize);
 
   const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
   const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
@@ -228,19 +233,18 @@
 
     return true;
   });
+
+  filtered.sort((a, b) => {
+    const dateA = new Date(a.date || '2000-01-01');
+    const dateB = new Date(b.date || '2000-01-01');
+    return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
+  });
+
+  currentIndex = 0;
+  container.innerHTML = '';
+  renderCards(filtered);
 }
 
-
-      filtered.sort((a, b) => {
-        const dateA = new Date(a.date || '2000-01-01');
-        const dateB = new Date(b.date || '2000-01-01');
-        return sortOrder === "oldest" ? dateA - dateB : dateB - dateA;
-      });
-
-      currentIndex = 0;
-      container.innerHTML = '';
-      renderCards(filtered);
-    }
 
     window.onload = () => {
       createFilterButtons("yearFilters", ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "PRE-DEBUT"]);
