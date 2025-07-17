@@ -1843,8 +1843,8 @@ const festivalStageCards = [
   "date": "2023-10-13",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/_wnNlWZFIhs/maxresdefault.jpg",
-  "alt": "[COVER] "不再猶豫" @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)",
-  "title": "[COVER] "不再猶豫" @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)"
+  "alt": "[COVER] '不再猶豫' @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)",
+  "title": "[COVER] '不再猶豫' @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU (2023-10-13)"
 },
 {
   "link": "https://youtu.be/XsZjPlEjTOg",
