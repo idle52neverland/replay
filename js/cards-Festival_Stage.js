@@ -1766,7 +1766,7 @@ const festivalStageCards = [
   "alt": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE (2025-07-12)",
   "title": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE (2025-07-12)"
 },
-  {
+{
   "link": "https://youtu.be/hT-Vr2kq-W4",
   "category": "Festival_Stage",
   "member": "소연",
@@ -1873,8 +1873,8 @@ const festivalStageCards = [
   "date": "2024-10-04",
   "duration": "00:04:30",
   "thumbnail": "https://i.ytimg.com/vi/Sx8Ua_SPwLA/maxresdefault.jpg",
-  "alt": "[COVER] (KOR) '如果可以' 〈만약〉 @2024 (G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)",
-  "title": "[COVER] (KOR) '如果可以' 〈만약〉 @2024 (G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)"
+  "alt": "[COVER] (KOR) '如果可以' 〈만약〉 @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)",
+  "title": "[COVER] (KOR) '如果可以' 〈만약〉 @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI (2024-10-04)"
 },
 {
   "link": "https://youtu.be/AGLeEentGr8",
@@ -1883,10 +1883,9 @@ const festivalStageCards = [
   "date": "2024-10-19",
   "duration": "00:04:24",
   "thumbnail": "https://i.ytimg.com/vi/AGLeEentGr8/maxresdefault.jpg",
-  "alt": "[COVER] พบรัก  @(G)I-DLE in WORLD TOUR [iDOL] BANGKOK (2024-10-19)",
-  "title": "[COVER] พบรัก  @(G)I-DLE in WORLD TOUR [iDOL] BANGKOK (2024-10-19)"
+  "alt": "[COVER] พบรัก  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK (2024-10-19)",
+  "title": "[COVER] พบรัก  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK (2024-10-19)"
 },
-
 {
   "link": "https://youtu.be/2VSgOtADl3A",
   "category": "Festival_Stage",
@@ -1897,9 +1896,6 @@ const festivalStageCards = [
   "alt": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU (2024-10-26)",
   "title": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU (2024-10-26)"
 }
-
-
-
 
 
 
