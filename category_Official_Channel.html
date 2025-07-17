@@ -208,25 +208,28 @@
     }
 
     function applyFilters() {
-      const normalize = str => str.toLowerCase().replace(/[^가-힣\w]+/g, '').replace(/\s+/g, '');
-      const keywords = searchInput.value.toLowerCase().replace(/[^가-힣\w]+/g, ' ').split(/\s+/).filter(Boolean).map(normalize);
+  const normalize = str => str.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '').replace(/\s+/g, '');
+  const keywords = searchInput.value.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .split(/\s+/).filter(Boolean).map(normalize);
 
-      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+  const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+  const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
 
-      const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent);
+  const years = Array.from(yearBtns).map(b => b.textContent);
+  const months = Array.from(monthBtns).map(b => b.textContent);
 
-      filtered = all.filter(card => {
-        if (selectedSubtag && normalize(card.subtag || '') !== normalize(selectedSubtag)) return false;
-        if (keywords.length && !keywords.every(k => normalize(card.title + ' ' + card.member).includes(k))) return false;
+  filtered = all.filter(card => {
+    if (selectedSubtag && normalize(card.subtag || '') !== normalize(selectedSubtag)) return false;
+    if (keywords.length && !keywords.every(k => normalize(card.title + ' ' + card.member).includes(k))) return false;
 
-        const [y, m] = (card.date || '').split('-');
-        if (years.length && !years.includes(y)) return false;
-        if (months.length && !months.includes(m)) return false;
+    const [y, m] = (card.date || '').split('-');
+    if (years.length && !years.includes(y)) return false;
+    if (months.length && !months.includes(m)) return false;
 
-        return true;
-      });
+    return true;
+  });
+}
+
 
       filtered.sort((a, b) => {
         const dateA = new Date(a.date || '2000-01-01');
