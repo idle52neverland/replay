@@ -6770,8 +6770,8 @@ const broadcastStageCards = [
     "date": "2023-01-21",
     "duration": "00:09:23",
     "thumbnail": "https://i.ytimg.com/vi/Ejcj1JrpnDA/maxresdefault.jpg",
-    "alt": "大勢女團(G)I-DLE唱跳破億神曲〈Nxde〉、〈MY BAG〉、〈TOMBOY〉，全場沸騰震撼小巨蛋 (2023-01-21)",
-    "title": "大勢女團(G)I-DLE唱跳破億神曲〈Nxde〉、〈MY BAG〉、〈TOMBOY〉，全場沸騰震撼小巨蛋 (2023-01-21)"
+    "alt": "大勢女團(G)I-DLE唱跳破億神曲<Nxde>,<MY BAG>,<TOMBOY>, 全場沸騰震撼小巨蛋 | 2023 초급거성홍백예능대상 (2023-01-21)",
+    "title": "大勢女團(G)I-DLE唱跳破億神曲<Nxde>,<MY BAG>,<TOMBOY>, 全場沸騰震撼小巨蛋| 2023 초급거성홍백예능대상 (2023-01-21)"
   },
   {
     "link": "https://youtu.be/tXSn9Xbt8ds",
@@ -9081,17 +9081,6 @@ const broadcastStageCards = [
     "alt": "제34회 서울가요대상 SMA 레드카펫 MC 수빈-미연-강승윤 (2025-06-21)",
     "title": "제34회 서울가요대상 SMA 레드카펫 MC 수빈-미연-강승윤 (2025-06-21)"
   },
-  {
-    "link": "https://youtu.be/M0vPrPCYu14",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2023-01-21",
-    "duration": "00:09:23",
-    "thumbnail": "https://i.ytimg.com/vi/M0vPrPCYu14/sddefault.jpg",
-    "alt": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)",
-    "title": "2023 초급거성홍백예능대상 | 대만공연 - Nxde, MY BAG, TOM BOY |超級巨星紅白藝能大賞| (2023-01-21)"
-  },
-
   {
   "link": "https://youtu.be/vSBqBJgSEgA",
   "category": "Broadcast_Stage",
