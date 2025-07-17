@@ -229,26 +229,28 @@
     }
 
     function applyFilters() {
-      const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
-      const keyword = document.getElementById("searchInput").value;
-      const normalize = str => str.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, '').replace(/\s+/g, '');
-      const keywords = keyword.toLowerCase().replace(/[^\w\uac00-\ud7af]+/g, ' ').split(/\s+/).filter(Boolean).map(normalize);
+  const selectedCategory = new URLSearchParams(window.location.search).get("category") || "";
+  const keyword = document.getElementById("searchInput").value;
 
-      const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
-      const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
-      const years = Array.from(yearBtns).map(b => b.textContent);
-      const months = Array.from(monthBtns).map(b => b.textContent);
+  const normalize = str => str.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '').replace(/\s+/g, '');
+  const keywords = keyword.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .split(/\s+/).filter(Boolean).map(normalize);
 
-      filtered = all.filter(card => {
-        if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
-        if (keywords.length && !keywords.every(k => normalize(card.title + ' ' + card.member).includes(k))) return false;
+  const yearBtns = document.querySelectorAll("#yearFilters .category-btn.active");
+  const monthBtns = document.querySelectorAll("#monthFilters .category-btn.active");
+  const years = Array.from(yearBtns).map(b => b.textContent);
+  const months = Array.from(monthBtns).map(b => b.textContent);
 
-        const cardYear = (card.date || extractDate(card.title)).slice(0, 4);
-        const cardMonth = (card.date || extractDate(card.title)).slice(5, 7);
-        if (years.length && !years.includes(cardYear)) return false;
-        if (months.length && !months.includes(cardMonth)) return false;
-        return true;
-      });
+  filtered = all.filter(card => {
+    if (card.category?.toLowerCase() !== selectedCategory.toLowerCase()) return false;
+    if (keywords.length && !keywords.every(k => normalize(card.title + ' ' + card.member).includes(k))) return false;
+
+    const cardYear = (card.date || extractDate(card.title)).slice(0, 4);
+    const cardMonth = (card.date || extractDate(card.title)).slice(5, 7);
+    if (years.length && !years.includes(cardYear)) return false;
+    if (months.length && !months.includes(cardMonth)) return false;
+    return true;
+  });
 
       filtered.sort((a, b) => {
         const dateA = new Date(a.date || extractDate(a.title));
