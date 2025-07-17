@@ -14060,6 +14060,16 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZXj_XyFlFWw/maxresdefault.jpg",
   "alt": "YUQI'S OOTD (with 아현) 😉♥️ (2025-07-16)",
   "title": "YUQI'S OOTD (with 아현) 😉♥️ (2025-07-16)"
+},
+  {
+  "link": "https://youtu.be/gTWK1vaWAkc",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-07-17",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/gTWK1vaWAkc/maxresdefault.jpg",
+  "alt": "#Problem_Child ⚡with #아이들 #idle #민니 #MINNIE |  #NOWZ #나우즈 #윤 #YOON#시윤 #SIYUN  #IGNITION #문제아 (2025-07-17)",
+  "title": "#Problem_Child ⚡with #아이들 #idle #민니 #MINNIE |  #NOWZ #나우즈 #윤 #YOON#시윤 #SIYUN  #IGNITION #문제아 (2025-07-17)"
 }
 
   ];
