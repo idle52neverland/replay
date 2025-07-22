@@ -8733,7 +8733,18 @@ const officialChannelCards = [
     "alt": "'나 혼자만 레벨업:ARISE' 광고 촬영 비하인드 [i-talk] #207 | i-dle (아이들)ㅣSUB (2025-07-14)",
     "title": "'나 혼자만 레벨업:ARISE' 광고 촬영 비하인드 [i-talk] #207 | i-dle (아이들)ㅣSUB (2025-07-14)",
     "subtag": "아이톡 | I-TALK"
-  }
+  },
+ {
+  "link": "https://youtu.be/yTTbpm3vsyY",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-07-18",
+  "duration": "00:12:57",
+  "thumbnail": "https://i.ytimg.com/vi/yTTbpm3vsyY/maxresdefault.jpg",
+  "alt": "제34회 서울가요대상 비하인드 [i-talk] #208 | i-dle (아이들)ㅣSUB (2025-07-18)",
+  "title": "제34회 서울가요대상 비하인드 [i-talk] #208 | i-dle (아이들)ㅣSUB (2025-07-18)",
+  "subtag": "아이톡 | I-TALK"
+}
 
 
 
