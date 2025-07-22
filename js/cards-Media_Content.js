@@ -12789,7 +12789,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/sb6swBDIyes/maxresdefault.jpg",
   "alt": "이적 - 걱정 말아요 그대 [쓰리콜] 1회 by 모비딕 Mobidic (2016-12-13)",
   "title": "이적 - 걱정 말아요 그대 [쓰리콜] 1회 by 모비딕 Mobidic (2016-12-13)"
-} 
+},
+{
+  "link": "https://youtu.be/bZoTveReZM8",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-07-17",
+  "duration": "00:40:48",
+  "thumbnail": "https://i.ytimg.com/vi/bZoTveReZM8/maxresdefault.jpg",
+  "alt": "나는 계획은 딱 질색이니까 l 슈화, 유연 l 어떡행 ep.3 [EN] (2025-07-17)",
+  "title": "나는 계획은 딱 질색이니까 l 슈화, 유연 l 어떡행 ep.3 [EN] (2025-07-17)"
+}
 
 
 ];
