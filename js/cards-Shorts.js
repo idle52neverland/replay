@@ -14070,7 +14070,28 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/gTWK1vaWAkc/maxresdefault.jpg",
   "alt": "#Problem_Child ⚡with #아이들 #idle #민니 #MINNIE |  #NOWZ #나우즈 #윤 #YOON#시윤 #SIYUN  #IGNITION #문제아 (2025-07-17)",
   "title": "#Problem_Child ⚡with #아이들 #idle #민니 #MINNIE |  #NOWZ #나우즈 #윤 #YOON#시윤 #SIYUN  #IGNITION #문제아 (2025-07-17)"
+},
+{
+  "link": "https://youtu.be/PT4lPj0jOpU",
+  "category": "Shorts",
+  "member": "미연, 소연, 우기",
+  "date": "2025-07-19",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/PT4lPj0jOpU/maxresdefault.jpg",
+  "alt": "Golden 🤣 (2025-07-19)",
+  "title": "Golden 🤣 (2025-07-19)"
+},
+{
+  "link": "https://youtu.be/r4Xakw4sBZ8",
+  "category": "Shorts",
+  "member": "민니, 슈화",
+  "date": "2025-07-20",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/r4Xakw4sBZ8/maxresdefault.jpg",
+  "alt": "하나 둘 셋, 뛰어 😆 (2025-07-20)",
+  "title": "하나 둘 셋, 뛰어 😆 (2025-07-20)"
 }
+  
 
   ];
 
