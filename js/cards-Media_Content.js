@@ -12802,7 +12802,7 @@ const mediaContentCards = [
 },
 {
   "link": "https://youtu.be/8lobndCP1xw",
-  "category": "Media_Performance",
+  "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-26",
   "duration": "00:09:48",
