@@ -12894,11 +12894,11 @@ const mediaContentCards = [
   "link": "https://youtu.be/s0wUW8hc4co",
   "category": "Media_Content",
   "member": "미연",
-  "date": "2015-05-13",
+  "date": "2025-05-13",
   "duration": "00:25:21",
   "thumbnail": "https://i.ytimg.com/vi/s0wUW8hc4co/maxresdefault.jpg",
-  "alt": "[19회 요약] 수차례 괴한의 습격을 받은 김두한, 그를 테러했던 배후에는 누가 있었나? [셀럽병사의 비밀] (2015-05-13)",
-  "title": "[19회 요약] 수차례 괴한의 습격을 받은 김두한, 그를 테러했던 배후에는 누가 있었나? [셀럽병사의 비밀] (2015-05-13)"
+  "alt": "[19회 요약] 수차례 괴한의 습격을 받은 김두한, 그를 테러했던 배후에는 누가 있었나? [셀럽병사의 비밀] (2025-05-13)",
+  "title": "[19회 요약] 수차례 괴한의 습격을 받은 김두한, 그를 테러했던 배후에는 누가 있었나? [셀럽병사의 비밀] (2025-05-13)"
 },
 {
   "link": "https://youtu.be/OutLlnsvnk8",
