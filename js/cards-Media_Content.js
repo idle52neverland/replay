@@ -12799,7 +12799,18 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/bZoTveReZM8/maxresdefault.jpg",
   "alt": "나는 계획은 딱 질색이니까 l 슈화, 유연 l 어떡행 ep.3 [EN] (2025-07-17)",
   "title": "나는 계획은 딱 질색이니까 l 슈화, 유연 l 어떡행 ep.3 [EN] (2025-07-17)"
+},
+{
+  "link": "https://youtu.be/8lobndCP1xw",
+  "category": "Media_Performance",
+  "member": "슈화",
+  "date": "2025-07-26",
+  "duration": "00:09:48",
+  "thumbnail": "https://i.ytimg.com/vi/8lobndCP1xw/maxresdefault.jpg",
+  "alt": "[SUB] I-dle 슈화 럭셔리 하우스 ⭐최초공개⭐ㅣ감별사 글로벌 EP.0 (2025-07-26)",
+  "title": "[SUB] I-dle 슈화 럭셔리 하우스 ⭐최초공개⭐ㅣ감별사 글로벌 EP.0 (2025-07-26)"
 }
+    
 
 
 ];
