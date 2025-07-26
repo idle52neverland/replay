@@ -12809,6 +12809,16 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/8lobndCP1xw/maxresdefault.jpg",
   "alt": "[SUB] I-dle 슈화 럭셔리 하우스 ⭐최초공개⭐ㅣ감별사 글로벌 EP.0 (2025-07-26)",
   "title": "[SUB] I-dle 슈화 럭셔리 하우스 ⭐최초공개⭐ㅣ감별사 글로벌 EP.0 (2025-07-26)"
+},
+{
+  "link": "https://youtu.be/aMnfInBcqkU",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-07-12",
+  "duration": "00:14:16",
+  "thumbnail": "https://i.ytimg.com/vi/aMnfInBcqkU/maxresdefault.jpg",
+  "alt": "We in Express modeㅣwith i-dle 미연 (2025-07-12)",
+  "title": "We in Express modeㅣwith i-dle 미연 (2025-07-12)"
 }
     
 
