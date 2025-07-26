@@ -14090,6 +14090,56 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/r4Xakw4sBZ8/maxresdefault.jpg",
   "alt": "하나 둘 셋, 뛰어 😆 (2025-07-20)",
   "title": "하나 둘 셋, 뛰어 😆 (2025-07-20)"
+},
+{
+  "link": "https://youtu.be/cX8kycRR89o",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2024-04-21",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/cX8kycRR89o/maxresdefault.jpg",
+  "alt": "#소연 과 괴물이 될 것 같아😈#GIDLE #여자아이들#온앤오프 #ONF #민균 #MINKYUN#BYE_MY_MONSTER (2024-04-21)",
+  "title": "#소연 과 괴물이 될 것 같아😈#GIDLE #여자아이들#온앤오프 #ONF #민균 #MINKYUN#BYE_MY_MONSTER (2024-04-21)"
+},
+{
+  "link": "https://youtu.be/wqcqYr6XXqI",
+  "category": "Shorts",
+  "member": "소연, 슈화",
+  "date": "2022-10-20",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/wqcqYr6XXqI/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 소연&슈화 ‘Nxde’ 챌린지 안무💕✨/ [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-20)",
+  "title": "(여자)아이들((G)I-DLE) 소연&슈화 ‘Nxde’ 챌린지 안무💕✨/ [비투비의 키스 더 라디오] l KBS 221020 방송 (2022-10-20)"
+},
+{
+  "link": "https://youtu.be/Bffb-S89sVU",
+  "category": "Shorts",
+  "member": "미연, 소연",
+  "date": "2025-07-22",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/Bffb-S89sVU/maxresdefault.jpg",
+  "alt": "GO CRAZY 💃 (2025-07-22)",
+  "title": "GO CRAZY 💃 (2025-07-22)"
+},
+{
+  "link": "https://youtu.be/PWLRCAJpWvk",
+  "category": "Shorts",
+  "member": "민니, 우기, 슈화",
+  "date": "2025-07-24",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/PWLRCAJpWvk/maxresdefault.jpg",
+  "alt": "YUQI in silent mode 😴 (2025-07-24)",
+  "title": "YUQI in silent mode 😴 (2025-07-24)"
+},
+{
+  "link": "https://youtu.be/3Yn2YVhLsp4",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2025-07-24",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/3Yn2YVhLsp4/maxresdefault.jpg",
+  "alt": "#착젤싫_Sung_by #우기 (feat.#미연) 🪽 #최예나 #예나 #YENA #아이들 #idle #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts (2025-07-24)",
+  "title": "#착젤싫_Sung_by #우기 (feat.#미연) 🪽 #최예나 #예나 #YENA #아이들 #idle #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts (2025-07-24)"
 }
   
 
