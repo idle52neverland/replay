@@ -829,6 +829,16 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/MwYmX-FNtkA/maxresdefault.jpg",
   "alt": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 콜라보 음원 ‘ARISE’ 뮤직 비디오 메이킹 필름🎵🎬 (2025-07-15)",
   "title": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 콜라보 음원 ‘ARISE’ 뮤직 비디오 메이킹 필름🎵🎬 (2025-07-15)"
+},
+{
+  "link": "https://youtu.be/lxfz-8mcbnI",
+  "category": "Commercials",
+  "member": "미연, 슈화",
+  "date": "2025-07-11",
+  "duration": "00:02:09",
+  "thumbnail": "https://i.ytimg.com/vi/lxfz-8mcbnI/maxresdefault.jpg",
+  "alt": "[나 혼자만 레벨업: ARISE] 헌터 오리진 스토리: 아이들 1편 (2025-07-11)",
+  "title": "[나 혼자만 레벨업: ARISE] 헌터 오리진 스토리: 아이들 1편 (2025-07-11)"
 }
 
 
