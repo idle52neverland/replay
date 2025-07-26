@@ -14140,7 +14140,48 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/3Yn2YVhLsp4/maxresdefault.jpg",
   "alt": "#착젤싫_Sung_by #우기 (feat.#미연) 🪽 #최예나 #예나 #YENA #아이들 #idle #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts (2025-07-24)",
   "title": "#착젤싫_Sung_by #우기 (feat.#미연) 🪽 #최예나 #예나 #YENA #아이들 #idle #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts (2025-07-24)"
+},
+  {
+  "link": "https://youtu.be/CBxCuWkbQmA",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2023-09-14",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/CBxCuWkbQmA/maxresdefault.jpg",
+  "alt": "[#스우파2] 본인 등판✨ 미연&우기 #트월ㅋ챌린지 (2023-09-14)",
+  "title": "[#스우파2] 본인 등판✨ 미연&우기 #트월ㅋ챌린지 (2023-09-14)"
+},
+{
+  "link": "https://youtu.be/64lVUx5pfFw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2023-07-28",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/64lVUx5pfFw/maxresdefault.jpg",
+  "alt": "퀸카💖와 함께 샤카샤카~🤙 with #여자아이들 #미연 #소유 #SOYOU #ALOHAchallenge #알로하챌린지 (2023-07-28)",
+  "title": "퀸카💖와 함께 샤카샤카~🤙 with #여자아이들 #미연 #소유 #SOYOU #ALOHAchallenge #알로하챌린지 (2023-07-28)"
+},
+{
+  "link": "https://youtu.be/4jO4SRP6iyg",
+  "category": "Shorts",
+  "member": "미연, 민니",
+  "date": "2022-05-04",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/4jO4SRP6iyg/maxresdefault.jpg",
+  "alt": "[바바요] 바바요 챌린지 with 여자아이들 미연 & 민니 (2022-05-04)",
+  "title": "[바바요] 바바요 챌린지 with 여자아이들 미연 & 민니 (2022-05-04)"
+},
+{
+  "link": "https://youtu.be/PMQr5b-HGpQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2023-04-09",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/PMQr5b-HGpQ/maxresdefault.jpg",
+  "alt": "LAS - 봄노래 Feat. 미연((여자)아이들)) #봄노래챌린지 #avin #아빈 #slay #슬레이 #아이들 #미연 #라스 #las (2023-04-09)",
+  "title": "LAS - 봄노래 Feat. 미연((여자)아이들)) #봄노래챌린지 #avin #아빈 #slay #슬레이 #아이들 #미연 #라스 #las (2023-04-09)"
 }
+  
   
 
   ];
