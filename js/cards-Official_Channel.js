@@ -8744,6 +8744,17 @@ const officialChannelCards = [
   "alt": "제34회 서울가요대상 비하인드 [i-talk] #208 | i-dle (아이들)ㅣSUB (2025-07-18)",
   "title": "제34회 서울가요대상 비하인드 [i-talk] #208 | i-dle (아이들)ㅣSUB (2025-07-18)",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/qtWo9AL4Ln4",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-07-25",
+  "duration": "00:05:38",
+  "thumbnail": "https://i.ytimg.com/vi/qtWo9AL4Ln4/maxresdefault.jpg",
+  "alt": "아디다스 광고 촬영 현장의 쏭스타 실존 ✨ [#HASHTALK] EP.41ㅣi-dle (아이들)ㅣSUB (2025-07-25)",
+  "title": "아디다스 광고 촬영 현장의 쏭스타 실존 ✨ [#HASHTALK] EP.41ㅣi-dle (아이들)ㅣSUB (2025-07-25)",
+  "subtag": "해시톡 | HASHTALK"
 }
 
 
