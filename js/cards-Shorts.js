@@ -14180,6 +14180,16 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/PMQr5b-HGpQ/maxresdefault.jpg",
   "alt": "LAS - 봄노래 Feat. 미연((여자)아이들)) #봄노래챌린지 #avin #아빈 #slay #슬레이 #아이들 #미연 #라스 #las (2023-04-09)",
   "title": "LAS - 봄노래 Feat. 미연((여자)아이들)) #봄노래챌린지 #avin #아빈 #slay #슬레이 #아이들 #미연 #라스 #las (2023-04-09)"
+},
+{
+  "link": "https://youtu.be/YTmkzMy9JwU",
+  "category": "Shorts",
+  "member": "미연, 민니, 슈화",
+  "date": "2025-07-27",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/YTmkzMy9JwU/maxresdefault.jpg",
+  "alt": "바라바라밤 😘 (2025-07-27)",
+  "title": "바라바라밤 😘 (2025-07-27)"
 }
   
   
