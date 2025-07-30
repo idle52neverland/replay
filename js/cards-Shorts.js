@@ -14195,7 +14195,7 @@ const shortsCards = [
   "link": "https://youtu.be/G8njCTGf7y4",
   "category": "Shorts",
   "member": "소연",
-  "date": "2025-07-29",
+  "date": "2025-07-29T18:02:00",
   "duration": "00:00:08",
   "thumbnail": "https://i.ytimg.com/vi/G8njCTGf7y4/maxresdefault.jpg",
   "alt": "Make them think it’s a picture... 📸 (2025-07-29)",
