@@ -14190,6 +14190,26 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/YTmkzMy9JwU/maxresdefault.jpg",
   "alt": "바라바라밤 😘 (2025-07-27)",
   "title": "바라바라밤 😘 (2025-07-27)"
+},
+  {
+  "link": "https://youtu.be/G8njCTGf7y4",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-07-29",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/G8njCTGf7y4/maxresdefault.jpg",
+  "alt": "Make them think it’s a picture... 📸 (2025-07-29)",
+  "title": "Make them think it’s a picture... 📸 (2025-07-29)"
+},
+{
+  "link": "https://youtu.be/KzSStXe4ofY",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-07-30",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/KzSStXe4ofY/maxresdefault.jpg",
+  "alt": "BIG BANDS (Korean Ver.) with 감별사 글로벌 MC #슈화 WayV 텐, 양양 (2025-07-30)",
+  "title": "BIG BANDS (Korean Ver.) with 감별사 글로벌 MC #슈화 WayV 텐, 양양 (2025-07-30)"
 }
   
   
