@@ -12949,7 +12949,28 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/xJUHVWplCgk/maxresdefault.jpg",
   "alt": "[24회 요약] 프레디 머큐리는 왜 자신이 묻힐 무덤마저 숨기고 싶어했을까? 에이즈가 ‘신의 저주’라 불리던 시대를 견디다 떠나간 록의 전설 I 셀럽병사의비밀 (2025-06-24)",
   "title": "[24회 요약] 프레디 머큐리는 왜 자신이 묻힐 무덤마저 숨기고 싶어했을까? 에이즈가 ‘신의 저주’라 불리던 시대를 견디다 떠나간 록의 전설 I 셀럽병사의비밀 (2025-06-24)"
+},
+{
+  "link": "https://youtu.be/5AnJobc-0ys",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-07-29",
+  "duration": "00:35:24",
+  "thumbnail": "https://i.ytimg.com/vi/5AnJobc-0ys/maxresdefault.jpg",
+  "alt": "[미연.zip📁] 퇴사 마려울 때, 온유의 ‘하늘을 달리다‘로 힐링해🎧 |  미연이의 뮤트로 EP.3 (2025-07-29)",
+  "title": "[미연.zip📁] 퇴사 마려울 때, 온유의 ‘하늘을 달리다‘로 힐링해🎧 |  미연이의 뮤트로 EP.3 (2025-07-29)"
+},
+{
+  "link": "https://youtu.be/Tos-cfVq4to",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-07-29",
+  "duration": "00:25:48",
+  "thumbnail": "https://i.ytimg.com/vi/Tos-cfVq4to/maxresdefault.jpg",
+  "alt": "[SUB] ⭐슈화 감별사 글로벌 MC 신고식⭐ WayV 텐&양양이 촬영장을 뛰쳐나간 이유는?ㅣ감별사 글로벌 EP.1 (2025-07-29)",
+  "title": "[SUB] ⭐슈화 감별사 글로벌 MC 신고식⭐ WayV 텐&양양이 촬영장을 뛰쳐나간 이유는?ㅣ감별사 글로벌 EP.1 (2025-07-29)"
 }
+    
 
     
 
