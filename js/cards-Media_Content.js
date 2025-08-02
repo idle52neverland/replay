@@ -12969,6 +12969,16 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/Tos-cfVq4to/maxresdefault.jpg",
   "alt": "[SUB] ⭐슈화 감별사 글로벌 MC 신고식⭐ WayV 텐&양양이 촬영장을 뛰쳐나간 이유는?ㅣ감별사 글로벌 EP.1 (2025-07-29)",
   "title": "[SUB] ⭐슈화 감별사 글로벌 MC 신고식⭐ WayV 텐&양양이 촬영장을 뛰쳐나간 이유는?ㅣ감별사 글로벌 EP.1 (2025-07-29)"
+},
+{
+  "link": "https://youtu.be/mbJ53bNZuNI",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-08-02",
+  "duration": "00:47:41",
+  "thumbnail": "https://i.ytimg.com/vi/mbJ53bNZuNI/maxresdefault.jpg",
+  "alt": "《我們回家吧3》 Let's go home EP07 在夢想開始的地方，闖一趟沒有遺憾的人生 ft. 舒華 꿈이 시작된 이 곳, 후회 없는 인생을 향해 ft. 슈화 (2025-08-02)",
+  "title": "《我們回家吧3》 Let's go home EP07 在夢想開始的地方，闖一趟沒有遺憾的人生 ft. 舒華 꿈이 시작된 이 곳, 후회 없는 인생을 향해 ft. 슈화 (2025-08-02)"
 }
     
 
@@ -12978,3 +12988,4 @@ const mediaContentCards = [
 ];
 
 window.mediaContentCards = mediaContentCards;
+
