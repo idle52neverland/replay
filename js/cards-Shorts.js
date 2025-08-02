@@ -14220,6 +14220,16 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/uL8N-IWFy9g/maxresdefault.jpg",
   "alt": "Duet with #idle #MINNIE , I WANT IT🎤🌅 @official_i_dle #STAYC 아이사 (2025-07-31)",
   "title": "Duet with #idle #MINNIE , I WANT IT🎤🌅 @official_i_dle #STAYC 아이사 (2025-07-31)"
+},
+ {
+  "link": "https://youtu.be/yTv8QNYOxLQ",
+  "category": "Shorts",
+  "member": "민니, 소연, 우기",
+  "date": "2025-07-31",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/yTv8QNYOxLQ/maxresdefault.jpg",
+  "alt": "ʜᴀ Hᴀ HA  [deleted] (2025-07-31)",
+  "title": "ʜᴀ Hᴀ HA  [deleted] (2025-07-31)"
 }
   
   
@@ -14227,4 +14237,5 @@ const shortsCards = [
   ];
 
 window.shortsCards = shortsCards;
+
 
