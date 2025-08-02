@@ -14210,6 +14210,16 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/KzSStXe4ofY/maxresdefault.jpg",
   "alt": "BIG BANDS (Korean Ver.) with 감별사 글로벌 MC #슈화 WayV 텐, 양양 (2025-07-30)",
   "title": "BIG BANDS (Korean Ver.) with 감별사 글로벌 MC #슈화 WayV 텐, 양양 (2025-07-30)"
+},
+{
+  "link": "https://youtu.be/uL8N-IWFy9g",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-07-31",
+  "duration": "00:00:57",
+  "thumbnail": "https://i.ytimg.com/vi/uL8N-IWFy9g/maxresdefault.jpg",
+  "alt": "Duet with #idle #MINNIE , I WANT IT🎤🌅 @official_i_dle #STAYC 아이사 (2025-07-31)",
+  "title": "Duet with #idle #MINNIE , I WANT IT🎤🌅 @official_i_dle #STAYC 아이사 (2025-07-31)"
 }
   
   
@@ -14217,3 +14227,4 @@ const shortsCards = [
   ];
 
 window.shortsCards = shortsCards;
+
