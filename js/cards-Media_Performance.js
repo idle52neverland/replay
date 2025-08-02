@@ -2729,6 +2729,7 @@ const mediaPerformanceCards = [
     "alt": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)",
     "title": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)"
   },
+    
  {
   "link": "https://youtu.be/_T1DSq8iJO0",
   "category": "Media_Performance",
@@ -2738,6 +2739,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/_T1DSq8iJO0/maxresdefault.jpg",
   "alt": "[뮤트로.zip] 미연 - 산소같은 너🎧ㅣLove Like Oxygen (2025-07-31)",
   "title": "[뮤트로.zip] 미연 - 산소같은 너🎧ㅣLove Like Oxygen (2025-07-31)"
+},
+ {
+  "link": "https://youtu.be/E8gYVCxQ07A",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-07-31",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/E8gYVCxQ07A/maxresdefault.jpg",
+  "alt": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul (2025-07-31)",
+  "title": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul (2025-07-31)"
 }
 
 
@@ -2745,3 +2756,4 @@ const mediaPerformanceCards = [
 
 
 window.mediaPerformanceCards = mediaPerformanceCards;
+
