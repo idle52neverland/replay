@@ -8755,6 +8755,17 @@ const officialChannelCards = [
   "alt": "아디다스 광고 촬영 현장의 쏭스타 실존 ✨ [#HASHTALK] EP.41ㅣi-dle (아이들)ㅣSUB (2025-07-25)",
   "title": "아디다스 광고 촬영 현장의 쏭스타 실존 ✨ [#HASHTALK] EP.41ㅣi-dle (아이들)ㅣSUB (2025-07-25)",
   "subtag": "해시톡 | HASHTALK"
+},
+{
+  "link": "https://youtu.be/EA6-aSy54lA",
+  "category": "Official_Channel",
+  "member": "소연",
+  "date": "2025-08-01",
+  "duration": "00:05:06",
+  "thumbnail": "https://i.ytimg.com/vi/EA6-aSy54lA/maxresdefault.jpg",
+  "alt": "반얀트리 풀파티 무대도 레전드 찍었쏘 😉🖤 [#HASHTALK] EP.42ㅣi-dle (아이들)ㅣSUB (2025-08-01)",
+  "title": "반얀트리 풀파티 무대도 레전드 찍었쏘 😉🖤 [#HASHTALK] EP.42ㅣi-dle (아이들)ㅣSUB (2025-08-01)",
+  "subtag": "해시톡 | HASHTALK"
 }
 
 
@@ -8762,3 +8773,4 @@ const officialChannelCards = [
     ];
 
 window.officialChannelCards = officialChannelCards;
+
