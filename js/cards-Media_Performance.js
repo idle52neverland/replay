@@ -2728,9 +2728,20 @@ const mediaPerformanceCards = [
     "thumbnail": "https://i.ytimg.com/vi/9xOFCXL4_To/maxresdefault.jpg",
     "alt": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)",
     "title": "[뮤트로.zip] 미연 - DM🎧 (2025-07-10)"
-  }
+  },
+ {
+  "link": "https://youtu.be/_T1DSq8iJO0",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-07-31",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/_T1DSq8iJO0/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 미연 - 산소같은 너🎧ㅣLove Like Oxygen (2025-07-31)",
+  "title": "[뮤트로.zip] 미연 - 산소같은 너🎧ㅣLove Like Oxygen (2025-07-31)"
+}
 
 
 ];
+
 
 window.mediaPerformanceCards = mediaPerformanceCards;
